@@ -1,1 +1,1 @@
-Test index. This should go to [[README]].
+Test index. This should go to [[content/README|README]].
