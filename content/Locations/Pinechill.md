@@ -1,0 +1,1 @@
+Small village with little infrastructure. The last time the gang were here, Temerity put on a concert and we met a new companion called [[Anaphel]] who was also making their way towards Midward.

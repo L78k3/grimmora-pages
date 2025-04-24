@@ -1,0 +1,1 @@
+Location of a modest inn frequented by travelers.
