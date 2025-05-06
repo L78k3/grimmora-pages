@@ -8,7 +8,7 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 **Player Characters**
 ```dataview
 LIST
-FROM "Characters"
+FROM "Rework/Characters"
 WHERE type = "pc"
 ```
 **Familiars**
