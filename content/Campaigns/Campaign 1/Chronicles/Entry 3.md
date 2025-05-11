@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 3 (continued)
 
 The party head back towards the city, along the banks of the river. Runcible has reported back that the barge is about a mile ahead of them and is filled with magical treasures. He is following the barge and will wait with it once it arrives at the city. He also reports back that he can see at least 6 people manning the barge.

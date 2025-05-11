@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 7 (continued)
 
 The party stares in awe and wonder at the dragon corpse before them, marvelling at their victory. Temerity’s first thought is to consume the carcass. Theren, however, wishes to carve it up for valuables. He attempts to retrieve the dragon’s teeth, but they are stuck fast. After coaxing three of them from the dragon’s jaw, he gives up, exhausted. Temerity, meanwhile, has hacked off the dragon’s tail, knowing that this will be the best part to eat. He slices it into steaks. As it is around noon, they decide to feast before moving on.

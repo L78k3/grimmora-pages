@@ -10,22 +10,20 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 - [[Lavender]]
 - [[Temerity]]
 - [[Theren]]
+
 **Familiars**
-```dataview
-LIST
-WHERE type = "familiar"
-```
+- [[Korako]]
+- [[Runcible]]
+
 **Non-Player Characters**
-```dataview
-LIST
-WHERE type = "npc"
-```
+- [[Halsin]]
+- [[Zadhir]]
+
 ## Chronicles
 These are produced by Tony, they are then copy-pasted into here where sub-notes for are produced in a wiki-style linking format.
 
 ```dataview
 LIST
-FROM "Chronicles"
 SORT file.name asc
 ```
 

@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 5 (continued)
 Temerity retrieves Korako and Guido from where they have been hiding themselves. He places Korako on the altar and site, cross-legged, before him, staring at the rabbit. Lavender glares briefly at his strange behaviour, but says nothing. She can hear him muttering to Korako but can’t make out what. As she strains to listen, he suddenly calls out to save some of the troll for dinner. Lavender replies that she isn’t sure if the thing is edible and, when he continues to make strange remarks, ignores him.
 

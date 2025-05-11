@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 5 (continued)
 
 After the defeat of the vampire, Temerity lets Korako and Guido enter the mansion. They had been waiting patiently and safely outside. Lavender bars the door behind them as a precaution before suggesting that they check on the patients in the upstairs room. It very quickly becomes apparent that this infirmary is now nothing more than a morgue. Temerity searches the room for anything of value, but there is nothing worth taking. Lavender instead searches the mansion for a more defensible position where they can take some respite after a hard battle, even though it is still only morning.

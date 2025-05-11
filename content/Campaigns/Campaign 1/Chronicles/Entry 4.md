@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 4 (continued)
 
 In the tavern room, the stranger paces up and down the room, lost in thought. Temerity bellows for food before again addressing the stranger.

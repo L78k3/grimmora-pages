@@ -1,3 +1,10 @@
+---
+type: chronicle
+location: 
+world: 
+campaign: 
+characters:
+---
 # Day 6 (continued)
 After the exertion of the battle against the ice wolves, the party takes a short rest, with Temerity administering healing. They discuss the potential of exploring the wolves’ cave, which causes some dissention, for Temerity wishes to go in, while Lavender and Theren do not. Orion’s opinion, when sought, is that caution is called for. Temerity begrudgingly and with little grace agrees to return to Mightrest.
 
