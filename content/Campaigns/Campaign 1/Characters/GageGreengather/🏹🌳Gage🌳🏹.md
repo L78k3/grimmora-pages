@@ -5,7 +5,7 @@ world: Grimmora
 campaign:
 ---
 
-[[GageGreenGatherSheet20231024.pdf|PDF Sheet]]
+[[content/Campaigns/Campaign 1/Characters/GageGreengather/Sheet Archives/GageGreenGatherSheet20231024.pdf|PDF Sheet]]
 
 ## Evasion PHB p94
 
