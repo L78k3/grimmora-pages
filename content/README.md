@@ -6,10 +6,10 @@
 ## Characters
 Pages for each character. Pretty Simple, no structure has been defined yet for these.
 **Player Characters**
-- [[🏹🌳Gage🌳🏹]]
-- [[🧊❄Lavender❄🧊]]
-- [[🍆💅Temerity💅🍆]]
-- [[🧙‍♂️🧵Theren🧵🧙‍♂️]]
+- [[Gage]]
+- [[Lavender]]
+- [[Temerity]]
+- [[Theren]]
 **Familiars**
 ```dataview
 LIST
