@@ -6,21 +6,18 @@
 ## Characters
 Pages for each character. Pretty Simple, no structure has been defined yet for these.
 **Player Characters**
-```dataview
-LIST
-FROM "Rework/Characters"
-WHERE type = "pc"
-```
+- [[🏹🌳Gage🌳🏹]]
+- [[🧊❄Lavender❄🧊]]
+- [[🍆💅Temerity💅🍆]]
+- [[🧙‍♂️🧵Theren🧵🧙‍♂️]]
 **Familiars**
 ```dataview
 LIST
-FROM "Characters"
 WHERE type = "familiar"
 ```
 **Non-Player Characters**
 ```dataview
 LIST
-FROM "Characters"
 WHERE type = "npc"
 ```
 ## Chronicles
