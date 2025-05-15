@@ -78,3 +78,48 @@ Consider your relationship with:
 When creating your character, please share your concept with me first so we can ensure it fits the setting and adventure. While there are restrictions, I'm open to creative interpretations that respect the world's established rules.
 
 Remember: This is a one-session adventure, so create characters who are willing to engage with military duties and work as a team!
+
+I've left some questions below - feel free to answer as many or as few as you'd like to help flesh out your character's backstory.
+
+## Background & Motivation
+
+1. Why did you join the Demacian military? Was it family tradition, personal choice, or necessity?
+2. What achievement during basic training are you most proud of?
+3. How do you feel about being stationed in a remote outpost like Uwendale rather than in a major city?
+4. What is one rule of Demacian military conduct that you struggle to follow perfectly?
+5. Who back home would be proud of your service, and who might be disappointed by your career choice?
+
+## Relationships & Connections
+
+6. How do you know at least one other PC? Did you train together, grow up in the same region, or meet during the journey to Uwendale?
+7. What's your initial impression of Lieutenant Magnus Crownguard, and how do you hope to impress (or avoid attention from) him?
+8. Do you have any connections to the Uwendale region—perhaps family, friends, or previous visits?
+9. Who was your mentor during training, and what's the most important lesson they taught you?
+
+## Views on Magic
+
+10. Have you ever witnessed magic being used? If so, how did it affect your perspective?
+11. What was your reaction when you first learned about Demacia's stance on magic?
+12. If you discovered a fellow recruit had magical abilities, would you report them, ignore it, or protect them? Why?
+13. (For magical characters) How have you kept your abilities hidden during training, and what close calls have you experienced?
+
+## Combat & Skills
+
+14. What is your preferred role in combat formations? Frontline, support, ranged, or something else?
+15. What non-combat skill do you contribute to your unit that makes you valuable?
+16. What weapon or fighting technique are you still mastering?
+17. How do you typically react in a crisis—with careful planning, immediate action, or looking to others for direction?
+
+## Personal Details
+
+18. What personal item do you keep with you despite military regulations?
+19. What's your typical behaviour during downtime between assignments?
+20. What's one goal you hope to accomplish during your military service?
+21. What fear or doubt keeps you awake at night?
+
+## Demacian Identity
+
+22. Which Demacian virtue (justice, honour, duty, etc.) resonates most strongly with you, and which one do you question?
+23. How has growing up in Demacia's culture shaped your worldview?
+24. What's one aspect of Demacian society you wish you could change?
+25. Do you aspire to move up the military ranks, or do you have other long-term plans?

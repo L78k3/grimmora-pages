@@ -1,4 +1,4 @@
-# grimmora
+# Grimmora
  Info for Beaman's specific D&D Campaign which takes place in Grimmora. I still don't think the campaign has a name! 🤯
 
 # Contents
@@ -22,23 +22,35 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 ## Chronicles
 These are produced by Tony, they are then copy-pasted into here where sub-notes for are produced in a wiki-style linking format.
 
-```dataview
-LIST
-SORT file.name asc
-```
+- [[Entry 1]]
+- 
 
 ## Locations
 Small notes about each distinct location the party visits. 
-```dataview
-LIST
-FROM "Locations"
-```
+- [[Arcadia]]
+- [[Avalon]]
+- [[Durendal]]
+- [[Durvish City]]
+- [[Jade Zephyr Casino]]
+- [[Midward]]
+- [[Orris' Secret Lair]]
+- [[Pinechill]]
 
 ## Sessions
 Play-by-play notes, written from Luke/Gage's perspective.
-```dataview
-LIST
-FROM "Characters/GageGreengather/SessionNotes"
-```
-
-
+- [[Session 20231228]]
+- [[Session 20240104]]
+- [[Session 20240210]]
+- [[Session 20240323]]
+- [[Session 20240330]]
+- [[Session 20240406]]
+- [[Session 20240527]]
+- [[Session 20240608]]
+- [[Session 20240629]]
+- [[Session 20240720]]
+- [[Session 20240727]]
+- [[Session 20240803]]
+- [[Session 20240831]]
+- [[Session 20241026]]
+- [[Session 20241228]]
+- [[Session 20250215]]

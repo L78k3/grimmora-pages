@@ -1,1 +1,7 @@
+---
+type: location
+location: 
+world: 
+campaign:
+---
 Smaller city, stopped in while on the way to Adalens. Met [[Halsin]], the leader of a Druid enclave in the South of the city.

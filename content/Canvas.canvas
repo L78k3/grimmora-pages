@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"e2e0634a304bdf7f","x":-613,"y":-290,"width":250,"height":60,"type":"text","text":"Testing How Canvases work in quartz"},
-		{"id":"6f531f2d43ba0158","x":43,"y":-241,"width":250,"height":60,"type":"text","text":"This is a good test I think"}
-	],
-	"edges":[
-		{"id":"da7b75d582c02611","fromNode":"e2e0634a304bdf7f","fromSide":"right","toNode":"6f531f2d43ba0158","toSide":"left"}
-	]
-}
