@@ -1,0 +1,1 @@
+A person of mixed human and orcish heritage. The [[Entry 1#^115a21|guards at the city gates]] are half-orcs described as particularly unintelligent.

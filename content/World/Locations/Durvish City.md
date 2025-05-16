@@ -4,4 +4,4 @@ location:
 world: 
 campaign:
 ---
-A bustling city on the eve of a grand celebration.
+The city where the adventure begins. [[Lady Bromelia]] was kidnapped from her wedding here. Contains a [[temple]] and a mage's tower.

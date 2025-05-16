@@ -1,0 +1,1 @@
+A spell that was used on the guard at the north gate to make him forget what he had seen. [[Ismay]] removed this spell so the guard could be questioned.

@@ -1,0 +1,1 @@
+Noble from the Avalonian royal family who was to marry [[Lady Bromelia]]. Described as being generally disliked despite his royal status.

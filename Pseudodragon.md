@@ -1,0 +1,1 @@
+A small draconic creature that can form a telepathic bond with its master. [[Runcible]] is [[Theren|Theren's]] pseudodragon familiar. 

@@ -1,0 +1,1 @@
+A high-ranking religious figure who was officiating the wedding between [[Lady Bromelia]] and [[Lord Requiem]] when the [[Entry 1#^a18776|kidnapping]] occurred.

@@ -1,0 +1,1 @@
+Ghostly undead creatures that the party encountered in the room at the inn. They were defeated through a combination of [[Theren]]'s magic and [[Lavender]]'s physical attacks.

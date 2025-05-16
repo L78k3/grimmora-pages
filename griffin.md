@@ -1,0 +1,1 @@
+A magical beast with the body of a lion and the head and wings of an eagle. The kidnapper used one to escape with [[Lady Bromelia]].

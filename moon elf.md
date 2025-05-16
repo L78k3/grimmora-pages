@@ -1,0 +1,1 @@
+A type of elf with pale blue skin. The kidnapper appeared to have skin similar to a moon elf's.

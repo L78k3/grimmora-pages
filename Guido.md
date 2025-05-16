@@ -1,0 +1,1 @@
+A rat the party befriended with cheese and ale. Used as a source of information and occasionally as unwitting bait. Can communicate with other rats to gather intelligence.
