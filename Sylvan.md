@@ -1,0 +1,1 @@
+The language spoken by [[fey]] creatures. [[Theren]] called out in this language [[Entry 1|when attempting]] to communicate with the fey in the forest.
