@@ -1,1 +1,0 @@
-Magical creatures connected to nature and natural spaces. Increased fey activity was reported in the area, and the party encountered [[dryad]]s, [[Will o' the wisps]], and a [[hag]].

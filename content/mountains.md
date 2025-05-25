@@ -1,1 +1,0 @@
-Located north of [[Avalon]], this is where [[Runcible]] lost track of the griffin carrying [[Lady Bromelia]] and her kidnapper.

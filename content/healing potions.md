@@ -1,1 +1,0 @@
-Magical potions that restore health. [[Mavis]] sold the party several varieties, including minor and moderate healing potions.
