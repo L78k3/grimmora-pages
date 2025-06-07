@@ -1,0 +1,1 @@
+Powerful fey creatures representing the seasons. The party met with [[Summer]] and [[Winter]], who rule over the [[fey realm]] equivalent of [[Avalon]]. They are concerned about unusual fey activity and dimensional weaknesses.

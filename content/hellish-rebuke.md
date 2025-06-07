@@ -1,0 +1,1 @@
+A magical ability used by Temerity that causes infernal flames to incinerate attackers, leaving only ash behind.

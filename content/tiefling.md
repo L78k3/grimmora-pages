@@ -1,0 +1,1 @@
+A humanoid race with demonic heritage, characterized by horns, tails, and often unusual skin coloration. The merchant encountered by the party is a tiefling who fell victim to bandit attacks while traveling the roads near Avalon.

@@ -23,7 +23,13 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 These are produced by Tony, they are then copy-pasted into here where sub-notes for are produced in a wiki-style linking format.
 
 - [[Entry 1]]
-- 
+- [[Entry 2]]
+- [[Entry 3]]
+- [[Entry 4]]
+- [[Entry 5]]
+- [[Entry 6]]
+- [[Entry 7]]
+- [[Entry 8]]
 
 ## Locations
 Small notes about each distinct location the party visits. 
@@ -37,7 +43,7 @@ Small notes about each distinct location the party visits.
 - [[Pinechill]]
 
 ## Sessions
-Play-by-play notes, written from Luke/Gage's perspective.
+Play-by-play notes, written from Luke/[[Gage]]'s perspective.
 - [[Session 20231228]]
 - [[Session 20240104]]
 - [[Session 20240210]]

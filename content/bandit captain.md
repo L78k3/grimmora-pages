@@ -1,0 +1,1 @@
+The leader of the bandit group encountered by the party. She wielded a scimitar and throwing daggers, demonstrating superior combat skills compared to her subordinates. The captain was ultimately defeated through the combined efforts of the entire party.

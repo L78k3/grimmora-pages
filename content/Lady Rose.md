@@ -1,0 +1,1 @@
+The false identity adopted by Lavender when the party needs to conceal their true purpose. This alias allows her to pose as nobility and provides credibility when dealing with authority figures like city guards.

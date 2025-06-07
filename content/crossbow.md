@@ -1,0 +1,1 @@
+A ranged weapon that Temerity desired to purchase to supplement his combat capabilities. Light crossbows are available for purchase in Avalon's markets and serve as effective weapons for characters who need reliable ranged attack options.

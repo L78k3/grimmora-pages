@@ -1,0 +1,1 @@
+A fey mage who teleported the party from the [[fey realm]] to just south of [[Mightrest]]. Works under the authority of the fey court.

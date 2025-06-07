@@ -1,0 +1,1 @@
+A town to the north of [[Frostpeak Pass]], suggested as a place to find griffin experts. The party was teleported here by the fey mage [[Millicent]]. Currently suffering from some kind of plague or ague.

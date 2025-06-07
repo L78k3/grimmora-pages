@@ -1,0 +1,1 @@
+Magical consumables that restore health to injured characters. These potions are valuable resources that party members share among themselves for emergency healing during dangerous encounters.

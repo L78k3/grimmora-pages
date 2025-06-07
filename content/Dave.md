@@ -1,0 +1,1 @@
+The sole surviving bandit from the forest clearing encounter. Claimed to steal only from the rich and never to have killed anyone. Chose to fight rather than return to Avalon for an honest life, leading to his execution by Temerity.

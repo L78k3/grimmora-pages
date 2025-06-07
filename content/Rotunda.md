@@ -1,0 +1,1 @@
+The central civic building in Avalon where official announcements are made. The Rotunda serves as a gathering place for citizens to hear news from the king's herald and other important civic communications.

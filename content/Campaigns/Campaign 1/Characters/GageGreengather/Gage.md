@@ -5,7 +5,7 @@ world: Grimmora
 campaign:
 ---
 
-[[content/Campaigns/Campaign 1/Characters/GageGreengather/Sheet Archives/GageGreenGatherSheet20231024.pdf|PDF Sheet]]
+![[content/Campaigns/Campaign 1/Characters/GageGreengather/Sheet Archives/GageGreenGatherSheet20250423.pdf|PDF Sheet]]
 
 ## Evasion PHB p94
 
@@ -21,3 +21,4 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 
 Current HP: 33
 
+![[hunters-mark]]

@@ -1,0 +1,1 @@
+A bandit who was decapitated during the forest clearing battle. Had reportedly seen something large, flying, and squawking heading north before his death.

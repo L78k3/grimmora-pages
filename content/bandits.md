@@ -1,0 +1,1 @@
+Common highway robbers who attack travelers and merchants for their goods. The party encounters a group of four bandits led by a captain, who had been targeting merchants traveling to Avalon for the celebrations.

@@ -1,0 +1,1 @@
+A military officer from Durvish City who was involved in the investigation of Lady Bromelia's kidnapping. The party uses his name as credentials when seeking entry to Avalon, suggesting he has some authority or reputation that the guards would recognize.
