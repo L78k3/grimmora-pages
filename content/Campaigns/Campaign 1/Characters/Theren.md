@@ -3,6 +3,8 @@ type: pc
 world: Grimmora
 campaign:
 ---
+![[1zp0i32g 2.webp]]
+
 # General Description
 A warlock whose power comes from an otherworldly patron rather than being innate to himself. Speaks Sylvan and can cast spells like shatter and agonizing blast, though he struggles with self-doubt after failed negotiations.
 
