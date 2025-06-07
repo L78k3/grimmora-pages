@@ -30,6 +30,31 @@ These are produced by Tony, they are then copy-pasted into here where sub-notes 
 - [[Entry 6]]
 - [[Entry 7]]
 - [[Entry 8]]
+- [[Entry 9]]
+- [[Entry 10]]
+- [[Entry 11]]
+- [[Entry 12]]
+- [[Entry 13]]
+- [[Entry 14]]
+- [[Entry 15]]
+- [[Entry 16]]
+- [[Entry 17]]
+- [[Entry 18]]
+- [[Entry 19]]
+- [[Entry 20]]
+- [[Entry 21]]
+- [[Entry 22]]
+- [[Entry 23]]
+- [[Entry 24]]
+- [[Entry 25]]
+- [[Entry 26]]
+- [[Entry 27]]
+- [[Entry 28]]
+- [[Entry 29]]
+- [[Entry 30]]
+- [[Entry 31]]
+- [[Entry 32]]
+- [[Entry 33]]
 
 ## Locations
 Small notes about each distinct location the party visits. 
@@ -43,7 +68,7 @@ Small notes about each distinct location the party visits.
 - [[Pinechill]]
 
 ## Sessions
-Play-by-play notes, written from Luke/[[Gage]]'s perspective.
+Play-by-play notes, written from Luke/[[Gage]]'s perspective. Usually much less useful and for archival purposes only.
 - [[Session 20231228]]
 - [[Session 20240104]]
 - [[Session 20240210]]
