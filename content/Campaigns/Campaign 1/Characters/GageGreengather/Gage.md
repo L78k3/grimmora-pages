@@ -4,7 +4,7 @@ location:
 world: Grimmora
 campaign:
 ---
-This is a Test Image!
+This portrait is placeholder :p
 
 ![[iconRetry.jpg]]
 
