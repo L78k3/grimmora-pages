@@ -39,64 +39,83 @@ campaign:
 
 ## Combat Stats
 
-- **Armor Class:** 14
+- - **Armor Class:** 14
 - **Hit Point Maximum:** 50
 - **Current Hit Points:** _____
 - **Temporary Hit Points:** _____
 - **Hit Dice:** 5×(1d8+2), 3×(1d10+2)
-- **Initiative:** +4
-- **Speed:** 25 ft
+- **Initiative:** **+4** (`dice: 1d20+4`)
+- **Speed:** 25 ft (35 ft on first turn with Dread Ambusher)
 - **Passive Wisdom (Perception):** 15
 
 ## Saving Throws
+_When making a saving throw, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
 
-- **Strength:** `dice: 1d20-1` (-1)
-- **Dexterity:** `dice: 1d20+7` (+7)
-- **Constitution:** `dice: 1d20+2` (+2)
-- **Intelligence:** `dice: 1d20+5` (+5)
-- **Wisdom:** `dice: 1d20+2` (+2)
-- **Charisma:** `dice: 1d20+1` (+1)
+- **Strength:** **-1** (`dice: 1d20-1`)
+- **Dexterity:** **+7** (`dice: 1d20+7`)
+- **Constitution:** **+2** (`dice: 1d20+2`)
+- **Intelligence:** **+5** (`dice: 1d20+5`)
+- **Wisdom:** **+2** (`dice: 1d20+2`)
+- **Charisma:** **+1** (`dice: 1d20+1`)
 
 ## Skills
+_When making a skill check, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
 
-- **Acrobatics (Dex):** `dice: 1d20+4` (+4)
-- **Animal Handling (Wis):** `dice: 1d20+2` (+2)
-- **Arcana (Int):** `dice: 1d20+2` (+2)
-- **Athletics (Str):** `dice: 1d20-1` (-1)
-- **Deception (Cha):** `dice: 1d20+7` (+7)
-- **History (Int):** `dice: 1d20+2` (+2)
-- **Insight (Wis):** `dice: 1d20+5` (+5)
-- **Intimidation (Cha):** `dice: 1d20+1` (+1)
-- **Investigation (Int):** `dice: 1d20+5` (+5)
-- **Medicine (Wis):** `dice: 1d20+2` (+2)
-- **Nature (Int):** `dice: 1d20+2` (+2)
-- **Perception (Wis):** `dice: 1d20+5` (+5)
-- **Performance (Cha):** `dice: 1d20+1` (+1)
-- **Persuasion (Cha):** `dice: 1d20+1` (+1)
-- **Religion (Int):** `dice: 1d20+2` (+2)
-- **Sleight of Hand (Dex):** `dice: 1d20+10` (+10)
-- **Stealth (Dex):** `dice: 1d20+7` (+7)
-- **Survival (Wis):** `dice: 1d20+5` (+5)
+- **Acrobatics (Dex):** **+4** (`dice: 1d20+4`)
+- **Animal Handling (Wis):** **+2** (`dice: 1d20+2`)
+- **Arcana (Int):** **+2** (`dice: 1d20+2`)
+- **Athletics (Str):** **-1** (`dice: 1d20-1`)
+- **Deception (Cha):** **+7** (`dice: 1d20+7`)
+- **History (Int):** **+2** (`dice: 1d20+2`)
+- **Insight (Wis):** **+5** (`dice: 1d20+5`)
+- **Intimidation (Cha):** **+1** (`dice: 1d20+1`)
+- **Investigation (Int):** **+5** (`dice: 1d20+5`)
+- **Medicine (Wis):** **+2** (`dice: 1d20+2`)
+- **Nature (Int):** **+2** (`dice: 1d20+2`)
+- **Perception (Wis):** **+5** (`dice: 1d20+5`)
+- **Performance (Cha):** **+1** (`dice: 1d20+1`)
+- **Persuasion (Cha):** **+1** (`dice: 1d20+1`)
+- **Religion (Int):** **+2** (`dice: 1d20+2`)
+- **Sleight of Hand (Dex):** **+10** (`dice: 1d20+10`)
+- **Stealth (Dex):** **+7** (`dice: 1d20+7`)
+- **Survival (Wis):** **+5** (`dice: 1d20+5`)
 
-## Attacks & Spellcasting
+## Attacks & Spellcasting (Revised)
 
 ### Weapons
 
-- **Dagger:** `dice: 1d20+7` to hit, `dice: 1d4+4` piercing damage
-- **Shortbow:** `dice: 1d20+9` to hit, `dice: 1d6+4` piercing damage
-- **Rapier:** `dice: 1d20+7` to hit, `dice: 1d8+4` piercing damage
+_For attack rolls, roll `1d20` and add the "to hit" modifier. For damage rolls, roll the specified dice and add the damage modifier. The full dice roll is also provided._
+
+- **Dagger:** **+7** to hit (`dice: 1d20+7`), `1d4` + **4** piercing damage (`dice: 1d4+4`)
+- **Shortbow:** **+9** to hit (`dice: 1d20+9`), `1d6` + **4** piercing damage (`dice: 1d6+4`)
+- **Rapier:** **+7** to hit (`dice: 1d20+7`), `1d8` + **4** piercing damage (`dice: 1d8+4`)
 
 ### Special Attacks
 
-- **Sneak Attack:** `dice: 3d6` extra damage (once per turn with advantage or ally within 5 ft)
-- **Dread Ambusher Extra Attack:** `dice: 1d8` extra damage on first turn additional attack
-
-## Spellcasting (Ranger)
+- **Sneak Attack:** `3d6` extra damage (`dice: 3d6`) (once per turn with advantage or ally within 5 ft)
+- **Dread Ambusher Extra Attack:** `1d8` extra damage on first turn additional attack (`dice: 1d8`)
 
 - **Spellcasting Ability:** Wisdom
 - **Spell Save DC:** 13
 - **Spell Attack Bonus:** +5
 - **1st Level Spell Slots:** 3
+
+### Known Spells (Quick Reference)
+
+_Key information to quickly recall during play._
+
+- **Disguise Self** (1st level)
+    - _Effect:_ Change appearance, clothes, equipment. Lasts 1 hour.
+    - _Range:_ Self. _Components:_ V, S. _Casting Time:_ 1 Action.
+- **Hail of Thorns** (1st level)
+    - `dice: 1d10` piercing damage (Dex save DC 13 for half)
+    - _Effect:_ Thorns burst from missile. _Range:_ Self (5 ft radius). _Components:_ V. _Casting Time:_ 1 Bonus Action.
+- **Hunter's Mark** (1st level)
+    - `dice: 1d6` extra damage per hit against marked target.
+    - _Effect:_ Mark target. Lasts 1 hour (concentration). _Range:_ 90 ft. _Components:_ V. _Casting Time:_ 1 Bonus Action.
+- **Longstrider** (1st level)
+    - _Effect:_ Target's speed increases by 10 ft. Lasts 1 hour.
+    - _Range:_ Touch. _Components:_ V, S, M (a pinch of dirt). _Casting Time:_ 1 Action.
 
 ### Known Spells
 
@@ -133,7 +152,7 @@ campaign:
 
 #### Rogue Features
 
-- **Sneak Attack:** `dice: 3d6` extra damage
+- **Sneak Attack:** `3d6` extra damage (`dice: 3d6`)
 - **Thieves' Cant:** Convey secret messages in normal conversation
 - **Cunning Action:** Bonus action Dash, Disengage, or Hide
 - **Uncanny Dodge:** Halve damage from one attack per turn (reaction)
@@ -215,14 +234,29 @@ And maybe, one day, he'll return to the Greengather Blades not as a soldier, but
 
 ### Common Rolls
 
-- **Initiative:** `dice: 1d20+4`
-- **Stealth Check:** `dice: 1d20+7`
-- **Perception Check:** `dice: 1d20+5`
-- **Sneak Attack Damage:** `dice: 3d6`
-- **Hit Dice Recovery (Rogue):** `dice: 1d8+2`
-- **Hit Dice Recovery (Ranger):** `dice: 1d10+2`
+_For ability checks and attacks, roll `1d20` and add the modifier. Full dice rolls for other effects are also included._
+
+- **Initiative:** **+4** (`dice: 1d20+4`)
+- **Stealth Check:** **+7** (`dice: 1d20+7`)
+- **Perception Check:** **+5** (`dice: 1d20+5`)
+- **Hit Dice Recovery (Rogue):** `1d8+2` (`dice: 1d8+2`)
+- **Hit Dice Recovery (Ranger):** `1d10+2` (`dice: 1d10+2`)
+
+### Weapon Attacks & Damage
+
+_Roll `1d20` and add the "to hit" modifier. For damage, roll the specified dice and add the damage modifier._
+
+- **Shortbow Attack:** **+9** to hit (`dice: 1d20+9`)
+- **Shortbow Damage:** `1d6` + **4** (`dice: 1d6+4`)
+- **Rapier Attack:** **+7** to hit (`dice: 1d20+7`)
+- **Rapier Damage:** `1d8` + **4** (`dice: 1d8+4`)
+- **Dagger Attack:** **+7** to hit (`dice: 1d20+7`)
+- **Dagger Damage:** `1d4` + **4** (`dice: 1d4+4`)
+- **Sneak Attack Damage:** `3d6` (`dice: 3d6`)
 
 ### Spell Damage
 
-- **Hunter's Mark Bonus:** `dice: 1d6`
-- **Hail of Thorns:** `dice: 1d10` (Dex save DC 13 for half)
+_Roll the specified dice for damage. Note if a modifier is added. Full dice rolls are also included._
+
+- **Hunter's Mark Bonus:** `1d6` (`dice: 1d6`)
+- **Hail of Thorns:** `1d10` (`dice: 1d10`) (Dex save DC 13 for half)
