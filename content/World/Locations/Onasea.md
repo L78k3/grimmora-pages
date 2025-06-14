@@ -1,0 +1,1 @@
+Port town the gang ants to use to get to [[Adalens]].
