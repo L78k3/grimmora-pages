@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "l78k3.github.io/grimmora-pages",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "GM-Only"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

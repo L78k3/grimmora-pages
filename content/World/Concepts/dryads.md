@@ -1,1 +1,0 @@
-Tree spirits that attacked the party on the road to [[Avalon]]. One charmed [[Lavender]] and attempted to charm [[Korako]]. They were ultimately defeated.

@@ -1,1 +1,1 @@
-A drow guard at the north gate of [[Avalon]]. Initially suspicious of the party but was won over by [[Korako]]'s charm. Informed [[Temerity]] that he had seen the tiefling merchant heading toward the harbor.
+A drow guard at the north gate of [[content/World/Grimmora/Locations/Avalon]]. Initially suspicious of the party but was won over by [[Korako]]'s charm. Informed [[Temerity]] that he had seen the tiefling merchant heading toward the harbor.

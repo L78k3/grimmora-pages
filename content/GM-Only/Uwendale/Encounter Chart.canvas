@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"4700c83871f247a1","type":"text","text":"[[02-a Defend Farm, Discover Kidnapping]]","x":-285,"y":-160,"width":265,"height":100,"color":"1"},
+		{"id":"da24fda522d51e70","type":"text","text":"[[02-b Investigate Agents, Learn of Cave]]","x":20,"y":-160,"width":300,"height":100,"color":"2"},
+		{"id":"3b4b8fe96c8b8a1f","type":"text","text":"Branch: [[01 Farm Assault or Border Intrigue]]?","x":-155,"y":-300,"width":320,"height":60},
+		{"id":"ef337e6e3282fc29","type":"text","text":"[[00 Morning at Uwendale|Start: Morning at Uwendale Outpost]]","x":-120,"y":-460,"width":250,"height":60},
+		{"id":"9a8bb39aec433d7e","type":"text","text":"[[03 Track to mountain cave]]","x":-120,"y":10,"width":250,"height":60},
+		{"id":"92764dbd6b29d0f4","type":"text","text":"Race Back: Outpost Under Threat","x":-120,"y":260,"width":250,"height":60},
+		{"id":"40230e40d4e65867","type":"text","text":"Finale: Defend Uwendale from Wyvern & Saboteurs","x":-161,"y":400,"width":332,"height":120},
+		{"id":"da3b32a7ad0b0b8d","type":"text","text":"Epilogue: Aftermath & Recognition","x":-120,"y":580,"width":250,"height":60},
+		{"id":"5a4f9283e6ff714d","type":"text","text":"[[04 Cave Exploration & Rescue]]","x":-120,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"677f309281492f83","fromNode":"3b4b8fe96c8b8a1f","fromSide":"bottom","toNode":"4700c83871f247a1","toSide":"top"},
+		{"id":"da21f313105258b4","fromNode":"3b4b8fe96c8b8a1f","fromSide":"bottom","toNode":"da24fda522d51e70","toSide":"top"},
+		{"id":"a5dd34434cb971a5","fromNode":"92764dbd6b29d0f4","fromSide":"bottom","toNode":"40230e40d4e65867","toSide":"top"},
+		{"id":"e026de8c9d044098","fromNode":"40230e40d4e65867","fromSide":"bottom","toNode":"da3b32a7ad0b0b8d","toSide":"top"},
+		{"id":"073f8303fe25a9f9","fromNode":"ef337e6e3282fc29","fromSide":"bottom","toNode":"3b4b8fe96c8b8a1f","toSide":"top"},
+		{"id":"2fe43a6d8f4f8ae6","fromNode":"4700c83871f247a1","fromSide":"bottom","toNode":"9a8bb39aec433d7e","toSide":"top"},
+		{"id":"4cd21b24e6fbddd5","fromNode":"da24fda522d51e70","fromSide":"bottom","toNode":"9a8bb39aec433d7e","toSide":"top"},
+		{"id":"067a296a3d1e7cfe","fromNode":"9a8bb39aec433d7e","fromSide":"bottom","toNode":"5a4f9283e6ff714d","toSide":"top"},
+		{"id":"127e83ab6d0838b7","fromNode":"5a4f9283e6ff714d","fromSide":"bottom","toNode":"92764dbd6b29d0f4","toSide":"top"}
+	]
+}

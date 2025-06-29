@@ -9,25 +9,25 @@ characters:
 
 The party stares in awe and wonder at the dragon corpse before them, marvelling at their victory. [[Temerity]]'s first thought is to consume the carcass. [[Theren]], however, wishes to carve it up for valuables. He attempts to retrieve the dragon's teeth, but they are stuck fast. After coaxing three of them from the dragon's jaw, he gives up, exhausted. Temerity, meanwhile, has hacked off the dragon's tail, knowing that this will be the best part to eat. He slices it into steaks. As it is around noon, they decide to feast before moving on.
 
-[[Lavender]] is concerned that they are too exposed and there could be another dragon nearby. Theren reassures her that the signs in [[Dragon's Nest|the nest]] show that it is only occupied by a single creature. He uses some of the debris within the nest – snow, scant foliage, bones, scraps of fur and skin – to create a makeshift shelter. [[Orion]] uses suitable materials to create a small fire at the entrance to their shelter.
+[[Lavender]] is concerned that they are too exposed and there could be another dragon nearby. Theren reassures her that the signs in [[content/World/Grimmora/Locations/Dragon's Nest|the nest]] show that it is only occupied by a single creature. He uses some of the debris within the nest – snow, scant foliage, bones, scraps of fur and skin – to create a makeshift shelter. [[Orion]] uses suitable materials to create a small fire at the entrance to their shelter.
 
-Lavender likes the idea of eating [[Dragon Meat|dragon meat]] – there is something powerful about it. Temerity makes a big show of cooking the dragon steaks, sautéing them in a frying pan while singing a daft song. Rashly, he decides to feed some to [[Korako]], thinking that the inherent magical nature of dragons will cause a magical reaction in him. Korako is not impressed; the dragon meat causes him severe colic. Theren and Lavender are similarly unimpressed. Temerity uses his magic to alleviate some of the symptoms; the colic subsides but remains, leaving Korako lying beside the fire looking forlorn.
+Lavender likes the idea of eating [[content/World/Grimmora/Items/Dragon Meat|dragon meat]] – there is something powerful about it. Temerity makes a big show of cooking the dragon steaks, sautéing them in a frying pan while singing a daft song. Rashly, he decides to feed some to [[Korako]], thinking that the inherent magical nature of dragons will cause a magical reaction in him. Korako is not impressed; the dragon meat causes him severe colic. Theren and Lavender are similarly unimpressed. Temerity uses his magic to alleviate some of the symptoms; the colic subsides but remains, leaving Korako lying beside the fire looking forlorn.
 
 Temerity's cooking of the dragon steaks is uneven. Lavender and Orion seem to manage to eat without ill effects; Temerity, Theren and [[Guido]] do not. [[Aurius]] eats his raw, so is unaffected. The dragon steaks cause stomach cramps, sweating and shivering. Guido belches constantly and complains incessantly. The food poisoning requires the party to remain in their shelter for the remainder of the day and overnight.
 
 # Day 8
 
-The following day, the mountain is brightly lit by the low sunlight, creating the risk of [[Snow-Blindness|snow-blindness]]. They carefully pack away their shelter. Lavender's nose wrinkles at the stench of the aftermath of yesterday's meal. Temerity groans as he wakes and immediately opines that he would quite like to eat dragon steak again. Theren rolls his eyes and stalks off. Aurius bounds off excitedly and the party follows – Lavender keeps up easily but the rest of them find the pace gruelling.
+The following day, the mountain is brightly lit by the low sunlight, creating the risk of [[content/World/Grimmora/Concepts/Snow-Blindness|snow-blindness]]. They carefully pack away their shelter. Lavender's nose wrinkles at the stench of the aftermath of yesterday's meal. Temerity groans as he wakes and immediately opines that he would quite like to eat dragon steak again. Theren rolls his eyes and stalks off. Aurius bounds off excitedly and the party follows – Lavender keeps up easily but the rest of them find the pace gruelling.
 
 Aurius stops at a peak and looks around, thinking that he heard someone speak. He calls off into the distance. Temerity listens intently, noticing that the wind picked up sharply when they arrived atop the mountain. Aurius thinks he can hear a lady speaking. Temerity asks if she is in distress. Aurius replies that she simply sounds soft. He bounds off in the direction from which the voice emanates. The party gives chase, Lavender dragging Theren, who is struggling to keep up.
 
 Aurius leads them to a valley between two peaks and stops in front of a snow-covered wall. Temerity sees patterns in the wall – like snowflakes within the material. He can't decide if they're moving or not. He stands, transfixed, studying the patterns. Lavender and Theren join him but cannot see the patterns. Aurius simply tilts his head back and forth, trying to make some sense of what he is experiencing. Temerity traces the patterns vaguely with his fingertips. Theren informs Lavender that he can sense strong magic within the wall. Korako sniffs the wall and tells Temerity that he agrees – he can smell the magic.
 
-Lavender states that it reminds her of the church they encountered outside [[Mightrest]]. Temerity announces that he will attempt to dispel the magic surrounding the wall. He attempts to create a supplicatory artwork and hymn to the deity, trying to gain their favour. It takes quite a while and several attempts to create the audio/visual artwork. Sections of the wall light up and connect with Temerity's ephemeral patterns – snowflakes, trees, mountains, wind.
+Lavender states that it reminds her of the church they encountered outside [[content/World/Grimmora/Locations/Mightrest]]. Temerity announces that he will attempt to dispel the magic surrounding the wall. He attempts to create a supplicatory artwork and hymn to the deity, trying to gain their favour. It takes quite a while and several attempts to create the audio/visual artwork. Sections of the wall light up and connect with Temerity's ephemeral patterns – snowflakes, trees, mountains, wind.
 
 Lavender is confused by the proceedings, while Theren is begrudgingly impressed with Temerity's success. Aurius stops tilting his head from side to side and stands upright. He heard the lady say the names of the party. Temerity beseeches her guidance. Aurius says that she simply said the word adventure. Lavender knows that the voice is [[Auril]] and she bows her head to the wall in veneration. Temerity shuffles around to do the same, almost mockingly. Lavender kicks him over and he gets his horns stuck in the snow, trapping Guido beneath him. Aurius calls out to Temerity that the lady said journey and that she sounded annoyed. He then tries ineffectually to help Temerity out of the snow.
 
-Lavender grabs Temerity by his shirt and yanks him up out of the snow. She requests a portion of the dragon meat and then steps up to [[Auril's Wall|the mural wall]]. She creates a make-shift altar out of packed snow and places the steak on top. This shows them that the mural can be manipulated. She informs Temerity that she needs him to use his mage hand ability to rearrange the elements of the mural. He agrees, but an evil glint in his eyes appears and he says that he wants to sit on her shoulders while he does it. She sighs, hoists him up in one heft and places him on her shoulders. Temerity uses his mage hand ability to move the pieces into an order: trees, snowflake, mountains, wind.
+Lavender grabs Temerity by his shirt and yanks him up out of the snow. She requests a portion of the dragon meat and then steps up to [[content/World/Grimmora/Items/Auril's Wall|the mural wall]]. She creates a make-shift altar out of packed snow and places the steak on top. This shows them that the mural can be manipulated. She informs Temerity that she needs him to use his mage hand ability to rearrange the elements of the mural. He agrees, but an evil glint in his eyes appears and he says that he wants to sit on her shoulders while he does it. She sighs, hoists him up in one heft and places him on her shoulders. Temerity uses his mage hand ability to move the pieces into an order: trees, snowflake, mountains, wind.
 
 The wall begins to shake and the ground rumbles around them as if there were an avalanche rolling towards them. Korako jumps up onto Temerity and Aurius runs around in circles. The wall slides down into the ground to reveal a passageway. A strong gust of wind emanates from within and knocks Temerity off Lavender's shoulders to land headfirst in the snow again. Aurius thinks it's a game and dives headfirst into the snow too.
 
@@ -43,7 +43,7 @@ At zero, the light goes out, the room stops shaking and the portcullis opens at 
 
 The party heads through a winding set of corridors that culminates in a small amphitheatre. In the centre of the arena stands a figure with its sword upraised. Blue steam coils from it. Even though the stands are empty, a crowd can be heard cheering. Lavender orders Theren and Temerity to take up positions in the stands as she and Orion walk across to the figure.
 
-She speaks to the wight, but it shows no sign of having heard her. At Theren's suggestion, she salutes it with her sword. [[The Gladiator Wight|The wight]] asks if she dare to challenge the gladiator. She answers yes.
+She speaks to the wight, but it shows no sign of having heard her. At Theren's suggestion, she salutes it with her sword. [[content/World/Grimmora/Concepts/The Gladiator Wight|The wight]] asks if she dare to challenge the gladiator. She answers yes.
 
 Lavender charges at the wight and slashes with her sword. Icy steam pours from the wound. It attacks in return, causing necrotic damage and moving to flank Lavender. Orion steps forward to attack and pummels it, but he deals less damage that might have been anticipated, given the fury of his attack. Temerity mocks it, while Theren shoots an agonising blast into the back of its head. Lavender turns to swing, but is off-balance now that it is flanking her. The wight retaliates again, but it is now heavily damaged and doesn't inflict much harm to Lavender. Orion tries to attack again, but it dodges. Temerity fires his crossbow, but misses, much to his chagrin. Theren hits it in the small of the back with another agonising blast. It falls to the ground.
 
@@ -53,7 +53,7 @@ The light returns to its eyes and it stands and turns, attacking Orion now. It c
 
 Lavender is sceptical but she considers the idea. Temerity is unconvinced and asks Aurius: truth or lie, trust or betrayal. Aurius is confused and dismayed. He says that he cannot betray his friends. Temerity moves into the melée and charms the wight to attract its attention. The wight now considers Temerity a friend and asks for his help in its quest for glory. Temerity asks the wight to kill him. The wight wonders why it should kill its good friend. Temerity replies that you should always kill those who betray you. It screams with rage at Temerity. Theren is so shocked at these events that his agonising blast goes wide.
 
-Lavender steps backwards and charges back into the fight, knocking Temerity out of the way of the wight's range. The gladiator chooses to attack Lavender. Orion looks to her for instructions; she tells him to leave the arena and take Temerity with him. Temerity is physically and mentally stunned at what is happening and allows Orion to remove him from the arena into the stands. Theren holds Lavender's gaze for a moment, then retreats into the stands, readying his healing berries in case they are needed. Lavender continues to fight the wight while the rest of the party watches tensely. The gladiator has her near death. Her intuition tells her not to attack it. The wight strikes her down with necrotic energy in the centre of [[The Gladiator's Amphitheatre|the arena]]. Lavender falls and the wight raises its sword to the sound of the invisible crowd cheering. Lavender's body vanishes.
+Lavender steps backwards and charges back into the fight, knocking Temerity out of the way of the wight's range. The gladiator chooses to attack Lavender. Orion looks to her for instructions; she tells him to leave the arena and take Temerity with him. Temerity is physically and mentally stunned at what is happening and allows Orion to remove him from the arena into the stands. Theren holds Lavender's gaze for a moment, then retreats into the stands, readying his healing berries in case they are needed. Lavender continues to fight the wight while the rest of the party watches tensely. The gladiator has her near death. Her intuition tells her not to attack it. The wight strikes her down with necrotic energy in the centre of [[content/World/Grimmora/Locations/The Gladiator's Amphitheatre|the arena]]. Lavender falls and the wight raises its sword to the sound of the invisible crowd cheering. Lavender's body vanishes.
 
 Aurius is horrified but then cocks his head. He whispers that the soft lady said to trust. Theren enters the arena and walks up to the wight, expecting to have to fight it. He has not noticed that beneath where he was in the stands, a portcullis has opened. Temerity remains stunned by the whole sequence of events. He shouts to Auril that if his trust is misplaced, he will end her. He moves to the exit portcullis with Orion. Theren turns and follows when he realises that they are free to go.
 
@@ -64,18 +64,18 @@ Aurius is horrified but then cocks his head. He whispers that the soft lady said
 
 ## Items & Concepts
 
-[[Auril's Wall]]
+[[content/World/Grimmora/Items/Auril's Wall]]
 
-[[Dragon Meat]]
+[[content/World/Grimmora/Items/Dragon Meat]]
 
-[[Snow-Blindness]]
+[[content/World/Grimmora/Concepts/Snow-Blindness]]
 
-[[The Gladiator Wight]]
+[[content/World/Grimmora/Concepts/The Gladiator Wight]]
 
 ## Locations
 
-[[Dragon's Nest]]
+[[content/World/Grimmora/Locations/Dragon's Nest]]
 
-[[The Trial Chamber]]
+[[content/World/Grimmora/Locations/The Trial Chamber]]
 
 [[The Gladiator's Amphitheater]]

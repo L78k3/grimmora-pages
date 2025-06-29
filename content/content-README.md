@@ -58,14 +58,14 @@ These are produced by Tony, they are then copy-pasted into here where sub-notes 
 
 ## Locations
 Small notes about each distinct location the party visits. 
-- [[Arcadia]]
-- [[Avalon]]
-- [[Durendal]]
-- [[Durvish City]]
-- [[Jade Zephyr Casino]]
-- [[Midward]]
-- [[Orris' Secret Lair]]
-- [[Pinechill]]
+- [[content/World/Grimmora/Locations/Arcadia]]
+- [[content/World/Grimmora/Locations/Avalon]]
+- [[content/World/Grimmora/Locations/Durendal]]
+- [[content/World/Grimmora/Locations/Durvish City]]
+- [[content/World/Grimmora/Locations/Jade Zephyr Casino]]
+- [[content/World/Grimmora/Locations/Midward]]
+- [[content/World/Grimmora/Locations/Orris' Secret Lair]]
+- [[content/World/Grimmora/Locations/Pinechill]]
 
 ## Sessions
 Play-by-play notes, written from Luke/[[Gage]]'s perspective. Usually much less useful and for archival purposes only.

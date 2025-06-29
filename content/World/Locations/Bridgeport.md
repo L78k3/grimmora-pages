@@ -1,1 +1,0 @@
-The fey realm equivalent of [[Avalon]], where the party was taken by the [[eladrin]]. A bustling city filled with pixies and various fey creatures, featuring magical architecture with ivy representing the four seasons.

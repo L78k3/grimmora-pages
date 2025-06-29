@@ -1,1 +1,0 @@
-Recording devices provided by [[Gorg]] that can capture and replay events when double-tapped, used for surveillance and entertainment at [[The Tavern]].
