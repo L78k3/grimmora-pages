@@ -1,1 +1,0 @@
-[[Temerity]]'s name for the necrotic shadow creature that was draining life force and weakening the boundaries between realms. The creature was artificially created to destroy magic and felt similar to the spectres from [[Durvish City]].

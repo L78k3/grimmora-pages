@@ -1,0 +1,1 @@
+A location in [[content/World/Grimmora/Locations/Durvish City]] where the party sought help from [[Ismay]] to remove a [[content/World/Grimmora/Abilities/confoundment spell]] from a guard.

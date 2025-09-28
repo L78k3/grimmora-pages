@@ -1,0 +1,1 @@
+Powerful fey creatures representing the seasons. The party met with [[Summer]] and [[Winter]], who rule over the [[content/World/Grimmora/Locations/fey realm]] equivalent of [[content/World/Grimmora/Locations/Avalon]]. They are concerned about unusual fey activity and dimensional weaknesses.

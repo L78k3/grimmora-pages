@@ -1,1 +1,0 @@
-An inn located in [[Frostpeak Pass]] run by a female innkeeper who knows about the griffins living in the nearby mountains. Costs one gold piece per night.

@@ -1,3 +1,0 @@
-A northern route that the party travels toward in pursuit of their quarry. The pass appears to be accessible by road from Avalon and represents the direction their investigation has led them. 
-
-Also a small village serving as a stopping point for travelers heading north. Home to the [[Golden Griffin]] inn, where the innkeeper has knowledge of nearby griffins living in the mountains. The party stayed here on [[Entry 3#Day 3 (continued)|Day 3]].

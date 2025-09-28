@@ -1,1 +1,0 @@
-A location in [[Durvish City]] where the party sought help from [[Ismay]] to remove a [[confoundment spell]] from a guard.

@@ -1,6 +1,3 @@
----
-entryNo: 33
----
 **Day 22 (continued)**
 
 The boat sets off. It is an old paddle steamer. Theren retires to his cabin. Lavender sits on a bench up on the deck, feeling paranoid. Gage explores the boat. Temerity finds somewhere quiet with his menagerie.

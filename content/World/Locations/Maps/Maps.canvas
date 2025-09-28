@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"55b824dcafbaca57","type":"file","file":"content/World/Locations/Maps/GRIMMORA_UPDATED.jpg","x":-340,"y":-380,"width":1480,"height":1110},
-		{"id":"ce41992a5e845a36","type":"file","file":"content/World/Locations/Maps/City_of_Avalon.jpg","x":1200,"y":-380,"width":1040,"height":1040}
-	],
-	"edges":[]
-}

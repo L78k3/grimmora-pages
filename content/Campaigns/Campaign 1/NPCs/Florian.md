@@ -1,1 +1,1 @@
-A fey mage who operates the scrying pool in the [[fey realm]]. Guided [[Lavender]] and [[Temerity]] through their scrying attempts to locate [[Lady Bromelia]].
+A fey mage who operates the scrying pool in the [[content/World/Grimmora/Locations/fey realm]]. Guided [[Lavender]] and [[Temerity]] through their scrying attempts to locate [[Lady Bromelia]].

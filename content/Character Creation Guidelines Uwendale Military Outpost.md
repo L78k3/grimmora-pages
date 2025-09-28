@@ -53,14 +53,14 @@ All player characters are Level 3 recruits who have recently completed basic tra
 
 ## Equipment and Resources
 
-- Standard-issue military equipment is provided (basic weapons, leather or chain armor)
+- Standard-issue military equipment is provided (basic weapons, leather or chain armour)
 - Special weapons or heirloom items require backstory justification
 - Magical items are extremely rare and must be kept hidden
 - The outpost has limited resources, so exotic items are difficult to obtain
 
 ## Important Cultural Notes
 
-- Duty, honor, and justice are core Demacian values
+- Duty, honour, and justice are core Demacian values
 - Teamwork and sacrifice for the greater good are highly respected
 - Suspicion of magic is deeply ingrained in most citizens
 - The law is held in high regard, though frontier pragmatism sometimes prevails
