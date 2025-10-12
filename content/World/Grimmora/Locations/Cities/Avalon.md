@@ -20,6 +20,10 @@ tags:
 
 Avalon is the capital city of the [[Avalonean Empire]], serving as the political and cultural heart of the kingdom. A major city with multiple districts, it's a hub for trade, governance, and diverse populations. The party has stayed here multiple times during our adventures.
 
+## Map
+
+![[content/World/Grimmora/Locations/Maps/City_of_Avalon.jpg]]
+
 ## Geography
 
 Located in the western part of the empire, Avalon sits along major trade routes. The city is well-fortified with multiple gates providing controlled access.
