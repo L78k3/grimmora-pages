@@ -12,7 +12,7 @@ Lavender sits on her bench watching the world go by. A chill runs down her spine
 
 **Day 23**
 
-Dawn rises and the breakfast bell rings aboard ship. Lavender and Anaphel head down to eat. Temerity remains in jail – as he awakens, he returns to his tiefling form. He realises where he is. He tries to cast Knock on the door to his cell but the staff have asked the Mage’s Guild representative to put a magic sink on the brig due to the unnerving presence of the demon rabbit and his spell doesn’t work. His ears detect the faint sound of jazz on board the ship.
+Dawn rises and the breakfast bell rings aboard ship. Lavender and Anaphel head down to eat. Temerity remains in gaol – as he awakens, he returns to his tiefling form. He realises where he is. He tries to cast Knock on the door to his cell but the staff have asked the Mage’s Guild representative to put a magic sink on the brig due to the unnerving presence of the demon rabbit and his spell doesn’t work. His ears detect the faint sound of jazz on board the ship.
 
 Theren is completely spark out in bed. He is suffering from magical exhaustion from yesterday’s battle. Gage tries reading the ranger’s pamphlet but he gets fidgety. Instead, he services his equipment.
 

@@ -39,16 +39,17 @@ campaign:
 
 ## Combat Stats
 
-- **Armour Class:** 14
+- - **Armor Class:** 14
 - **Hit Point Maximum:** 50
-- **Current Hit Points:** 20
-- **Temporary Hit Points:** 
+- **Current Hit Points:** _____
+- **Temporary Hit Points:** _____
 - **Hit Dice:** 5×(1d8+2), 3×(1d10+2)
 - **Initiative:** **+4** (`dice: 1d20+4`)
 - **Speed:** 25 ft (35 ft on first turn with Dread Ambusher)
 - **Passive Wisdom (Perception):** 15
 
 ## Saving Throws
+_When making a saving throw, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
 
 - **Strength:** **-1** (`dice: 1d20-1`)
 - **Dexterity:** **+7** (`dice: 1d20+7`)
@@ -58,6 +59,7 @@ campaign:
 - **Charisma:** **+1** (`dice: 1d20+1`)
 
 ## Skills
+_When making a skill check, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
 
 - **Acrobatics (Dex):** **+4** (`dice: 1d20+4`)
 - **Animal Handling (Wis):** **+2** (`dice: 1d20+2`)
@@ -81,6 +83,8 @@ campaign:
 ## Attacks & Spellcasting (Revised)
 
 ### Weapons
+
+_For attack rolls, roll `1d20` and add the "to hit" modifier. For damage rolls, roll the specified dice and add the damage modifier. The full dice roll is also provided._
 
 - **Dagger:** **+7** to hit (`dice: 1d20+7`), `1d4` + **4** piercing damage (`dice: 1d4+4`)
 - **Shortbow:** **+9** to hit (`dice: 1d20+9`), `1d6` + **4** piercing damage (`dice: 1d6+4`)
@@ -113,6 +117,13 @@ _Key information to quickly recall during play._
     - _Effect:_ Target's speed increases by 10 ft. Lasts 1 hour.
     - _Range:_ Touch. _Components:_ V, S, M (a pinch of dirt). _Casting Time:_ 1 Action.
 
+### Known Spells
+
+- **Disguise Self** (1st level)
+- **Hail of Thorns** (1st level) - `dice: 1d10` piercing damage (Dex save for half)
+- **Hunter's Mark** (1st level) - `dice: 1d6` extra damage per hit
+- **Longstrider** (1st level)
+
 ## Death Saves
 
 - **Successes:** ☐ ☐ ☐
@@ -121,8 +132,8 @@ _Key information to quickly recall during play._
 ## Personality
 
 - **Personality Traits:**
-    - "I measure every action by its efficiency - if there's a cleaner, quieter way, I'll find it."
-    - "I've learned to stop and listen - to people, to the wind, to the forest."
+    - "I measure every action by its efficiency — if there's a cleaner, quieter way, I'll find it."
+    - "I've learned to stop and listen — to people, to the wind, to the forest."
 - **Ideals:** "Loyalty must be earned, not demanded." (Neutral Good)
 - **Bonds:** "My clan taught me survival, but I'll be the one to teach them change."
 - **Flaws:** "I struggle to forgive myself for the things I did when I was 'just following orders'."
@@ -213,7 +224,7 @@ Gage Greengather grew up among the Greengather Blades, a nomadic forest-based me
 
 But as he aged, the glint of gold faded in his eyes. He began to see cracks in the system — missions that razed the very forests they camped in, contracts that sacrificed innocents. When he was hired by necromancers to spy on a band of adventurers, he followed orders at first… until something changed. Perhaps it was the party's camaraderie, or the way they questioned authority. Perhaps it was the warlock's stubborn morality, or the bard's tireless optimism. Whatever the reason, he defected.
 
-Now calling himself The Greenblade, Gage fights not for coin, but for balance. He still uses the tricks his clan taught him - the poisoned tips, the terrain tactics, the silent kills - but now, he uses them against the very systems that raised him. He's begun carving notches in his bow, not for kills, but for forests saved and people freed.
+Now calling himself The Greenblade, Gage fights not for coin, but for balance. He still uses the tricks his clan taught him — the poisoned tips, the terrain tactics, the silent kills — but now, he uses them against the very systems that raised him. He's begun carving notches in his bow, not for kills, but for forests saved and people freed.
 
 And maybe, one day, he'll return to the Greengather Blades not as a soldier, but as a spark for revolution.
 
@@ -223,6 +234,8 @@ And maybe, one day, he'll return to the Greengather Blades not as a soldier, but
 
 ### Common Rolls
 
+_For ability checks and attacks, roll `1d20` and add the modifier. Full dice rolls for other effects are also included._
+
 - **Initiative:** **+4** (`dice: 1d20+4`)
 - **Stealth Check:** **+7** (`dice: 1d20+7`)
 - **Perception Check:** **+5** (`dice: 1d20+5`)
@@ -230,6 +243,8 @@ And maybe, one day, he'll return to the Greengather Blades not as a soldier, but
 - **Hit Dice Recovery (Ranger):** `1d10+2` (`dice: 1d10+2`)
 
 ### Weapon Attacks & Damage
+
+_Roll `1d20` and add the "to hit" modifier. For damage, roll the specified dice and add the damage modifier._
 
 - **Shortbow Attack:** **+9** to hit (`dice: 1d20+9`)
 - **Shortbow Damage:** `1d6` + **4** (`dice: 1d6+4`)
@@ -240,6 +255,8 @@ And maybe, one day, he'll return to the Greengather Blades not as a soldier, but
 - **Sneak Attack Damage:** `3d6` (`dice: 3d6`)
 
 ### Spell Damage
+
+_Roll the specified dice for damage. Note if a modifier is added. Full dice rolls are also included._
 
 - **Hunter's Mark Bonus:** `1d6` (`dice: 1d6`)
 - **Hail of Thorns:** `1d10` (`dice: 1d10`) (Dex save DC 13 for half)
