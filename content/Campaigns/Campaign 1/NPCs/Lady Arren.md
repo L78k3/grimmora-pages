@@ -1,1 +1,1 @@
-Captain of the city guard in [[content/World/Grimmora/Locations/Durvish City]]. The party suspects she may be involved in [[Lady Bromelia]]'s kidnapping due to inconsistencies in her statements about extra guards.
+Captain of the city guard in [[Durvish City]]. The party suspects she may be involved in [[Lady Bromelia]]'s kidnapping due to inconsistencies in her statements about extra guards.

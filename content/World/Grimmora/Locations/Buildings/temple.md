@@ -1,0 +1,1 @@
+The location in [[Durvish City]] where [[Lady Bromelia]]'s wedding was taking place when she was kidnapped.

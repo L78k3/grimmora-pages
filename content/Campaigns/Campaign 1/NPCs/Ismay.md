@@ -1,1 +1,1 @@
-A short, plump, scatty, and gregarious mage from the [[content/World/Grimmora/Locations/mage's tower]] who helped the party by removing a [[content/World/Grimmora/Abilities/confoundment spell]] from a guard.
+A short, plump, scatty, and gregarious mage from the [[mage's tower]] who helped the party by removing a [[content/World/Grimmora/Abilities/confoundment spell]] from a guard.

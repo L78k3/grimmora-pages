@@ -1,1 +1,0 @@
-A district within Avalon specifically designated for elven residents and visitors. The quarter contains inconspicuous inns and appears to be a place where travelers can find discrete lodging away from the main thoroughfares of the city.

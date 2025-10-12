@@ -1,1 +1,0 @@
-The fey realm equivalent of [[content/World/Grimmora/Locations/Avalon]], where the party was taken by the [[content/World/Grimmora/Concepts/eladrin]]. A bustling city filled with pixies and various fey creatures, featuring magical architecture with ivy representing the four seasons.

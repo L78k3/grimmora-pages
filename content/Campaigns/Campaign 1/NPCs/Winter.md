@@ -1,1 +1,1 @@
-One of two [[content/World/Grimmora/Concepts/eladrin]] rulers of the [[content/World/Grimmora/Locations/fey realm]]. Represents the winter season and is less concerned about dimensional incursions than [[Summer]]. Provided counsel to [[Theren]] about his fey heritage and sense of belonging.
+One of two [[content/World/Grimmora/Concepts/eladrin]] rulers of the [[fey realm]]. Represents the winter season and is less concerned about dimensional incursions than [[Summer]]. Provided counsel to [[Theren]] about his fey heritage and sense of belonging.
