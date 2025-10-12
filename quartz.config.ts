@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "l78k3.github.io/grimmora-pages",
+    baseUrl: "https://l78k3.github.io/grimmora-pages",
     ignorePatterns: ["private", "templates", ".obsidian", "GM-Only"],
     defaultDateType: "modified",
     theme: {
