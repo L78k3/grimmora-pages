@@ -1,9 +1,11 @@
 # Location Conversion Workflow Reference
 
 ## Context
+
 This is a PC-facing D&D vault for a campaign in Grimmora, published with Quartz v4. The vault documents our party's journey from the player character perspective (specifically Gage's view), so it only contains information the PCs would know.
 
 ## Vault Setup
+
 - **Platform:** Obsidian with Quartz v4 publishing
 - **Quartz Version:** 4.5.0
 - **Base URL:** https://l78k3.github.io/grimmora-pages
@@ -12,16 +14,19 @@ This is a PC-facing D&D vault for a campaign in Grimmora, published with Quartz 
 ## File Paths
 
 ### Windows Format
+
 ```
 C:\Users\SyncthingServiceAcct\DnD\Documents\DnD\dnd\quartz\content\
 ```
 
 ### WSL Format
+
 ```
 /mnt/c/Users/SyncthingServiceAcct/DnD/Documents/DnD/dnd/quartz/content/
 ```
 
 ### Relative Paths (from content/)
+
 All paths below use relative format from the `content/` directory.
 
 ## Folder Structure
@@ -74,7 +79,9 @@ All templates are in: `content/System/Templates/`
 ## Conversion Principles
 
 ### 1. YAML Frontmatter
+
 Every location needs proper frontmatter:
+
 ```yaml
 ---
 title: Location Name
@@ -89,9 +96,11 @@ tags:
 ```
 
 ### 2. Status Callouts
+
 Use callouts to indicate visit status:
 
 **For visited locations:**
+
 ```markdown
 > [!info] Visited
 > **When:** [[Entry X]] or session reference
@@ -99,18 +108,21 @@ Use callouts to indicate visit status:
 ```
 
 **For unvisited locations:**
+
 ```markdown
 > [!warning] Unvisited
 > The party has not yet traveled to this location.
 ```
 
 **For dangerous locations:**
+
 ```markdown
 > [!danger] Danger Level
 > Brief warning about threats
 ```
 
 ### 3. Content Guidelines
+
 - Only include information the PCs would know
 - Write from party perspective ("we", "our")
 - Reference chronicle entries when describing events
@@ -119,7 +131,9 @@ Use callouts to indicate visit status:
 - Leave sections empty rather than inventing information
 
 ### 4. Standard Sections
+
 Most locations should have:
+
 - **Overview** - General description
 - **Geography** - Physical location, climate, terrain
 - **Points of Interest** - Key locations within
@@ -130,6 +144,7 @@ Most locations should have:
 - **Related links at bottom** - Cross-references
 
 ### 5. Linking Format
+
 - Use simple wikilinks: `[[Page Name]]`
 - For display text: `[[Page Name|Display Text]]`
 - Quartz with ObsidianFlavoredMarkdown handles path resolution
@@ -140,22 +155,27 @@ Most locations should have:
 ### Best Examples by Category
 
 **Cities:**
+
 - `World/Grimmora/Locations/Cities/Avalon.md` - Comprehensive city with districts
 - `World/Grimmora/Locations/Cities/Durvish City.md` - Quest starting location
 
 **Towns:**
+
 - `World/Grimmora/Locations/Towns/Mightrest.md` - Detailed with quest resolution
 - `World/Grimmora/Locations/Towns/Frostpeak Pass.md` - Simple waystation
 
 **Villages:**
+
 - `World/Grimmora/Locations/Villages/Pinechill.md` - Small settlement
 - `World/Grimmora/Locations/Villages/Midward.md` - Built from chronicle entries
 
 **Landmarks:**
+
 - `World/Grimmora/Locations/Landmarks/fey realm.md` - Alternate dimension
 - `World/Grimmora/Locations/Landmarks/Alpine Forest.md` - Dangerous natural area
 
 **Regions:**
+
 - `World/Grimmora/Regions/Avalonean Empire.md` - Major political region
 - `World/Grimmora/Regions/The Frost.md` - Harsh environmental region
 
@@ -164,25 +184,30 @@ Most locations should have:
 ### ✅ Completed Categories
 
 #### Regions (2/2)
+
 - [x] Avalonean Empire
 - [x] The Frost
 
 #### Cities (4/4)
+
 - [x] Avalon
 - [x] Durvish City
 - [x] Arcadia
 - [x] Bridgeport
 
 #### Towns (3/3)
+
 - [x] Durendal
 - [x] Frostpeak Pass
 - [x] Mightrest
 
 #### Villages (2/2)
+
 - [x] Pinechill
 - [x] Midward
 
 #### Landmarks (4/4)
+
 - [x] Alpine Forest
 - [x] Court of Flowers
 - [x] Court of Summer and Winter
@@ -191,11 +216,12 @@ Most locations should have:
 ### ⏳ Remaining Categories
 
 #### Buildings (10 files)
-- [ ] Auril's Church.md
-- [ ] Golden Griffin.md
-- [ ] Jade Zephyr Casino.md
-- [ ] North City Gate.md
-- [ ] Rotunda.md
+
+- [x] Auril's Church.md
+- [x] Golden Griffin.md
+- [x] Jade Zephyr Casino.md
+- [x] North City Gate.md
+- [x] Rotunda.md
 - [ ] The Tavern.md
 - [ ] Village Inn.md
 - [ ] mage's tower.md
@@ -203,9 +229,11 @@ Most locations should have:
 - [ ] temple.md
 
 #### Districts (1 file)
+
 - [ ] elvish quarter.md
 
 #### Dungeons-and-Lairs (6 files)
+
 - [ ] Dragon's Nest.md
 - [ ] Orris' Secret Lair.md
 - [ ] The Gladiator's Amphitheatre.md
@@ -218,10 +246,12 @@ Most locations should have:
 This is the workflow that works well:
 
 1. **Start with a category** (e.g., "Let's do Buildings")
-2. **AI asks for file content:** 
-   ```bash
-   cat content/World/Grimmora/Locations/Buildings/Building-Name.md
-   ```
+2. **AI asks for file content:**
+    
+    ```bash
+    cat content/World/Grimmora/Locations/Buildings/Building-Name.md
+    ```
+    
 3. **User pastes the file content**
 4. **AI converts to template format** with proper frontmatter and structure
 5. **User copies result back to file**
@@ -229,28 +259,35 @@ This is the workflow that works well:
 7. **Repeat until category complete**
 
 ### Tips for Efficiency
+
 - Do entire categories at once (all Cities, all Towns, etc.)
 - If a file has no content, AI can check chronicle entries:
-  ```bash
-  grep -C 3 -r "LocationName" content/Campaigns/Campaign\ 1/Chronicles/
-  ```
+    
+    ```bash
+    grep -C 3 -r "LocationName" content/Campaigns/Campaign\ 1/Chronicles/
+    ```
+    
 - For images, use `![[image.jpg]]` format with files in appropriate folders
 - Keep a running checklist and update after each session
 
 ## Technical Notes
 
 ### Quartz Configuration
+
 - Plugin.ObsidianFlavoredMarkdown() - Handles wikilinks
 - Plugin.Assets() - Copies images during build
 - baseUrl: "https://l78k3.github.io/grimmora-pages"
 
 ### Image Paths
+
 Images work best when:
+
 - Placed in a dedicated location (like `content/assets/`)
 - Referenced with wikilink syntax: `![[image.jpg]]`
 - Quartz resolves paths automatically during build
 
 ### Building & Testing
+
 ```bash
 # Build for production
 npx quartz build
@@ -267,16 +304,19 @@ npx quartz --version
 ### Common Commands
 
 **Find files:**
+
 ```bash
 find content/World/Grimmora/Locations -name "*.md"
 ```
 
 **Search content:**
+
 ```bash
 grep -r "search term" content/Campaigns/Campaign\ 1/Chronicles/
 ```
 
 **List directory:**
+
 ```bash
 ls content/World/Grimmora/Locations/Cities/
 ```
@@ -286,26 +326,29 @@ ls content/World/Grimmora/Locations/Cities/
 To resume this workflow in a new chat session:
 
 1. **Provide context:**
-   - "I'm organizing a D&D campaign vault in Obsidian published with Quartz v4"
-   - "I need help converting location files to standardized templates"
-   
+    
+    - "I'm organizing a D&D campaign vault in Obsidian published with Quartz v4"
+    - "I need help converting location files to standardized templates"
 2. **Share this reference file:**
-   - Copy/paste this entire file, OR
-   - Provide the path and ask AI to read it
-
+    
+    - Copy/paste this entire file, OR
+    - Provide the path and ask AI to read it
 3. **State current progress:**
-   - "I've completed Cities, Towns, Villages, and Landmarks"
-   - "Next I need to do Buildings (10 files)"
-
+    
+    - "I've completed Cities, Towns, Villages, and Landmarks"
+    - "Next I need to do Buildings (10 files)"
 4. **Request to continue:**
-   - "Can you help me convert the Buildings category using the same workflow?"
-
+    
+    - "Can you help me convert the Buildings category using the same workflow?"
 5. **AI will ask for first file:**
-   ```bash
-   cat content/World/Grimmora/Locations/Buildings/FirstBuilding.md
-   ```
+    
+    ```bash
+    cat content/World/Grimmora/Locations/Buildings/FirstBuilding.md
+    ```
+    
 
 ## Party Members (for reference)
+
 - [[Gage]] - Main perspective (our PC)
 - [[Lavender]]
 - [[Temerity]]
@@ -314,6 +357,7 @@ To resume this workflow in a new chat session:
 - [[Anaphel]] - Joined in Pinechill
 
 ## Key NPCs & Concepts
+
 - [[Lady Bromelia]] - Kidnapping started our quest
 - [[Halsin]] - Druid leader in Avalon
 - [[Summer]] and [[Winter]] - Fey court rulers
@@ -323,6 +367,4 @@ To resume this workflow in a new chat session:
 
 ---
 
-*Last Updated: October 14, 2025*
-*Current Status: 15/26 location files converted*
-*Next Category: Buildings (10 files)*
+_Last Updated: October 14, 2025_ _Next Category: Buildings (10 files)_
