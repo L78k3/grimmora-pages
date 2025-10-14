@@ -52,7 +52,7 @@ The city was the site of a major incident when [[Lady Bromelia]] was kidnapped d
 ## Services & Commerce
 
 As a major city, Durvish City offers:
-- Inns and taverns for travelers
+- Inns and taverns for travellers
 - Magical services (mage's tower)
 - Religious services (temple)
 - General commerce and supplies
