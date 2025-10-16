@@ -47,7 +47,7 @@ Located at [[Avalon]]'s northern perimeter, the gate marks the transition betwee
 
 ## The Memory Suppression Incident
 
-Guards stationed at the North City Gate experienced episodes of **memory suppression** similar to what affected [[Gorg]] at [[The Tavern]] in [[Mightrest]].
+Guards stationed at the North City Gate experienced episodes of **memory suppression** similar to what affected [[Gorg]] at [[The Tavern (Mightrest)]] in [[Mightrest]].
 
 ### Pattern Recognition
 This incident was significant because it revealed:
@@ -86,6 +86,6 @@ The guards' condition paralleled what we'd seen before, suggesting a systematic 
 
 **Region:** [[Avalonean Empire]]
 
-**Related:** [[Gorg]] • [[The Tavern]] • [[Mightrest]] • [[The Frost]]
+**Related:** [[Gorg]] • [[The Tavern (Mightrest)]] • [[Mightrest]] • [[The Frost]]
 
 **Pattern:** Part of wider memory suppression phenomenon
