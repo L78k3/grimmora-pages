@@ -16,7 +16,7 @@ The central kingdom where our adventure began.
 **Visited:** [[Avalon]] • [[Durvish City]] • [[Bremen]] • [[Durendal]] • [[Bridgeport]] • [[Pinechill]]
 
 ### [[The Frost]]
-The harsh northern territories.
+The harsh northern territories. This is where the Necromancers are strongest.
 
 **Visited:** [[Mightrest]] • [[Frostpeak Pass]] • [[Alpine Forest]]
 
