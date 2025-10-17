@@ -7,9 +7,9 @@ characters:
 ---
 # Day 2 (continued)
 
-The party, weary from their flight from the [[hag]], arrives at the city of [[Avalon]] by the south-west gate. Adrenaline courses through them and they are shaken by the intensity of the encounter. However, upon arrival, they find their way blocked by a pair of halberds. [[Temerity]] parlays with the guards in order to gain access to the city. It seems there is an unusual number of guards posted tonight, causing [[Lavender]] some concern. The guards, unfortunately, are unimpressed with Temerity's appeals, so Lavender cuts in, informing them that they were sent by [[Captain Arran]] of [[Durvish City]] to pursue the culprits who kidnapped the [[Lady Bromelia]] from her wedding. The guards remain suspicious and request the names of the party. Temerity and [[Theren]] give theirs, but Lavender calls herself [[Lady Rose]]. The guards believe her deception and allow the party to enter Avalon.
+The party, weary from their flight from the [[hag]], arrives at the city of [[Avalon]] by the south-west gate. Adrenaline courses through them and they are shaken by the intensity of the encounter. However, upon arrival, they find their way blocked by a pair of halberds. [[Temerity]] parlays with the guards in order to gain access to the city. It seems there is an unusual number of guards posted tonight, causing [[Lavender]] some concern. The guards, unfortunately, are unimpressed with Temerity's appeals, so Lavender cuts in, informing them that they were sent by [[Captain Arran]] of [[Durvish City]] to pursue the culprits who kidnapped the [[Lady Bromelia]] from her wedding. The guards remain suspicious and request the names of the party. Temerity and [[Theren]] give theirs, but Lavender calls herself [[content/World/Grimmora/Concepts/Lady Rose]]. The guards believe her deception and allow the party to enter Avalon.
 
-'Rose' takes the group through the city to the [[elvish quarter]], where they find an inconspicuous inn and bed down for the night. 'Rose' pays for the rooms and the others are too tired to debate the issue with her.
+'Rose' takes the group through the city to the [[content/World/Grimmora/Locations/elvish quarter 1]], where they find an inconspicuous inn and bed down for the night. 'Rose' pays for the rooms and the others are too tired to debate the issue with her.
 
 ---
 
