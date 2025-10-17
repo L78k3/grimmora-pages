@@ -43,7 +43,7 @@ For six months before our arrival, Mightrest suffered from a mysterious afflicti
 - [[The Alchemist]] - Provides healing potions and other alchemical supplies
 
 ### Inns & Lodging
-- [[The Tavern (Mightrest)]] - Run by [[Gorg]], featuring crystal orbs that can record and replay events
+- [[The Tavern]] - Run by [[Gorg]], featuring crystal orbs that can record and replay events
 - [[Village Inn]] - Alternative lodging and community gathering place
 
 ### Dangerous Sites
@@ -109,6 +109,6 @@ Mightrest tested us severely, but saving the town from the vampire's curse was o
 
 **Region:** [[The Frost]]
 
-**Related Locations:** [[Frostpeak Pass]] • [[Alpine Forest]] • [[big house]] • [[The Tavern (Mightrest)]]
+**Related Locations:** [[Frostpeak Pass]] • [[Alpine Forest]] • [[big house]] • [[The Tavern]]
 
 **Related Events:** [[Plague Investigation]] • [[Battle at the Big House]] • [[Vampire Defeat]]

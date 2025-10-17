@@ -7,7 +7,7 @@ characters:
 ---
 # Day 4 (continued)
 
-In the [[The Tavern (Mightrest)|the tavern]] room, the stranger paces up and down the room, lost in thought. [[Temerity]] bellows for food before again addressing the stranger.
+In the [[The Tavern|the tavern]] room, the stranger paces up and down the room, lost in thought. [[Temerity]] bellows for food before again addressing the stranger.
 
 A sharp knock at the door sounds. [[Lavender]] looks at her comrades for approval before opening the door and seeing nothing. She glances down to see a tiny [[Gnome Cook|gnome]] with a large tray of food precariously balanced. The gnome stares up at her. She takes the tray from the struggling gnome, slightly bemused at the situation. The gnome simply continues to stare up at her, disconcerting Lavender. Temerity intervenes and asks whether or not the gnome has business with Lavender, although he refers to her as ‘my lady’. The gnome is taken aback and asks if she is, indeed, Temerity’s lady. Lavender places the tray down on a desk and watches the exchange. Temerity tries to talk the gnome in circles before finally agreeing that she is his lady. The gnome dreamily states his desire to climb her like a tree. Temerity agrees that this sounds like a good idea, but the gnome has other thoughts and demands that Temerity fight him for Lavender. Having decided that this has gone on long enough, Lavender slams the door in the gnome’s face and reprimands Temerity for his audacity. [[Theren]] simply watches the exchange uncomfortably, not quite understanding the dynamic nor its implications.
 
