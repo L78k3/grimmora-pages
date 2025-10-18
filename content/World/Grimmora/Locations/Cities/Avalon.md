@@ -22,7 +22,7 @@ Avalon is the capital city of the [[Avalonean Empire]], serving as the political
 
 ## Map
 
-![[content/World/Grimmora/Locations/Maps/City_of_Avalon.jpg]]
+![[City_of_Avalon.jpg]]
 
 ## Geography
 

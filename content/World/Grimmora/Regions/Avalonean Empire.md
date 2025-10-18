@@ -30,7 +30,7 @@ The climate is temperate, with forests, farmland, and navigable rivers supportin
 ### Towns & Villages
 - [[Durendal]] - Small town north of Avalon where we rescued a girl from a fey pocket dimension
 - [[Pinechill]] - Small village with minimal infrastructure where [[Temerity]] performed a concert
-- [[Bremen]] - Coastal settlement we've passed through
+- [[Bremen]] - Coastal settlement.
 
 ### Landmarks
 - [[Rotunda]] - Central civic building in Avalon for official announcements
