@@ -19,7 +19,7 @@ tags:
 
 ## Overview
 
-A northern town in [[The Frost]] that serves as a base for mountain expeditions and was known for its griffin experts. Mightrest endured a six-month magical plague that was eventually revealed to be the work of a [[Vampire Lord]] residing in the [[big house]].
+A northern town in [[The Frost]] that serves as a base for mountain expeditions and was known for its griffin experts. Mightrest endured a six-month magical plague that was eventually revealed to be the work of a [[Vampire Lord]] residing in the [[Vampire Mansion]].
 
 ## Geography
 
@@ -29,7 +29,7 @@ Located north of [[Frostpeak Pass]], Mightrest sits in a strategic position for 
 
 For six months before our arrival, Mightrest suffered from a mysterious affliction:
 - Victims became weak, pale, cold, and lethargic
-- Infected individuals were taken to the [[big house]] on the hill
+- Infected individuals were taken to the [[Vampire Mansion]] on the hill
 - No one ever returned from the big house
 - Thick cloud cover persisted over the town
 - The "plague" was actually vampiric feeding by the [[Vampire Lord]]
@@ -47,7 +47,7 @@ For six months before our arrival, Mightrest suffered from a mysterious afflicti
 - [[Village Inn]] - Alternative lodging and community gathering place
 
 ### Dangerous Sites
-- [[big house]] - Former vampire lair on the hill (threat eliminated)
+- [[Vampire Mansion]] - Former vampire lair on the hill (threat eliminated)
 - [[Vampire Mansion]] - Connected to the vampire threat
 
 ### Natural Areas
@@ -98,7 +98,7 @@ We were unexpectedly teleported to Mightrest by the fey mage [[Millicent]] on [[
 
 We spent considerable time here:
 - Investigating the plague and its mysterious symptoms
-- Discovering the truth about the [[big house]]
+- Discovering the truth about the [[Vampire Mansion]]
 - Hunting [[Ice Wolves]] in the [[Alpine Forest]]
 - Confronting and defeating the [[Vampire Lord]]
 - Helping the town recover from the ordeal
@@ -109,6 +109,6 @@ Mightrest tested us severely, but saving the town from the vampire's curse was o
 
 **Region:** [[The Frost]]
 
-**Related Locations:** [[Frostpeak Pass]] • [[Alpine Forest]] • [[big house]] • [[The Tavern]]
+**Related Locations:** [[Frostpeak Pass]] • [[Alpine Forest]] • [[Vampire Mansion]] • [[The Tavern]]
 
 **Related Events:** [[Plague Investigation]] • [[Battle at the Big House]] • [[Vampire Defeat]]

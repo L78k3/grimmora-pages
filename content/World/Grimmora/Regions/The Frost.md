@@ -39,7 +39,7 @@ The climate is harsh year-round, with bitter cold, heavy snowfall, and dangerous
 - [[Auril's Church]] - Hidden church to the goddess of duality, guarded by dangerous vines
 
 ### Dungeons & Dangerous Sites
-- [[big house]] - Former vampire lair on the hill above Mightrest
+- [[Vampire Mansion]] - Former vampire lair on the hill above Mightrest
 - [[Vampire Mansion]] - Multi-story mansion connected to the vampire threat
 - [[The Trial Chamber]] - Underground trial system related to [[Auril]]
 - [[The Gladiator's Amphitheatre]] - Magical arena within the trial complex

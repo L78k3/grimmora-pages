@@ -1,4 +1,10 @@
 ---
+type: location
+location: 
+world: 
+campaign:
+---
+---
 title: Jade Zephyr Casino
 type: building
 subtype: casino
