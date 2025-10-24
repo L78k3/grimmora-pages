@@ -88,5 +88,5 @@ Balance is key. Offense, defence, light, dark, stillness, chaos.
 
 Lavender casts a long shadow. Even past her unusual height, which is not something uncommon in the Locke bloodline, she is a naturally imposing, if still handsome, creature. Her features catch the light in severe ways; she has high cheek bones, a long pointed nose, a angular jaw, and very dark, near black, wide-set eyes. Her hair is long and startlingly platinum but never allowed to be flow free. Instead, it is always pulled back into a bun.
 
-WIP. 
+WIP. :) 
 
