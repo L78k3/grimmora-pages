@@ -1,6 +1,4 @@
-
 *House Locke, though a family of middling power, are quietly proud of their pure blood and how far their ancestry can be traced through Avalon history. Whilst the way they came into their titles has long been lost, they have served the commonfolk with dignity and grace for generations.
-
 
 **Current Head:**
 - Count Basil Locke (Elder son) (50~)
@@ -20,6 +18,4 @@
 **Notable Staff:**
 - That one maid that answered the door to Lavender.
 
-
----
 *The family are not particularly known for hereditary talent in spellcasting. However, they have been known to produce the occasional mage of note. This can likely be attributed to the blood married in rather than through the Locke line itself. Orris is one such soul. 
