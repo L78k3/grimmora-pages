@@ -1,8 +1,6 @@
 
----
 *House Locke, though a family of middling power, are quietly proud of their pure blood and how far their ancestry can be traced through Avalon history. Whilst the way they came into their titles has long been lost, they have served the commonfolk with dignity and grace for generations.
 
---- 
 
 **Current Head:**
 - Count Basil Locke (Elder son) (50~)
