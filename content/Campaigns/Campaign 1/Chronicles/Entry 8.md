@@ -9,7 +9,11 @@ characters:
 
 The party stares in awe and wonder at the dragon corpse before them, marvelling at their victory. [[Temerity]]'s first thought is to consume the carcass. [[Theren]], however, wishes to carve it up for valuables. He attempts to retrieve the dragon's teeth, but they are stuck fast. After coaxing three of them from the dragon's jaw, he gives up, exhausted. Temerity, meanwhile, has hacked off the dragon's tail, knowing that this will be the best part to eat. He slices it into steaks. As it is around noon, they decide to feast before moving on.
 
+[[content/Campaigns/Campaign 1/Characters/Lavender]]ted upstream
 [[Lavender]] is concerned that they are too exposed and there could be another dragon nearby. Theren reassures her that the signs in [[Dragon's Nest|the nest]] show that it is only occupied by a single creature. He uses some of the debris within the nest – snow, scant foliage, bones, scraps of fur and skin – to create a makeshift shelter. [[Orion]] uses suitable materials to create a small fire at the entrance to their shelter.
+=======
+[[a. General Info]] is concerned that they are too exposed and there could be another dragon nearby. Theren reassures her that the signs in [[content/World/Grimmora/Locations/Dragon's Nest|the nest]] show that it is only occupied by a single creature. He uses some of the debris within the nest – snow, scant foliage, bones, scraps of fur and skin – to create a makeshift shelter. [[Orion]] uses suitable materials to create a small fire at the entrance to their shelter.
+>>>>>>> Stashed changes
 
 Lavender likes the idea of eating [[content/World/Grimmora/Items/Dragon Meat|dragon meat]] – there is something powerful about it. Temerity makes a big show of cooking the dragon steaks, sautéing them in a frying pan while singing a daft song. Rashly, he decides to feed some to [[Korako]], thinking that the inherent magical nature of dragons will cause a magical reaction in him. Korako is not impressed; the dragon meat causes him severe colic. Theren and Lavender are similarly unimpressed. Temerity uses his magic to alleviate some of the symptoms; the colic subsides but remains, leaving Korako lying beside the fire looking forlorn.
 

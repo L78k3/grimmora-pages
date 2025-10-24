@@ -21,7 +21,7 @@ A beautifully decorated and tastefully furnished tower in [[Durvish City]] that 
 
 ## Notable NPCs
 
-- **[[Ismay]]**: An older, powerful mage who resides in the tower. She is an acquaintance of [[Lavender]] and a highly capable spellcaster.
+- **[[Ismay]]**: An older, powerful mage who resides in the tower. She is an acquaintance of [[content/Campaigns/Campaign 1/Characters/Lavender]] and a highly capable spellcaster.
 
 ## Our Experience
 

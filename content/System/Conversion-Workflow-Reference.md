@@ -350,7 +350,7 @@ To resume this workflow in a new chat session:
 ## Party Members (for reference)
 
 - [[Gage]] - Main perspective (our PC)
-- [[Lavender]]
+- [[content/Campaigns/Campaign 1/Characters/Lavender]]
 - [[Temerity]]
 - [[Theren]]
 - [[Marianne]]

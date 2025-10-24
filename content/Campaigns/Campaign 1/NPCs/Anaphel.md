@@ -13,6 +13,6 @@ Goals:
 Relationships:
 [[Temerity]] thinks she is a star
 [[Gage]] also thinks she is a star
-[[Lavender]] is unsure of what to make of them, but trusts them
+[[content/Campaigns/Campaign 1/Characters/Lavender]] Info]] is unsure of what to make of them, but trusts them
 [[Theren]] does not know what to make of them either.
 

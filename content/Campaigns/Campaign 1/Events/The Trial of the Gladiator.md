@@ -1,3 +1,3 @@
 ### The Trial of the Gladiator
 
-A divine trial orchestrated by [[Auril]] where [[Lavender]] faced an undead gladiator wight in single combat within a magical amphitheater. The trial's true test was understanding that the champion must have his glory - requiring Lavender to allow herself to be defeated rather than claim victory. Her sacrifice allowed the party to progress, though her body vanished upon her defeat after being struck down with necrotic energy.
+A divine trial orchestrated by [[Auril]] where [[content/Campaigns/Campaign 1/Characters/Lavender]] Info]] faced an undead gladiator wight in single combat within a magical amphitheater. The trial's true test was understanding that the champion must have his glory - requiring Lavender to allow herself to be defeated rather than claim victory. Her sacrifice allowed the party to progress, though her body vanished upon her defeat after being struck down with necrotic energy.

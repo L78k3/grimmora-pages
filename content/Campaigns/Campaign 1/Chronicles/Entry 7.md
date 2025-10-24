@@ -7,7 +7,11 @@ characters:
 ---
 # Day 6 (continued)
 
-After the exertion of the battle against the [[content/World/Grimmora/Concepts/Ice Wolves|ice wolves]], the party takes a short rest, with [[Temerity]] administering healing. They discuss the potential of exploring the wolves' cave, which causes some dissention, for Temerity wishes to go in, while [[Lavender]] and [[Theren]] do not. [[Orion]]'s opinion, when sought, is that caution is called for. Temerity begrudgingly and with little grace agrees to return to [[Mightrest]].
+<<<<<<< Updated upstream
+After the exertion of the battle against the [[content/World/Grimmora/Concepts/Ice Wolves|ice wolves]], the party takes a short rest, with [[Temerity]] administering healing. They discuss the potential of exploring the wolves' cave, which causes some dissention, for Temerit[[content/Campaigns/Campaign 1/Characters/Lavender]]go in, while [[Lavender]] and [[Theren]] do not. [[Orion]]'s opinion, when sought, is that caution is called for. Temerity begrudgingly and with little grace agrees to return to [[Mightrest]].
+=======
+After the exertion of the battle against the [[content/World/Grimmora/Concepts/Ice Wolves|ice wolves]], the party takes a short rest, with [[Temerity]] administering healing. They discuss the potential of exploring the wolves' cave, which causes some dissention, for Temerity wishes to go in, while [[a. General Info]] and [[Theren]] do not. [[Orion]]'s opinion, when sought, is that caution is called for. Temerity begrudgingly and with little grace agrees to return to [[content/World/Grimmora/Locations/Mightrest]].
+>>>>>>> Stashed changes
 
 Lavender leads the way back to the city, but she struggles under the weight of the ice wolf pelts, stumbling and swaying. [[The Clothier|The clothier]] is astounded to see them return and when she inspects them is very impressed with the offering. She willingly trades the party full sets of winter gear – cloaks, boots and tabards - in exchange for the pelts. She even presents Temerity with a pair of bright red horn cosies; Temerity is overwhelmed and thanks her profusely.
 

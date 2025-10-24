@@ -28,14 +28,14 @@ The tavern is equipped with crystal orbs that can record and replay events. Doub
 
 - **[[Gorg]]**: The half-orc innkeeper. He is exasperated by his cook but keeps him employed due to his skill. Gorg has some magical ability and claims to have traveled to the upper planes, where he heard whispers of a being called the `[[Wild Wanderer]]`.
 
-- **[[Gnome Cook]]**: The tavern's cook, who works in the kitchen. He has a bizarre and confrontational personality, challenging [[Temerity]] to a fight over [[Lavender]].
+- **[[Gnome Cook]]**: The tavern's cook, who works in the kitchen. He has a bizarre and confrontational personality, challenging [[Temerity]] to a fight over [[content/Campaigns/Campaign 1/Characters/Lavender]].
 
 ## Our Experience
 We have stayed at The Tavern on two separate occasions.
 
 ### First Visit (Day 4)
 
-After arriving in [[Mightrest]], we took rooms here and met [[Orion]]. The [[Gnome Cook]] delivered food to our room, which led to a strange confrontation where he challenged [[Temerity]] to a fight for [[Lavender]]'s affection. This escalated into a brawl in the kitchen, which [[Gorg]] broke up before forcing them to calm down. Gorg later gave [[Lavender]] a crystal orb that replayed the entire altercation.
+After arriving in [[Mightrest]], we took rooms here and met [[Orion]]. The [[Gnome Cook]] delivered food to our room, which led to a strange confrontation where he challenged [[Temerity]] to a fight for [[content/Campaigns/Campaign 1/Characters/Lavender]]'s affection. This escalated into a brawl in the kitchen, which [[Gorg]] broke up before forcing them to calm down. Gorg later gave [[content/Campaigns/Campaign 1/Characters/Lavender]] a crystal orb that replayed the entire altercation.
 
 ### Second Visit (Day 5)
 
