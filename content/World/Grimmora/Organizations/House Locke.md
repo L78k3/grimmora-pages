@@ -2,18 +2,18 @@
 
 
 **Current Head:**
-- Count Basil Locke (Elder son) (50~)
+- [[Count Basil Locke]] (Elder son) (50~)
 
 **Prominent Members:** 
-- Countess Rosemary Locke, née Ancaline (35~)
-- Lady Myrtle Locke (70~) (Grandmother)
-- Lord Orris Locke (22~)
-- Lady Anise Locke (16~)
-- Lady Angelica Locke (16~)
-- Lord Captain Sorrel Locke (Younger son and captain of the house guard) (45~)
+- [[Countess Rosemary Locke]], née Ancaline (35~)
+- [[Lady Myrtle Locke]] (70~) (Grandmother)
+- [[Orris|Lord Orris Locke]] (22~)
+- [[Lady Anise Locke]] (16~)
+- [[Lady Angelica Locke]] (16~)
+- [[Lord Captain Sorrel Locke]] (Younger son and captain of the house guard) (45~)
 
 **Previous Members:
-- Lady [[content/Campaigns/Campaign 1/Characters/Lavender/Lavender]] Locke (25~)
+- Lady [[Lavender]] Locke (25~)
 - Count Locke (Deceased grandfather, previous head of house)
 
 **Notable Staff:**
