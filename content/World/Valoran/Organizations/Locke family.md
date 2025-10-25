@@ -1,1 +1,0 @@
-A noble family with which Lavender has connections. The family includes multiple daughters of marriageable age and at least one son who has become a wizard and adventures far from home. Rowan continues to serve this family as a handmaiden.

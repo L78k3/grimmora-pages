@@ -37,4 +37,4 @@ He was investigating the disappearance of his order's members when our paths cro
 
 ---
 
-**Related:** [[Orion]] • [[The Order]]
+**Related:** [[Orion]] • [[The Order 1]]
