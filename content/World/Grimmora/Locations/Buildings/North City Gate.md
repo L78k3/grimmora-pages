@@ -1,15 +1,6 @@
 ---
 title: North City Gate
 type: building
-region: Avalon
-tags:
-  - location/building
-  - region/avalon
-  - visited
----
----
-title: North City Gate
-type: building
 subtype: gate
 parent: "[[Avalon]]"
 region: "[[Avalonean Empire]]"
