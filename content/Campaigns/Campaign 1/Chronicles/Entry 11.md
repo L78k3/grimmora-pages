@@ -1,4 +1,4 @@
-**Day 9 (continued)**
+# Day 9 (continued)
 
 Following their battle against the spiders, [Theren] successfully harvests some carapaces and fangs from the spiders. Even though the venom has dried, the fangs remain razor-sharp. [Temerity] cooks his spider legs over an open fire and begins to eat. The rest of the party are unconvinced at the thought of eating them, but Temerity seems to be in raptures over the taste.
 
@@ -54,7 +54,7 @@ Theren looks at his home village of [Hesse] on the map, but sees no allies there
 
 The party rests and reflects.
 
-**Day 10**
+# Day 10
 
 Lavender wakes and heads down to train with the soldiers. They are using a range of weapons and she trains with them all – longswords, glaives, throwing knives, axes. People there bow to her as they recognise her. She trains for a while until she hears a noise behind her. She sees a strip of paper disappearing into the shadows. She excuses herself and finds Orion hidden in the shadows. He is furious and demands to know what is going on. Lavender fills him in and explains that they have a common enemy in the necromancers. Orion frowns but says that he must write to his order and explain the situation.
 

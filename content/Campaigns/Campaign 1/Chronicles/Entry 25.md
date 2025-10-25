@@ -1,4 +1,4 @@
-**Day 19 (continued)**
+# Day 19 (continued)
 
 Theren and Lavender turn in early due to their early start with the convoy the next morning. Gage is left to tell Temerity about their plan. Gage gets a drink from Azuul at the bar - Azuul hands him some mead. Gage drinks by himself, waiting for Temerity to appear but it still hasn’t happened by the time he finishes his drink. He heads upstairs to bed and knocks on Temerity’s door.
 
@@ -6,7 +6,7 @@ Temerity is alone – the drow has already left – and his room and he are both
 
 Tm is extremely suspicious. He asks about the casino. Temerity agrees reluctantly and closes the door. Temerity eats some travel rations and then sleeps.
 
-**Day 20**
+# Day 20
 
 Theren, Lavender, Anaphel and Gage all rise early. Temerity is unaccountably up before everyone else. He heads down and leaves the tavern before the rest of them. Heading to the south-east gate, he spots some mead barrels nearby and sits on them to observe the goings-on. The wagons and horses are around, but there is no sign of a caravan forming yet.
 

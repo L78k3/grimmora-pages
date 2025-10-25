@@ -1,4 +1,4 @@
-**Day 20 (continued)**
+# Day 20 (continued)
 
 The caravan proceeds south. Nothing untoward happens en route to Durendal. On approach, during evening, Theren notices lots of lights in the village. The drivers want to rest the horses for the night and begin again in the morning. Gage thinks the lights are familiar. They remind him of something from his past.
 

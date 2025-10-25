@@ -1,4 +1,4 @@
-**Day 22 (continued)**
+# Day 22 (continued)
 
 The artisan’s area is an open square between 4 shelving units and the floor is covered with straw. A couple of crates and tables are scattered around. Four statues are moving, along with the golem. The artisan himself is possessed and stands in the centre of the area. Atop his workbench is a glowing swirl of energy around a miniature statue.
 

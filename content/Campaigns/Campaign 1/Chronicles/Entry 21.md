@@ -1,4 +1,4 @@
-**Day 15 (continued)**
+# Day 15 (continued)
 
 The charmed dwarf stands awaiting instructions. Lavender grabs the bars of Gage’s cell and bends them apart, allowing him to squeeze through. Theren approaches the dwarf and asks him for assistance. The dwarf says to speak to the boss, who will likely be where the slaves are. Theren asks for directions to the boss. The dwarf provides directions and asks them to take the dead drow back to the dormitories after Temerity persuades him that the drow is just sleeping. Theren looks meaningfully at Lavender, who picks up the drow.
 

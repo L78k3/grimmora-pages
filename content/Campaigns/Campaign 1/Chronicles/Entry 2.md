@@ -1,9 +1,12 @@
 ---
 type: chronicle
-location: 
-world: 
-campaign: 
+location: "[[Avalon]]"
+world: Grimmora
+campaign: Campaign 1
 characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
 ---
 # Day 2 (continued)
 

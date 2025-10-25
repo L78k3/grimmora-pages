@@ -1,4 +1,4 @@
-**Day 21 (continued)**
+# Day 21 (continued)
 
 Gage decides to see if he can check in with his party members before deciding to stay in Silvanus’ Beard but they did not agree a meeting point. He checks the caravan, which has made its way to the south exit. He approaches a driver and strikes up a conversation – he looks for a recommendation. The driver recommends somewhere posh in the south and somewhere shady in the north-east. Gage heads to the south, rich estate. He bumps randomly into Theren and tells him about the beds for the night.
 

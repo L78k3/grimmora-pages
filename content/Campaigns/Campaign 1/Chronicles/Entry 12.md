@@ -1,4 +1,4 @@
-**Day 10 (continued)**
+# Day 10 (continued)
 
 Lavender gather Temerity and Theren and brings them to a training area. The elven wizard is there. At her request, he summons a pair of water elementals. Lavender remains outside the training area, watching. Her only instruction is that they should train at being a team.
 

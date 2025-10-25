@@ -1,9 +1,16 @@
 ---
 type: chronicle
 location: 
-world: 
-campaign: 
+  - "[[Dragon's Nest]]"
+  - "[[The Trial Chamber]]"
+  - "[[The Gladiator's Amphitheatre]]"
+world: Grimmora
+campaign: Campaign 1
 characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Orion]]"
 ---
 # Day 7 (continued)
 

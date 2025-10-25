@@ -1,4 +1,4 @@
-**Day 22 (continued)**
+# Day 22 (continued)
 
 The boat sets off. It is an old paddle steamer. Theren retires to his cabin. Lavender sits on a bench up on the deck, feeling paranoid. Gage explores the boat. Temerity finds somewhere quiet with his menagerie.
 
@@ -10,7 +10,7 @@ Temerity sits with his menagerie. Aurius is running around Korako playfully. Gui
 
 Lavender sits on her bench watching the world go by. A chill runs down her spine and a cold wind whips around her. She sees sparkling snowflakes and feels the bite of the wind. She sits in silent contemplation. Anaphel sits beside her in companionable silence. They discuss Auriel’s comforting presence. Anaphel feels that Auriel is not good at giving directions, however. They discuss existential purpose. Lavender feels that her purpose is changing. She gained purpose when she entered and restored Auriel’s ruined temple. Now she has purpose trying to solve the riddle of what blackens her brother’s heart. Anaphel explains that they were sent here as a missionary by their mother Auriel 300 years ago. Lavender is surprised at Anaphel’s age. Anaphel explains that they find the mortal realm stifling. They cannot explain what they have achieved in 300 years. Lavender explains that they may not ever see the effects of their actions, but that they will spread, like ripples. Anaphel mentions something the Wild Wanderer used to say in the immortal planes, explaining the butterfly effect. Anaphel explains that they are homesick but that they cannot return until their duty is fulfilled. Lavender understands that a god’s power comes from the faith and devotion of their followers, but that Auriel had faded from the world, as was evidenced by the ruins of her temple. If Auriel had been abandoned, maybe she didn’t have the strength to help Anaphel. Anaphel tells Lavender that she is very kind but she brushes off the compliment. They share a moment of connection.
 
-**Day 23**
+# Day 23
 
 Dawn rises and the breakfast bell rings aboard ship. Lavender and Anaphel head down to eat. Temerity remains in gaol – as he awakens, he returns to his tiefling form. He realises where he is. He tries to cast Knock on the door to his cell but the staff have asked the Mage’s Guild representative to put a magic sink on the brig due to the unnerving presence of the demon rabbit and his spell doesn’t work. His ears detect the faint sound of jazz on board the ship.
 

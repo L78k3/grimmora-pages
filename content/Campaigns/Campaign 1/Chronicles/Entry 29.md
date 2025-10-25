@@ -1,4 +1,4 @@
-**Day 21 (continued)**
+# Day 21 (continued)
 
 Lavender, Gage and Theren meet up just outside Silvanus’ Beard. As they arrive, it is densely foliaged but there are treehouses and tents and accommodation of various types. An aged woman, blind, is stirring the communal cooking pot. Theren helps himself to stew from the pot – he feels very comfortable here. Halsen is playing with some young ones. Gage sniffs the pot – it contains lots of types of meat, spices and herbs – he takes some. Lavender feels very out of place – some of the children are pointing at her armour. She keeps herself separate.
 
@@ -24,7 +24,7 @@ The half-orc barkeep addresses Temerity and tells him that he’s more confident
 
 Tm remains in the tavern, playing and cavorting merrily. Guido is having a wonderful time stealing beer from patrons. Temerity considers asking someone about his mysterious choker. He beds down for the night in the tavern.
 
-**Day 22**
+# Day 22
 
 As the party rises, there are druids performing protection spells on the enclave. Halsen is there, ready. He is holding a small, dark wood box, carved with runes – it will keep the gem shielded. Halsen offers assistance using the sending stone he gave to Gage. As they approach the caravan, Theren and Lavender see chaos – people running around in a disorganised mess. Seliana is nowhere to be seen. Gage sees the caravan, but there are no horses anywhere to be found.
 

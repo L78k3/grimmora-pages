@@ -1,4 +1,4 @@
-**Day 10 (continued)**
+# Day 10 (continued)
 
 Lavender stocks up with 2 weeks of rations, as well as a necrotic resist potion and two medium healing potions. Orion finds her in the market. She tells him that Temerity is busy having fun and Theren is joined the Displaced and that she has chosen to pursue her brother. Orion informs her that he has been talking to people about the missing First Fist but he has obtained no leads and does not know now where to go to find them. He suggests that Arcadia could have the information he seeks.
 
@@ -28,10 +28,10 @@ Temerity heads to the housekeepers’ quarters. It is a really small, cosy house
 
 Orion explains that he does not know where he must go. Theren replies that he thought they were heading to Arcadia. Temerity simply points fatuously and states that they should go that way. Lavender warns them that this is her goal and she will not ask them to go with her. Temerity states that he is risking his life for their future children, not just for her. Orion tells her that they are going because they are friends. Lavender agrees – they are all going to Arcadia. Orion comments that he has often been quite quiet but now he is taking charge because the group clearly needs it. They rest near the entrance and leave the following morning.
 
-**Day 11**
+# Day 11
 
 The group heads off towards Arcadia. As they leave, the sunlight is glittering off the fresh snow. Lavender marches silently. Temerity plays the song from his childhood as they walk. Theren watches them both, trying to feel the camaraderie. They walk solidly for the whole day. The cold takes a toll and in the evening it starts to snow, so they are hampered and have to camp in the wilderness. Temerity meditates for a time on his bond with Chikatika, for he feels that something is wrong with it. Theren continues to read his books on gods.
 
-**Day 12**
+# Day 12
 
 The party has a better day than the previous one. The snowstorm is gone and they make up for lost time. As they approach Arcadia, the evergreen trees and plants become wilted and dying. Cracks are appearing in the snow. Theren can sense heavy levels of necromancy here. He suspects that a lot of magic has been done not only in the city but also outside it. Temerity asks Korako what he can smell, but the cold has affected his senses and he becomes distressed. Chikatika and Temerity pet him and calm him.

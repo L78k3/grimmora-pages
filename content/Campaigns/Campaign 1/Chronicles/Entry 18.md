@@ -1,4 +1,4 @@
-**Day 12 (continued)**
+# Day 12 (continued)
 
 The figure has the same white blond hair as Lavender, which is flopped over his face. Lavender stands immediately. The newcomer nods and turns back into the office, leaving the door open. Lavender follows him straight away. Gage pulls up his hood and follows them both. Gage sees one of the guards move their hand towards their weapon as he enters the office. Theren also follows them, but is hesitant and nervous.
 

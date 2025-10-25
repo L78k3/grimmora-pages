@@ -1,4 +1,4 @@
-**Day 22 (continued)**
+# Day 22 (continued)
 
 The party heads down to the druids at Silvanus Beard, as does Temerity.
 

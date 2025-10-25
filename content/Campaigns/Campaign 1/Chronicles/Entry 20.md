@@ -1,4 +1,4 @@
-**Day 15 (continued)**
+# Day 15 (continued)
 
 The party sets up their camp just off the road in an alpine forest. Anaphel examines Korako, whom Temerity has just presented to them. He likes the rabbit and asks to pet him. Temerity is overjoyed at this response and tells Anaphel that they may prostrate themselves before the rabbit deity. Anaphel is unconvinced but nevertheless genuflects and asks Korako permission to pet him. Korako enjoys being petted. Temerity reveals to Anaphel that others have been driven to obsession by the sight of Korako. Anaphel comments on Temerity’s bond with his rabbit. Temerity states that it has deepened since their recent fey exposure.
 

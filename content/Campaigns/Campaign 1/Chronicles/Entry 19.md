@@ -1,4 +1,4 @@
-**Day 13 (continued)**
+# Day 13 (continued)
 
 Temerity and Gage observe the remains of the necromancers in the square. They notice a symbol on the arms of the corpses. It is similar to one that they saw on the walls in the cavern beneath the mansion – a skull with diamond eyes. This symbol, however, is inverted and different colours – dark blue and green. Gage attempts to discern its meaning, but with little success.
 
@@ -10,7 +10,7 @@ The party discusses options for the journey to Adalens. They decide that the bes
 
 They start the walk south as soon as possible, since it is a day and a half’s walk to Pinechill village.
 
-**Day 14**
+# Day 14
 
 They enter Pinechill during early evening of the following day. Gage senses that something is off as they enter the village limits. He smells the smell that he detected during their fight the previous morning, but it’s not quite the same scent. Korako smells something strange, too – like death and life at the same time.
 
@@ -36,7 +36,7 @@ Lavender smiles and apologises for the interruption. She speaks respectfully to 
 
 The figure reveals that they are the offspring of Auriel – an aasimar. Their name is Anaphel. They reveal that they are here because they heard of the necromancers in the area and were sent by Auriel to investigate, since the cold regions are the demesne of Auriel. Lavender informs them that Arcadia is now a bastion of the necromancers. She states that the party is heading to Adalens to try and remove the head of the snake. Anaphel states that the forgotten temples and lost followers of Auriel are no coincidence. She tells them of the restored altar in the temple to the north-west of Mightrest. She offers their allegiance. She mentions that Orris is a high-ranking necromancer but she is unsure of his true loyalties. Anaphel bestows a blessing upon her. Lavender calls Theren across to Temerity and Gage’s room and explains to everyone about Anaphel and how they will be joining the group for now.
 
-**Day 15**
+# Day 15
 
 The party rises the following morning feeling refreshed. Anaphel, recloaked, joins them for breakfast. Temerity still insists that Anaphel is a star. Theren is stunned into silence by the aasimar’s presence. No caravans seem to be heading south, so the party resigns itself to having to walk. Theren wants to speak to Anaphel but cannot seem to find the words. The day’s walk is uneventful.
 

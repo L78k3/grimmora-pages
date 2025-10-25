@@ -1,9 +1,13 @@
 ---
 type: chronicle
-location: 
-world: 
-campaign: 
+location: "[[Mightrest]]"
+world: Grimmora
+campaign: Campaign 1
 characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Orion]]"
 ---
 # Day 5 (continued)
 

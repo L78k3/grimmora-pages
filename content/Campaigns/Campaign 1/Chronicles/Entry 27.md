@@ -1,4 +1,4 @@
-**Day 20 (continued)**
+# Day 20 (continued)
 
 The bodies of the guards lie about on the lawn. The gap in the hedges before them leads to the maze. The group takes a rest to revitalise. Theren resummons Runcible. The party agrees to head into the maze and stick together. Thumpy sits on a rock and sniggers.
 
@@ -30,7 +30,7 @@ Gage has a couple of drinks before bed – he looks out for someone who knows th
 
 Temerity is making his way south towards Durendal, not always via the road. He occasionally trips and stumbles or goes through nettles – it is not a pleasant journey. He makes it to the outskirts of the village – he sees the caravan they are accompanying and ignores it. He continues to walk out of the village and secludes himself to rest during the daylight hours.
 
-**Day 21**
+# Day 21
 
 The party wakes and heads to the caravan. The elf greets them officiously but is concerned that Oliver, one of the drivers, is missing. She describes him – a halfling, freckles, ginger hair. They head back to the inn to look for him. Gage asks the goblin behind the bar about Oliver. The goblin said Oliver drank too much and caused a problem – he gives them the room number. The party heads up to the room.
 

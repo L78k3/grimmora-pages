@@ -1,4 +1,4 @@
-**Day 18**
+# Day 18
 
 Lavender decides to retire early and bathe before bed. Gage agrees to let them know when they return from the casino. Theren also leaves early to meditate on his patron.
 
@@ -20,7 +20,7 @@ Temerity makes a sarcastic remark to the tree. A voice sounds, like splitting wo
 
 Theren could not concentrate on his meditation because of the noise, so drifts off to sleep. Lavender takes a relaxing bath and has a nice evening, in spite of the racket downstairs. Gage is utterly hammered and cannot quite unlock his door. Eventually he manages to get the door open and falls on the floor, asleep just inside the doorway.
 
-**Day 19**
+# Day 19
 
 Everyone wakes, fully rested. Temerity is in his room, with Anaphel’s cloak over him. There is a choker around his neck, with vines and roots as the pattern. Temerity looks in the mirror and admires his new accessory. Temerity exits his room and sees Gage in his doorway, snoring loudly with Guido beside him, passed out. Temerity puts a chair in the corridor from his room with Anaphel’s cloak folded neatly on it and his carving on top of it and then heads downstairs. Lavender wakes early and does some stretches and calisthenics. Lavender heads downstairs after her workout and sees Temerity already down there. Temerity is being served free food by the drow and he’s flirting with her.
 

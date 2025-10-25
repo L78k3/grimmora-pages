@@ -1,9 +1,16 @@
 ---
 type: chronicle
 location: 
-world: 
-campaign: 
+  - "[[Avalon]]"
+  - "[[Frostpeak Pass]]"
+  - "[[Mightrest]]"
+world: Grimmora
+campaign: Campaign 1
 characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Orion]]"
 ---
 # Day 3 (continued)
 

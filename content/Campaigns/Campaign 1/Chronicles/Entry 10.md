@@ -1,4 +1,4 @@
-**Day 9 (continued)**
+# Day 9 (continued)
 
 During the flight from the cavern on the invisible griffin Mathilda, Temerity sings, but due to the wind rushing past, only he can hear himself. Mathilda flies for a while before depositing the team far up in the north at the edge of the mountain range. They find themselves surrounded by mountains on one side and massive black fir trees on the other. The source of the river is nearby. In the distance, they can see lights – static and equidistant. They are a row of torches leading off.
 

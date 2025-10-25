@@ -1,4 +1,4 @@
-**Day 16**
+# Day 16
 
 Lavender has strange feelings, like her body exists but she can’t use it. She wonders if she is in another dimension. It doesn’t feel like anything familiar. She is weightless and incorporeal, like a consciousness floating. A voice penetrates the static surroundings, asking how she got there. She gives no reply. She is not even sure if she can speak. Eventually she says that they were losing. Her voice fills the void like an icy blue pulse – she finds this reassuring.
 
@@ -20,7 +20,7 @@ Gage tries to sleep but can’t turn his brain off. He finds it strange that he�
 
 Lavender clonks up behind Theren. He tenses at her approach – he wanted to be followed but doesn’t want to talk to her. She shouts at him to stop. He pauses, doesn’t turn around and then keeps walking. She jogs after him again and demands to know where he is going. Anywhere is the reply. She calls after him that she will not chase him into a mausoleum. He pauses for a moment and replies that that’s good. She mentions their previous argument in front of Bromelia. He says that she should have left him there. She hoists him over her shoulder. He uses eldritch blast and Tasha’s hideous laughter, but neither succeed against her – he is too frantic. She throws him down in full rage. He splats to the ground, seriously wounded, on the verge of death, as he wounds had not been healed since the fight in the mausoleum. Horror crosses her face as she realises what she has done. She kneels in a panic, frost gathers around her fingers, uncontrolled. It surrounds Theren as she places her hands on him. Her breath is short and panicked. He stabilises. Her tears freeze to her face. Theren says he’s sorry. He repeats the apology that he couldn’t protect her. She picks him up and carries him back to camp. Anaphel notices Lavender return with him. She passes Theren over to Anaphel and asks for them to help him. Anaphel puts Theren in his bedroll, places a hand on his head and he drifts to sleep.
 
-**Day 17**
+# Day 17
 
 The party rises after a very long sleep. Aurius and Chikatika are racing around – Aurius is running around her as she rolls. Gage has been organising his pack, very military style. Temerity plays an invigorating tune. Anaphel is completely asleep. Theren is not stirring yet. Eventually Anaphel wakes and looks over at Lavender. Lavender is meditating whilst waiting for the party. Banter occurs between Temerity, Lavender and Anaphel. Anaphel asks Theren how he is. Still alive is his answer. They all pack the camp away and continue on down the road.
 
@@ -38,7 +38,7 @@ Anaphel approaches Temerity. He is carving something intricate, entranced in his
 
 Theren holds Runcible and looks inwards, trying once more to reach his patron. He enters a trance and is taken back to his village, outside the weaver’s house, as an adolescent. There’s a section to the side of the house – a lean-to. He has been sent to fetch cloth by his father. A loom and spinning wheel are in the lean-to. Loads of straw is piled in the corner. It is dark inside – a cloth is being woven on the loom. Theren recognises the gold light coming from the cloth on the loom. There are footsteps behind him – he turns. The memory fades. He felt his patron’s presence in the memory but still cannot pinpoint the identity. He feels almost hopeful and sleeps soundly.
 
-**Day 18**
+# Day 18
 
 The party continues on their way to Midward. Anaphel walks beside Lavender, rather than flying above. Lavender appreciates the company, but says nothing. They arrive in Midward mid-afternoon. It is an overcast day – there is no snow this far south. It seems like a nice town.
 
