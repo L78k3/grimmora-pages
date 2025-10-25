@@ -36,35 +36,294 @@ All paths below use relative format from the `content/` directory.
 ## Folder Structure
 
 ```
-content/
-├── World/
-│   └── Grimmora/
-│       ├── Locations/
-│       │   ├── Cities/
-│       │   ├── Towns/
-│       │   ├── Villages/
-│       │   ├── Buildings/
-│       │   ├── Districts/
-│       │   ├── Landmarks/
-│       │   ├── Dungeons-and-Lairs/
-│       │   └── Maps/
-│       ├── Regions/
-│       ├── Concepts/
-│       ├── Items/
-│       ├── Abilities/
-│       └── Organizations/
-├── System/
-│   └── Templates/
-│       ├── Location - City.md
-│       ├── Location - Town.md
-│       ├── Location - Village.md
-│       ├── Location - Building.md
-│       ├── Location - District.md
-│       ├── Location - Dungeon.md
-│       ├── Location - Landmark.md
-│       └── Location - Region.md
-├── Campaigns/
-└── Reference/
+content
+├── Campaigns
+│   └── Campaign 1
+│       ├── Characters
+│       │   ├── GageGreengather
+│       │   │   ├── Allies & Rivals.md
+│       │   │   ├── Gage.md
+│       │   │   ├── Inventory.md
+│       │   │   ├── Ongoing Threads.md
+│       │   │   ├── Personal Quests.md
+│       │   │   └── Sheet Archives
+│       │   │       ├── GageGreenGatherSheet20231024.pdf
+│       │   │       ├── GageGreenGatherSheet20240323.pdf
+│       │   │       ├── GageGreenGatherSheet20250423.pdf
+│       │   │       └── character-0.1.pdf
+│       │   ├── Lavender
+│       │   │   ├── Lavender.md
+│       │   │   └── b. Inventory.md
+│       │   ├── Marianne.md
+│       │   ├── Temerity.md
+│       │   └── Theren.md
+│       ├── Chronicles
+│       │   ├── Entry 1.md
+│       │   ├── Entry 10.md
+│       │   ├── Entry 11.md
+│       │   ├── Entry 12.md
+│       │   ├── Entry 13.md
+│       │   ├── Entry 14.md
+│       │   ├── Entry 15.md
+│       │   ├── Entry 16.md
+│       │   ├── Entry 17.md
+│       │   ├── Entry 18.md
+│       │   ├── Entry 19.md
+│       │   ├── Entry 2.md
+│       │   ├── Entry 20.md
+│       │   ├── Entry 21.md
+│       │   ├── Entry 22.md
+│       │   ├── Entry 23.md
+│       │   ├── Entry 24.md
+│       │   ├── Entry 25.md
+│       │   ├── Entry 26.md
+│       │   ├── Entry 27.md
+│       │   ├── Entry 28.md
+│       │   ├── Entry 29.md
+│       │   ├── Entry 3.md
+│       │   ├── Entry 30.md
+│       │   ├── Entry 31.md
+│       │   ├── Entry 32.md
+│       │   ├── Entry 33.md
+│       │   ├── Entry 4.md
+│       │   ├── Entry 5.md
+│       │   ├── Entry 6.md
+│       │   ├── Entry 7.md
+│       │   ├── Entry 8.md
+│       │   └── Entry 9.md
+│       ├── Events
+│       │   ├── Battle at the Big House.md
+│       │   ├── Dragon Battle.md
+│       │   ├── Gnome Confrontation.md
+│       │   ├── Magical Plague.md
+│       │   ├── Plague Investigation.md
+│       │   ├── The Trial of the Gladiator.md
+│       │   └── Vampire Defeat.md
+│       ├── NPCs
+│       │   ├── Anaphel.md
+│       │   ├── Auril.md
+│       │   ├── Aurius.md
+│       │   ├── Bracken.md
+│       │   ├── Brian.md
+│       │   ├── Captain Arran.md
+│       │   ├── Cella.md
+│       │   ├── Corvus.md
+│       │   ├── Dave.md
+│       │   ├── First Fist.md
+│       │   ├── Florian.md
+│       │   ├── Gnome Cook.md
+│       │   ├── Gorg.md
+│       │   ├── Guardsman Floyd.md
+│       │   ├── Guido.md
+│       │   ├── Halsin.md
+│       │   ├── Ice Dragon.md
+│       │   ├── Ismay.md
+│       │   ├── Korako.md
+│       │   ├── Lady Arren.md
+│       │   ├── Lady Bromelia.md
+│       │   ├── Lord Requiem.md
+│       │   ├── Mavis.md
+│       │   ├── Millicent.md
+│       │   ├── Orion.md
+│       │   ├── Requiem la Rouge.md
+│       │   ├── Rowan.md
+│       │   ├── Runcible.md
+│       │   ├── Summer.md
+│       │   ├── The Alchemist.md
+│       │   ├── The Clothier.md
+│       │   ├── Vampire Lord.md
+│       │   ├── Wild Wanderer.md
+│       │   ├── Winter.md
+│       │   ├── Zadhir.md
+│       │   ├── bandit captain.md
+│       │   ├── bandits.md
+│       │   ├── grand cleric.md
+│       │   └── hag.md
+│       └── Sessions
+│           ├── Session 20231228.md
+│           ├── Session 20240104.md
+│           ├── Session 20240210.md
+│           ├── Session 20240323.md
+│           ├── Session 20240330.md
+│           ├── Session 20240406.md
+│           ├── Session 20240527.md
+│           ├── Session 20240608.md
+│           ├── Session 20240629.md
+│           ├── Session 20240720.md
+│           ├── Session 20240727.md
+│           ├── Session 20240803.md
+│           ├── Session 20240831.md
+│           ├── Session 20241026.md
+│           ├── Session 20241228.md
+│           └── Session 20250215.md
+├── Character Creation Guidelines Uwendale Military Outpost.md
+├── GM-Only
+│   ├── GM Tools
+│   │   ├── Quick References
+│   │   └── Random Tables
+│   ├── Session Prep
+│   │   └── Session Prep for Uwendale Oneshot.md
+│   ├── Uwendale
+│   │   ├── 00 Morning at Uwendale.md
+│   │   ├── 01 Farm Assault or Border Intrigue.md
+│   │   ├── 02-a Defend Farm, Discover Kidnapping.md
+│   │   ├── 02-b Investigate Agents, Learn of Cave.md
+│   │   ├── 03 Track to mountain cave.md
+│   │   ├── 04 Cave Exploration & Rescue.md
+│   │   └── Encounter Chart.canvas
+│   └── World Secrets
+│       └── Valoran
+├── Reference
+│   ├── Assassin.md
+│   ├── Gloom Stalker.md
+│   └── Quick Reference.md
+├── System
+│   ├── Conversion-Workflow-Reference.md
+│   ├── Queries
+│   │   ├── Allies.md
+│   │   ├── Inventory.md
+│   │   ├── Ongoing Threads.md
+│   │   └── Quests.md
+│   └── Templates
+│       ├── Character.md
+│       ├── Chronicle.md
+│       ├── Core Framework.md
+│       ├── Item.md
+│       ├── Location - Building.md
+│       ├── Location - City.md
+│       ├── Location - District.md
+│       ├── Location - Dungeon.md
+│       ├── Location - Landmark.md
+│       ├── Location - Region.md
+│       ├── Location - Town.md
+│       ├── Location - Village.md
+│       ├── Location.md
+│       ├── NPC.md
+│       ├── Ongoing Thread.md
+│       ├── Quest.md
+│       └── Session.md
+├── Uwendale
+│   ├── Characters
+│   │   ├── HalTorrendall.pdf
+│   │   ├── SunTzu.pdf
+│   │   └── liraDewcap.pdf
+│   └── Some content idk.md
+├── World
+│   ├── Grimmora
+│   │   ├── Abilities
+│   │   │   ├── confoundment spell.md
+│   │   │   └── hideous laughter.md
+│   │   ├── Concepts
+│   │   │   ├── Ice Wolves.md
+│   │   │   ├── Lady Rose.md
+│   │   │   ├── Pellor.md
+│   │   │   ├── Pseudodragon.md
+│   │   │   ├── Snow-Blindness.md
+│   │   │   ├── The Curse.md
+│   │   │   ├── The Gladiator Wight.md
+│   │   │   ├── dimensional sucker.md
+│   │   │   ├── dryads.md
+│   │   │   ├── eladrin.md
+│   │   │   ├── griffin.md
+│   │   │   ├── half-orc.md
+│   │   │   ├── hellish rebuke.md
+│   │   │   ├── hellish-rebuke.md
+│   │   │   ├── moon elf.md
+│   │   │   ├── necromancers.md
+│   │   │   ├── spectres.md
+│   │   │   └── tiefling.md
+│   │   ├── Items
+│   │   │   ├── Auril's Wall.md
+│   │   │   ├── Blue Communication Stone.md
+│   │   │   ├── Crystal Orbs.md
+│   │   │   ├── Dragon Meat.md
+│   │   │   ├── Potion of Fire Breathing.md
+│   │   │   ├── crossbow.md
+│   │   │   ├── health potions.md
+│   │   │   ├── scrying pool.md
+│   │   │   └── teleportation rune.md
+│   │   ├── Locations
+│   │   │   ├── Buildings
+│   │   │   │   ├── Auril's Church.md
+│   │   │   │   ├── Golden Griffin.md
+│   │   │   │   ├── Jade Zephyr Casino.md
+│   │   │   │   ├── North City Gate.md
+│   │   │   │   ├── Rotunda.md
+│   │   │   │   ├── The Tavern.md
+│   │   │   │   ├── mage's tower.md
+│   │   │   │   ├── monastery.md
+│   │   │   │   └── temple.md
+│   │   │   ├── Cities
+│   │   │   │   ├── Arcadia.md
+│   │   │   │   ├── Avalon.md
+│   │   │   │   ├── Bridgeport.md
+│   │   │   │   └── Durvish City.md
+│   │   │   ├── Districts
+│   │   │   │   └── elvish quarter.md
+│   │   │   ├── Dungeons-and-Lairs
+│   │   │   │   ├── Dragon's Nest.md
+│   │   │   │   ├── Orris' Secret Lair.md
+│   │   │   │   ├── The Gladiator's Amphitheatre.md
+│   │   │   │   ├── The Trial Chamber.md
+│   │   │   │   └── Vampire Mansion.md
+│   │   │   ├── Landmarks
+│   │   │   │   ├── Alpine Forest.md
+│   │   │   │   ├── Court of Flowers.md
+│   │   │   │   ├── Court of Summer and Winter.md
+│   │   │   │   └── fey realm.md
+│   │   │   ├── Maps
+│   │   │   │   ├── GRIMMORA_UPDATED.jpg
+│   │   │   │   └── Maps.canvas
+│   │   │   ├── Towns
+│   │   │   │   ├── Bremen.md
+│   │   │   │   ├── Durendal.md
+│   │   │   │   ├── Frostpeak Pass.md
+│   │   │   │   └── Mightrest.md
+│   │   │   └── Villages
+│   │   │       ├── Midward.md
+│   │   │       └── Pinechill.md
+│   │   ├── Organizations
+│   │   │   ├── House Locke.md
+│   │   │   ├── The Order of the Ancient Fable.md
+│   │   │   └── The Order.md
+│   │   ├── Regions
+│   │   │   ├── Avalonean Empire.md
+│   │   │   └── The Frost.md
+│   │   └── grimmora-index.md
+│   └── Valoran
+│       ├── Abilities
+│       ├── Concepts
+│       ├── Items
+│       │   └── petricite.md
+│       ├── Locations
+│       │   ├── Demacia.md
+│       │   ├── Demacian Capital.md
+│       │   ├── Maps
+│       │   ├── Noxus.md
+│       │   ├── The Freljord.md
+│       │   └── Uwendale.md
+│       └── Organizations
+├── assets
+│   ├── City_of_Avalon.jpg
+│   └── GRIMMORA_UPDATED.jpg
+├── attachments
+│   ├── 1zp0i32g 1.webp
+│   ├── 1zp0i32g 2.webp
+│   ├── 1zp0i32g 3.webp
+│   ├── 1zp0i32g 4.webp
+│   ├── 1zp0i32g 5.webp
+│   ├── 1zp0i32g 6.webp
+│   ├── 1zp0i32g.webp
+│   ├── GRIMMORA_UPDATED.jpg
+│   ├── icon.webp
+│   └── iconRetry.jpg
+├── campaign_outputs
+│   └── Campaign_1.txt
+├── content-README.md
+└── index.md
+
+50 directories, 234 files
+
 ```
 
 ## Template Locations

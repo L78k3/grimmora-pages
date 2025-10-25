@@ -1,3 +1,18 @@
+---
+type: chronicle
+location:
+  - "[[Durvish City]]"
+  - "[[Avalonean Empire]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+  - "[[Anaphel]]"
+  - "[[Mary-Ann Mayfield]]"
+---
 # Day 23 (continued)
 
 The party gathers in the communal areas of the ship. Lavender is withdrawn after her break with Anaphel. Theren feels nostalgic for where they began their quest together. Gage is looking for gentry after having read the letters.

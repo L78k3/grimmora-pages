@@ -1,3 +1,15 @@
+---
+type: chronicle
+location: "[[Adalens]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Anaphel]]"
+---
 # Day 19 (continued)
 
 Temerity is having a distinctly average experience with the drow – he gives her a few tips and she is a fast learner. Eventually, a great time was had by all.

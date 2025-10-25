@@ -1,3 +1,15 @@
+---
+type: chronicle
+location: "[[Adalens]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Anaphel]]"
+---
 # Day 16
 
 Lavender has strange feelings, like her body exists but she can’t use it. She wonders if she is in another dimension. It doesn’t feel like anything familiar. She is weightless and incorporeal, like a consciousness floating. A voice penetrates the static surroundings, asking how she got there. She gives no reply. She is not even sure if she can speak. Eventually she says that they were losing. Her voice fills the void like an icy blue pulse – she finds this reassuring.

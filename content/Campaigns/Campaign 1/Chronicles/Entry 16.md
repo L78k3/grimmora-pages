@@ -1,3 +1,14 @@
+---
+type: chronicle
+location: "[[Arcadia]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Lavender]]"
+---
 # Day 12 (continued)
 
 Guido returns to the bar dragging a bottle of mead with his tail. Temerity creates a diversion to hide his entrance. He conjures the illusion of lines of tap-dancing rats with gold waistcoats. Everyone falls silent and watches the incredible display of bardic phantasmagoria. Under the cover of this distracting illusion, Temerity scoops up Guido and begins to juggle with him. Temerity pops the cork of the bottle, catches the lute that he was also juggling, strums the final chord and catches the bottle upright on the top of his head. Guido lands head first in the bottle. The audience provides rapturous applause. Various items are thrown at Temerity, mostly gold but the odd item of underwear also. The rats scurry off and the inn returns to normal in the wake of the spectacle. Temerity gathers up 110 gold pieces. The innkeeper is so impressed that he offers Temerity a permanent position at the bar. Temerity instead buys a round of drinks for all present.

@@ -1,3 +1,15 @@
+---
+type: chronicle
+location: "[[Durvish City]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+  - "[[Anaphel]]"
+---
 # Day 23 (continued)
 
 Theren’s attention keeps shifting – he is distracted as he hears whispering. He picks up sailors discussing a variety of things: “she’s safely contained”; “It seems to have spread”; “Close the whole floor”; “Quarantine them all”; “Cleaner when we dock”; “Keep it under wraps”; “People will find out”; “She’s here on her own.”

@@ -1,3 +1,14 @@
+---
+type: chronicle
+location: "[[The Frost]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Temerity]]"
+  - "[[Lavender]]"
+  - "[[Theren]]"
+  - "[[Lady Bromelia]]"
+---
 # Day 10 (continued)
 
 The bustling of the cavern continues. In one area, a number of gambling events are taking place. The gambling uses items of value, as opposed to currency. There is a general feeling of revelry and enjoyment. Bromelia herself is ensconced in the war room after her early morning training. She is a different person from when the party last saw her – she has increased her muscle mass considerably.

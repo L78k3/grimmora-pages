@@ -1,3 +1,15 @@
+---
+type: chronicle
+location: "[[Adalens]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Anaphel]]"
+---
 # Day 18
 
 Lavender decides to retire early and bathe before bed. Gage agrees to let them know when they return from the casino. Theren also leaves early to meditate on his patron.

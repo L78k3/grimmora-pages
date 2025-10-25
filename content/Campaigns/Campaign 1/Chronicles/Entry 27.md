@@ -1,3 +1,17 @@
+---
+type: chronicle
+location:
+  - "[[Durendal]]"
+  - "[[fey realm]]"
+  - "[[Avalon]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Anaphel]]"
+---
 # Day 20 (continued)
 
 The bodies of the guards lie about on the lawn. The gap in the hedges before them leads to the maze. The group takes a rest to revitalise. Theren resummons Runcible. The party agrees to head into the maze and stick together. Thumpy sits on a rock and sniggers.

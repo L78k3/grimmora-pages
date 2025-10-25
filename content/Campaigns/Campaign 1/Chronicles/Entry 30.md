@@ -1,3 +1,14 @@
+---
+type: chronicle
+location: "[[Bridgeport]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+---
 # Day 22 (continued)
 
 The party decide to track briefly into the city. There was potential for finding an ally in Seriana if they rescue her. Anaphel stays with the caravan to try and restore order.

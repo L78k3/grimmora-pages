@@ -1,3 +1,16 @@
+---
+type: chronicle
+location:
+  - "[[Avalon]]"
+  - "[[Bridgeport]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Anaphel]]"
+---
 # Day 21 (continued)
 
 Lavender, Gage and Theren meet up just outside Silvanus’ Beard. As they arrive, it is densely foliaged but there are treehouses and tents and accommodation of various types. An aged woman, blind, is stirring the communal cooking pot. Theren helps himself to stew from the pot – he feels very comfortable here. Halsen is playing with some young ones. Gage sniffs the pot – it contains lots of types of meat, spices and herbs – he takes some. Lavender feels very out of place – some of the children are pointing at her armour. She keeps herself separate.

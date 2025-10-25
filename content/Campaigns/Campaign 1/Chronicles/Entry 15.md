@@ -1,3 +1,14 @@
+---
+type: chronicle
+location: "[[Arcadia]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+---
 # Day 12 (continued)
 
 The group continues to approach Arcadia, wandering stealthily through the forest. Theren senses necromancy getting stronger as they approach the city. There is no secret here – the necromancy is not hidden. They spot guards on the walls and some patrolling outside the city limits. Temerity suggests capturing a guard so that he can impersonate one. Lavender agrees with the plan. They all agree that heading to a smaller gate makes more sense than approaching the main gate.

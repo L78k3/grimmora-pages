@@ -1,3 +1,17 @@
+---
+type: chronicle
+location: 
+  - "[[Arcadia]]"
+  - "[[Pinechill]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Temerity]]"
+  - "[[Gage]]"
+  - "[[Lavender]]"
+  - "[[Theren]]"
+  - "[[Anaphel]]"
+---
 # Day 13 (continued)
 
 Temerity and Gage observe the remains of the necromancers in the square. They notice a symbol on the arms of the corpses. It is similar to one that they saw on the walls in the cavern beneath the mansion – a skull with diamond eyes. This symbol, however, is inverted and different colours – dark blue and green. Gage attempts to discern its meaning, but with little success.

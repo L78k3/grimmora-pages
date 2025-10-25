@@ -1,3 +1,15 @@
+---
+type: chronicle
+location: "[[Bridgeport]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+  - "[[Anaphel]]"
+---
 # Day 22 (continued)
 
 The party heads down to the druids at Silvanus Beard, as does Temerity.

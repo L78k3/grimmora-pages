@@ -1,3 +1,16 @@
+---
+type: chronicle
+location: 
+  - "[[The Frost]]"
+  - "[[Arcadia]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Orion]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+---
 # Day 10 (continued)
 
 Lavender stocks up with 2 weeks of rations, as well as a necrotic resist potion and two medium healing potions. Orion finds her in the market. She tells him that Temerity is busy having fun and Theren is joined the Displaced and that she has chosen to pursue her brother. Orion informs her that he has been talking to people about the missing First Fist but he has obtained no leads and does not know now where to go to find them. He suggests that Arcadia could have the information he seeks.

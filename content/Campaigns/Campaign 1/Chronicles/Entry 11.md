@@ -1,3 +1,12 @@
+---
+type: chronicle
+location: "[[The Frost]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Temerity]]"
+  - "[[Theren]]"
+---
 # Day 9 (continued)
 
 Following their battle against the spiders, [Theren] successfully harvests some carapaces and fangs from the spiders. Even though the venom has dried, the fangs remain razor-sharp. [Temerity] cooks his spider legs over an open fire and begins to eat. The rest of the party are unconvinced at the thought of eating them, but Temerity seems to be in raptures over the taste.

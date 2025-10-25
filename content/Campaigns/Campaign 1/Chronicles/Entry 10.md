@@ -1,6 +1,17 @@
+---
+type: chronicle
+location: "[[The Frost]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Orion]]"
+---
 # Day 9 (continued)
 
-During the flight from the cavern on the invisible griffin Mathilda, Temerity sings, but due to the wind rushing past, only he can hear himself. Mathilda flies for a while before depositing the team far up in the north at the edge of the mountain range. They find themselves surrounded by mountains on one side and massive black fir trees on the other. The source of the river is nearby. In the distance, they can see lights – static and equidistant. They are a row of torches leading off.
+During the flight from the cavern on the invisible griffin [[Mathilda]], Temerity sings, but due to the wind rushing past, only he can hear himself. Mathilda flies for a while before depositing the team far up in the north at the edge of the mountain range. They find themselves surrounded by mountains on one side and massive black fir trees on the other. The source of the river is nearby. In the distance, they can see lights – static and equidistant. They are a row of torches leading off.
 
 Mathilda tells them that she can go no further and that to fly here is dangerous for her – she could get shot. She drops Temerity and bows to allow the party to disembark. She asks if Temerity is always the way that he is. Theren nods in reply. She offers him advice: talk less and smile more. She flies off southwards.
 

@@ -12,27 +12,26 @@ tags:
 # Mage's Tower
 
 > [!info] Visited
-> **When:** [[Entry 34#Day 23 (continued)|Day 23]]
+> **When:** [[Entry 1#Day 1|Day 1]]
 > **Location:** [[Durvish City]]
 
 ## Overview
 
-A beautifully decorated and tastefully furnished tower in [[Durvish City]] that serves as the home and workshop of the powerful mage, [[Ismay]]. The interior is meticulously kept and feels like a well-loved home.
+A tower for mages located in [[Durvish City]]. The party was sent here by [[Lady Arren]] to find someone who could remove a [[confoundment spell]].
 
 ## Notable NPCs
 
-- **[[Ismay]]**: An older, powerful mage who resides in the tower. She is an acquaintance of [[content/Campaigns/Campaign 1/Characters/Lavender]] and a highly capable spellcaster.
+-   **[[Ismay]]**: A "short, plump, scatty and gregarious" mage who works in the tower. She immediately agreed to help the party when asked.
+-   **Arrogant Mage**: An unnamed mage in the tower who was too busy with his "cartography" to help the party, and dismissively sent them to find Ismay.
 
 ## Our Experience
 
-We visited [[Ismay]]'s tower on Day 23, seeking her aid to remove a [[confoundment spell]] from a guard named [[Grash]]. He had been magically compelled to believe [[Temerity]] was his pet rabbit.
+We traveled to the Mage's Tower on Day 1 at the suggestion of [[Lady Arren]], seeking help for a half-orc guard at the north gate who had been hit with a [[confoundment spell]].
 
-[[Ismay]] successfully dispelled the potent magic by having [[Grash]] focus on a fond memory. The spell's removal revealed the shocking truth: the guard [[Kevin]] had polymorphed [[Temerity]] into the rabbit during our voyage. [[Ismay]] confirmed the spell was cast by a powerful magic-user.
-
-After the spell was broken, she kindly offered us a place to stay and rest within her tower.
+We first spoke to an arrogant mage who was too busy with his cartography to be bothered with us. He sent us to [[Ismay]], who was very friendly and "agree[d] at once to help". She then accompanied us back to the gate, "unconfound[ed] the guard," and "promptly teleport[ed] back to the mage's tower".
 
 ---
 
 **Location:** [[Durvish City]]
 
-**Related NPCs:** [[Ismay]]
+**Related NPCs:** [[Ismay]] • [[Lady Arren]]

@@ -1,3 +1,16 @@
+---
+type: chronicle
+location: 
+  - "[[Arcadia]]"
+  - "[[Orris' Secret Lair]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Gage]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Lavender]]"
+---
 # Day 12 (continued)
 
 Gage heads to the front door of the mansion to investigate the noise and ends up in the kitchen. The food there looks fairly fresh but the light is dim. The oven is cold, yet some of the food is hot.

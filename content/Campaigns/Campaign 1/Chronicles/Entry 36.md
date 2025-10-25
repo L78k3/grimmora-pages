@@ -1,3 +1,16 @@
+---
+type: chronicle
+location: "[[Avalonean Empire]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Gage]]"
+  - "[[Theren]]"
+  - "[[Temerity]]"
+  - "[[Anaphel]]"
+  - "[[Mary-Ann Mayfield]]"
+---
 # Day 24 (continued)
 
 Gage fires his bow at the captain, piercing superficially. Mary-Ann stealths and moves to attack the brute in front of Lavender with her shortsword, slashing it. The brute turns and attacks Mary-Ann with a reckless attack using its greataxe – she is knocked to the ground. The other brute swings at Theren and misses because of his entropic ward. The mages use toll the dead against Theren – he takes massive damage, but his Hadar remains in place. Theren retaliates against the brute that hit him, using Raulothim’s psychic lance, incapacitating it. He activates his cloak of flies. The two rear marauders move around the Hadar field next to the mages. The marauder in front of Anaphel attacks Mary-Ann, who is on the ground. Temerity uses eldritch blast against the marauder attacking Mary-Ann, hurting him mildly. Lavender turns around and attacks the incapacitated brute, hurting it badly. The captain charges forwards to hide behind the standing brute and screams – Gage, Lavender and Theren are feared. He elbows the brute and boosts it to gain an extra attack against Lavender – it swings its axe and she has lost her rage because of her fear. Anaphel mutters a prayer and from the sky an icy shard falls. It opens to reveal a sword and shield, releasing a guardian of faith.

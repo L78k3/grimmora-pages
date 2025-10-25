@@ -1,3 +1,17 @@
+---
+type: chronicle
+location:
+  - "[[Adalens]]"
+  - "[[Avalonean Empire]]"
+world: Grimmora
+campaign: Campaign 1
+characters:
+  - "[[Lavender]]"
+  - "[[Temerity]]"
+  - "[[Theren]]"
+  - "[[Gage]]"
+  - "[[Anaphel]]"
+---
 # Day 19 (continued)
 
 Theren and Lavender turn in early due to their early start with the convoy the next morning. Gage is left to tell Temerity about their plan. Gage gets a drink from Azuul at the bar - Azuul hands him some mead. Gage drinks by himself, waiting for Temerity to appear but it still hasn’t happened by the time he finishes his drink. He heads upstairs to bed and knocks on Temerity’s door.
