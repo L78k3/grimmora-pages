@@ -1,5 +1,5 @@
 ---
-title: The Gladiator's Amphitheater
+title: The Gladiator's Amphitheatre
 type: landmark
 subtype: arena
 location: "[[The Frost]]"
@@ -12,7 +12,7 @@ tags:
   - auril-related
 ---
 
-# The Gladiator's Amphitheater
+# The Gladiator's Amphitheatre
 
 > [!info] Visited
 > **When:** [[Entry 8#Day 7 (continued)|Day 7-8]]
@@ -20,11 +20,11 @@ tags:
 
 ## Overview
 
-A magical arena located within [[Auril]]'s trial complex in [[The Frost]]. This amphitheater is where the party faced `[[The Trial of the Gladiator]]`.
+A magical arena located within [[Auril]]'s trial complex in [[The Frost]]. This amphitheatre is where the party faced [[The Trial of the Gladiator]].
 
 ## Features
 
--   **Magical Audience:** The stands of the amphitheater are empty, yet they produce the sound of a roaring, cheering crowd, creating an oppressive and surreal atmosphere.
+-   **Magical Audience:** The stands of the amphitheatre are empty, yet they produce the sound of a roaring, cheering crowd, creating an oppressive and surreal atmosphere.
 -   **Combat Arena:** The central floor is a designated combat zone, home to [[The Gladiator Wight]].
 -   **Portcullis Exits:** Entry and exit from the arena are controlled by portcullises that open and close magically.
 
@@ -40,4 +40,4 @@ In a climactic test of faith, she allowed the wight to strike her down with necr
 
 **Parent Location:** [[The Trial Chamber]]
 
-**Related:** `[[The Trial of the Gladiator]]` • [[The Gladiator Wight]] • [[Lavender]]
+**Related:** [[The Trial of the Gladiator]] • [[The Gladiator Wight]] • [[Lavender]]

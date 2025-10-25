@@ -6,7 +6,7 @@ campaign:
 characters:
 ---
 # Day 5 (continued)
-[[Temerity]] retrieves [[Korako]] and [[Guido]] from where they have been hiding themselves. He places Korako on the altar and site, cross-legged, before him, staring at the rabbit. [[content/Campaigns/Campaign 1/Characters/Lavender]] Info]] glares briefly at his strange behaviour, but says nothing. She can hear him muttering to Korako but can't make out what. As she strains to listen, he suddenly calls out to save some of the troll for dinner. Lavender replies that she isn't sure if the thing is edible and, when he continues to make strange remarks, ignores him.
+[[Temerity]] retrieves [[Korako]] and [[Guido]] from where they have been hiding themselves. He places Korako on the altar and site, cross-legged, before him, staring at the rabbit. [[Lavender]] glares briefly at his strange behaviour, but says nothing. She can hear him muttering to Korako but can't make out what. As she strains to listen, he suddenly calls out to save some of the troll for dinner. Lavender replies that she isn't sure if the thing is edible and, when he continues to make strange remarks, ignores him.
 
 Throughout this, [[Theren]] has lain semi-conscious on the floor after having collapsed post-battle, weary from the exertion and that of searing the vines before. His state goes ignored by both. Temerity continues muttering, causing Korako to wonder why his master is doing so. Temerity asks him if he can recall the attempt that they made to summon the deities. Korako is confused; all he recalls is…grass. This recollection simply instils in him a desire to eat grass. Temerity apologises, since they are currently surrounded by snow, and offers him a treat instead.
 
