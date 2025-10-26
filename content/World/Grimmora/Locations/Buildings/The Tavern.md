@@ -26,21 +26,21 @@ The tavern is equipped with crystal orbs that can record and replay events. Doub
 
 ## Notable NPCs
 
-- **[[Gorg]]**: The half-orc innkeeper. He is exasperated by his cook but keeps him employed due to his skill. Gorg has some magical ability and claims to have traveled to the upper planes, where he heard whispers of a being called the `[[Wild Wanderer]]`.
+- **[[Gorg]]**: The half-orc innkeeper. He is exasperated by his cook but keeps him employed due to his skill. Gorg has some magical ability and claims to have traveled to the upper planes, where he heard whispers of a being called the [[Wild Wanderer]].
 
-- **[[Gnome Cook]]**: The tavern's cook, who works in the kitchen. He has a bizarre and confrontational personality, challenging [[Temerity]] to a fight over [[content/Campaigns/Campaign 1/Characters/Lavender]].
+- **[[Gnome Cook]]**: The tavern's cook, who works in the kitchen. He has a bizarre and confrontational personality, challenging [[Temerity]] to a fight over [[Lavender]].
 
 ## Our Experience
 We have stayed at The Tavern on two separate occasions.
 
 ### First Visit (Day 4)
 
-After arriving in [[Mightrest]], we took rooms here and met [[Orion]]. The [[Gnome Cook]] delivered food to our room, which led to a strange confrontation where he challenged [[Temerity]] to a fight for [[content/Campaigns/Campaign 1/Characters/Lavender]]'s affection. This escalated into a brawl in the kitchen, which [[Gorg]] broke up before forcing them to calm down. Gorg later gave [[content/Campaigns/Campaign 1/Characters/Lavender]] a crystal orb that replayed the entire altercation.
+After arriving in [[Mightrest]], we took rooms here and met [[Orion]]. The [[Gnome Cook]] delivered food to our room, which led to a strange confrontation where he challenged [[Temerity]] to a fight for [[Lavender]]'s affection. This escalated into a brawl in the kitchen, which [[Gorg]] broke up before forcing them to calm down. Gorg later gave [[Lavender]] a crystal orb that replayed the entire altercation.
 
 ### Second Visit (Day 5)
 
 
-We returned to the inn after cleansing [[Auril's Church]] of a frost troll. While the rest of us recovered, [[Temerity]] spoke with [[Gorg]] about his rabbit, [[Korako]]. Gorg shared that during a past trip to the upper planes, he learned of a being known as the `[[Wild Wanderer]]`, which might be the nature god we seek. The next morning, the gnome served us breakfast before we set out for the [[Alpine Forest]].
+We returned to the inn after cleansing [[Auril's Church]] of a frost troll. While the rest of us recovered, [[Temerity]] spoke with [[Gorg]] about his rabbit, [[Korako]]. Gorg shared that during a past trip to the upper planes, he learned of a being known as the [[Wild Wanderer]], which might be the nature god we seek. The next morning, the gnome served us breakfast before we set out for the [[Alpine Forest]].
 
 ---
 
