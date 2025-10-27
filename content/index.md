@@ -7,7 +7,7 @@
 Pages for each character. Pretty Simple, no structure has been defined yet for these.
 **Player Characters**
 - [[Gage]]
-- [[Lavender]]
+- [[content/Campaigns/Campaign 1/Characters/Lavender]]
 - [[Temerity]]
 - [[Theren]]
 - [[Marianne]]

@@ -24,7 +24,7 @@ The quarter contains inconspicuous inns and appears to be a place where travelle
 
 ## Our Experience
 
-After arriving in [[Avalon]] on Day 2, [[Lavender]] (using the alias '[[Lady Rose]]') led us to the Elvish Quarter to find lodging. We found an inconspicuous inn within the district to bed down for the night. [[Lavender]] paid for our rooms, and we rested here after our harrowing encounter with the [[hag]].
+After arriving in [[Avalon]] on Day 2, [[content/Campaigns/Campaign 1/Characters/Lavender]] (using the alias '[[Lady Rose]]') led us to the Elvish Quarter to find lodging. We found an inconspicuous inn within the district to bed down for the night. [[content/Campaigns/Campaign 1/Characters/Lavender]] paid for our rooms, and we rested here after our harrowing encounter with the [[hag]].
 
 ---
 

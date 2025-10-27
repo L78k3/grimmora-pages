@@ -1,1 +1,1 @@
-Noblewoman who was kidnapped from her own wedding ceremony by a mysterious figure in black. Previously knew [[Lavender]] Locke. Clearly did not want to marry [[Lord Requiem]].
+Noblewoman who was kidnapped from her own wedding ceremony by a mysterious figure in black. Previously knew [[content/Campaigns/Campaign 1/Characters/Lavender]] Info]] Locke. Clearly did not want to marry [[Lord Requiem]].
