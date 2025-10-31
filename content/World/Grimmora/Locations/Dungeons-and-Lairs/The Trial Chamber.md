@@ -18,7 +18,7 @@ tags:
 
 ## Overview
 
-This location is the entrance to [[Auril]]'s underground trial system. It serves as the first test, a puzzle designed to filter initiates. The chamber is a small, trapped room between two large portcullises.
+This location is the entrance to [[content/Campaigns/Campaign 1/NPCs/Auriel]]'s underground trial system. It serves as the first test, a puzzle designed to filter initiates. The chamber is a small, trapped room between two large portcullises.
 
 ## Features
 
@@ -36,4 +36,4 @@ After several failed attempts to manipulate the mechanism, we realized the puzzl
 
 **Region:** [[The Frost]]
 
-**Related:** [[The Trial of the Gladiator]] • [[The Gladiator's Amphitheatre]] • [[Auril]]
+**Related:** [[The Trial of the Gladiator]] • [[The Gladiator's Amphitheatre]] • [[content/Campaigns/Campaign 1/NPCs/Auriel]]

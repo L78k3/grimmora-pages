@@ -1,5 +1,5 @@
 ---
-title: Auril's Church
+title: Auriel's Church
 type: building
 subtype: temple
 parent: "[[The Frost]]"
@@ -11,7 +11,7 @@ tags:
   - abandoned
 ---
 
-# Auril's Church
+# Auriel's Church
 
 > [!info] Quick Reference
 > **Location:** [[The Frost]] region
@@ -33,7 +33,7 @@ The church displays distinctive religious architecture:
 
 ## The Goddess Auril
 
-The church is dedicated to [[Auril]], a goddess associated with:
+The church is dedicated to [[content/Campaigns/Campaign 1/NPCs/Auriel]], a goddess associated with:
 - **Duality** - Balance between opposing forces
 - **Balance** - Equilibrium in all things
 - **Chaos** - Unpredictable change
@@ -94,6 +94,6 @@ A temple to a goddess of duality, balance, chaos, and beauty hidden in the harsh
 
 **Location:** [[The Frost]]
 
-**Related:** [[Auril]] • [[Ice Troll]] • [[The Frost]]
+**Related:** [[content/Campaigns/Campaign 1/NPCs/Auriel]] • [[Ice Troll]] • [[The Frost]]
 
 **Status:** Abandoned but mysteriously maintained and heavily defended
