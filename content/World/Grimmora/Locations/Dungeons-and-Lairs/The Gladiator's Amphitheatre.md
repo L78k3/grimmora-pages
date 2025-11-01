@@ -9,7 +9,7 @@ tags:
   - location/the-frost
   - visited
   - dangerous
-  - auril-related
+  - auriel-related
 ---
 
 # The Gladiator's Amphitheatre
@@ -20,7 +20,7 @@ tags:
 
 ## Overview
 
-A magical arena located within [[Auril]]'s trial complex in [[The Frost]]. This amphitheatre is where the party faced [[The Trial of the Gladiator]].
+A magical arena located within [[content/Campaigns/Campaign 1/NPCs/Auriel]]'s trial complex in [[The Frost]]. This amphitheatre is where the party faced [[The Trial of the Gladiator]].
 
 ## Features
 

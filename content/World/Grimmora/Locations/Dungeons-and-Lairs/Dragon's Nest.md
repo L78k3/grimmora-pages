@@ -32,7 +32,7 @@ Based on the signs, [[Theren]] determined that the lair was occupied by only a s
 
 ## Our Experience
 
-We tracked the ice dragon to this lair on Day 6. After a long climb, we engaged the dragon in a ferocious battle. The creature's icy breath and powerful attacks nearly overwhelmed us, but we managed to exploit its moments of rage. The fight culminated with [[Lavender]] jumping onto the dragon and plunging her sword into its eye, killing it.
+We tracked the ice dragon to this lair on Day 6. After a long climb, we engaged the dragon in a ferocious battle. The creature's icy breath and powerful attacks nearly overwhelmed us, but we managed to exploit its moments of rage. The fight culminated with [[content/Campaigns/Campaign 1/Characters/Lavender]] jumping onto the dragon and plunging her sword into its eye, killing it.
 
 The following morning (Day 7), we carved up the carcass. [[Theren]] retrieved some of its teeth, and [[Temerity]] hacked off the tail, proclaiming it the best part to eat. He cooked the [[Dragon Meat]] for the party, and we feasted on the dragon steaks.
 
