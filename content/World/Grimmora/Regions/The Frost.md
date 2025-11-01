@@ -36,7 +36,7 @@ The climate is harsh year-round, with bitter cold, heavy snowfall, and dangerous
 ### Landmarks
 - [[Alpine Forest]] - Forested area northwest of Mightrest where we hunted ice wolves
 - [[Dragon's Nest]] - Mountain lair where we defeated an ice dragon
-- [[Auril's Church]] - Hidden church to the goddess of duality, guarded by dangerous vines
+- [[Auriel's Church]] - Hidden church to the goddess of duality, guarded by dangerous vines
 
 ### Dungeons & Dangerous Sites
 - [[Vampire Mansion]] - Former vampire lair on the hill above Mightrest
@@ -50,7 +50,7 @@ The Frost is a region where survival is the primary concern. Settlements are sma
 
 The region has been touched by ancient magic and supernatural forces. We've encountered:
 - A magical plague that turned out to be vampiric feeding
-- Ancient trial systems left by the goddess Auril
+- Ancient trial systems left by the goddess Auriel
 - Ice dragons and other cold-adapted monsters
 - [[Ice Wolves]] hunting in packs
 

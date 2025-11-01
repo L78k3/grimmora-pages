@@ -40,7 +40,7 @@ After arriving in [[Mightrest]], we took rooms here and met [[Orion]]. The [[Gno
 ### Second Visit (Day 5)
 
 
-We returned to the inn after cleansing [[Auril's Church]] of a frost troll. While the rest of us recovered, [[Temerity]] spoke with [[Gorg]] about his rabbit, [[Korako]]. Gorg shared that during a past trip to the upper planes, he learned of a being known as the `[[Wild Wanderer]]`, which might be the nature god we seek. The next morning, the gnome served us breakfast before we set out for the [[Alpine Forest]].
+We returned to the inn after cleansing [[Auriel's Church]] of a frost troll. While the rest of us recovered, [[Temerity]] spoke with [[Gorg]] about his rabbit, [[Korako]]. Gorg shared that during a past trip to the upper planes, he learned of a being known as the `[[Wild Wanderer]]`, which might be the nature god we seek. The next morning, the gnome served us breakfast before we set out for the [[Alpine Forest]].
 
 ---
 

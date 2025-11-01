@@ -9,7 +9,7 @@ tags:
   - location/the-frost
   - visited
   - dangerous
-  - auril-related
+  - auriel-related
 ---
 
 # The Gladiator's Amphitheatre

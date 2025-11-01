@@ -7,7 +7,7 @@ tags:
   - location/the-frost
   - visited
   - dangerous
-  - auril-related
+  - auriel-related
 ---
 
 # The Trial Chamber

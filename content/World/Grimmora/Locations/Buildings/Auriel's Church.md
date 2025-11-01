@@ -21,17 +21,17 @@ tags:
 
 ## Description
 
-A hidden church dedicated to Auril, goddess of duality, balance, chaos, and beauty. The building is concealed by magical predatory vines that serve as both camouflage and defense, making it difficult to find and dangerous to approach.
+A hidden church dedicated to Auriel, goddess of duality, balance, chaos, and beauty. The building is concealed by magical predatory vines that serve as both camouflage and defense, making it difficult to find and dangerous to approach.
 
 ## Architecture & Features
 
 The church displays distinctive religious architecture:
 - **Snowflake symbol** - Prominent among the religious iconography
-- Other religious imagery related to Auril's domains
+- Other religious imagery related to Auriel's domains
 - Signs of recent maintenance despite appearing abandoned
 - Sturdy construction that has withstood the harsh northern climate
 
-## The Goddess Auril
+## The Goddess Auriel
 
 The church is dedicated to [[content/Campaigns/Campaign 1/NPCs/Auriel]], a goddess associated with:
 - **Duality** - Balance between opposing forces
@@ -76,19 +76,19 @@ This raises questions:
 - **Magical predatory vines** - Actively hostile plant life
 - **[[Ice Troll]]** - Emerged when we approached
 - **Potential curse** - The guardian troll suggests supernatural protection
-- **Unknown magical effects** - The nature of Auril's influence here is unclear
+- **Unknown magical effects** - The nature of Auriel's influence here is unclear
 
 ## Our Experience
 
 We discovered this hidden church during our travels in [[The Frost]]. The magical vines made it difficult to even see the building initially.
 
-When we attempted to investigate, an [[Ice Troll]] emerged from the church, forcing us into combat. The creature's presence suggests the location is either cursed or actively defended by Auril's magic.
+When we attempted to investigate, an [[Ice Troll]] emerged from the church, forcing us into combat. The creature's presence suggests the location is either cursed or actively defended by Auriel's magic.
 
 The combination of predatory vines, the ice troll guardian, and signs of mysterious maintenance made this one of the more unsettling discoveries in our northern journey.
 
 ## Theological Significance
 
-A temple to a goddess of duality, balance, chaos, and beauty hidden in the harsh northern wilderness carries symbolic weight. The snowflake iconography suggests Auril may have particular connection to winter and the frozen north.
+A temple to a goddess of duality, balance, chaos, and beauty hidden in the harsh northern wilderness carries symbolic weight. The snowflake iconography suggests Auriel may have particular connection to winter and the frozen north.
 
 ---
 

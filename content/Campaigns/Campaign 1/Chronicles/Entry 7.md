@@ -40,7 +40,7 @@ Temerity whispers to Theren that he wonders where Lavender's rage comes from. Th
 
 Temerity returns the conversation to Theren's arcane connection and comments that Theren has grown in power recently. Theren deflects the compliment, admitting that without Temerity, the party would be dead by now. Temerity asks him about reaching out to his patron. He offers that he and Theren could try together. Cautiously, Theren agrees. At this, Temerity leaps off to join Lavender up ahead and to wind her up. Theren smiles at the bard's irascibility.
 
-As they continue up the mountain, things become more dangerous and disturbing. They spot the [[Carcasses of Ice Wolves|carcasses of ice wolves]] strewn about across the mountainside. They are badly torn and have clearly not put up a fight. Lavender identifies them as hunting kills. She mutters a prayer to Auril and feels a warm shiver run through her. They begin to move more stealthily.
+As they continue up the mountain, things become more dangerous and disturbing. They spot the [[Carcasses of Ice Wolves|carcasses of ice wolves]] strewn about across the mountainside. They are badly torn and have clearly not put up a fight. Lavender identifies them as hunting kills. She mutters a prayer to Auriel and feels a warm shiver run through her. They begin to move more stealthily.
 
 The group reaches a flat summit covered in [[Piles of Bones (Dragon's Nest)|piles of bones]]. An [[Excavated Area (Dragon's Nest)|excavated area]] forms a sort of [[Dragon's Nest|living space]]. A horrifying screech comes down from out of the air and a white [[Ice Dragon|ice dragon]] lands on the far side of the lair. By its size, they judge it to be a juvenile, but it is nevertheless extremely dangerous.
 
