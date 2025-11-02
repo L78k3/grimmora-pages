@@ -5,7 +5,7 @@ campaign:
 ---
 ![[1zp0i32g 6.webp]]
 
-*Lavender, formerly styled as the Lady Lavender of [[House Locke]], is human barbarian-paladin and champion of [[content/Campaigns/Campaign 1/NPCs/Auriel]], goddess of cold and balance. Lavender has grown into her divine powers over the campaign, which initially manifested as an 'anger management problem' from a very young age, and has started to find purpose in a path of her own making. She's the frontline fighter of the group, wielding a versatile longsword, shield and, on occasion, a crossbow.*
+*Lavender, formerly styled as the Lady Lavender of [[House Locke]], is human barbarian-paladin and champion of [[Auril]], goddess of cold and balance. Lavender has grown into her divine powers over the campaign, which initially manifested as an 'anger management problem' from a very young age, and has started to find purpose in a path of her own making. She's the frontline fighter of the group, wielding a versatile longsword, shield and, on occasion, a crossbow.*
 
 ## Statistical Overview
 
