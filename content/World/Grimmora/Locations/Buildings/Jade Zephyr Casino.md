@@ -88,14 +88,14 @@ Upon arrival mid-morning:
 - The casino was relatively quiet at this hour
 
 Party reactions varied:
-- [[content/Campaigns/Campaign 1/Characters/Lavender]] - Guarded and watchful
+- [[Lavender]] - Guarded and watchful
 - [[Theren]] - Awkward and overwhelmed
 - [[Gage]] - Relaxed and observant
 - [[Anaphel]] - Inscrutable as always
 
 ### Gambling Attempts
 **Slot Machines:**
-- [[Gage]] borrowed 3 silver from [[content/Campaigns/Campaign 1/Characters/Lavender]] and lost it all
+- [[Gage]] borrowed 3 silver from [[Lavender]] and lost it all
 - An old lady playing slots gave him a copper; he won back 3 coppers
 - [[Theren]] also gambled and broke even with 5 coppers profit
 
@@ -103,36 +103,36 @@ Party reactions varied:
 - Run by a hulking human dressed as a pirate captain
 - [[Gage]] and [[Theren]] both lost their remaining chits
 - Noticed the pirate's façade slip - he seemed depressed underneath
-- A waitress offered free drinks but [[content/Campaigns/Campaign 1/Characters/Lavender]]'s glare scared her off
+- A waitress offered free drinks but [[Lavender]]'s glare scared her off
 
 **Devil's Dice:**
 - [[Gage]] asked [[Anaphel]] to play for him (for luck)
 - Both lost their rolls
 
 ### The High-Roller Section
-[[content/Campaigns/Campaign 1/Characters/Lavender]] approached a guard at the high-roller area (behind a blue sparkling curtain) and offered the party's services as security for a journey south. After [[content/Campaigns/Campaign 1/Characters/Lavender]] warned us to be on best behaviour, the guard investigated and eventually invited us through.
+[[Lavender]] approached a guard at the high-roller area (behind a blue sparkling curtain) and offered the party's services as security for a journey south. After [[Lavender]] warned us to be on best behaviour, the guard investigated and eventually invited us through.
 
 ### Meeting Zadhir
 We were led to a plush office with a dark green sofa. [[Zadhir]], dressed in a beautiful green velvet cloak, met with us:
 
 **The Interview:**
-- [[content/Campaigns/Campaign 1/Characters/Lavender]] claimed they'd never met (unconvincing)
+- [[Lavender]] claimed they'd never met (unconvincing)
 - [[Zadhir]] agreed to "play their game"
 - He admitted needing a security detail for a caravan to [[Adalens]]
 - Warned it would be a perilous journey
-- [[content/Campaigns/Campaign 1/Characters/Lavender]] promised utmost discretion
+- [[Lavender]] promised utmost discretion
 
 **Complications:**
 - [[Zadhir]] began softly taunting us
 - [[Theren]]'s rage caused his magicka to surge, accidentally summoning two copies of [[Runcible]]
-- [[Zadhir]] ordered [[content/Campaigns/Campaign 1/Characters/Lavender]] to make [[Theren]] calm down
+- [[Zadhir]] ordered [[Lavender]] to make [[Theren]] calm down
 - [[Theren]] dispelled the pseudodragons, looking abashed
 
 **The Deal:**
 - [[Zadhir]] revealed his business dealings are "potentially underhand"
 - He owns an inn in [[Adalens]]
 - Meeting time set for 4:30am the following morning
-- [[content/Campaigns/Campaign 1/Characters/Lavender]] offered her left hand (without the ring) to shake
+- [[Lavender]] offered her left hand (without the ring) to shake
 - [[Zadhir]] pulled her close and made a barb about noble etiquette
 - [[Gage]] searched the office visually but found nothing important
 
@@ -152,6 +152,6 @@ The casino served its purpose - [[Zadhir]] uses it as a base of operations where
 
 **Parent Location:** [[Adalens]]
 
-**Related:** [[Zadhir]] • [[content/Campaigns/Campaign 1/Characters/Lavender]] • [[Gage]] • [[Theren]] • [[Anaphel]] • [[Runcible]]
+**Related:** [[Zadhir]] • [[Lavender]] • [[Gage]] • [[Theren]] • [[Anaphel]] • [[Runcible]]
 
 **Session References:** [[Entry 23]] • [[Entry 24]]
