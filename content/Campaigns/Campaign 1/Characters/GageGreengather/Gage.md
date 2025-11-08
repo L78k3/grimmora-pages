@@ -41,7 +41,7 @@ campaign:
 
 - - **Armor Class:** 14
 - **Hit Point Maximum:** 50
-- **Current Hit Points:** _____
+- **Current Hit Points:** 31
 - **Temporary Hit Points:** _____
 - **Hit Dice:** 5×(1d8+2), 3×(1d10+2)
 - **Initiative:** **+4** (`dice: 1d20+4`)

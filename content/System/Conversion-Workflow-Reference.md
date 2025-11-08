@@ -101,7 +101,7 @@ content
 │       │   └── Vampire Defeat.md
 │       ├── NPCs
 │       │   ├── Anaphel.md
-│       │   ├── Auriel.md
+│       │   ├── Auril.md
 │       │   ├── Aurius.md
 │       │   ├── Bracken.md
 │       │   ├── Brian.md
@@ -233,7 +233,7 @@ content
 │   │   │   ├── spectres.md
 │   │   │   └── tiefling.md
 │   │   ├── Items
-│   │   │   ├── Auriel's Wall.md
+│   │   │   ├── Auril's Wall.md
 │   │   │   ├── Blue Communication Stone.md
 │   │   │   ├── Crystal Orbs.md
 │   │   │   ├── Dragon Meat.md
@@ -244,7 +244,7 @@ content
 │   │   │   └── teleportation rune.md
 │   │   ├── Locations
 │   │   │   ├── Buildings
-│   │   │   │   ├── Auriel's Church.md
+│   │   │   │   ├── Auril's Church.md
 │   │   │   │   ├── Golden Griffin.md
 │   │   │   │   ├── Jade Zephyr Casino.md
 │   │   │   │   ├── North City Gate.md
@@ -539,7 +539,7 @@ Most locations should have:
 
 #### Buildings (10/10)
 
-- [x] Auriel's Church.md
+- [x] Auril's Church.md
     
 - [x] Golden Griffin.md
     
