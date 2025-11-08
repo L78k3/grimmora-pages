@@ -11,7 +11,6 @@ tags:
   - visited
   - cursed
 ---
-
 # North City Gate
 
 > [!info] Visited
