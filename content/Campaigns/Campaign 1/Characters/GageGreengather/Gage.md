@@ -1,8 +1,9 @@
 ---
+title: Gage Greengather (Respecced)
 type: pc
-location: 
+location: "[[Arcadia]]"
 world: Grimmora
-campaign:
+campaign: Campaign 1
 ---
 (This portrait is placeholder :p)
 ![[icon.webp]]
@@ -39,7 +40,7 @@ campaign:
 
 ## Combat Stats
 
-- - **Armor Class:** 14
+- **Armor Class:** 14
 - **Hit Point Maximum:** 50
 - **Current Hit Points:** _____
 - **Temporary Hit Points:** _____
@@ -209,6 +210,7 @@ _Key information to quickly recall during play._
 - Thieves' Tools
 - Tinderbox
 - Waterskin
+- **Commission for a Clockwork Rabbit** (For Temerity)
 
 ## Currency
 
@@ -222,11 +224,15 @@ _Key information to quickly recall during play._
 
 Gage Greengather grew up among the Greengather Blades, a nomadic forest-based mercenary clan who sold their swords (and arrows) to the highest bidder. Raised with strict discipline, he learned to follow orders without question, scout without being seen, and kill without hesitation. Gnomish ingenuity blended with guerrilla pragmatism made him a master of ambush and survival.
 
-But as he aged, the glint of gold faded in his eyes. He began to see cracks in the system — missions that razed the very forests they camped in, contracts that sacrificed innocents. When he was hired by necromancers to spy on a band of adventurers, he followed orders at first… until something changed. Perhaps it was the party's camaraderie, or the way they questioned authority. Perhaps it was the warlock's stubborn morality, or the bard's tireless optimism. Whatever the reason, he defected.
+### The Necromancer's Spy
+As he aged, the glint of gold faded in his eyes. He began to see cracks in the system — missions that razed the very forests they camped in, contracts that sacrificed innocents. He was hired by the [[necromancers]] to spy on a band of adventurers ([[Lavender]], [[Temerity]], and [[Theren]]), tasked specifically with keeping an eye on Lavender.
 
-Now calling himself The Greenblade, Gage fights not for coin, but for balance. He still uses the tricks his clan taught him — the poisoned tips, the terrain tactics, the silent kills — but now, he uses them against the very systems that raised him. He's begun carving notches in his bow, not for kills, but for forests saved and people freed.
+He watched them from the shadows for some time, observing their camaraderie and their defiance of authority. During an encounter outside [[Arcadia]], he finally made his choice. Seeing the devastation the necromancers had wrought on the land—decimating life in the area—he intervened in a skirmish to save the party, skewering a guard with his rapier.
 
-And maybe, one day, he'll return to the Greengather Blades not as a soldier, but as a spark for revolution.
+### Defection
+When confronted by the party, Gage put his cards on the table: he admitted to being a mercenary in the employ of the necromancers but declared he wanted nothing more to do with their schemes. He saw in the party the potential to stop the threat he had once served. He revealed that his reconnaissance work with his older brother had begun to shift his perspective long ago, leading him to view himself now as a freedom fighter rather than a soldier of fortune.
+
+Now calling himself The Greenblade, Gage fights not for coin, but for balance. He guided the party through secret entrances into [[Arcadia]], utilizing his knowledge of the city's layout and his contacts, such as the innkeeper who owed him a favor. He still uses the tricks his clan taught him—the poisoned tips, the terrain tactics, the silent kills—but now, he uses them against the very systems that raised him.
 
 ---
 

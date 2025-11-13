@@ -496,7 +496,7 @@ To resume this workflow in a new chat session:
   - [[Halsin]] - Druid leader in Avalon
   - [[Summer]] and [[Winter]] - Fey court rulers
   - [[Vampire Lord]] - Defeated in Mightrest
-  - [[necromancers]] - Occupy Arcadia
+  - [[Necromancers]] - Occupy Arcadia
   - [[Ice Wolves]] - Threat in Alpine Forest
   - [[Auriel]] - Goddess of Winter
   - [[Zadhir]] - Met at Jade Zephyr

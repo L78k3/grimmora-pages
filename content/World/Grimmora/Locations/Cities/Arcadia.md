@@ -22,7 +22,7 @@ tags:
 
 ## What We Know
 
-Arcadia is a city in [[The Frost]] region that has been taken over by [[necromancers]]. This makes it an extremely dangerous location and a potential future destination for our quest.
+Arcadia is a city in [[The Frost]] region that has been taken over by [[Necromancers]]. This makes it an extremely dangerous location and a potential future destination for our quest.
 
 ## Geography
 
@@ -38,7 +38,7 @@ The city is under the control of necromancers. The exact extent of their control
 
 ## Threats
 
-- [[necromancers]] - The hostile force occupying the city
+- [[Necromancers]] - The hostile force occupying the city
 - Likely undead creatures and dark magic
 - Unknown dangers within the occupied city
 
@@ -61,4 +61,4 @@ We've heard that necromancers have taken control of this city, but we don't know
 
 **Status:** Hostile territory - approach with extreme caution
 
-**Related:** [[necromancers]] • [[Orris' Secret Lair]]
+**Related:** [[Necromancers]] • [[Orris' Secret Lair]]
