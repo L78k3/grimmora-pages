@@ -40,7 +40,7 @@ campaign: Campaign 1
 
 ## Combat Stats
 
-- **Armor Class:** 14
+- **Armour Class:** 14
 - **Hit Point Maximum:** 50
 - **Current Hit Points:** _____
 - **Temporary Hit Points:** _____
