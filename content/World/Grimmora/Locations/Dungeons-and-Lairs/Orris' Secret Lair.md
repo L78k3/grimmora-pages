@@ -22,8 +22,10 @@ A secret lair and base of operations for [[Orris]] and his necromantic followers
 
 ## Layout & Features
 
--   **Hidden Entrance:** The lair is accessed via a secret entrance in the manor's cellar. [[Theren]] located it by noticing a section of dado rail that was clean, unlike the rest of the dusty hallway.
--   **Main Cavern:** The entrance leads to a vast, dark cavern filled with various dark activities and inhabitants. It serves as the antithesis to the cavern of the Displaced.
+-   * **Hidden Entrance:** The lair is accessed via a secret stone door in the Mayoral Manor's cellar. [[Theren]] located it by noticing a section of dado rail that was clean, unlike the rest of the dusty hallway. [[Lavender]] heard a constant clicking from the wall, which [[Gage]] identified as a modified clockwork mechanism. Theren discovered the lock's ticks matched a nearby grandfather clock; he opened the door by moving the clock's hands to the witching hour.
+- **The Shadowy Passageway:** Beyond the door, a long, rough-hewn basalt passageway descends into the darkness. It smells strongly of decaying flesh. The shadows in this tunnel are menacing, physically pulling back and screeching at the light from [[Lavender]]'s sword.
+- **Antechamber:** The passageway widens into a chamber containing a desk. This room serves as a checkpoint, guarded by a half-skull zombie assistant, and contains the wooden door leading into the main cavern.
+-   **Main Cavern:** Beyond the antechamber is a vast, dark cavern filled with various dark activities and inhabitants. It serves as the antithesis to the [[Displaced Camp]].
 -   **Makeshift Building:** At the far end of the cavern is a large, makeshift building.
 -   **Waiting Room:** Inside the building is a small seating area where visitors are made to wait.
 -   **Inner Office:** This is where [[Orris]] conducts his business and holds audiences.
