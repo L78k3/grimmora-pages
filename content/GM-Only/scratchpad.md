@@ -56,3 +56,37 @@ Based on the context you have learned (Reference + Entries 1-10), analyze **Entr
 * If an entry is perfect, just say "No changes needed."
 * Do not suggest links for words that are already linked.
 ```
+
+---
+
+Hello Gemini. I am continuing a project to organize my D&D campaign vault and need you to act as a strict text processor.
+
+**The Goal:**
+I need to process **Entry 18**.
+
+**Your Context (10 files):**
+I am uploading 10 files. They are:
+1.  `Wikilink-Reference.md`: This is my "Master Document." It contains my **full file manifest** (the tree) and **all my rules**.
+2.  `Entry 9.md` through `Entry 17.md`: These are the **9 previous chronicle entries**. Use them to learn the immediate narrative context and linking style.
+
+**Your Task:**
+After you have analyzed all 10 context files, I will upload the target file: **Entry 18.md**.
+
+You will then analyze **Entry 18** and provide two specific lists:
+
+1.  **Suggested New Pages:**
+    * Read the entry and identify important, unlinked entities (people, places, items, concepts) that are **not** in the `Wikilink-Reference.md` file manifest.
+    * For each suggestion, **you must categorize it** based on my vault structure (e.g., `New NPC Page: [[Frolot]]`, `New Item Page: [[Sending Stone]]`, `New Concept Page: [[Zone of Truth]]`).
+
+2.  **Suggested Missing Wikilinks:**
+    * Identify terms in the text that are unlinked but *do* have an existing page in the file manifest.
+    * Format them as `[[Page Name|original text]]`.
+
+**Critical Rules (From the Reference File):**
+* **ZERO HALLUCINATION:** If it's not written in the text, it doesn't exist.
+* **CHECK THE TREE:** Use the file manifest in the Reference file to see if pages already exist.
+* **NO REDUNDANCY:** Do not suggest links for terms already linked in the text.
+* **LEAVE EXTERNAL LINKS ALONE:** Do not suggest changing external links (e.g., to `5e.tools`).
+* **"NO CHANGES NEEDED" IS A VALID RESPONSE:** If an entry is perfect, just say so.
+
+Please confirm when you have analyzed the 10 context files and are ready for me to upload **Entry 18**.
