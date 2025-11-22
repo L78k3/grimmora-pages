@@ -24,7 +24,7 @@ Frostpeak Pass serves dual purposes - it's both a mountain pass route through [[
 
 Located at the southern edge of [[The Frost]], Frostpeak Pass marks the transition from the temperate lands of the [[Avalonean Empire]] to the frozen north. The pass itself cuts through the mountains, providing one of the few accessible routes deeper into the northern territories.
 
-Accessible by road from [[Avalon]], making it a key stopping point for anyone traveling north.
+Accessible by road from [[Avalon]], making it a key stopping point for anyone travelling north.
 
 ## Character
 

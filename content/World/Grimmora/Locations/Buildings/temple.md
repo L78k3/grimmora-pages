@@ -27,7 +27,7 @@ This temple was the venue for the high-profile wedding of [[Lady Bromelia]]. Dur
 
 We infiltrated the wedding ceremony in its final stages. As the officiant was concluding the rites, the temple was plunged into chaos:
 
-- **Spectre Attack:** Several [spectres](https://2014.5e.tools/bestiary.html#specter_mm) materialised within the temple, attacking the wedding guests and guards.
+- **Specter Attack:** Several [[spectres]] materialised within the temple, attacking the wedding guests and guards.
 - **The Kidnapping:** Amid the panic, two mysterious figures descended from a hole in the ceiling. They seized [[Lady Bromelia]] and were lifted away by a [[griffin]].
 - **The Escape:** The griffin crashed through a stained-glass window to make its escape, flying north and setting us on our path to [[Avalon]].
 
@@ -37,4 +37,4 @@ This chaotic event marked the beginning of our journey together, as we were task
 
 **Location:** [[Durvish City]]
 
-**Related:** [[Lady Bromelia]] • [[Captain Arran]] • [Spectres](https://2014.5e.tools/bestiary.html#specter_mm) • [[griffin]]
+**Related:** [[Lady Bromelia]] • [[Captain Arran]] • [[spectres]] • [[griffin]]

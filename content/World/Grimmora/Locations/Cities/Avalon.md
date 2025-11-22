@@ -34,7 +34,7 @@ Located in the western part of the empire, Avalon sits along major trade routes.
 The [[elvish quarter]] is a district designated for elven residents and visitors, featuring distinctive architecture and culture.
 
 ### South District
-Home to a [[Sylvanus Beard|Druid enclave]] led by [[Halsin]].
+Home to a [[Sylvanus Beard|Druid enclave]] led by [[Halsen]].
 
 ### Central District
 Features the [[Rotunda]], the city's civic center where official announcements are made by the king's herald.
@@ -50,7 +50,7 @@ Features the [[Rotunda]], the city's civic center where official announcements a
 
 ## Notable NPCs
 
-- [[Halsin]] - Leader of the southern druid enclave
+- [[Halsen]] - Leader of the southern druid enclave
 - King's Herald - Makes official announcements at the Rotunda
 - Various city guards and officials
 
@@ -79,7 +79,7 @@ The party has used Avalon as a base of operations multiple times, particularly d
 We've passed through Avalon several times:
 - Early visits while searching for [[Lady Bromelia]]
 - Stopped here on the way to [[Adalens]]
-- Met [[Halsin]] at the druid enclave in the south of the city
+- Met [[Halsen]] at the druid enclave in the south of the city
 - Used the city as a waypoint for various quests
 
 The city has proven to be a reliable place for rest, resupply, and gathering information.

@@ -2,7 +2,7 @@
 title: Jade Zephyr Casino
 type: building
 subtype: casino
-parent: "[[Adalens]]"
+parent: "[[Midward]]"
 tags:
   - location/building
   - location/casino
@@ -14,12 +14,12 @@ tags:
 
 > [!info] Visited
 > **When:** [[Entry 24]]
-> **Location:** [[Adalens]]
+> **Location:** [[Midward]]
 > **Type:** Casino and business front
 
 ## Description
 
-A flashy casino in [[Adalens]] featuring flashing lights and gaming noises. The Jade Zephyr presents itself as an entertainment venue but serves as a meeting place for [[Zadhir]]'s business dealings, both legitimate and "potentially underhand."
+A flashy casino in [[Midward]] featuring flashing lights and gaming noises. The Jade Zephyr presents itself as an entertainment venue but serves as a meeting place for [[Zadhir]]'s business dealings, both legitimate and "potentially underhand."
 
 ## Layout
 

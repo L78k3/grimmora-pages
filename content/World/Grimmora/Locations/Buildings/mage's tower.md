@@ -26,9 +26,9 @@ A tower for mages located in [[Durvish City]]. The party was sent here by [[Lady
 
 ## Our Experience
 
-We traveled to the Mage's Tower on Day 1 at the suggestion of [[Lady Arren]], seeking help for a half-orc guard at the north gate who had been hit with a [[confoundment spell]].
+We travelled to the Mage's Tower on Day 1 at the suggestion of [[Lady Arren]], seeking help for a half-orc guard at the north gate who had been hit with a [[confoundment spell]].
 
-We first spoke to an arrogant mage who was too busy with his cartography to be bothered with us. He sent us to [[Ismay]], who was very friendly and "agree[d] at once to help". She then accompanied us back to the gate, "unconfound[ed] the guard," and "promptly teleport[ed] back to the mage's tower".
+We first spoke to an arrogant mage who was too busy with his cartography to be bothered with us. He sent us to [[Ismay]], who was very friendly and "agree\[d] at once to help". She then accompanied us back to the gate, "unconfound\[ed] the guard," and "promptly teleport\[ed] back to the mage's tower".
 
 ---
 
