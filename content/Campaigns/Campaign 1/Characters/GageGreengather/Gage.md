@@ -16,7 +16,6 @@ campaign:
 - **Background:** Variant Criminal (Spy)
 - **Player Name:** Luke
 - **Alignment:** Neutral
-- **Experience Points:** 50
 - **Proficiency Bonus:** +3
 
 ## Physical Description
@@ -41,8 +40,8 @@ campaign:
 
 - - **Armor Class:** 14
 - **Hit Point Maximum:** 50
-- **Current Hit Points:** 31
-- **Temporary Hit Points:** _____
+- **Current Hit Points:** 50
+- **Temporary Hit Points:** 7 _____
 - **Hit Dice:** 5×(1d8+2), 3×(1d10+2)
 - **Initiative:** **+4** (`dice: 1d20+4`)
 - **Speed:** 25 ft (35 ft on first turn with Dread Ambusher)
