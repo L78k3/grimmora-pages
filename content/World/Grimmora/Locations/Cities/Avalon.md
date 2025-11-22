@@ -34,10 +34,10 @@ Located in the western part of the empire, Avalon sits along major trade routes.
 The [[elvish quarter]] is a district designated for elven residents and visitors, featuring distinctive architecture and culture.
 
 ### South District
-Home to a [[Sylvanus Beard|Druid enclave]] led by [[Halsen]].
+Home to a [[Silvanus' Beard|Druid enclave]] led by [[Halsen]].
 
 ### Central District
-Features the [[Rotunda]], the city's civic center where official announcements are made by the king's herald.
+Features the [[Rotunda]], the city's civic centre where official announcements are made by the king's herald.
 
 ## Notable Buildings
 
