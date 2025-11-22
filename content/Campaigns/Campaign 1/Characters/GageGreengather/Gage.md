@@ -38,7 +38,7 @@ campaign:
 
 ## Combat Stats
 
-- - **Armor Class:** 14
+- **Armour Class:** 14
 - **Hit Point Maximum:** 50
 - **Current Hit Points:** 50
 - **Temporary Hit Points:** 7 _____
@@ -163,7 +163,7 @@ _Key information to quickly recall during play._
 
 #### Ranger Features
 
-- **Favored Enemy:** Undead (advantage on tracking and recall checks)
+- **Favoured Enemy:** Undead (advantage on tracking and recall checks)
 - **Natural Explorer:** Forest terrain (double proficiency on relevant checks, no movement penalty, enhanced tracking)
 - **Archery Fighting Style:** +2 to ranged attack rolls
 - **Primeval Awareness:** Spend spell slot to sense creature types within 1 mile (6 miles in forest)
@@ -221,9 +221,9 @@ _Key information to quickly recall during play._
 
 Gage Greengather grew up among the Greengather Blades, a nomadic forest-based mercenary clan who sold their swords (and arrows) to the highest bidder. Raised with strict discipline, he learned to follow orders without question, scout without being seen, and kill without hesitation. Gnomish ingenuity blended with guerrilla pragmatism made him a master of ambush and survival.
 
-But as he aged, the glint of gold faded in his eyes. He began to see cracks in the system — missions that razed the very forests they camped in, contracts that sacrificed innocents. When he was hired by necromancers to spy on a band of adventurers, he followed orders at first… until something changed. Perhaps it was the party's camaraderie, or the way they questioned authority. Perhaps it was the warlock's stubborn morality, or the bard's tireless optimism. Whatever the reason, he defected.
+But as he aged, the glint of gold faded in his eyes. He began to see cracks in the system - missions that razed the very forests they camped in, contracts that sacrificed innocents. When he was hired by necromancers to spy on a band of adventurers, he followed orders at first… until something changed. Perhaps it was the party's camaraderie, or the way they questioned authority. Perhaps it was the warlock's stubborn morality, or the bard's tireless optimism. Whatever the reason, he defected.
 
-Now calling himself The Greenblade, Gage fights not for coin, but for balance. He still uses the tricks his clan taught him — the poisoned tips, the terrain tactics, the silent kills — but now, he uses them against the very systems that raised him. He's begun carving notches in his bow, not for kills, but for forests saved and people freed.
+Now calling himself The Greenblade, Gage fights not for coin, but for balance. He still uses the tricks his clan taught him - the poisoned tips, the terrain tactics, the silent kills - but now, he uses them against the very systems that raised him. He's begun carving notches in his bow, not for kills, but for forests saved and people freed.
 
 And maybe, one day, he'll return to the Greengather Blades not as a soldier, but as a spark for revolution.
 
