@@ -13,27 +13,26 @@ Welcome to Grimmora. This is our journey through the world, documented as we exp
 ### [[Avalonean Empire]]
 The central kingdom where our adventure began.
 
-**Visited:** [[Avalon]] • [[Durvish City]] • [[Bremen]] • [[Durendal]] • [[Bridgeport]] • [[Pinechill]]
+**Visited:** [[Avalon]] • [[Durvish City]] • [[Durendal]] • [[Bridgeport]] • [[Midward]] • [[Onasea]]
 
 ### [[The Frost]]
 The harsh northern territories.
 
-**Visited:** [[Mightrest]] • [[Frostpeak Pass]] • [[Alpine Forest]]
+**Visited:** [[Mightrest]] • [[Frostpeak Pass]] • [[Pinechill]] • [[Arcadia]] • [[Mausoleum (Alpine Forest)]]
 
-### Other Known Regions
+## Other Known Regions
 
 Regions we've heard about but not yet explored:
-- [[Cenorillon]] - Northeastern region
-- [[Golden Mountains]] - Eastern mountains
-- [[Adalens Ul Mahi]] - Island nation to the east
-- [[The Spell Scar]] - Dangerous magical wasteland to the west
-- [[Grimmora (Southern)|Southern Grimmora]] - The dark southern lands
+- **[[Nethis]]** - The northeastern island region; our current destination.
+- **[[The Spell Scar]]** - Dangerous magical wasteland to the west.
+- **[[Cendrillon]]** - Northeastern kingdom (Maladuran Kingdom).
+- **[[Golden Mountains]]** - The mountain range dividing the continent.
 
 ## Our Journey
 
-**Latest:** [[Entry 33|Most Recent Chronicle Entry]]
+**Latest:** [[Entry 38|Most Recent Chronicle Entry]]
 
-**Party Members:** [[Gage]] • [[Lavender]] • [[Temerity]] • [[Theren]]• [[Mary-Ann]]
+**Party Members:** [[Gage]] • [[Lavender]] • [[Temerity]] • [[Theren]] • [[Mary-Ann]] • [[Anaphel]]
 
 ## Locations by Status
 
@@ -42,17 +41,18 @@ Cities and towns we've visited and documented:
 - [[Avalon]] - Capital of the Avalonean Empire
 - [[Durvish City]] - Where the adventure began
 - [[Mightrest]] - Northern town afflicted by plague (now resolved)
-- [[Frostpeak Pass]] - Mountain village
-- [[Durendal]] - Small town north of Avalon
-- [[Pinechill]] - Small village with little infrastructure
+- [[Durendal]] - Small town north of Avalon known for fey activity
+- [[Midward]] - A town with a lively tavern and casino
+- [[Arcadia]] - A city currently occupied by [[necromancers]]
+- [[Onasea]] - Coastal village where we met [[Corbin]]
 
 ### Heard About
 Places mentioned but not yet visited:
-- [[Adalens]] - Major island city
-- [[Arcadia]] - Reportedly taken over by necromancers
-- [[Midward]] - Destination we're heading toward
-- [[Nethis]] - City in Adalens Ul Mahi
+- [[Adalens]] - Major island city; meeting point with [[Orris]]
+- [[Adalens Ul-Maht]] - The floating city connected to Adalens
+- [[Port Adal]] - The main port for Adalens
+- [[Crystalmine Village]] - Home to a reclusive druid
 
 ---
 
-*This knowledge grows with each adventure. Last updated: [[Entry 33]]*
+*This knowledge grows with each adventure. Last updated: [[Entry 38]]*

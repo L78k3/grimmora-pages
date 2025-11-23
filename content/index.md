@@ -28,7 +28,7 @@
 
 ---
 
-## 🗺️ The Atlas
+## 🗺️ [[grimmora-index|The Atlas]]
 
 ### [[Avalonean Empire]]
 *The starting region. Lush, civilized, but hiding rot.*
