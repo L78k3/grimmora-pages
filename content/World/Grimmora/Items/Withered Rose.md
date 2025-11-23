@@ -23,7 +23,7 @@ The **Withered Rose** was a cursed object hidden inside a crate of herbs and spe
 
 ## Destruction
 
-[[Temerity]] destroyed the rose by casting **[[sacred flame]]**, immolating it completely. Its destruction immediately stopped the spread of the curse, allowing the victims to be healed.
+[[Temerity]] destroyed the rose by casting **sacred flame**, immolating it completely. Its destruction immediately stopped the spread of the curse, allowing the victims to be healed.
 
 ---
 **Related:** [[Loraleia]], [[Paddle Steamer]], [[necromancers]], [[Entry 34]]

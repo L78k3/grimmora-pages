@@ -10,7 +10,7 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 - [[Lavender]]
 - [[Temerity]]
 - [[Theren]]
-- [[Mary Anne]]
+- [[Mary-Ann]]
 
 **Familiars**
 - [[Korako]]

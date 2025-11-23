@@ -182,7 +182,7 @@ Use this list to check if an entity already has a page.
   - [[Lavender]]
   - [[Temerity]]
   - [[Theren]]
-  - [[Mary Anne]]
+  - [[Mary-Ann]]
   - [[Anaphel]]
 
 ### Key NPCs

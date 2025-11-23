@@ -487,7 +487,7 @@ To resume this workflow in a new chat session:
   - [[Lavender]]
   - [[Temerity]]
   - [[Theren]]
-  - [[Mary Anne]]
+  - [[Mary-Ann]]
   - [[Anaphel]]
 
 ## Key NPCs & Concepts

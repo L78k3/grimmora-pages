@@ -20,7 +20,7 @@ The **Paddle Steamer** is an old riverboat providing transport from [[Avalon]] (
 * **Main Salon:** A large area currently hosting guild recruitment stands, including the Ranger's Guild.
 * **Steerage:** Cheap accommodation located low in the ship. The cabins have small portholes where water splashes against the glass.
 * **Parlour:** A quiet seating area where [[Lavender]] and [[Anaphel]] read.
-* **Brig:** A holding cell. Due to [[Temerity]]'s antics as a "demon rabbit," the staff requested the Mage's Guild representative put a "magic sink" on the brig to prevent magical escapes (like [[knock]]).
+* **Brig:** A holding cell. Due to [[Temerity]]'s antics as a "demon rabbit," the staff requested the Mage's Guild representative put a "magic sink" on the brig to prevent magical escapes (like [knock](https://2014.5e.tools/spells.html#knock_phb)).
 
 ## Crew
 

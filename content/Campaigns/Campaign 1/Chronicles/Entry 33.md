@@ -1,6 +1,8 @@
 ---
 type: chronicle
-location: "[[Avalonean Empire]]"
+location: 
+  - "[[Avalonean Empire]]"
+  - "[[Paddle Steamer]]"
 world: Grimmora
 campaign: Campaign 1
 characters:

@@ -33,7 +33,7 @@ Regions we've heard about but not yet explored:
 
 **Latest:** [[Entry 33|Most Recent Chronicle Entry]]
 
-**Party Members:** [[Gage]] • [[content/Campaigns/Campaign 1/Characters/Lavender]] • [[Temerity]] • [[Theren]]• [[Mary Anne]]
+**Party Members:** [[Gage]] • [[Lavender]] • [[Temerity]] • [[Theren]]• [[Mary-Ann]]
 
 ## Locations by Status
 

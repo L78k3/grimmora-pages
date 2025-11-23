@@ -41,7 +41,7 @@ The climate is harsh year-round, with bitter cold, heavy snowfall, and dangerous
 ### Dungeons & Dangerous Sites
 - [[Vampire Mansion]] - Former vampire lair on the hill above Mightrest
 - [[Vampire Mansion]] - Multi-story mansion connected to the vampire threat
-- [[The Trial Chamber]] - Underground trial system related to [[content/Campaigns/Campaign 1/NPCs/Auriel]]
+- [[The Trial Chamber]] - Underground trial system related to [[Auriel]]
 - [[The Gladiator's Amphitheatre]] - Magical arena within the trial complex
 
 ## What We Know
