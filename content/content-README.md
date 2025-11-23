@@ -17,7 +17,7 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 - [[Runcible]]
 
 **Non-Player Characters**
-- [[Halsin]]
+- [[Halsen]]
 - [[Zadhir]]
 
 ## Chronicles

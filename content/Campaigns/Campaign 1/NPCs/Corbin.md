@@ -3,7 +3,7 @@ title: Corbin
 type: npc
 race: Human
 location: "[[Onasea]]"
-status: Missing
+status: Hiding
 tags:
   - npc
   - captain
@@ -12,21 +12,22 @@ tags:
 
 # Corbin
 
-> [!warning] Status: Missing
-> **Role:** Ship Captain
-> **Ship:** [[Albany Castle (Ship)|Albany Castle]]
+> [!info] Status: Alive (On the Run)
+> **Role:** Ship Captain / Smuggler
+> **Former Ship:** [[Albany Castle (Ship)|Albany Castle]]
 
-**Corbin** is a respected ship captain in [[Onasea]] who has recently gone missing.
+**Corbin** is a former ship captain and smuggler who ran an information network assisting those who needed to disappear.
 
-## Background
+## Campaign Notes
 
-Locals describe him as the "best ship captain" they had. He is mentioned in one of the [[Encoded Letters]] found on the courier: *"Tell Corbin the net is torn"*. This suggests he was a key contact for the resistance or [[Orris]]'s network, likely intended to transport [[Lavender]] to [[Adalens]].
+### The Sea Cave Meeting
+The party tracked Corbin to a trapped **[[Onasea Sea Cave]]**. He revealed that he had been hiding because he was tracking unusual shipments involving "Winter's Core" and necromantic artifacts.
 
-## Disappearance
+### The Handover
+Corbin fulfilled a request from [[Orris]], giving [[Lavender]] the **[[Grey Pearl]]**. He instructed her to take it to **[[Captain Voss]]** to secure passage to [[Adalens]].
 
-A fisherman at [[The Slippery Eel]] stated that Corbin had been "asking too many questions" and vanished about a month ago (though later said he saw him "the other night").
-
-The party tracked footprints on the north dock to a [[Onasea Sea Cave|sea cave]], believing it to be his last known location.
+### Escape
+During the meeting, the cave was ambushed by necromancers. Corbin led the party to a secret underwater exit. He declined the party's help to relocate, taking a bag of gold from [[Mary-Ann]] and disappearing into the forest to "begin again".
 
 ---
-**Related:** [[Onasea]], [[Albany Castle (Ship)|Albany Castle]], [[Encoded Letters]], [[Entry 37]]
+**Related:** [[Onasea]], [[Orris]], [[Grey Pearl]], [[Captain Voss]]

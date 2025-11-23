@@ -2,42 +2,34 @@
 title: Zadhir
 type: npc
 location:
-  - "[[Mausoleum (Alpine Forest)]]"
   - "[[Midward]]"
+  - "[[Durvish City]]"
 affiliation: "[[necromancers]]"
 tags:
   - npc
   - antagonist
   - mage
+  - employer
 ---
 
 # Zadhir
 
-> [!danger] Antagonist
-> **Status:** Alive
-> **Encountered:** [[Entry 21]]
-> **Known For:** Defeating the party in the Mausoleum mine.
+> [!danger] Status: Alive
+> **Encountered:** [[Entry 21]], [[Entry 24]]
+> **Role:** Necromancer Lord / Merchant
 
-**Zadhir** is a powerful mage and leader of a necromantic mining operation near [[Pinechill]].
+**Zadhir** is a powerful mage and leader of a necromantic operation. He wears a green velvet cloak and maintains a facade of a wealthy merchant.
 
-## Overview
+## Campaign Notes
 
-We first encountered Zadhir in the depths of the [[Mausoleum (Alpine Forest)]], where he oversaw a slave-mining operation from a high-backed chair on a raised plinth. He wears a cloak that obscures his features.
+### The Employer
+Despite previously fighting the party in the [[Mausoleum (Alpine Forest)]], Zadhir hired them (via his alias/business front) to guard a caravan traveling from [[Adalens]] to [[Avalon]]. He met them in the VIP office of the [[Jade Zephyr Casino]].
+* **The Mission:** The caravan was transporting unlabelled boxes.
+* **The Failure:** The caravan was sabotaged in [[Avalon]]; the horses were stolen and the cargo left stranded. The party abandoned the contract to pursue other leads.
 
-According to prior intelligence, he also regularly plays at the [[Jade Zephyr Casino]] in [[Midward]] and runs criminal operations out of there.
-
-## Capabilities
-
-During our confrontation, Zadhir demonstrated overwhelming magical power:
-* **Construct Summoning:** He pointed at a stone formation to summon a massive, green-glowing **rock golem** to fight for him.
-* **Banishment:** When the party refused to retreat, he pointed a finger at [[Lavender]], releasing a "heat blast" that instantly vanished her, sending her to a dimension of "inky blackness" and intense cold.
-* **Magic Resistance:** When [[Temerity]] attempted to cast a spell on him, nothing happened, causing Zadhir to cry out in frustration (or perhaps dismissal).
-
-## Our Experience
-
-We attempted to liberate the slaves in his mine, but were quickly overpowered by Zadhir, his golem, and his enlarging guards. After neutralizing our heavy hitters and banishing Lavender, Zadhir offered us an ultimatum: leave immediately, and he would return our companion unharmed.
-
-Realizing we could not win, [[Theren]] and [[Gage]] surrendered. Zadhir honoured his word, returning Lavender and [[Runcible]] to our campsite after we retreated.
+### Capabilities
+* **Combat:** He defeated the party in the Mausoleum, summoning a rock golem and banishing Lavender to a pocket dimension.
+* **Business:** He owns the [[Jade Zephyr Casino]] in [[Midward]] and claims to own an inn in [[Adalens]].
 
 ---
-**Related:** [[Mausoleum (Alpine Forest)]], [[Pinechill]], [[Midward]], [[Entry 21]]
+**Related:** [[Mausoleum (Alpine Forest)]], [[Jade Zephyr Casino]], [[Soliana]]

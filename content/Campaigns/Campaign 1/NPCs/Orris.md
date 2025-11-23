@@ -2,7 +2,7 @@
 title: Orris
 type: npc
 race: Human
-location: "[[Arcadia]]"
+location: "[[Adalens]]"
 affiliation:
   - "[[House Locke]]"
   - "[[necromancers]]"
@@ -10,34 +10,31 @@ tags:
   - npc
   - antagonist
   - family
+  - mysterious
 ---
 
 # Orris
 
-> [!info] Status: Alive (Active Threat)
+> [!info] Status: Alive (Active)
 > **Relation:** Brother to [[Lavender]]
-> **Current Location:** [[Arcadia]] (Likely [[Mayor's Mansion (Arcadia)|Mayor's Mansion]])
+> **Current Location:** [[Adalens]] (Presumed)
 
-**Orris** is [[Lavender]]'s brother and a gifted wizard who currently holds a high-ranking position within the [[necromancers]] operating in [[Arcadia]].
+**Orris** is [[Lavender]]'s brother and a high-ranking wizard within the [[necromancers]]. His true allegiance is currently ambiguous; while he leads necromantic operations, he has secretly acted to protect Lavender.
+
+## Campaign Notes
+
+### The Double Agent?
+While Orris is a known leader among the necromancers in [[Arcadia]], his actions suggest a conflicting agenda:
+* **The Meeting:** He met with the party in his lair beneath the [[Mayor's Mansion (Arcadia)]]. Under a *Zone of Truth* (which he resisted/was unaware of), he confessed he missed Lavender and provided her with a **sending stone** to contact him safely in [[Adalens]].
+* **The Grey Pearl:** [[Lavender]] experienced a vision of Orris giving the [[Grey Pearl]] to [[Corbin]], instructing him to give it to her so she could escape via [[Captain Voss]] if she was in danger. In the vision, he appeared conflicted.
+* **The Letters:** He sent [[Encoded Letters|encoded warnings]] (signed O.L.) to an unknown recipient (E.M.) regarding "roots withered" and "grasping hands," suggesting he is aware of a greater threat.
+
+### The Ring & Auriel
+Orris previously owned the **[[Ring of Orris]]**. [[Anaphel]] believes that the goddess **[[Auriel]]** has been trapped inside this ring by the necromancers to "tip the scales." It is unclear if Orris knows the ring contains the goddess, or if he gave it to Lavender to keep *Auriel* safe from his own masters.
 
 ## Background
 
-Orris is a member of the noble [[House Locke]]. Following [[Lavender]]'s exile from the family approximately 18 months ago, Orris remained with the family for another six months before leaving.
-
-According to [[Lady Bromelia]], Orris was contacted by a tutor about a year ago and began training in necromancy. He left the family to join this secretive group, though he occasionally sends items back home to quell his mother's worry. Bromelia noted that while memory modification magic exists, it is unclear if Orris is acting entirely of his own free will or under influence.
-
-## Current Status
-
-Orris has risen quickly through the ranks of the necromancers in [[Arcadia]] due to his magical aptitude. He is said to have the ear of the leader and is highly trusted within the organization.
-
-## Capabilities
-
-* **Necromancy:** He is a powerful spellcaster.
-* **Spirit of Death:** Through visions granted by the [[Ring of Orris]], [[Lavender]] witnessed Orris using a spell to strike down enemies and raise them as spirits. In the vision, he raised the faces of his own family, suggesting a willingness (or a dark fantasy) to corrupt his own kin.
-
-## Items
-
-* **[[Ring of Orris]]:** A powerful silver ring set with occluded gems that radiates cold necromantic energy. It was found by the party in a mead bottle in [[Arcadia]] but formerly belonged to Orris.
+Orris is a member of the noble [[House Locke]]. He left the family about a year ago after being contacted by a tutor.
 
 ---
-**Related:** [[Lavender]], [[House Locke]], [[The Displaced]], [[Entry 13]], [[Entry 15]], [[Entry 16]]
+**Related:** [[Lavender]], [[The Displaced]], [[Arcadia]], [[Adalens]], [[Grey Pearl]]
