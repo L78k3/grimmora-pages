@@ -1,92 +1,51 @@
 ---
+title: Lavender
 type: pc
-world: Grimmora
-campaign:
+race: Human (Variant)
+class: Barbarian / Paladin
+location: "[[Onasea]]"
+campaign: Campaign 1
+tags:
+  - pc
+  - party-member
 ---
 ![[1zp0i32g 6.webp]]
 
-*Lavender, formerly styled as the Lady Lavender of [[House Locke]], is human barbarian-paladin and champion of [[Auriel]], goddess of cold and balance. Lavender has grown into her divine powers over the campaign, which initially manifested as an 'anger management problem' from a very young age, and has started to find purpose in a path of her own making. She's the frontline fighter of the group, wielding a versatile longsword, shield and, on occasion, a crossbow.*
+# Lavender
 
-## Statistical Overview
+> [!info] Character Overview
+> **Race:** Human (Variant)
+> **Class:** Barbarian / Paladin
+> **Player:** Kit
+> **Background:** Noble ([[House Locke]])
+> **Deity:** [[Auriel]]
+> **Location:** [[Onasea]]
 
-**STR:** 18 | **DEX:** 14 | **CON:** 16 | **INT:** 10 | **WIS:** 8 | **CHA:** 13
+**Lavender** is the former Lady of [[House Locke]] and the champion of [[Auriel]], goddess of cold and balance. She is the party's frontline tank, struggling to balance her noble upbringing with her divine rage.
 
-**Levels & Class:
-- **5** - Barbarian, Path of the Zealot
-	- Rage
-	- Unarmoured Defense
-	- Danger Sense
-	- Reckless Attack
-	- Zealot: Divine Fury (Radiant)
-	- Zealot: Warrior of the Gods
-	- Fast Movement
-- **3** - Paladin, Oath of Devotion
-	- Divine Sense
-	- Lay on Hands
-	- Divine Smite
-	- Fighting Style: Great Weapon Fighting
-	- Divine Health
-	- Oath of Devotion: Channel Divinity (Sacred Weapon)
-	- Oath of Devotion: Channel Divinity (Turn the Unholy)
+## Campaign Notes
 
-**Race:**
-- Variant Human 
-	- +1 STR, +1 CHA
-	- Skill: Religion
-	- Feat: Charger
+### The Ring & The Goddess
+Lavender is currently attuned to the **[[Ring of Orris]]**. Upon attuning, she received visions of her brother [[Orris]] using it to slaughter enemies.
+* **Revelation:** [[Anaphel]] believes that the goddess **[[Auriel]]** is trapped inside this ring, which explains why the necromancers are hunting Lavender so aggressively.
+* **Oath:** Lavender has sworn to free Auriel from the ring.
 
-**Background:**
-- Nobility
-	- Skills: History, persuasion
-	- Position of Privilege
+### Current Objectives
+* **The Grey Pearl:** She possesses the **[[Grey Pearl]]** given to her by [[Corbin]] in the [[Onasea Sea Cave]]. Her immediate goal is to present this pearl to **[[Captain Voss]]** on the *[[Tidecaller (Ship)|Tidecaller]]* to secure safe passage to [[Adalens]].
+* **Orris:** She is seeking a confrontation/reunion with her brother in Adalens to understand his fall to necromancy.
 
-**Proficiencies:**
-- Skills: 
-	- Athletics
-	- History
-	- Intimidation
-	- Persuasion
-	- Religion
-- Languages: 
-	- Common
-	- Elven
-- Tools & Other
-	- Dragonchess
+### Status & Trials
+* **Banishment:** During the battle in the [[Mausoleum (Alpine Forest)]], she was briefly banished by **[[Zadhir]]** to a cold, dark pocket dimension but was returned after the party surrendered.
+* **The Trial:** In the mountains near [[Mightrest]], she faced the Trial of the Gladiator for [[Auriel]]. She died in the trial but was resurrected/returned, gaining a deeper connection to her goddess.
 
-**Feats:** 
-- Charger
+## Biography & Personality
 
-## Personality
+Lavender is a product of high expectations and immense pressure. As the eldest child of Count Basil Locke, she demands perfection from herself and others. She has a notorious temper, which manifests as her Barbarian Rage.
 
-**Traits:** 
-- Despite her noble birth, Lavender does not place herself above other folk.
+Currently, she is plagued by guilt over her brother's fall and the burden of carrying her goddess.
 
-**Ideals:**
-- The noble obligation: It is her duty to protect and care for the commonfolk. 
-- Independence: She will prove she can handle herself without her family
-
-**Bond:
-- Lavender will face any challenge to win the approval of her family. 
-
-**Flaws:** 
-- As a by-product from her (albeit short) time in the courts of nobility, Lavender struggles to trust. She sees ulterior motives and weakness in exposure.
-- Her temper has earned her quite the reputation amongst the nobility and soldiers of the family guard. 
-
-Lavender is very much a product of her environment. As the eldest child of Count Basil Locke and his wife Rosemary, expectations were set as far as the sky from the very start. She has deeply internalised this attitude and applies it to nearly every aspect of her life; she does not suffer fools and expects only the very best from anyone. Though this does set her back in some social matters, it usually serves her well, despite making an unfortunate pair with her innate impatience. 
-
-Whilst Lavender considers herself a very pragmatic person, able to separate heart and matter with ease, she does not take being told 'no' well. For better and for worse. And once the flames of her ire have been stoked, the embers are not wont to fade away naturally; she has quite the nasty temper and an unnatural depth to her fury. Outwardly, she wears this with confidence. However, cracks have begun to form in her ice. When one peers beneath the surface, she is one plagued with guilt she rarely speaks of. 
-
-Yet beyond her shortcomings, justice, humility, temperance, and mercy are concepts precious to her. At her best she is tenacious, virtuous, and honourable. At her worst she is reckless and explosive, yet also aloof. 
-
-Balance is key. Offense, defence, light, dark, stillness, chaos. 
-
-## Description
-
-**Age:** 25~ 
-**Height:** 6ft 5in
-**Build:** Strong but lean
-
-Lavender casts a long shadow. Even past her unusual height, which is not something uncommon in the Locke bloodline, she is a naturally imposing, if still handsome, creature. Her features catch the light in severe ways; she has high cheek bones, a long pointed nose, a angular jaw, and very dark, near black, wide-set eyes. Her hair is long and startlingly platinum but never allowed to be flow free. Instead, it is always pulled back into a bun.
-
-WIP. :) 
-
+## Quick Stats Reference
+* **STR:** 18 | **DEX:** 14 | **CON:** 16 | **INT:** 10 | **WIS:** 8 | **CHA:** 13
+* **AC:** Unarmoured Defence
+* **Key Abilities:** Rage, Divine Smite, Lay on Hands, Divine Sense.
+* **Feats:** Charger.

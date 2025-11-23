@@ -1,268 +1,131 @@
 ---
 title: Gage Greengather (Respecced)
 type: pc
-location: "[[Arcadia]]"
+location: "[[Onasea]]"
 world: Grimmora
 campaign: Campaign 1
 ---
-(This portrait is placeholder :p)
 ![[icon.webp]]
 
-# Gage Greengather (Respecced)
+# Gage Greengather
 
-## Basic Information
+> [!info] Character Overview
+> **Race:** Gnome (Rock Gnome)
+> **Class:** Rogue (Assassin) / Ranger (Gloom Stalker)
+> **Background:** Variant Criminal (Spy)
+> **Player:** Luke
+> **Location:** [[Onasea]]
 
-- **Race:** Gnome (Rock Gnome)
-- **Class & Level:** Rogue [[Assassin]] (5) / Ranger [[Gloom Stalker]] (3)
-- **Background:** Variant Criminal (Spy)
-- **Player Name:** Luke
-- **Alignment:** Neutral
-- **Experience Points:** 50
-- **Proficiency Bonus:** +3
+**Gage Greengather** is a pragmatic mercenary turned freedom fighter. Formerly a spy for the [[necromancers]], he defected to the party after witnessing the devastation caused by his employers. He now operates as **The Greenblade**, fighting for balance rather than coin.
 
-## Physical Description
+## Campaign Notes (Entries 1-38)
 
-- **Age:** 50
-- **Height:** 3'3"
-- **Weight:** 39 lb
-- **Eyes:** Grey
-- **Hair:** Marble
-- **Skin:** Grey
+### Class & Training
+Gage officially trained with the **[[Ranger Guild Recruiter]]** aboard the [[Paddle Steamer]], undergoing a sensory-deprivation trial to gain the **Gloom Stalker** archetype.
 
-## Ability Scores & Modifiers
+### Key Relationships
+* **[[Halsen]]:** Gage bonded deeply with the druid leader over nature and sustainability.
+* **[[Orris]]:** Gage revealed to the party that he was originally hired by Orris to track [[Lavender]].
 
-- **Strength:** 8 (-1)
-- **Dexterity:** 18 (+4)
-- **Constitution:** 15 (+2)
-- **Intelligence:** 14 (+2)
-- **Wisdom:** 15 (+2)
-- **Charisma:** 12 (+1)
-
-## Combat Stats
-
-- **Armour Class:** 14
-- **Hit Point Maximum:** 50
-- **Current Hit Points:** _____
-- **Temporary Hit Points:** _____
-- **Hit Dice:** 5×(1d8+2), 3×(1d10+2)
-- **Initiative:** **+4** (`dice: 1d20+4`)
-- **Speed:** 25 ft (35 ft on first turn with Dread Ambusher)
-- **Passive Wisdom (Perception):** 15
-
-## Saving Throws
-_When making a saving throw, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
-
-- **Strength:** **-1** (`dice: 1d20-1`)
-- **Dexterity:** **+7** (`dice: 1d20+7`)
-- **Constitution:** **+2** (`dice: 1d20+2`)
-- **Intelligence:** **+5** (`dice: 1d20+5`)
-- **Wisdom:** **+2** (`dice: 1d20+2`)
-- **Charisma:** **+1** (`dice: 1d20+1`)
-
-## Skills
-_When making a skill check, roll `1d20` and add the corresponding modifier. The full dice roll is also provided._
-
-- **Acrobatics (Dex):** **+4** (`dice: 1d20+4`)
-- **Animal Handling (Wis):** **+2** (`dice: 1d20+2`)
-- **Arcana (Int):** **+2** (`dice: 1d20+2`)
-- **Athletics (Str):** **-1** (`dice: 1d20-1`)
-- **Deception (Cha):** **+7** (`dice: 1d20+7`)
-- **History (Int):** **+2** (`dice: 1d20+2`)
-- **Insight (Wis):** **+5** (`dice: 1d20+5`)
-- **Intimidation (Cha):** **+1** (`dice: 1d20+1`)
-- **Investigation (Int):** **+5** (`dice: 1d20+5`)
-- **Medicine (Wis):** **+2** (`dice: 1d20+2`)
-- **Nature (Int):** **+2** (`dice: 1d20+2`)
-- **Perception (Wis):** **+5** (`dice: 1d20+5`)
-- **Performance (Cha):** **+1** (`dice: 1d20+1`)
-- **Persuasion (Cha):** **+1** (`dice: 1d20+1`)
-- **Religion (Int):** **+2** (`dice: 1d20+2`)
-- **Sleight of Hand (Dex):** **+10** (`dice: 1d20+10`)
-- **Stealth (Dex):** **+7** (`dice: 1d20+7`)
-- **Survival (Wis):** **+5** (`dice: 1d20+5`)
-
-## Attacks & Spellcasting (Revised)
-
-### Weapons
-
-_For attack rolls, roll `1d20` and add the "to hit" modifier. For damage rolls, roll the specified dice and add the damage modifier. The full dice roll is also provided._
-
-- **Dagger:** **+7** to hit (`dice: 1d20+7`), `1d4` + **4** piercing damage (`dice: 1d4+4`)
-- **Shortbow:** **+9** to hit (`dice: 1d20+9`), `1d6` + **4** piercing damage (`dice: 1d6+4`)
-- **Rapier:** **+7** to hit (`dice: 1d20+7`), `1d8` + **4** piercing damage (`dice: 1d8+4`)
-
-### Special Attacks
-
-- **Sneak Attack:** `3d6` extra damage (`dice: 3d6`) (once per turn with advantage or ally within 5 ft)
-- **Dread Ambusher Extra Attack:** `1d8` extra damage on first turn additional attack (`dice: 1d8`)
-
-- **Spellcasting Ability:** Wisdom
-- **Spell Save DC:** 13
-- **Spell Attack Bonus:** +5
-- **1st Level Spell Slots:** 3
-
-### Known Spells (Quick Reference)
-
-_Key information to quickly recall during play._
-
-- **Disguise Self** (1st level)
-    - _Effect:_ Change appearance, clothes, equipment. Lasts 1 hour.
-    - _Range:_ Self. _Components:_ V, S. _Casting Time:_ 1 Action.
-- **Hail of Thorns** (1st level)
-    - `dice: 1d10` piercing damage (Dex save DC 13 for half)
-    - _Effect:_ Thorns burst from missile. _Range:_ Self (5 ft radius). _Components:_ V. _Casting Time:_ 1 Bonus Action.
-- **Hunter's Mark** (1st level)
-    - `dice: 1d6` extra damage per hit against marked target.
-    - _Effect:_ Mark target. Lasts 1 hour (concentration). _Range:_ 90 ft. _Components:_ V. _Casting Time:_ 1 Bonus Action.
-- **Longstrider** (1st level)
-    - _Effect:_ Target's speed increases by 10 ft. Lasts 1 hour.
-    - _Range:_ Touch. _Components:_ V, S, M (a pinch of dirt). _Casting Time:_ 1 Action.
-
-### Known Spells
-
-- **Disguise Self** (1st level)
-- **Hail of Thorns** (1st level) - `dice: 1d10` piercing damage (Dex save for half)
-- **Hunter's Mark** (1st level) - `dice: 1d6` extra damage per hit
-- **Longstrider** (1st level)
-
-## Death Saves
-
-- **Successes:** ☐ ☐ ☐
-- **Failures:** ☐ ☐ ☐
-
-## Personality
-
-- **Personality Traits:**
-    - "I measure every action by its efficiency — if there's a cleaner, quieter way, I'll find it."
-    - "I've learned to stop and listen — to people, to the wind, to the forest."
-- **Ideals:** "Loyalty must be earned, not demanded." (Neutral Good)
-- **Bonds:** "My clan taught me survival, but I'll be the one to teach them change."
-- **Flaws:** "I struggle to forgive myself for the things I did when I was 'just following orders'."
-
-## Features & Traits
-
-### Racial Traits (Rock Gnome)
-
-- **Darkvision:** 60 ft
-- **Gnome Cunning:** Advantage on INT, WIS, and CHA saves against magic
-- **Artificer's Lore:** Add 2× proficiency bonus on magical, alchemical, or technological item-related history checks
-- **Tinker:** Construct tiny clockwork devices
-- **Telepathic:** Can speak telepathically to creatures within 60 feet, cast detect thoughts once per long rest
-
-### Class Features
-
-#### Rogue Features
-
-- **Sneak Attack:** `3d6` extra damage (`dice: 3d6`)
-- **Thieves' Cant:** Convey secret messages in normal conversation
-- **Cunning Action:** Bonus action Dash, Disengage, or Hide
-- **Uncanny Dodge:** Halve damage from one attack per turn (reaction)
-
-#### Assassin Features
-
-- **Assassinate:** Advantage on creatures that haven't acted; surprised creatures take critical hits
-- **Bonus Proficiencies:** Disguise kit and poisoner's kit
-
-#### Ranger Features
-
-- **Favored Enemy:** Undead (advantage on tracking and recall checks)
-- **Natural Explorer:** Forest terrain (double proficiency on relevant checks, no movement penalty, enhanced tracking)
-- **Archery Fighting Style:** +2 to ranged attack rolls
-- **Primeval Awareness:** Spend spell slot to sense creature types within 1 mile (6 miles in forest)
-
-#### Gloom Stalker Features
-
-- **Dread Ambusher:**
-    - Initiative bonus equal to Wisdom modifier (+2)
-    - +10 ft speed on first turn
-    - Extra attack on first turn with `dice: 1d8` extra damage
-- **Umbral Sight:** Darkvision 90 ft total, invisible to darkvision while in darkness
-
-### Background Feature
-
-- **Spy Contact:** Reliable contact for message delivery and information networks
-
-## Proficiencies
-
-- **Languages:** Abyssal, Common, Gnomish
-- **Tools:** Disguise Kit, Playing Card Set, Poisoner's Tools, Thieves' Tools, Tinker's Tools
-- **Weapons:** Simple, Martial
-- **Armor:** Light, Medium, Shields
-
-## Equipment
-
-- Arrow ×20
-- Backpack
-- Ball bearings
-- Bell
-- Candle ×5
-- Clothes, common
-- Crowbar
-- Hammer
-- Lantern, hooded
-- Leather armor
-- Oil ×2
-- Piton ×10
-- Quiver
-- Rations (1 day) ×5
-- Rope, hempen
-- String
-- Thieves' Tools
-- Tinderbox
-- Waterskin
-- **Commission for a Clockwork Rabbit** (For Temerity)
-
-## Currency
-
-- **Copper Pieces (CP):** ___
-- **Electrum Pieces (EP):** ___
-- **Gold Pieces (GP):** ___
-- **Platinum Pieces (PP):** ___
-- **Silver Pieces (SP):** ___
-
-## Character Backstory
-
-Gage Greengather grew up among the Greengather Blades, a nomadic forest-based mercenary clan who sold their swords (and arrows) to the highest bidder. Raised with strict discipline, he learned to follow orders without question, scout without being seen, and kill without hesitation. Gnomish ingenuity blended with guerrilla pragmatism made him a master of ambush and survival.
-
-### The Necromancer's Spy
-As he aged, the glint of gold faded in his eyes. He began to see cracks in the system — missions that razed the very forests they camped in, contracts that sacrificed innocents. He was hired by the [[necromancers]] to spy on a band of adventurers ([[Lavender]], [[Temerity]], and [[Theren]]), tasked specifically with keeping an eye on Lavender.
-
-He watched them from the shadows for some time, observing their camaraderie and their defiance of authority. During an encounter outside [[Arcadia]], he finally made his choice. Seeing the devastation the necromancers had wrought on the land—decimating life in the area—he intervened in a skirmish to save the party, skewering a guard with his rapier.
-
-### Defection
-When confronted by the party, Gage put his cards on the table: he admitted to being a mercenary in the employ of the necromancers but declared he wanted nothing more to do with their schemes. He saw in the party the potential to stop the threat he had once served. He revealed that his reconnaissance work with his older brother had begun to shift his perspective long ago, leading him to view himself now as a freedom fighter rather than a soldier of fortune.
-
-Now calling himself The Greenblade, Gage fights not for coin, but for balance. He guided the party through secret entrances into [[Arcadia]], utilizing his knowledge of the city's layout and his contacts, such as the innkeeper who owed him a favor. He still uses the tricks his clan taught him—the poisoned tips, the terrain tactics, the silent kills—but now, he uses them against the very systems that raised him.
+### Notable Equipment Obtained
+* **[[Gage's Cloak of the Forest]]:** A magical cloak gifted by the druid [[Halsen]] at [[Silvanus' Beard]].
+* **Mossy Stone:** A single-use sending stone for emergencies, also from Halsen.
+* **Imperial Courier Bag:** Looted from [[Loraleia]], containing the cipher keys for the [[Encoded Letters]].
+* **Kettle:** Stolen from the [[Bandit Lake House]].
 
 ---
 
-## Quick Reference Dice Rolls
+## Combat Dashboard
 
-### Common Rolls
-
-_For ability checks and attacks, roll `1d20` and add the modifier. Full dice rolls for other effects are also included._
-
+### Vitals
+- **AC:** 15
+- **HP:** 50 (Max)
+- **Speed:** 25 ft (35 ft on first turn)
 - **Initiative:** **+4** (`dice: 1d20+4`)
-- **Stealth Check:** **+7** (`dice: 1d20+7`)
-- **Perception Check:** **+5** (`dice: 1d20+5`)
-- **Hit Dice Recovery (Rogue):** `1d8+2` (`dice: 1d8+2`)
-- **Hit Dice Recovery (Ranger):** `1d10+2` (`dice: 1d10+2`)
+- **Passive Perception:** 15
 
-### Weapon Attacks & Damage
+### Attacks
+_Roll `1d20` + modifier to hit. Roll dice + modifier for damage._
 
-_Roll `1d20` and add the "to hit" modifier. For damage, roll the specified dice and add the damage modifier._
+- **Shortbow:** **+9** to hit (`dice: 1d20+9`) | **Dmg:** `1d6` + **4** (`dice: 1d6+4`)
+- **Rapier:** **+7** to hit (`dice: 1d20+7`) | **Dmg:** `1d8` + **4** (`dice: 1d8+4`)
+- **Dagger:** **+7** to hit (`dice: 1d20+7`) | **Dmg:** `1d4` + **4** (`dice: 1d4+4`)
 
-- **Shortbow Attack:** **+9** to hit (`dice: 1d20+9`)
-- **Shortbow Damage:** `1d6` + **4** (`dice: 1d6+4`)
-- **Rapier Attack:** **+7** to hit (`dice: 1d20+7`)
-- **Rapier Damage:** `1d8` + **4** (`dice: 1d8+4`)
-- **Dagger Attack:** **+7** to hit (`dice: 1d20+7`)
-- **Dagger Damage:** `1d4` + **4** (`dice: 1d4+4`)
-- **Sneak Attack Damage:** `3d6` (`dice: 3d6`)
+**Bonuses:**
+- **Sneak Attack:** `3d6` (`dice: 3d6`) (Once/turn with Adv or Ally adjacent)
+- **Dread Ambusher:** `1d8` (`dice: 1d8`) (Extra damage on first turn attack)
+- **Hunter's Mark:** `1d6` (`dice: 1d6`)
 
-### Spell Damage
+### Spellcasting (Wisdom | DC 13 | +5 Hit)
+- **Slots:** 3 (1st Level)
 
-_Roll the specified dice for damage. Note if a modifier is added. Full dice rolls are also included._
+**Quick Spells:**
+- **Disguise Self** (1st): Change appearance. 1 hr. [link](https://2014.5e.tools/spells.html#disguise%20self_phb)
+- **Hail of Thorns** (1st): Bonus Action. Next hit explodes. `1d10` piercing (`dice: 1d10`). Dex save DC 13 half.[link](https://2014.5e.tools/spells.html#hail%20of%20thorns_phb)
+- **Hunter's Mark** (1st): Bonus Action. Mark target (90ft). +1d6 dmg. 1 hr (Conc).[link](https://2014.5e.tools/spells.html#hunter's%20mark_phb)
+- **Longstrider** (1st): Touch. +10 speed. 1 hr.[link](https://2014.5e.tools/spells.html#longstrider_phb)
 
-- **Hunter's Mark Bonus:** `1d6` (`dice: 1d6`)
-- **Hail of Thorns:** `1d10` (`dice: 1d10`) (Dex save DC 13 for half)
+---
+
+## Character Sheet Details
+
+### Ability Scores
+- **STR:** 8 (-1)  (`dice: 1d20-1`)
+- **DEX:** 18 (+4) (`dice: 1d20+4`)
+- **CON:** 14 (+2) (`dice: 1d20+2`)
+- **INT:** 12 (+1) (`dice: 1d20+1`)
+- **WIS:** 14 (+2) (`dice: 1d20+2`)
+- **CHA:** 10 (+0) (`dice: 1d20+0`)
+
+### Saving Throws
+- **STR:** -1 (`dice: 1d20-1`) | **DEX:** +7 (`dice: 1d20+7`) | **CON:** +2 (`dice: 1d20+2`)
+- **INT:** +4 (`dice: 1d20+4`) | **WIS:** +2 (`dice: 1d20+2`) | **CHA:** +0 (`dice: 1d20+0`)
+
+### Skills
+- **Acrobatics (Dex):** +7 (`dice: 1d20+7`)
+- **Animal Handling (Wis):** +2 (`dice: 1d20+2`)
+- **Arcana (Int):** +1 (`dice: 1d20+1`)
+- **Athletics (Str):** -1 (`dice: 1d20-1`)
+- **Deception (Cha):** +3 (`dice: 1d20+3`)
+- **History (Int):** +1 (`dice: 1d20+1`)
+- **Insight (Wis):** +5 (`dice: 1d20+5`)
+- **Intimidation (Cha):** +0 (`dice: 1d20+0`)
+- **Investigation (Int):** +4 (`dice: 1d20+4`)
+- **Medicine (Wis):** +2 (`dice: 1d20+2`)
+- **Nature (Int):** +1 (`dice: 1d20+1`)
+- **Perception (Wis):** +5 (`dice: 1d20+5`)
+- **Performance (Cha):** +0 (`dice: 1d20+0`)
+- **Persuasion (Cha):** +0 (`dice: 1d20+0`)
+- **Religion (Int):** +1 (`dice: 1d20+1`)
+- **Sleight of Hand (Dex):** +4 (`dice: 1d20+4`)
+- **Stealth (Dex):** +10 (`dice: 1d20+10`)
+- **Survival (Wis):** +2 (`dice: 1d20+2`)
+- *Proficient also in: Animal Handling, Arcana, History, Medicine, Nature, Religion (+2)*
+
+### Features & Traits
+**Racial (Rock Gnome):** Darkvision 60ft, Gnome Cunning (Adv on Int/Wis/Cha saves vs magic), Artificer's Lore, Tinker.
+**Rogue (Assassin):** Thieves' Cant, Cunning Action, Uncanny Dodge, Assassinate (Adv on unacted creatures, Crit on surprised).
+**Ranger (Gloom Stalker):** Favored Enemy (Undead), Natural Explorer (Forest), Archery Style (+2 hit), Dread Ambusher (+Init, +Speed/Atk turn 1), Umbral Sight (Darkvision 90ft, Invisible to darkvision).
+**Feat (Telepathic):** Speak telepathically 60ft, cast *Detect Thoughts* once/long rest.
+
+## Inventory
+
+### Equipment
+- **Weapons:** Shortbow, Rapier, Dagger.
+- **Armor:** Leather Armor.
+- **Tools:** Thieves' Tools, Tinker's Tools, Disguise Kit, Poisoner's Kit, Playing Cards.
+- **Supplies:** Arrows (20), Backpack, Lantern (Hooded), Oil (2), Rope (Hempen), Rations (5), Waterskin, Ball Bearings, Bell, Candle (5), Crowbar, Hammer, Piton (10), String, Tinderbox.
+- **Special:** Commission for a [[Clockwork Rabbit (Item)|Clockwork Rabbit]].
+
+### Currency
+- **GP:** ___ | **SP:** ___ | **CP:** ___
+
+## Backstory
+
+Gage Greengather grew up among the Greengather Blades, a nomadic forest-based mercenary clan. Raised with strict discipline, he learned to scout without being seen and kill without hesitation.
+
+### The Necromancer's Spy
+As he aged, Gage began to see cracks in the mercenary system. He was hired by the [[necromancers]] to spy on a band of adventurers ([[Lavender]], [[Temerity]], and [[Theren]]). He watched them from the shadows, observing their camaraderie. During an encounter outside [[Arcadia]], seeing the devastation the necromancers had wrought, he intervened to save the party, skewering a guard with his rapier.
+
+### Defection
+When confronted, Gage admitted to being a mercenary but declared he wanted nothing more to do with the necromancers' schemes. He saw in the party the potential to stop the threat. Now calling himself The Greenblade, Gage fights not for coin, but for balance.
