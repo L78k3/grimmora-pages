@@ -24,13 +24,13 @@ The ring is made of silver and set with three dark, occluded jewels. When attune
 
 * **Necromantic Aura:** The ring glows with a faint blue light and radiates necromantic energy.
 * **Unnatural Cold:** It does not just feel cold, but radiates an "intense absence of heat".
-* **Spells:** It grants the attuned wearer the ability to cast **[spirit of death](https://2014.5e.tools/spells.html#spirit%20of%20death_bmt)**.
+* **Spells:** It grants the attuned wearer the ability to cast **[spirit of death](https://2014.5e.tools/spells/spirit-of-death-bmt.html)**.
 
 ## History & Visions
 
 We discovered the ring inside a bottle of mead at a tavern in [[Arcadia]]. [[Theren]] identified its necromantic nature and deduced it belonged to [[Orris]], suggesting [[Lavender]] would be best suited to attune to it due to their blood connection.
 
-Upon attuning, Lavender experienced a harrowing vision of her brother using the ring to strike down enemies and raise them as spirits—including the faces of their own family.
+Upon attuning, Lavender experienced a harrowing vision of her brother using the ring to strike down enemies and raise them as spirits - including the faces of their own family.
 
 ---
 **Related:** [[Lavender]], [[Orris]], [[Entry 16]]
