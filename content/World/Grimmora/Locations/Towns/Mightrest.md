@@ -13,7 +13,7 @@ tags:
 # Mightrest
 
 > [!info] Visited
-> **When:** [[Entry 3]] - Teleported here by [[Millicent]]
+> **When:** [[Entry 03]] - Teleported here by [[Millicent]]
 > **Region:** [[The Frost]]
 > **Status:** Plague resolved
 
@@ -94,7 +94,7 @@ With the defeat of the [[Vampire Lord]], Mightrest is recovering. The plague vic
 
 ## Our Experience
 
-We were unexpectedly teleported to Mightrest by the fey mage [[Millicent]] on [[Entry 3]]. What we thought would be a simple stop to find griffin experts turned into a major quest to save the town from a vampiric plague.
+We were unexpectedly teleported to Mightrest by the fey mage [[Millicent]] on [[Entry 03]]. What we thought would be a simple stop to find griffin experts turned into a major quest to save the town from a vampiric plague.
 
 We spent considerable time here:
 - Investigating the plague and its mysterious symptoms

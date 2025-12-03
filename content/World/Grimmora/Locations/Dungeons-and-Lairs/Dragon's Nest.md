@@ -13,7 +13,7 @@ tags:
 # Dragon's Nest
 
 > [!info] Visited
-> **When:** [[Entry 7#Events|Day 6]], [[Entry 8#Day 7 (continued)|Day 7]]
+> **When:** [[Entry 07#Events|Day 6]], [[Entry 08#Day 7 (continued)|Day 7]]
 > **Location:** Mountains in [[The Frost]]
 
 ## Overview

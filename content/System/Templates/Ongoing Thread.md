@@ -1,33 +1,30 @@
 ---
-status: {{status}}  
-related_quests: {{related_quests}}  
-important_npcs: {{important_npcs}}  
-notes: {{notes}}  
+status: {{status}}
+completed: {{completed}}
+notes: {{notes}}
+tags:
+  - quest
 ---
 
-# {{thread_name}} – Ongoing Thread
+# {{quest_name}} – Ongoing Thread
 
-## Description  
-{{thread_description}}
+## Description
+{{quest_description}}
 
-## Status  
-- **Current Status:** {{status}}  
+## Status
+- **Current Status:** {{status}}
+- **Completion:** {{completed}}
 
-## Notes  
+## Notes
 {{notes}}
 
 ---
 
+## Quest Steps
+{{quest_steps_list}}
+
+## Rewards
+{{rewards_list}}
+
 ## Relevant NPCs
-- **NPC 1:** {{npc_1}}
-- **NPC 2:** {{npc_2}}
-
-## Related Quests
-- **Quest 1:** {{quest_1}}
-- **Quest 2:** {{quest_2}}
-
-## Last Update  
-{{last_update}}
-
-## Next Steps  
-{{next_steps}}
+{{npc_list}}

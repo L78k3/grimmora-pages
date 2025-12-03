@@ -12,7 +12,7 @@ tags:
 # Water Genasi Harbourmaster
 
 > [!info] Status: Alive
-> **Encountered:** [[Entry 3]], [[Entry 30]]
+> **Encountered:** [[Entry 03]], [[Entry 30]]
 > **Location:** [[Harbourmaster's Office (Avalon)]]
 
 The **Harbourmaster** of [[Avalon]] is a female water genasi who runs the port authority.
@@ -30,4 +30,4 @@ When the party first investigated the smuggling barge, she was unhelpful until [
 [[Lavender]] and [[Gage]] forced their way into her office to investigate the seal found at [[The Slippery Ostrich]]. She was unhappy with the interruption but agreed to check the records. She identified the seal as belonging to the shipping company that owns the warehouse.
 
 ---
-**Related:** [[Avalon]], [[Harbourmaster's Office (Avalon)]], [[Entry 3]], [[Entry 30]]
+**Related:** [[Avalon]], [[Harbourmaster's Office (Avalon)]], [[Entry 03]], [[Entry 30]]

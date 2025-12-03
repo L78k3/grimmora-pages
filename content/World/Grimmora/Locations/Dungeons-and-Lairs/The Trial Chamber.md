@@ -13,7 +13,7 @@ tags:
 # The Trial Chamber
 
 > [!info] Visited
-> **When:** [[Entry 8#Day 7 (continued)|Day 7]]
+> **When:** [[Entry 08#Day 7 (continued)|Day 7]]
 > **Location:** Underground complex in [[The Frost]]
 
 ## Overview

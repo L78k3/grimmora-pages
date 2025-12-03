@@ -15,7 +15,7 @@ tags:
 # The Gladiator's Amphitheatre
 
 > [!info] Visited
-> **When:** [[Entry 8#Day 7 (continued)|Day 7-8]]
+> **When:** [[Entry 08#Day 7 (continued)|Day 7-8]]
 > **Location:** Part of [[The Trial Chamber]] complex
 
 ## Overview

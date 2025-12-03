@@ -13,7 +13,7 @@ tags:
 # Vampire Mansion
 
 > [!info] Visited
-> **When:** [[Entry 4#Day 5|Day 5]], [[Entry 5#Day 5 (continued)|Day 5 (continued)]]
+> **When:** [[Entry 04#Day 5|Day 5]], [[Entry 05#Day 5 (continued)|Day 5 (continued)]]
 > **Location:** On a hill at the top of [[Mightrest]] 
 
 ## Overview

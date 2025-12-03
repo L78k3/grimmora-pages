@@ -12,7 +12,7 @@ tags:
 # Mage's Tower
 
 > [!info] Visited
-> **When:** [[Entry 1#Day 1|Day 1]]
+> **When:** [[Entry 01#Day 1|Day 1]]
 > **Location:** [[Durvish City]]
 
 ## Overview

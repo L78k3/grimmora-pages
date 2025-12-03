@@ -1,0 +1,54 @@
+{
+  "new_entries": [
+    {
+      "template": "NPC",
+      "filename": "Barkeep (Onasea).md",
+      "data": {
+        "name": "Barkeep (Onasea)",
+        "location_link": "[[Onasea]]",
+        "faction_link": "Unknown",
+        "status": "Alive",
+        "role_tag": "merchant",
+        "race": "Unknown",
+        "role": "Tavern Keeper",
+        "description_block": "The proprietor of the local tavern in [[Onasea]].",
+        "personality_block": "Strict and business-oriented. Unimpressed by rowdy patrons or animals in his establishment.",
+        "relationships_list": "* **[[Temerity]]:** Confrontational; demanded he rent rooms or leave.\n* **[[Theren]]:** Rented a room to him.",
+        "combat_block": "Unknown.",
+        "history_block": "* **[[Entry 38]]:** Encountered by the party while they were regrouping. Demanded they pay for rooms."
+      }
+    },
+    {
+      "template": "Item",
+      "filename": "Winter's Core.md",
+      "data": {
+        "name": "Winter's Core",
+        "subtype": "wondrous",
+        "rarity": "legendary",
+        "owner_link": "Unknown",
+        "status_tag": "lost",
+        "attunement": "Unknown",
+        "value": "Unknown",
+        "visual_description": "Suspected to be a gemstone or artefact, perhaps jewellery with a stone inside.",
+        "mechanics_block": "Unknown. Associated with death magic.",
+        "lore_block": "An object of great interest to the [[Necromancers]]. They have been searching for it for months, intercepting ships and smuggling crates in search of it. [[Corbin]] believes it is the primary target of their operations in [[Onasea]].",
+        "entry_link": "[[Entry 38]]",
+        "acquisition_method": "Found"
+      }
+    },
+    {
+      "template": "Quest",
+      "filename": "Passage to Adalens.md",
+      "data": {
+        "quest_name": "Passage to Adalens",
+        "status": "active",
+        "completed": "No",
+        "notes": "Initiated by information provided by [[Corbin]] and the vision from the [[Grey Pearl]].",
+        "quest_description": "The party must secure passage to [[Adalens]] to escape the [[Necromancers]] and move [[Lavender]] to safety, as orchestrated by [[Orris]].",
+        "quest_steps_list": "- [ ] Wait for Moon's Grace (2 days).\n- [ ] Present the [[Grey Pearl]] to [[Captain Voss]].\n- [ ] Board the [[Tidecaller (Ship)]].\n- [ ] Travel to [[Adalens]].",
+        "rewards_list": "- Safe passage to [[Adalens]].",
+        "npc_list": "- [[Corbin]]\n- [[Captain Voss]]\n- [[Orris]]\n- [[Lavender]]"
+      }
+    }
+  ]
+}

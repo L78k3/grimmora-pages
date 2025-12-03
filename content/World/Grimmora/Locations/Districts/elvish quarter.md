@@ -11,7 +11,7 @@ tags:
 # Elvish Quarter
 
 > [!info] Visited
-> **When:** [[Entry 2#Day 2 (continued)|Day 2]]
+> **When:** [[Entry 02#Day 2 (continued)|Day 2]]
 > **Location:** [[Avalon]]
 
 ## Overview

@@ -104,15 +104,15 @@
 * [[Entry 12]] - Elemental Training
 * [[Entry 11]] - The Displaced Camp
 * [[Entry 10]] - Spiders & Raccoons
-* [[Entry 9]] - Auriel's Trial (Part 2)
-* [[Entry 8]] - Auriel's Trial (Part 1)
-* [[Entry 7]] - The Dragon
-* [[Entry 6]] - Ice Wolves
-* [[Entry 5]] - The Vampire
-* [[Entry 4]] - The Monk & The Plague
-* [[Entry 3]] - The Fey & The Barge
-* [[Entry 2]] - Bandits
-* [[Entry 1]] - The Wedding
+* [[Entry 09]] - Auriel's Trial (Part 2)
+* [[Entry 08]] - Auriel's Trial (Part 1)
+* [[Entry 07]] - The Dragon
+* [[Entry 06]] - Ice Wolves
+* [[Entry 05]] - The Vampire
+* [[Entry 04]] - The Monk & The Plague
+* [[Entry 03]] - The Fey & The Barge
+* [[Entry 02]] - Bandits
+* [[Entry 01]] - The Wedding
 
 </details>
 

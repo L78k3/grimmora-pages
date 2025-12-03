@@ -1,1 +1,1 @@
-Magic users who specialize in death magic. The innkeeper's wife mentioned that her husband had allowed necromancers to [[Entry 1#^27aa8c|stay at the inn]].
+Magic users who specialize in death magic. The innkeeper's wife mentioned that her husband had allowed necromancers to [[Entry 01#^27aa8c|stay at the inn]].

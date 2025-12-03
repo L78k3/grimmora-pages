@@ -12,7 +12,7 @@ tags:
 # Temple in Durvish City
 
 > [!info] Visited
-> **When:** [[Entry 1#Prologue|Prologue]]
+> **When:** [[Entry 01#Prologue|Prologue]]
 > **Location:** [[Durvish City]]
 
 ## Overview

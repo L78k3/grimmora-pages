@@ -13,7 +13,7 @@ tags:
 # Frostpeak Pass
 
 > [!info] Visited
-> **When:** [[Entry 3#Day 3 (continued)|Day 3]]
+> **When:** [[Entry 03#Day 3 (continued)|Day 3]]
 > **Region:** [[The Frost]]
 
 ## Overview
@@ -59,7 +59,7 @@ The area is known for [[griffin|griffins]] living in the nearby mountains. The i
 
 ## Our Experience
 
-We stayed at the [[Golden Griffin]] on [[Entry 3#Day 3 (continued)|Day 3]] of our journey. The village served as a perfect waystation as we pursued our quarry northward from [[Avalon]].
+We stayed at the [[Golden Griffin]] on [[Entry 03#Day 3 (continued)|Day 3]] of our journey. The village served as a perfect waystation as we pursued our quarry northward from [[Avalon]].
 
 The innkeeper provided valuable information about the griffins in the area, which proved useful for our travels. Frostpeak Pass marked our transition from civilized lands into the harsher territories of [[The Frost]].
 

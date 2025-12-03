@@ -10,7 +10,7 @@ tags:
 # Harbourmaster's Office (Avalon)
 
 > [!info] Visited
-> **When:** [[Entry 3]], [[Entry 30]]
+> **When:** [[Entry 03]], [[Entry 30]]
 > **Location:** [[Bridgeport]] district in [[Avalon]]
 
 The **Harbourmaster's Office** is the administrative center for the port authority in [[Avalon]]. It is located near the docks in the [[Bridgeport]] area.
@@ -29,4 +29,4 @@ We first visited here to report a smuggling barge. The harbourmaster was uncoope
 We returned to investigate a seal fragment found at [[The Slippery Ostrich]]. We were stopped by the halfling secretary, leading to an argument. [[Lavender]] eventually pushed past her into the main office. Inside, the harbourmaster (reluctantly) identified the seal as belonging to a specific shipping company.
 
 ---
-**Related:** [[Avalon]], [[Bridgeport]], [[Water Genasi Harbourmaster]], [[Entry 3]], [[Entry 30]]
+**Related:** [[Avalon]], [[Bridgeport]], [[Water Genasi Harbourmaster]], [[Entry 03]], [[Entry 30]]

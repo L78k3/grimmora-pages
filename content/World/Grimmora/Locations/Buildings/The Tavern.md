@@ -11,7 +11,7 @@ tags:
 # The Tavern
 
 > [!info] Visited
-> **When:** [[Entry 4#Day 4 (continued)|Day 4]], [[Entry 6#Day 5 (continued)|Day 5]]
+> **When:** [[Entry 04#Day 4 (continued)|Day 4]], [[Entry 06#Day 5 (continued)|Day 5]]
 > **Location:** [[Mightrest]]
 
 ## Overview
