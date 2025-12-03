@@ -1,29 +1,34 @@
 ---
-role: {{role}}  
-completed: {{completed}}  
-affiliation: {{affiliation}}  
-noteworthy: {{noteworthy}}  
-notes: {{notes}}  
+title: {{name}}
+type: npc
+location: {{location_link}}
+faction: {{faction_link}}
+status: {{status}}
+tags:
+  - npc
+  - {{role_tag}}
 ---
 
-# {{npc_name}} – NPC Profile
+# {{name}}
 
-## Background  
-{{background}}
+> [!info] Quick Info
+> **Race:** {{race}}
+> **Role:** {{role}}
+> **Affiliation:** {{faction_link}}
 
-## Attributes  
-- **Role:** {{role}}  
-- **Affiliation:** {{affiliation}}  
-- **Status:** {{completed}}  
-- **Noteworthy:** {{noteworthy}}  
-- **Notes:** {{notes}}  
+## Description
+{{description_block}}
+
+## Personality & Traits
+{{personality_block}}
+
+## Key Relationships
+{{relationships_list}}
+## Combat & Abilities
+{{combat_block}}
+
+## History with the Party
+{{history_block}}
 
 ---
-
-## Key Interactions
-- **First meeting:** {{first_meeting}}
-- **Important moments:** {{important_moments}}
-
-## Relationships
-- **Allies:** {{allies}}
-- **Rivals:** {{rivals}}
+**Current Location:** {{location_link}}

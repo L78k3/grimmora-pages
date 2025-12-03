@@ -1,25 +1,30 @@
 ---
-type: {{type}}  
-quantity: {{quantity}}  
-notes: {{notes}}  
+title: {{name}}
+type: item
+subtype: {{subtype}}
+rarity: {{rarity}}
+owner: {{owner_link}}
+tags:
+  - item
+  - {{status_tag}}
 ---
 
-# {{item_name}} – Inventory Item
+# {{name}}
 
-## Description  
-{{description}}
+> [!abstract] Properties
+> **Type:** {{subtype}}
+> **Attunement:** {{attunement}}
+> **Value:** {{value}}
 
-## Attributes  
-- **Type:** {{type}}  
-- **Quantity Held:** {{quantity}}  
-- **Notes:** {{notes}}
+## Visual Description
+{{visual_description}}
 
----
+## Mechanics & Effects
+{{mechanics_block}}
 
-## Usage
-- **How to Use:** {{usage_instructions}}
-- **Special Properties:** {{special_properties}}
+## Lore & History
+{{lore_block}}
 
-## Related NPCs  
-- **NPC 1:** {{npc_1}}
-- **NPC 2:** {{npc_2}}
+## Acquisition
+* **Obtained In:** {{entry_link}}
+* **Method:** {{acquisition_method}}
