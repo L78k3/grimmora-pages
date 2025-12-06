@@ -22,7 +22,7 @@ It is a very dark green cloak featuring embroidered leaves around the edges.
 
 ## Properties
 
-The cloak is magical and provides the wearer with enhancements to their **nature** and **survival** skills.
+The cloak is magical and provides the wearer with enhancements to their **nature**(+1) and **survival**(+1) skills.
 
 ## History
 

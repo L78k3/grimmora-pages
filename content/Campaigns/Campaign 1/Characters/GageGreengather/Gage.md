@@ -39,7 +39,7 @@ Gage officially trained with the **[[Ranger Guild Recruiter]]** aboard the [[Pad
 
 ### Vitals
 - **AC:** 15
-- **HP:** 50 (Max)
+- **HP:** 50 (Max) 23 (Current)
 - **Speed:** 25 ft (35 ft on first turn)
 - **Initiative:** **+4** (`dice: 1d20+4`)
 - **Passive Perception:** 15
@@ -92,20 +92,20 @@ _Roll `1d20` + modifier to hit. Roll dice + modifier for damage._
 - **Intimidation (Cha):** +0 (`dice: 1d20+0`)
 - **Investigation (Int):** +4 (`dice: 1d20+4`)
 - **Medicine (Wis):** +2 (`dice: 1d20+2`)
-- **Nature (Int):** +1 (`dice: 1d20+1`)
+- **Nature (Int):** +1 +1 ([[Gage's Cloak of the Forest|Cloak]]) (`dice: 1d20+2`)
 - **Perception (Wis):** +5 (`dice: 1d20+5`)
 - **Performance (Cha):** +0 (`dice: 1d20+0`)
 - **Persuasion (Cha):** +0 (`dice: 1d20+0`)
 - **Religion (Int):** +1 (`dice: 1d20+1`)
 - **Sleight of Hand (Dex):** +4 (`dice: 1d20+4`)
 - **Stealth (Dex):** +10 (`dice: 1d20+10`)
-- **Survival (Wis):** +2 (`dice: 1d20+2`)
-- *Proficient also in: Animal Handling, Arcana, History, Medicine, Nature, Religion (+2)*
+- **Survival (Wis):** +2 +1([[Gage's Cloak of the Forest|Cloak]]) (`dice: 1d20+3`)
+- *Proficient in: Acrobatics, Deception, Insight, Investigation, Perception, Stealth*
 
 ### Features & Traits
 **Racial (Rock Gnome):** Darkvision 60ft, Gnome Cunning (Adv on Int/Wis/Cha saves vs magic), Artificer's Lore, Tinker.
 **Rogue (Assassin):** Thieves' Cant, Cunning Action, Uncanny Dodge, Assassinate (Adv on unacted creatures, Crit on surprised).
-**Ranger (Gloom Stalker):** Favored Enemy (Undead), Natural Explorer (Forest), Archery Style (+2 hit), Dread Ambusher (+Init, +Speed/Atk turn 1), Umbral Sight (Darkvision 90ft, Invisible to darkvision).
+**Ranger (Gloom Stalker):** Favored Enemy (Undead, ), Natural Explorer (Forest), Archery Style (+2 hit), Dread Ambusher (+Init, +Speed/Atk turn 1), Umbral Sight (Darkvision 90ft, Invisible to darkvision).
 **Feat (Telepathic):** Speak telepathically 60ft, cast *Detect Thoughts* once/long rest.
 
 ## Inventory
