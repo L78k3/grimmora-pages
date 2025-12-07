@@ -31,10 +31,10 @@ cssclasses: [dashboard]
 ---
 
 ## ⚔️ Combat Quick-View
-![[Combat#Active Loadout]]
-![[Combat#The "Nova" Turn (First Round)]]
-![[Combat#Class Features & Feats]]
-![[Combat#Spellcasting (Ranger)]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#The "Nova" Turn (First Round)]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Class Features & Feats]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spellcasting (Ranger)]]
 
 ---
 ![[Character Sheet Details]]
@@ -51,6 +51,6 @@ cssclasses: [dashboard]
 
 ---
 ## 📂 Modules
-* [[Combat|⚔️ Full Combat Sheet]]
+* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Full Combat Sheet]]
 * [[Gage|📜 Biography & Lore]]
 * [[Journal|📓 Personal Journal]]

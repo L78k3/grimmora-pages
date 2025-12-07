@@ -15,10 +15,15 @@ tags:
 
 > [!info] Character Overview
 > **Race:** Human (Variant)
+> 
 > **Class:** Barbarian / Paladin
+> 
 > **Player:** Kit
+> 
 > **Background:** Noble ([[House Locke]])
+> 
 > **Deity:** [[Auriel]]
+> 
 > **Location:** [[Onasea]]
 
 **Lavender** is the former Lady of [[House Locke]] and the champion of [[Auriel]], goddess of cold and balance. She is the party's frontline tank, struggling to balance her noble upbringing with her divine rage.
@@ -49,3 +54,8 @@ Currently, she is plagued by guilt over her brother's fall and the burden of car
 * **AC:** Unarmoured Defence
 * **Key Abilities:** Rage, Divine Smite, Lay on Hands, Divine Sense.
 * **Feats:** Charger.
+
+## Modules
+* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Session Dashboard]]
+* [[b. Inventory|🎒 Inventory]]

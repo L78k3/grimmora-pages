@@ -48,5 +48,5 @@ When he was hired by [[Necromancers]] to spy on a band of adventurers, he follow
 * **Kettle:** Stolen from the [[Bandit Lake House]].
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Gage/index|🛡️ Session Dashboard]]
