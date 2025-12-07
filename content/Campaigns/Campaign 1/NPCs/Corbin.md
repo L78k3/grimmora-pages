@@ -3,7 +3,7 @@ title: Corbin
 type: npc
 race: Human
 location: "[[Onasea]]"
-status: Hiding
+status: On the Run
 tags:
   - npc
   - captain
@@ -31,3 +31,7 @@ During the meeting, the cave was ambushed by necromancers. Corbin led the party 
 
 ---
 **Related:** [[Onasea]], [[Orris]], [[Grey Pearl]], [[Captain Voss]]
+
+## History
+* **[[Entry 37]]:** The party investigated his disappearance in [[Onasea]], learning he had been missing for a month while investigating unusual shipments. His ship, the [[Albany Castle (Ship)]], was found abandoned at the docks.
+* **[[Entry 38]]:** Found hiding in a trapped [[Onasea Sea Cave]]. He entrusted [[Lavender]] with the [[Grey Pearl]] and directed her to [[Captain Voss]]. Following an ambush by necromancers, he led the party to an underwater exit and fled into the wilderness to "begin again," declining the party's protection.

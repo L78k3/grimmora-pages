@@ -1,54 +1,88 @@
 # Entity Update Workflow
 
 ## Purpose
-This document outlines the process for updating Entity pages (NPCs, Items, Locations, Organizations) using the narrative context from the Chronicles.
+This document outlines the process for updating Entity pages (NPCs, PCs, Items, Locations) using the **Automated Architect Pipeline**. It relies on the `generate_pages.py` script to perform non-destructive updates to your vault.
 
 ---
 
-## 1. The Strategy
-We use different methods depending on the entity type and your preference for file handling.
-
-### Method A: The "Full File" Update (Highest Accuracy)
-**Best for:** Complex lore, emotional beats, intricate scenes.
-**Concept:** Identify which entries matter, then upload those full files.
-
-1.  **Identify Mentions:**
-    Use `grep -l` (list filenames only) to see which files contain the target.
-    ```bash
-    grep -l "ring" content/Campaigns/Campaign\ 1/Chronicles/*.md
-    ```
-2.  **Action:** Upload the **Current Entity File** and the specific **Chronicle Files** identified above.
-3.  **Prompt:** "Update the attached entity page using the full context found in the attached chronicle entries."
-
-### Method B: The "Grep Dump" Update (Fastest / Low Token)
-**Best for:** Simple Items, Merchants, Fact-checking.
-**Concept:** Extract *only* the relevant paragraphs into a single text file to save upload slots.
-
-1.  **Create Context File:**
-    Use `grep` with the `-C` flag (Context) to capture the narrative around the keyword. **Do not use standard grep**, or you will lose the story.
-    ```bash
-    # Capture 20 lines of context around the search term
-    grep -C 20 "search term" content/Campaigns/Campaign\ 1/Chronicles/*.md > ~/grepOutputs/EntityContext.txt
-    ```
-2.  **Action:** Upload the **Current Entity File** and `EntityContext.txt`.
-3.  **Prompt:**
-    > "I have attached a text file (`EntityContext.txt`) containing grep extracts from my chronicles. Please read these extracts to understand the history and usage of [Entity Name]. Update the attached entity page with this new information."
-
-### Method C: Concatenation Strategy (Main Characters)
-**Best for:** Lavender, Gage, The Tavern (Hubs).
-**Concept:** Create a Master File of *everything*.
-
-1.  **Create Master File:**
-    ```bash
-    cat content/Campaigns/Campaign\ 1/Chronicles/*.md > All_Chronicles_Temp.txt
-    ```
-2.  **Action:** Upload **Character Page** and `All_Chronicles_Temp.txt`.
-3.  **Prompt:** "Read the master chronicle file. Extract the complete arc for [Character Name] and update their page."
+## 1. Prerequisites
+Ensure you have these three components ready:
+1.  **The Script:** `generate_pages.py` (Version 3) in your root folder.
+2.  **The Prompt:** `System/Prompts/Architect-Prompt.md` (The Generic Version).
+3.  **The Templates:** `NPC.md`, `Item.md`, `Ongoing Thread.md` (Standardized with `{{keys}}`).
 
 ---
 
-## 2. Routine Maintenance: Adding a New Chronicle
-When a new session finishes (`Entry 37.md`):
+## 2. The Workflows
 
-1.  **Standardize:** Upload `Entry 37.md` + `Conversion-Workflow-Reference.md` to fix YAML and Links.
-2.  **Ripple Update:** If a specific item was heavily used in this entry, use **Method A** (uploading just Entry 37 and the Item page) to update it immediately.
+### Workflow A: The "Sniper" Update (Backfilling History)
+**Best for:** Updating an existing NPC/Location with missed events from past sessions.
+**Concept:** Use Obsidian's "Linked Mentions" to find relevant entries, then process them in a batch.
+
+1.  **Identify Sources:** Open the target note (e.g., `Corbin.md`) and check **Backlinks**. Note which Entries mention him (e.g., `Entry 37`, `Entry 38`).
+2.  **Gather Context:** Open a chat and upload:
+    * The Target File (`Corbin.md`).
+    * The Source Chronicles (`Entry 37.md`, `Entry 38.md`).
+3.  **Prompt:** Paste the **Architect Prompt**.
+    * *No extra typing needed. The prompt automatically detects the target and sources.*
+4.  **Execute:**
+    * Copy the JSON output to `update.json`.
+    * Run: `python generate_pages.py`.
+    * **Verify:** Check `git diff` to ensure history was appended correctly.
+
+### Workflow B: The "New Session" Routine (Day-to-Day)
+**Best for:** Processing the latest session (`Entry 38`) immediately after play.
+**Concept:** The "Forward Only" approach.
+
+1.  **Scout:** Paste `Entry 38` into a chat with the **Scout Prompt** (Optional) to identify which files need updating.
+    * *Or just manually identify the key players (e.g., Gage, Corbin, The Sea Cave).*
+2.  **Architect:** Upload the identified files + `Entry 38`. Run the **Architect Prompt**.
+3.  **Execute:** Paste JSON to `update.json`, run script.
+
+### Workflow C: The PC "Highlight Reel" (Main Characters)
+**Best for:** Gage, Lavender, Theren.
+**Concept:** We do *not* log every entry for PCs. We only log major character beats.
+
+1.  **Target:** Update `Gage/Gage.md` (The Bio Module), *not* the Dashboard.
+2.  **Prompt:** Use the Architect Prompt, but upload only the specific "Big Moment" entry.
+3.  **Outcome:** The script appends a bullet to `## Biography` or `## Notable Exploits`.
+    * *Example:* "Entry 38: Led the underwater escape."
+
+---
+
+## 3. Maintenance & Cleanliness
+
+### The "Header Rule" (Critical)
+The Python script looks for specific headers to append text. To ensure automation works, your existing files must use these standard headers:
+
+| File Type | Standard Header | Script Behavior |
+| :--- | :--- | :--- |
+| **NPC** | `## History` | Appends narrative beats here. |
+| **Location** | `## History` | Appends events that happened here. |
+| **Item** | `## Lore` | Appends new owners or discoveries. |
+| **PC (Bio)** | `## Biography` | Appends major life events. |
+
+**Fix:** If you see `## Campaign Notes`, rename it to `## History` manually before running the script.
+
+### The "Git Safety Net"
+Always commit before running the script.
+```bash
+git add .
+git commit -m "Pre-update state"
+python generate_pages.py
+# Check diffs. If good:
+git commit -am "Automated update from Entry 38"
+```
+
+---
+
+4. Legacy Methods (Manual / Research)
+Method D: The "Grep Dump" (Deep Research)
+
+Best for: Fact-checking a minor detail across 50 files without updating them.
+
+1. Create Context File: Use `grep` with context (`-C`) to capture the story around a keyword.
+   ```bash
+   grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
+   ```
+2. Action: Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").

@@ -1,39 +1,35 @@
 {
+  "updated_entries": [
+    {
+      "filename": "Corbin.md",
+      "frontmatter_updates": {
+        "status": "On the Run"
+      },
+      "section_appends": [
+        {
+          "header": "## History",
+          "content": "* **[[Entry 37]]:** The party investigated his disappearance in [[Onasea]], learning he had been missing for a month while investigating unusual shipments. His ship, the [[Albany Castle (Ship)]], was found abandoned at the docks.\n* **[[Entry 38]]:** Found hiding in a trapped [[Onasea Sea Cave]]. He entrusted [[Lavender]] with the [[Grey Pearl]] and directed her to [[Captain Voss]]. Following an ambush by necromancers, he led the party to an underwater exit and fled into the wilderness to \"begin again,\" declining the party's protection."
+        }
+      ]
+    }
+  ],
   "new_entries": [
     {
       "template": "NPC",
-      "filename": "Barkeep (Onasea).md",
+      "filename": "Captain Voss.md",
       "data": {
-        "name": "Barkeep (Onasea)",
+        "name": "Captain Voss",
         "location_link": "[[Onasea]]",
-        "faction_link": "Unknown",
-        "status": "Alive",
-        "role_tag": "merchant",
+        "faction_link": "[[Corbin]]'s Network",
+        "status": "Active",
+        "role_tag": "captain",
         "race": "Unknown",
-        "role": "Tavern Keeper",
-        "description_block": "The proprietor of the local tavern in [[Onasea]].",
-        "personality_block": "Strict and business-oriented. Unimpressed by rowdy patrons or animals in his establishment.",
-        "relationships_list": "* **[[Temerity]]:** Confrontational; demanded he rent rooms or leave.\n* **[[Theren]]:** Rented a room to him.",
-        "combat_block": "Unknown.",
-        "history_block": "* **[[Entry 38]]:** Encountered by the party while they were regrouping. Demanded they pay for rooms."
-      }
-    },
-    {
-      "template": "Item",
-      "filename": "Winter's Core.md",
-      "data": {
-        "name": "Winter's Core",
-        "subtype": "wondrous",
-        "rarity": "legendary",
-        "owner_link": "Unknown",
-        "status_tag": "lost",
-        "attunement": "Unknown",
-        "value": "Unknown",
-        "visual_description": "Suspected to be a gemstone or artefact, perhaps jewellery with a stone inside.",
-        "mechanics_block": "Unknown. Associated with death magic.",
-        "lore_block": "An object of great interest to the [[Necromancers]]. They have been searching for it for months, intercepting ships and smuggling crates in search of it. [[Corbin]] believes it is the primary target of their operations in [[Onasea]].",
-        "entry_link": "[[Entry 38]]",
-        "acquisition_method": "Found"
+        "role": "Ship Captain / Smuggler",
+        "description_block": "Captain of the [[Tidecaller (Ship)]].",
+        "personality_block": "Discreet and reliable; known for transporting passengers that authorities ignore.",
+        "philosophy": "Keep the cargo safe and don't ask questions.",
+        "relationships_list": "* **[[Corbin]]:** A trusted associate in the smuggling network.",
+        "history_block": "* **[[Entry 38]]:** Identified by Corbin as the contact who will provide passage to [[Adalens]] in exchange for the [[Grey Pearl]]."
       }
     },
     {
@@ -43,11 +39,11 @@
         "quest_name": "Passage to Adalens",
         "status": "active",
         "completed": "No",
-        "notes": "Initiated by information provided by [[Corbin]] and the vision from the [[Grey Pearl]].",
-        "quest_description": "The party must secure passage to [[Adalens]] to escape the [[Necromancers]] and move [[Lavender]] to safety, as orchestrated by [[Orris]].",
-        "quest_steps_list": "- [ ] Wait for Moon's Grace (2 days).\n- [ ] Present the [[Grey Pearl]] to [[Captain Voss]].\n- [ ] Board the [[Tidecaller (Ship)]].\n- [ ] Travel to [[Adalens]].",
-        "rewards_list": "- Safe passage to [[Adalens]].",
-        "npc_list": "- [[Corbin]]\n- [[Captain Voss]]\n- [[Orris]]\n- [[Lavender]]"
+        "notes": "Initiated by [[Corbin]] in [[Entry 38]].",
+        "quest_description": "Secure secret passage to Adalens to escape the Necromancers and deliver the Grey Pearl.",
+        "quest_steps_list": "- [ ] Locate [[Captain Voss]] in [[Onasea]]\n- [ ] Present the [[Grey Pearl]] to secure passage\n- [ ] Board the [[Tidecaller (Ship)]] during Moon's Grace",
+        "rewards_list": "- Safe travel to [[Adalens]]",
+        "npc_list": "- [[Corbin]]\n- [[Captain Voss]]\n- [[Lavender]]"
       }
     }
   ]

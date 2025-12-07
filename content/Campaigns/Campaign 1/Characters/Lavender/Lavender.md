@@ -3,7 +3,7 @@ title: Lavender Locke
 type: pc
 race: Human (Variant)
 class: Barbarian / Paladin
-location: "[[Onasea]]"
+location: "[[Tidecaller (Ship)]]"
 campaign: Campaign 1
 tags:
   - pc
