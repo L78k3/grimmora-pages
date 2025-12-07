@@ -1,6 +1,6 @@
 ---
 type: chronicle
-location: 
+location:
   - "[[Avalonean Empire]]"
   - "[[Paddle Steamer]]"
 world: Grimmora

@@ -1,6 +1,6 @@
 ---
 type: chronicle
-location: 
+location:
   - "[[Arcadia]]"
   - "[[Orris' Secret Lair]]"
 world: Grimmora

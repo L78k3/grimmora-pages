@@ -1,6 +1,6 @@
 ---
 type: chronicle
-location: 
+location:
   - "[[Arcadia]]"
   - "[[Pinechill]]"
 world: Grimmora

@@ -1,6 +1,6 @@
 ---
 type: chronicle
-location: 
+location:
   - "[[The Frost]]"
   - "[[Mausoleum (Alpine Forest)]]"
 world: Grimmora

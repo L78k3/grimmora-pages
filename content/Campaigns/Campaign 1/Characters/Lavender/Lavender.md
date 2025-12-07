@@ -1,5 +1,5 @@
 ---
-title: Lavender
+title: Lavender Locke
 type: pc
 race: Human (Variant)
 class: Barbarian / Paladin
