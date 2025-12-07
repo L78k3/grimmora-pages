@@ -13,7 +13,7 @@ Ensure you have these three components ready:
 
 ---
 
-## 2. The Workflows
+## 2. The Workflows (Automated)
 
 ### Workflow A: The "Sniper" Update (Backfilling History)
 **Best for:** Updating an existing NPC/Location with missed events from past sessions.
@@ -66,39 +66,36 @@ The Python script looks for specific headers to append text. To ensure automatio
 
 ### The "Git Safety Net"
 Always commit before running the script.
-```bash
-git add .
-git commit -m "Pre-update state"
-python generate_pages.py
-# Check diffs. If good:
-git commit -am "Automated update from Entry 38"
-```
+
+    git add .
+    git commit -m "Pre-update state"
+    python generate_pages.py
+    # Check diffs. If good:
+    git commit -am "Automated update from Entry 38"
 
 ---
+
 ## 4. Manual & Research Methods
 
 ### Method D: The "Grep Dump" (Deep Research)
-
 **Best for:** Fact-checking a minor detail across 50 files without updating them.
 
-1. **Create Context File:** Use `grep` with context (`-C`) to capture the story around a keyword.
-   ```
-   grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
-   ```
-2. **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
-### Method E: The "Context Bomb" (Full Arc Backfill)
+1.  **Create Context File:**
+    Use `grep` with context (`-C`) to capture the story around a keyword.
+    
+    grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
+    
+2.  **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
 
-**Best for:** Backfilling a main character (Gage) with 20+ sessions of history at once. 
+### Method E: The "Context Bomb" (Full Arc Backfill)
+**Best for:** Backfilling a main character (Gage) with 20+ sessions of history at once.
 **Concept:** Use a separate, clean chat instance to process a massive chunk of text into a chronological timeline. **Do not use the Python script for this.**
 
-1. Preparation:
-	- Locate all chronicle files where the character appears.
-	- _Optional:_ Run `cat *.md > All_Chronicles.txt` if you want a single upload file.
-2. **The Prompt:**
-	- "I am uploading [X] Chronicle Entries. Please read them all in chronological order. **Task:** Create a detailed 'Notable Exploits' timeline for **[[Gage]]**. **Format:**
-		- **[[Entry XX]]:** (Event Name) - One sentence summary of the action/character beat.
-	- **Filter:** Only include events where Gage took specific action, made a decision, or received an item. Ignore general travel."
-3. **Execution:**
-	- Copy the resulting markdown list from the chat.
-	- Open `Gage/Gage.md`.
-	- Manually paste the list under the `### Notable Exploits` header.
+1.  **Preparation:**
+    * Run `contextbomb` (alias for `~/scripts/generate_context.sh`) to build `~/Vault_Context.txt`.
+2.  **The Prompt:**
+    * Open a new chat and upload `Vault_Context.txt`.
+    * Paste the specific **Method E Prompt** (asking for a chronological list with wikilinks).
+3.  **Execution:**
+    * Copy the resulting markdown block.
+    * Manually paste it into `Gage/Gage.md` under `### Notable Exploits`.

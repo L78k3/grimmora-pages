@@ -1,9 +1,13 @@
 ---
-title: Gage Greengather (Dashboard)
+title: Gage Greengather
 type: dashboard
 status: active
-tags: [pc, rogue, ranger]
-cssclasses: [dashboard]
+tags:
+  - pc
+  - rogue
+  - ranger
+cssclasses:
+  - dashboard
 ---
 
 

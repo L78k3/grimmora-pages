@@ -1,9 +1,10 @@
 ---
-title: Gage Greengather (Respecced)
+title: Gage Greengather (Archived20251207)
 type: pc
 location: "[[Onasea]]"
 world: Grimmora
 campaign: Campaign 1
+drafe: true
 ---
 ![[gageIcon.webp]]
 
