@@ -88,14 +88,15 @@ Always commit before running the script.
 2.  **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
 
 ### Method E: The "Context Bomb" (Full Arc Backfill)
-**Best for:** Backfilling a main character (Gage) with 20+ sessions of history at once.
-**Concept:** Use a separate, clean chat instance to process a massive chunk of text into a chronological timeline. **Do not use the Python script for this.**
+**Best for:** Backfilling a main character with 20+ sessions of history at once.
 
 1.  **Preparation:**
-    * Run `contextbomb` (alias for `~/scripts/generate_context.sh`) to build `~/Vault_Context.txt`.
+    * Run `contextbomb` in your terminal to generate `~/Vault_Context.txt`.
 2.  **The Prompt:**
-    * Open a new chat and upload `Vault_Context.txt`.
-    * Paste the specific **Method E Prompt** (asking for a chronological list with wikilinks).
+    * Open a new chat.
+    * Upload `~/Vault_Context.txt`.
+    * Copy/Paste the content of [[Context-Bomb-Prompt.md]].
+    * *(Optional: Edit the "Target Character" line if backfilling someone else).*
 3.  **Execution:**
-    * Copy the resulting markdown block.
-    * Manually paste it into `Gage/Gage.md` under `### Notable Exploits`.
+    * Copy the markdown block from the AI response.
+    * Paste it manually into the character's `Biography.md` or `index.md`.
