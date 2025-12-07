@@ -15,8 +15,11 @@ tags:
 
 > [!info] Character Overview
 > **Race:** Tiefling
+> 
 > **Class:** Bard
+> 
 > **Player:** Paul
+> 
 > **Location:** [[Onasea]]
 
 **Temerity** acts as the face of the group, a born performer and chaotic force of nature. He travels with a menagerie of animals and is known for his musical prowess, illusions, and complicated romantic history.

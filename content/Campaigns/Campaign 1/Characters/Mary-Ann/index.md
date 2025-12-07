@@ -1,5 +1,5 @@
 ---
-title: Theren's Cockpit
+title: Mary-Ann's Cockpit
 type: dashboard
 status: session_active
 ---
@@ -7,27 +7,27 @@ status: session_active
 # 🛡️ Session Dashboard
 
 > [!info] Character Overview
-> **Race:** Half-Elf
+> **Race:** Halfling
 > 
-> **Class:** Warlock
+> **Class:** Rogue
 > 
-> **Player:** Tony
+> **Player:** Suzanne
 > 
 > **Location:** [[Onasea]]
 
 ## ⚔️ Combat Quick-View
 ![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spells & Pact Magic]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
 
 ---
 
 ## 🎯 Current Objective
-* [ ] Investigate the [[Great Old Ones|Gold Patron]] connection.
-* [ ] Avoid large bodies of water (Phobia).
+* [ ] Reach [[Adalens]].
+* [ ] Avoid the Thieves' Guild assassins.
 
 ## 📝 Session Scratchpad
 * ---
 
 ## Modules
-* [[Theren|📜 Full Bio Page]]
+* [[Mary-Ann|📜 Full Bio Page]]
 * [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]

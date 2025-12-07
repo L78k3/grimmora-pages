@@ -75,14 +75,30 @@ git commit -am "Automated update from Entry 38"
 ```
 
 ---
+## 4. Manual & Research Methods
 
-4. Legacy Methods (Manual / Research)
-Method D: The "Grep Dump" (Deep Research)
+### Method D: The "Grep Dump" (Deep Research)
 
-Best for: Fact-checking a minor detail across 50 files without updating them.
+**Best for:** Fact-checking a minor detail across 50 files without updating them.
 
-1. Create Context File: Use `grep` with context (`-C`) to capture the story around a keyword.
-   ```bash
+1. **Create Context File:** Use `grep` with context (`-C`) to capture the story around a keyword.
+   ```
    grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
    ```
-2. Action: Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
+2. **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
+### Method E: The "Context Bomb" (Full Arc Backfill)
+
+**Best for:** Backfilling a main character (Gage) with 20+ sessions of history at once. 
+**Concept:** Use a separate, clean chat instance to process a massive chunk of text into a chronological timeline. **Do not use the Python script for this.**
+
+1. Preparation:
+	- Locate all chronicle files where the character appears.
+	- _Optional:_ Run `cat *.md > All_Chronicles.txt` if you want a single upload file.
+2. **The Prompt:**
+	- "I am uploading [X] Chronicle Entries. Please read them all in chronological order. **Task:** Create a detailed 'Notable Exploits' timeline for **[[Gage]]**. **Format:**
+		- **[[Entry XX]]:** (Event Name) - One sentence summary of the action/character beat.
+	- **Filter:** Only include events where Gage took specific action, made a decision, or received an item. Ignore general travel."
+3. **Execution:**
+	- Copy the resulting markdown list from the chat.
+	- Open `Gage/Gage.md`.
+	- Manually paste the list under the `### Notable Exploits` header.

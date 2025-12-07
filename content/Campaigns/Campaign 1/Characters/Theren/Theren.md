@@ -15,9 +15,13 @@ tags:
 
 > [!info] Character Overview
 > **Race:** Half-Elf
+> 
 > **Class:** Warlock
+> 
 > **Player:** Tony
+> 
 > **Patron:** [[Great Old Ones|The Great Old One]] (Gold)
+> 
 > **Location:** [[Onasea]]
 
 **Theren** is a half-elf spellcaster hailing from the swamplands south of Auridon. A former vagabond, he struggles with self-doubt and the terrifying nature of his pact, often relying on his familiar, [[Runcible]].

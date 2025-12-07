@@ -6,24 +6,30 @@ status: session_active
 
 # 🛡️ Session Dashboard
 
-> [!abstract] Current Status
-> **Condition:** Healthy
+> [!info] Character Overview
+> **Race:** Human (Variant)
+> 
+> **Class:** Barbarian / Paladin
+> 
+> **Player:** Kit
+> 
 > **Location:** [[Onasea]]
-> **Resources:** Rage [ ] [ ] | Lay on Hands [ ]
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
+![[content/Campaigns/Campaign 1/Characters/Lavender/Combat#Vital Statistics]]
+![[content/Campaigns/Campaign 1/Characters/Lavender/Combat#Active Loadout]]
 
 ---
 
 ## 🎯 Current Objective
+**Quest:** [[Passage to Adalens]]
 * [ ] Deliver the [[Grey Pearl]] to [[Captain Voss]].
 * [ ] Secure passage on the [[Tidecaller (Ship)]].
 
 ## 📝 Session Scratchpad
 * ---
-## 🔗 Quick Links
+
+## Modules
 * [[Lavender|📜 Full Bio Page]]
-* [[Inventory|🎒 Inventory]]
-* [[Reference/Quick Reference|📖 Rules Ref]]
+* [[content/Campaigns/Campaign 1/Characters/Lavender/Combat|⚔️ Combat Profile]]
+* [[b. Inventory|🎒 Inventory]]

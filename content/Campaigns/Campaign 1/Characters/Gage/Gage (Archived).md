@@ -11,9 +11,13 @@ campaign: Campaign 1
 
 > [!info] Character Overview
 > **Race:** Gnome (Rock Gnome)
+> 
 > **Class:** Rogue (Assassin) / Ranger (Gloom Stalker)
+> 
 > **Background:** Variant Criminal (Spy)
+> 
 > **Player:** Luke
+> 
 > **Location:** [[Onasea]]
 
 **Gage Greengather** is a pragmatic mercenary turned freedom fighter. Formerly a spy for the [[necromancers]], he defected to the party after witnessing the devastation caused by his employers. He now operates as **The Greenblade**, fighting for balance rather than coin.

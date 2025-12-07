@@ -56,6 +56,6 @@ Currently, she is plagued by guilt over her brother's fall and the burden of car
 * **Feats:** Charger.
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Lavender/Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Session Dashboard]]
 * [[b. Inventory|🎒 Inventory]]

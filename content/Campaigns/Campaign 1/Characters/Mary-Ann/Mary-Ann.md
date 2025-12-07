@@ -15,9 +15,13 @@ tags:
 
 > [!info] Character Overview
 > **Race:** Halfling
+> 
 > **Class:** Rogue
+> 
 > **Background:** Noble / Widow
+> 
 > **Player:** Suzanne
+> 
 > **Location:** [[Onasea]]
 
 **Mary-Ann** (née Mayfield) is an elderly halfling woman and the widow of **Clarence Mayfield**, the former Governor of [[Avalon]]. She joined the party in [[Durvish City]] to travel to [[Adalens]].

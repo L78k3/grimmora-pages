@@ -1,5 +1,5 @@
 ---
-title: Theren's Cockpit
+title: Temerity's Cockpit
 type: dashboard
 status: session_active
 ---
@@ -7,27 +7,27 @@ status: session_active
 # 🛡️ Session Dashboard
 
 > [!info] Character Overview
-> **Race:** Half-Elf
+> **Race:** Tiefling
 > 
-> **Class:** Warlock
+> **Class:** Bard / Warlock
 > 
-> **Player:** Tony
+> **Player:** Paul
 > 
 > **Location:** [[Onasea]]
 
 ## ⚔️ Combat Quick-View
 ![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spells & Pact Magic]]
+![[content/Campaigns/Campaign 1/Characters/Gage/Combat#The Menagerie (Combat Allies)]]
 
 ---
 
 ## 🎯 Current Objective
-* [ ] Investigate the [[Great Old Ones|Gold Patron]] connection.
-* [ ] Avoid large bodies of water (Phobia).
+* [ ] Maintain the menagerie ([[Chikatika]], [[Aurius]], [[Guido]]).
+* [ ] Assist [[Lavender]] with the [[Grey Pearl]].
 
 ## 📝 Session Scratchpad
 * ---
 
 ## Modules
-* [[Theren|📜 Full Bio Page]]
+* [[Temerity|📜 Full Bio Page]]
 * [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]
