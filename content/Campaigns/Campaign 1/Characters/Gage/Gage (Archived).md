@@ -4,7 +4,7 @@ type: pc
 location: "[[Onasea]]"
 world: Grimmora
 campaign: Campaign 1
-drafe: true
+draft: true
 ---
 ![[gageIcon.webp]]
 

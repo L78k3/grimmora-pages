@@ -1,5 +1,5 @@
 ---
-title: Temerity's Cockpit
+title: Temerity Dashboard
 type: dashboard
 status: session_active
 ---

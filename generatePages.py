@@ -18,16 +18,19 @@ NEW_FILE_DIRS = {
     "NPC": CONTENT_DIR / "Campaigns" / "Campaign 1" / "NPCs",
     "Item": CONTENT_DIR / "World" / "Grimmora" / "Items",
     "Quest": CONTENT_DIR / "Campaigns" / "Campaign 1" / "Quests",
-    "Organization": CONTENT_DIR / "World" / "Grimmora" / "Organizations"
+    "Organization": CONTENT_DIR / "World" / "Grimmora" / "Organizations",
+    "City": CONTENT_DIR / "World" / "Grimmora" / "Locations" / "Cities"
 }
 
+# Mapping JSON template names to specific filenames
+# NOW POINTING TO THE AUTOMATION SUBFOLDER
 TEMPLATE_MAP = {
-    "NPC": "NPC.md",
-    "Item": "Item.md",
-    "Quest": "Ongoing Thread.md",
-    "Organization": "Organization.md"
+    "NPC": "Automation/Auto - NPC.md",           # If you make auto versions for these too
+    "Item": "Automation/Auto - Item.md",
+    "Quest": "Automation/Auto - Quest.md",
+    "City": "Automation/Auto - City.md",         # <--- The new one
+    "Organization": "Organization.md"            # Fallback to standard if no auto exists
 }
-
 # ------------------------------------------------------------------
 
 def load_template(template_name):

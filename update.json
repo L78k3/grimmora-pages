@@ -1,49 +1,67 @@
 {
-  "updated_entries": [
-    {
-      "filename": "Corbin.md",
-      "frontmatter_updates": {
-        "status": "On the Run"
-      },
-      "section_appends": [
-        {
-          "header": "## History",
-          "content": "* **[[Entry 37]]:** The party investigated his disappearance in [[Onasea]], learning he had been missing for a month while investigating unusual shipments. His ship, the [[Albany Castle (Ship)]], was found abandoned at the docks.\n* **[[Entry 38]]:** Found hiding in a trapped [[Onasea Sea Cave]]. He entrusted [[Lavender]] with the [[Grey Pearl]] and directed her to [[Captain Voss]]. Following an ambush by necromancers, he led the party to an underwater exit and fled into the wilderness to \"begin again,\" declining the party's protection."
-        }
-      ]
-    }
-  ],
   "new_entries": [
     {
       "template": "NPC",
-      "filename": "Captain Voss.md",
+      "filename": "Test Dummy NPC.md",
       "data": {
-        "name": "Captain Voss",
-        "location_link": "[[Onasea]]",
-        "faction_link": "[[Corbin]]'s Network",
+        "name": "Test Dummy NPC",
+        "role": "Crash Test Dummy",
+        "faction_link": "[[Debuggers]]",
+        "role_tag": "test",
+        "location_link": "[[Test Zone]]",
         "status": "Active",
-        "role_tag": "captain",
-        "race": "Unknown",
-        "role": "Ship Captain / Smuggler",
-        "description_block": "Captain of the [[Tidecaller (Ship)]].",
-        "personality_block": "Discreet and reliable; known for transporting passengers that authorities ignore.",
-        "philosophy": "Keep the cargo safe and don't ask questions.",
-        "relationships_list": "* **[[Corbin]]:** A trusted associate in the smuggling network.",
-        "history_block": "* **[[Entry 38]]:** Identified by Corbin as the contact who will provide passage to [[Adalens]] in exchange for the [[Grey Pearl]]."
+        "race": "Construct",
+        "description_block": "A generic figure used for testing templates.",
+        "personality_block": "Stoic and resilient.",
+        "combat_block": "Does not fight back.",
+        "history_block": "* Created during the Great Refactor."
+      }
+    },
+    {
+      "template": "Item",
+      "filename": "Test Dummy Sword.md",
+      "data": {
+        "name": "Test Dummy Sword",
+        "rarity": "Common",
+        "subtype": "Weapon",
+        "owner_link": "[[Gage]]",
+        "status_tag": "equipped",
+        "attunement": "No",
+        "value": "1 cp",
+        "visual_description": "A sword made of foam.",
+        "mechanics_block": "Deals 0 damage.",
+        "lore_block": "Used for safe sparring.",
+        "entry_link": "[[Entry 00]]",
+        "acquisition_method": "Spawned via script"
       }
     },
     {
       "template": "Quest",
-      "filename": "Passage to Adalens.md",
+      "filename": "Test Dummy Quest.md",
       "data": {
-        "quest_name": "Passage to Adalens",
-        "status": "active",
+        "quest_name": "Test Dummy Quest",
+        "quest_description": "Validate the automation pipeline.",
+        "status": "Active",
         "completed": "No",
-        "notes": "Initiated by [[Corbin]] in [[Entry 38]].",
-        "quest_description": "Secure secret passage to Adalens to escape the Necromancers and deliver the Grey Pearl.",
-        "quest_steps_list": "- [ ] Locate [[Captain Voss]] in [[Onasea]]\n- [ ] Present the [[Grey Pearl]] to secure passage\n- [ ] Board the [[Tidecaller (Ship)]] during Moon's Grace",
-        "rewards_list": "- Safe travel to [[Adalens]]",
-        "npc_list": "- [[Corbin]]\n- [[Captain Voss]]\n- [[Lavender]]"
+        "notes": "Debug note.",
+        "quest_steps_list": "- [ ] Run Script\n- [ ] Verify Output",
+        "rewards_list": "- Satisfaction",
+        "npc_list": "- [[Test Dummy NPC]]"
+      }
+    },
+    {
+      "template": "City",
+      "filename": "Test Dummy City.md",
+      "data": {
+        "location_name": "Test Dummy City",
+        "type": "City",
+        "region_link": "[[Debug Region]]",
+        "population": "0",
+        "government": "Algorithm",
+        "description_block": "A city built of code blocks.",
+        "points_of_interest_list": "* **[[The Stack Trace]]:** A tall tower.",
+        "npc_list": "- [[Test Dummy NPC]]",
+        "history_block": "* Founded today."
       }
     }
   ]

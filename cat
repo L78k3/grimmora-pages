@@ -1,0 +1,138 @@
+---
+title: {{location_name}}
+description: {{type}} in {{region_link}}
+aliases: []
+tags:
+  - location/city
+  - unvisited
+draft: false
+date: 2025-01-01
+type: city
+region: {{region_link}}
+population: {{population}}
+government: {{government}}
+---
+
+# {{location_name}}
+
+> [!warning] Unvisited
+> The party has not yet traveled to this location.
+
+## Overview
+{{description_block}}
+
+## Points of Interest
+{{points_of_interest_list}}
+
+## Notable NPCs
+{{npc_list}}
+
+## History
+{{history_block}}
+
+---
+**Region:** {{region_link}}---
+title: {{name}}
+description: {{rarity}} {{subtype}} owned by {{owner_link}}
+aliases:
+  - {{name}}
+tags:
+  - item
+  - {{status_tag}}
+draft: true
+date: 2025-01-01
+type: item
+subtype: {{subtype}}
+rarity: {{rarity}}
+owner: {{owner_link}}
+---
+
+# {{name}}
+
+> [!abstract] Properties
+> **Type:** {{subtype}}
+> **Attunement:** {{attunement}}
+> **Value:** {{value}}
+
+## Visual Description
+{{visual_description}}
+
+## Mechanics & Effects
+{{mechanics_block}}
+
+## Lore & History
+{{lore_block}}
+
+## Acquisition
+* **Obtained In:** {{entry_link}}
+* **Method:** {{acquisition_method}}---
+title: {{name}}
+description: {{role}} of {{faction_link}}
+aliases:
+  - {{name}}
+tags:
+  - npc
+  - {{role_tag}}
+draft: true
+date: 2025-01-01
+type: npc
+location: {{location_link}}
+faction: {{faction_link}}
+status: {{status}}
+---
+
+# {{name}}
+
+> [!info] Quick Info
+> **Race:** {{race}}
+> **Role:** {{role}}
+> **Affiliation:** {{faction_link}}
+
+## Description
+{{description_block}}
+
+## Personality & Traits
+{{personality_block}}
+
+## Combat Style
+{{combat_block}}
+
+## History
+{{history_block}}
+
+---
+**Current Location:** {{location_link}}---
+title: {{quest_name}}
+description: {{quest_description}}
+aliases: []
+tags:
+  - quest
+draft: true
+date: 2025-01-01
+status: {{status}}
+completed: {{completed}}
+notes: {{notes}}
+---
+
+# {{quest_name}}
+
+## Description
+{{quest_description}}
+
+## Status
+- **Current Status:** {{status}}
+- **Completion:** {{completed}}
+
+## Notes
+{{notes}}
+
+---
+
+## Quest Steps
+{{quest_steps_list}}
+
+## Rewards
+{{rewards_list}}
+
+## Relevant NPCs
+{{npc_list}}

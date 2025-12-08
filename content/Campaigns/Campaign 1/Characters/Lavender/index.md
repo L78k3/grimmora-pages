@@ -1,5 +1,5 @@
 ---
-title: Lavender's Cockpit
+title: Lavender Dashboard
 type: dashboard
 status: session_active
 ---

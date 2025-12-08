@@ -42,7 +42,7 @@ When he was hired by [[Necromancers]] to spy on a band of adventurers, he follow
 * **[[Entry 15]] (Introduction):** Ambushes a guard from the trees to assist the party and reveals his identity as a former mercenary for the [[Necromancers]].
 * **[[Entry 15]] (Infiltration of Arcadia):** Leads the group into [[Arcadia]] through a secret gap in the wall and negotiates safe passage with a bartender using a rare flower.
 * **[[Entry 15]] (Mansion Reconnaissance):** Scales the [[Mayor's Mansion (Arcadia)|mayor's mansion]] to a balcony, infiltrates the servants' quarters, and physically neutralizes a servant to maintain his cover before reporting to his contact, [[Frolot]].
-* **[[Entry 17]] (The Clockwork Door):** Helps bypass a secret door in the mansion by analyzing the ticking mechanism of a grandfather clock.
+* **[[Entry 17]] (The Clockwork Door):** Helps bypass a secret door in the mansion by analysing the ticking mechanism of a grandfather clock.
 * **[[Entry 18]] (A Private Audience):** Accompanies [[Lavender]] into the office of [[Orris]] and receives a telepathic request to keep her safe.
 * **[[Entry 20]] (The Skull in the Woods):** Follows a trail of [will o' the wisps](https://2014.5e.tools/bestiary.html#will-o'-wisp_mm) in the [[Alpine Forest]] to a ritual site containing a diamond-eyed skull, where he is mentally subdued and captured.
 * **[[Entry 21]] (The Mausoleum Escape):** Escapes a cell within the [[Mausoleum (Alpine Forest)|mausoleum]], retrieves his gear, and engages in combat against guards and a [[stone golem]] to facilitate the party's escape.

@@ -1,5 +1,5 @@
 ---
-title: Combat Profile
+title: Combat Profile (Gage)
 type: module
 ---
 

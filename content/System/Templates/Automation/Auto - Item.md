@@ -1,12 +1,12 @@
 ---
 title: {{name}}
-description: "{{rarity}} {{subtype}} owned by {{owner_link}}"
+description: {{rarity}} {{subtype}} owned by {{owner_link}}
 aliases:
   - {{name}}
 tags:
   - item
   - {{status_tag}}
-draft: false
+draft: true
 date: 2025-01-01
 type: item
 subtype: {{subtype}}

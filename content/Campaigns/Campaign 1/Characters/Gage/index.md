@@ -1,5 +1,5 @@
 ---
-title: Gage Greengather
+title: Gage Dashboard
 type: dashboard
 status: active
 tags:

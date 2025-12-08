@@ -1,3 +1,9 @@
+---
+title: Grimmora Campaign
+layout: home
+date: 2025-01-01
+---
+
 # Grimmora Campaign
 
 > [!info] State of the Campaign
@@ -7,14 +13,14 @@
 
 ## 👥 The Party
 
-| Character        | Player  | Class               | Status                |
-| :--------------- | :------ | :------------------ | :-------------------- |
-| **[[Gage]]**     | Luke    | Rogue / Ranger      | *The Greenblade*      |
-| **[[Lavender]]** | Kit     | Barbarian / Paladin | Attuned to the Ring   |
-| **[[Temerity]]** | Paul    | Bard                | Cursed by Choker      |
-| **[[Theren]]**   | Tony    | Warlock             | Haunted by Patron     |
-| **[[Mary-Ann]]** | Suzanne | Rogue               | Travelling to Adalens |
-| **[[Anaphel]]**  | --      | Celestial           | Cut off from Auriel   |
+| Character | Cockpit | Player | Class | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[Gage]]** | [[Campaigns/Campaign 1/Characters/Gage/index|🛡️ Open]] | Luke | Rogue / Ranger | *The Greenblade* |
+| **[[Lavender]]** | [[Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Open]] | Kit | Barb / Paladin | Attuned to the Ring |
+| **[[Temerity]]** | [[Campaigns/Campaign 1/Characters/Temerity/index|🛡️ Open]] | Paul | Bard | Cursed by Choker |
+| **[[Theren]]** | [[Campaigns/Campaign 1/Characters/Theren/index|🛡️ Open]] | Tony | Warlock | Haunted by Patron |
+| **[[Mary-Ann]]** | [[Campaigns/Campaign 1/Characters/Mary-Ann/index|🛡️ Open]] | Suzanne | Rogue | Travelling to Adalens |
+| **[[Anaphel]]** | -- | -- | Celestial | Cut off from Auriel |
 
 **Companions & Familiars**
 [[Runcible]] • [[Korako]] • [[Chikatika]] • [[Aurius]] • [[Guido]]
@@ -72,49 +78,45 @@
 
 **Latest Entry:** [[Entry 38]]
 
-<details>
-<summary>Click to expand full archive</summary>
-
-* [[Entry 38]] - Escape from the Sea Cave
-* [[Entry 37]] - The Bandit Ambush & Corbin
-* [[Entry 36]] - Battle in the Fog
-* [[Entry 35]] - Mary-Ann & The Gilded Swan
-* [[Entry 34]] - The Cursed Courier
-* [[Entry 33]] - The Paddle Steamer
-* [[Entry 32]] - The Warehouse Ritual
-* [[Entry 31]] - Infiltrating Bridgeport
-* [[Entry 30]] - The Missing Guards
-* [[Entry 29]] - Return to Silvanus' Beard
-* [[Entry 28]] - The Temple of Sol
-* [[Entry 27]] - Druids & Homecomings
-* [[Entry 26]] - The Fairy Garden
-* [[Entry 25]] - The Caravan Departs
-* [[Entry 24]] - The Crystal Elemental
-* [[Entry 23]] - Temerity's Vision
-* [[Entry 22]] - Arrival in Midward
-* [[Entry 21]] - The Mine & The Banishment
-* [[Entry 20]] - The Mausoleum
-* [[Entry 19]] - Anaphel Arrives
-* [[Entry 18]] - Meeting Orris
-* [[Entry 17]] - Into the Lair
-* [[Entry 16]] - The Mansion Heist
-* [[Entry 15]] - Gage Joins the Party
-* [[Entry 14]] - Marjorie & The Way Out
-* [[Entry 13]] - Secrets of the Displaced
-* [[Entry 12]] - Elemental Training
-* [[Entry 11]] - The Displaced Camp
-* [[Entry 10]] - Spiders & Raccoons
-* [[Entry 09]] - Auriel's Trial (Part 2)
-* [[Entry 08]] - Auriel's Trial (Part 1)
-* [[Entry 07]] - The Dragon
-* [[Entry 06]] - Ice Wolves
-* [[Entry 05]] - The Vampire
-* [[Entry 04]] - The Monk & The Plague
-* [[Entry 03]] - The Fey & The Barge
-* [[Entry 02]] - Bandits
-* [[Entry 01]] - The Wedding
-
-</details>
+> [!example]- Full Chronicle Archive
+> * [[Entry 38]] - Escape from the Sea Cave
+> * [[Entry 37]] - The Bandit Ambush & Corbin
+> * [[Entry 36]] - Battle in the Fog
+> * [[Entry 35]] - Mary-Ann & The Gilded Swan
+> * [[Entry 34]] - The Cursed Courier
+> * [[Entry 33]] - The Paddle Steamer
+> * [[Entry 32]] - The Warehouse Ritual
+> * [[Entry 31]] - Infiltrating Bridgeport
+> * [[Entry 30]] - The Missing Guards
+> * [[Entry 29]] - Return to Silvanus' Beard
+> * [[Entry 28]] - The Temple of Sol
+> * [[Entry 27]] - Druids & Homecomings
+> * [[Entry 26]] - The Fairy Garden
+> * [[Entry 25]] - The Caravan Departs
+> * [[Entry 24]] - The Crystal Elemental
+> * [[Entry 23]] - Temerity's Vision
+> * [[Entry 22]] - Arrival in Midward
+> * [[Entry 21]] - The Mine & The Banishment
+> * [[Entry 20]] - The Mausoleum
+> * [[Entry 19]] - Anaphel Arrives
+> * [[Entry 18]] - Meeting Orris
+> * [[Entry 17]] - Into the Lair
+> * [[Entry 16]] - The Mansion Heist
+> * [[Entry 15]] - Gage Joins the Party
+> * [[Entry 14]] - Marjorie & The Way Out
+> * [[Entry 13]] - Secrets of the Displaced
+> * [[Entry 12]] - Elemental Training
+> * [[Entry 11]] - The Displaced Camp
+> * [[Entry 10]] - Spiders & Raccoons
+> * [[Entry 09]] - Auriel's Trial (Part 2)
+> * [[Entry 08]] - Auriel's Trial (Part 1)
+> * [[Entry 07]] - The Dragon
+> * [[Entry 06]] - Ice Wolves
+> * [[Entry 05]] - The Vampire
+> * [[Entry 04]] - The Monk & The Plague
+> * [[Entry 03]] - The Fey & The Barge
+> * [[Entry 02]] - Bandits
+> * [[Entry 01]] - The Wedding
 
 ## 🎲 Session Archive
 *Play-by-play notes from Gage's perspective.*

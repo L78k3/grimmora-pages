@@ -1,12 +1,12 @@
 ---
 title: {{name}}
-description: "{{role}} of {{faction_link}}"
+description: {{role}} of {{faction_link}}
 aliases:
   - {{name}}
 tags:
   - npc
   - {{role_tag}}
-draft: false
+draft: true
 date: 2025-01-01
 type: npc
 location: {{location_link}}
@@ -27,12 +27,10 @@ status: {{status}}
 ## Personality & Traits
 {{personality_block}}
 
-## Key Relationships
-{{relationships_list}}
-## Combat & Abilities
+## Combat Style
 {{combat_block}}
 
-## History with the Party
+## History
 {{history_block}}
 
 ---

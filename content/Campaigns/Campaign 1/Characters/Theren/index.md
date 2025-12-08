@@ -1,5 +1,5 @@
 ---
-title: Theren's Cockpit
+title: Theren Dashboard
 type: dashboard
 status: session_active
 ---

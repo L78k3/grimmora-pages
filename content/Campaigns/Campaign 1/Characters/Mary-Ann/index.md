@@ -1,5 +1,5 @@
 ---
-title: Mary-Ann's Cockpit
+title: Mary-Ann Dashboard
 type: dashboard
 status: session_active
 ---

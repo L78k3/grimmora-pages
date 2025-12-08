@@ -4,14 +4,14 @@ description: {{quest_description}}
 aliases: []
 tags:
   - quest
-draft: false
+draft: true
 date: 2025-01-01
 status: {{status}}
 completed: {{completed}}
 notes: {{notes}}
 ---
 
-# {{quest_name}} – Ongoing Thread
+# {{quest_name}}
 
 ## Description
 {{quest_description}}
