@@ -13,7 +13,7 @@ tags:
 ![[gageIcon.webp]]
 
 > [!info] Character Overview
-> **Race:** Gnome (Rock Gnome)
+> **Race:** Gnome (Rock)
 > 
 > **Class:** Rogue (Assassin) / Ranger (Gloom Stalker)
 > 
@@ -32,7 +32,7 @@ Gage is small even for a gnome, standing 3'3" and weighing only 39 lbs. He has s
 Gage was raised by the **Greengather Blades**, a nomadic forest-based mercenary clan who sold their swords to the highest bidder. Raised with strict discipline, he learned to follow orders without question, scout without being seen, and kill without hesitation. Gnomish ingenuity blended with guerrilla pragmatism made him a master of ambush and survival.
 
 **The Defection**
-As he aged, the glint of gold faded. He began to see cracks in the system—missions that razed the forests they camped in and contracts that sacrificed innocents. When he was hired by [[Necromancers]] to spy on a band of adventurers, he followed orders initially. However, the party's camaraderie and stubborn morality caused him to defect. He now calls himself "The Greenblade" and fights for balance rather than coin.
+As he aged, the glint of gold faded. He began to see cracks in the system - missions that razed the forests they camped in and contracts that sacrificed innocents. When he was hired by [[Necromancers]] to spy on a band of adventurers, he followed orders initially. However, the party's camaraderie and stubborn morality caused him to defect. He now calls himself "The Greenblade" and fights for balance rather than coin.
 
 ## Campaign History
 * **[[Entry 15]] (Introduction):** Ambushes a guard from the trees to assist the party and reveals his identity as a former mercenary for the [[Necromancers]].
