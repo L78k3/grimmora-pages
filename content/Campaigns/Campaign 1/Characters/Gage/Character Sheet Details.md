@@ -1,4 +1,4 @@
-## Character Sheet Details
+# Character Sheet Details
 
 ### Ability Scores
 - **STR:** 8 (-1)  (`dice: 1d20-1`)
