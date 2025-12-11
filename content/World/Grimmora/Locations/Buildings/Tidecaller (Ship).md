@@ -1,7 +1,7 @@
 ---
 title: Tidecaller (Ship)
 type: vehicle
-location: "[[Onasea]]"
+location: Travelling to [[Adalens]]
 owner: "[[Captain Voss]]"
 tags:
   - location/ship
@@ -22,3 +22,6 @@ It is known for transporting illicit passengers or those who need to disappear, 
 
 ---
 **Related:** [[Captain Voss]], [[Onasea]], [[Entry 38]]
+
+## History
+* **[[Entry 39]]:** docked at [[Onasea]] to pick up [[Lavender]] and her companions. Departed for [[Adalens]] shortly after boarding.

@@ -22,3 +22,6 @@
 
 ---
 *The family are not particularly known for hereditary talent in spellcasting. However, they have been known to produce the occasional mage of note. This can likely be attributed to the blood married in rather than through the Locke line itself. Orris is one such soul.
+
+## History
+* **[[Entry 39]]:** [[Lavender]] recalled that [[Pellor]] is the deity worshipped by her family.

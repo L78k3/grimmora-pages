@@ -28,3 +28,6 @@ According to a vision experienced by [[Lavender]], [[Orris]] arranged for Voss t
 
 ---
 **Related:** [[Corbin]], [[Tidecaller (Ship)]], [[Grey Pearl]], [[Entry 38]]
+
+## History
+* **[[Entry 39]]:** Met [[Lavender]] and the party at the [[Onasea]] harbour. Accepted the [[Grey Pearl]] as payment/signal and ushered them onto the [[Tidecaller (Ship)|Tidecaller]], noting that half the village was searching for them. She confirmed the journey to [[Adalens]] would take three days.

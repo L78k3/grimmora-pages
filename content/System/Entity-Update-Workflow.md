@@ -92,7 +92,9 @@ git commit -am "Automated update from Entry 38"
 1.  **Create Context File:**
     Use `grep` with context (`-C`) to capture the story around a keyword.
     
+    ```bash
     grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
+    ```
     
 2.  **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
 
@@ -109,3 +111,14 @@ git commit -am "Automated update from Entry 38"
 3.  **Execution:**
     * Copy the markdown block from the AI response.
     * Paste it manually into the character's `Biography.md` or `index.md`.
+
+### Method F: The "Wikilink Spotter" (Formatting Assistant)
+**Best for:** Ensuring your manually formatted Chronicle Entry has the correct links before you finalize it.
+
+1.  **Preparation:** Run `contextbomb` (alias for `~/scripts/generate_context.sh`) to refresh the vault index.
+2.  **Prompt:**
+    * Open a new chat. Upload `Vault_Context.txt` + Your formatted `Entry XX.md`.
+    * Paste the **Wikilink Spotter Prompt** (`System/Prompts/Wikilink-Spotter.md`).
+3.  **Action:**
+    * The LLM provides a checklist of proper nouns found in your vault (e.g., "Link 'Corbin' in Section 2").
+    * You manually bracket `[[Corbin]]` in Obsidian to preserve your specific formatting.

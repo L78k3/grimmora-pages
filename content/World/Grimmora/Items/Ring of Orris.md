@@ -35,6 +35,8 @@ Upon finding the ring in [[Arcadia]], [[Theren]] identified its necromantic natu
 During the battle in the mausoleum, [[Lavender]] was banished to a void. While there, the ring's icy blue light filled the darkness, providing her a strange reassurance. A voice in the void questioned her loyalty, admiring her devotion but forcing her to choose between her companions and her goddess.
 
 ## History & Usage
+### The Moon's Grace
+In **[[Entry 39]]**, as the appointed time for their departure neared, the ring grew intensely cold, forming rime and frosting the air around it. Under the moonlight at [[Onasea]], the jewel refracted the light, and [[Lavender]] felt a sense of contentment rather than fear. [[Anaphel]] refused to hold it, sensing that the entity inside might be the counterpart to [[Auriel]].
 
 ### Infiltration of Arcadia
 [[Lavender]] used the ring as a tool of intimidation while infiltrating [[Orris' Secret Lair]]. By displaying the ring to a zombie guard, she successfully invoked [[Orris]]'s authority, causing the undead creature to bow and grant them access.

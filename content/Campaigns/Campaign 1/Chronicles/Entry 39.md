@@ -1,7 +1,6 @@
 ---
 type: chronicle
-location:
-  - "[[Onasea]]"
+location: "[[Tidecaller (Ship)]]"
 world: Grimmora
 campaign: Campaign 1
 characters:
@@ -13,11 +12,11 @@ characters:
   - "[[Mary-Ann]]"
 ---
 # Day 26
-The party makes their way towards the lakehouse, with Gage driving the crocodile. He changes back into a tiefling midway and everyone tumbles off. Temerity feels pain when everyone falls off him. Gage lands on his finger. [[Theren]] somehow lands well, despite his drunken state.
+The party makes their way towards the lakehouse, with [[Gage]] driving the crocodile. He changes back into a tiefling midway and everyone tumbles off. [[Temerity]] feels pain when everyone falls off him. Gage lands on his finger. [[Theren]] somehow lands well, despite his drunken state.
 
-They arrive at the lakehouse and rest overnight and wake at midday. Theren is hung over. Mary-Ann rootles through the cupboard and makes a hearty stew for everyone. Theren cannot take it and vomits everywhere. Everyone else feels fortified by the stew.
+They arrive at the lakehouse and rest overnight and wake at midday. Theren is hung over. [[Mary-Ann]] rootles through the cupboard and makes a hearty stew for everyone. Theren cannot take it and vomits everywhere. Everyone else feels fortified by the stew.
 
-Lavender decides it’s time to move but they need to wait for the appointed time. Time passes by. Everyone rests. Theren heads into the woods for solitude. He throws eldritch spells around, blasting whatever he can find to improve his magic skills. The action of casting his magic feels like he’s coming closer to his patron, but there’s nothing definable, simply a strengthening of a bond.
+[[Lavender]] decides it’s time to move but they need to wait for the appointed time. Time passes by. Everyone rests. Theren heads into the woods for solitude. He throws eldritch spells around, blasting whatever he can find to improve his magic skills. The action of casting his magic feels like he’s coming closer to his patron, but there’s nothing definable, simply a strengthening of a bond.
 
 Mary-Ann writes a note and leaves a couple of gold pieces behind to pay for the supplies she’s used. 
 
@@ -29,7 +28,7 @@ Temerity polymorphs into a bronze dragon. It takes him a short while to work out
 Later, Mary-Ann bakes some cookies. Everyone eats some and take the rest with them. 
 
 # Day 28
-The party prepares for their journey back to Onasea.
+The party prepares for their journey back to [[Onasea]].
 
 As the sun sets, the ring is getting colder – rime forms on it. Lavender removes her glove to inspect it. The air around it glistens with frost. She returns her glove and keeps her hand close.
 
@@ -41,9 +40,9 @@ All of the fishing vessels are lined up in the harbour. They are accompanied by 
 
 Lavender approaches and addresses [[Captain Voss]]. She shows the pearl. Weathered hands take it from her. Voss says that she owes [[Orris]] a favour, but also that half of Onasea are currently searching for them. Voss advises that they move swiftly. Lavender agrees.
 
-Voss leads them onto the ship and shouts her orders to the crew to set sail. The Tidecaller moves away from the village. The ship rocks gently. Theren feels the bond with his patron calm him and his fear dissipates. 
+Voss leads them onto the ship and shouts her orders to the crew to set sail. The [[Tidecaller (Ship)|Tidecaller]] moves away from the village. The ship rocks gently. Theren feels the bond with his patron calm him and his fear dissipates. 
 
-Voss informs that it will be 3 days to Adalens. She has the boatswain take them to their quarters. Gage offers his services. Voss tells him that she will absolutely make use of them if she needs to. 
+Voss informs that it will be 3 days to [[Adalens]]. She has the boatswain take them to their quarters. Gage offers his services. Voss tells him that she will absolutely make use of them if she needs to. 
 
 The quarters are comfortable enough. Theren wants to sleep after a disconcerting journey. Mary-Ann joins the card game.
 
@@ -53,7 +52,7 @@ Theren goes bust, Mary-Ann wins with 21. The sailor is impressed. On the second 
 
 Mary-Ann asks about trouble. They both laugh uproariously – trouble is normality. Theren leaves the game. The game continues. 
 
-Lavender sees Anaphel standing staring at the moon on deck. Lavender asks what they can see. Ana does not reply. Eventually, they say that that they don’t have something any more, referring to their connection to Auriel. Lavender removes her glove and shows the ring. She says that it feels different since seeing the light of the moon. Lavender offers Anaphel the ring, but they refuse, saying that it is safer with Lavender. Anaphel worries that they would rush into things. 
+Lavender sees Anaphel standing staring at the moon on deck. Lavender asks what they can see. Ana does not reply. Eventually, they say that that they don’t have something any more, referring to their connection to [[Auriel]]. Lavender removes her glove and shows the ring. She says that it feels different since seeing the light of the moon. Lavender offers Anaphel the ring, but they refuse, saying that it is safer with Lavender. Anaphel worries that they would rush into things. 
 
 Lavender asks if Auriel has a counterpart, possibly a patron for their adversaries. Anaphel wonders if it’s something to do with fire or heat. Anaphel thinks that perhaps Adalens is the place to ask about such things, perhaps a holy person. 
 
@@ -63,7 +62,7 @@ They arrive to find the gambling continuing. The sailor wins again. He asks Mary
 
 Mary-Ann decides to retire from the game. The sailors try to persuade them to take one more game. Temerity declines but gets his lute out. Gage has drifted off to sleep. The sailors conspire with Temerity to draw a penis on Gage’s forehead. Temerity wagers he can draw the rudest thing on Gage while he sleeps. He wagers 5 copper pieces. The sailor draws a penis but the scrotum is a bit wonky. Temerity draws an intricate array of diagrams, all involving Gage engaging in inappropriate activities with a variety of partners. It circumnavigates his head. The sailor is very impressed. 
 
-Theren walks over to Lavender and Anaphel, who are researching religion. He offers to help. Lavender is surprised but Anaphel is glad to have the assistance. Theren knows of a few gods/goddesses that could fit this pattern. Sol is one of them, Pellor is also a sun/light/healing god and Sargonnas is god of vengeance and fire. Lavender remembers that Pellor is worshipped by House Locke. Theren wonders about Sargonnas, as this isn’t something he’s heard before. Lavender wonders if the name came from Theren’s patron. Theren feels a frission across his skin at the thought of a deepening with his patron. 
+Theren walks over to Lavender and Anaphel, who are researching religion. He offers to help. Lavender is surprised but Anaphel is glad to have the assistance. Theren knows of a few gods/goddesses that could fit this pattern. [[Sol]] is one of them, [[Pellor]] is also a sun/light/healing god and [[Sargonnas]] is god of vengeance and fire. Lavender remembers that Pellor is worshipped by [[House Locke]]. Theren wonders about Sargonnas, as this isn’t something he’s heard before. Lavender wonders if the name came from Theren’s patron. Theren feels a frission across his skin at the thought of a deepening with his patron. 
 
 They decide to sleep on it and retire. Lavender offers to help Gage to wash off his face. 
 

@@ -3,8 +3,7 @@ title: Onasea
 type: village
 region: "[[Avalonean Empire]]"
 population: 
-tags:
- - location/village
+tags: ['location/village', 'visited']
  - unvisited
 ---
 
@@ -34,8 +33,7 @@ Unknown.
 Our current plan is to find a caravan in [[Midward]] that is travelling south to Onasea. It is located on the coast, south of [[Durvish City]] and [[High Lake]].
 
 ## Our Experience
-
-We have not yet visited this village.
+* **[[Entry 39]]:** The party arrived at night, flown in by [[Temerity]] in dragon form. They landed at the harbour, where they met [[Captain Voss]] and boarded the [[Tidecaller (Ship)|Tidecaller]] to depart for [[Adalens]].
 
 ---
 
