@@ -31,13 +31,20 @@ Ensure you have these three components ready:
     * **Verify:** Check `git diff` to ensure history was appended correctly.
 
 ### Workflow B: The "New Session" Routine (Day-to-Day)
-**Best for:** Processing the latest session (`Entry 38`) immediately after play.
-**Concept:** The "Forward Only" approach.
+**Best for:** Processing the latest session (`Entry 39`) immediately after play.
 
-1.  **Scout:** Paste `Entry 38` into a chat with the **Scout Prompt** (Optional) to identify which files need updating.
-    * *Or just manually identify the key players (e.g., Gage, Corbin, The Sea Cave).*
-2.  **Architect:** Upload the identified files + `Entry 38`. Run the **Architect Prompt**.
-3.  **Execute:** Paste JSON to `update.json`, run script.
+1.  **Preparation:**
+    * Run `contextbomb` in your terminal to refresh `~/Vault_Context.txt`.
+2.  **Scout:**
+    * Open a new chat.
+    * Upload **`Entry XX.md`** AND **`Vault_Context.txt`**.
+    * Paste the **Scout Prompt**.
+    * *Result: A checklist of "Existing Files" and "New Files".*
+3.  **Architect:**
+    * Open a **new** chat (to clear the heavy context).
+    * Upload the **Target Files** identified by the Scout (e.g., `Corbin.md`, `Onasea.md`) plus `Entry XX.md`.
+    * Paste the **Architect Prompt**.
+4.  **Execute:** Paste JSON to `update.json`, run script.
 
 ### Workflow C: The PC "Highlight Reel" (Main Characters)
 **Best for:** Gage, Lavender, Theren.
@@ -67,11 +74,13 @@ The Python script looks for specific headers to append text. To ensure automatio
 ### The "Git Safety Net"
 Always commit before running the script.
 
-    git add .
-    git commit -m "Pre-update state"
-    python generate_pages.py
-    # Check diffs. If good:
-    git commit -am "Automated update from Entry 38"
+```bash
+git add .
+git commit -m "Pre-update state"
+python generate_pages.py
+# Check diffs. If good:
+git commit -am "Automated update from Entry 38"
+```
 
 ---
 

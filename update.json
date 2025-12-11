@@ -1,67 +1,110 @@
 {
+  "updated_entries": [
+    {
+      "filename": "Onasea.md",
+      "frontmatter_updates": {
+        "tags": [
+          "location/village",
+          "visited"
+        ]
+      },
+      "section_appends": [
+        {
+          "header": "## Our Experience",
+          "content": "* **[[Entry 39]]:** The party arrived at night, flown in by [[Temerity]] in dragon form. They landed at the harbour, where they met [[Captain Voss]] and boarded the [[Tidecaller (Ship)|Tidecaller]] to depart for [[Adalens]]."
+        }
+      ]
+    },
+    {
+      "filename": "Captain Voss.md",
+      "frontmatter_updates": {
+        "status": "Met",
+        "location": "[[Tidecaller (Ship)]]"
+      },
+      "section_appends": [
+        {
+          "header": "## History",
+          "content": "* **[[Entry 39]]:** Met [[Lavender]] and the party at the [[Onasea]] harbour. Accepted the [[Grey Pearl]] as payment/signal and ushered them onto the [[Tidecaller (Ship)|Tidecaller]], noting that half the village was searching for them. She confirmed the journey to [[Adalens]] would take three days."
+        }
+      ]
+    },
+    {
+      "filename": "Tidecaller (Ship).md",
+      "frontmatter_updates": {
+        "location": "Traveling to [[Adalens]]"
+      },
+      "section_appends": [
+        {
+          "header": "## History",
+          "content": "* **[[Entry 39]]:** docked at [[Onasea]] to pick up [[Lavender]] and her companions. Departed for [[Adalens]] shortly after boarding."
+        }
+      ]
+    },
+    {
+      "filename": "Ring of Orris.md",
+      "section_appends": [
+        {
+          "header": "## History & Usage",
+          "content": "### The Moon's Grace\nIn **[[Entry 39]]**, as the appointed time for their departure neared, the ring grew intensely cold, forming rime and frosting the air around it. Under the moonlight at [[Onasea]], the jewel refracted the light, and [[Lavender]] felt a sense of contentment rather than fear. [[Anaphel]] refused to hold it, sensing that the entity inside might be the counterpart to [[Auriel]]."
+        }
+      ]
+    },
+    {
+      "filename": "Anaphel.md",
+      "section_appends": [
+        {
+          "header": "## Campaign Notes",
+          "content": "### Loss of Connection\nIn **[[Entry 39]]**, while traveling to [[Onasea]], Anaphel confessed to [[Lavender]] that they no longer felt their connection to [[Auriel]], stating they \"don't have something any more.\"\n\n### Theological Research\nAnaphel began researching the possibility of an adversary to Auriel—specifically relating to fire or heat. Working with [[Theren]] and [[Lavender]], they discussed deities like [[Sol]], [[Pellor]], and [[Sargonnas]]. Anaphel hopes to find answers in [[Adalens]]."
+        }
+      ]
+    },
+    {
+      "filename": "Passage to Adalens.md",
+      "frontmatter_updates": {
+        "status": "active"
+      },
+      "section_appends": [
+        {
+          "header": "## Quest Steps",
+          "content": "- [x] Wait for Moon's Grace (2 days).\n- [x] Present the [[Grey Pearl]] to [[Captain Voss]].\n- [x] Board the [[Tidecaller (Ship)]].\n- [ ] Travel to [[Adalens]]."
+        },
+        {
+          "header": "## Notes",
+          "content": "In **[[Entry 39]]**, the party successfully met Voss at [[Onasea]] and boarded the ship. The journey is expected to take 3 days."
+        }
+      ]
+    },
+    {
+      "filename": "Pellor.md",
+      "section_appends": [
+        {
+          "header": "## History",
+          "content": "* **[[Entry 39]]:** Discussed by [[Theren]], [[Anaphel]], and [[Lavender]] as a sun/light/healing god during their research into potential adversaries of [[Auriel]]. Lavender confirmed that Pellor is worshipped by [[House Locke]]."
+        }
+      ]
+    },
+    {
+      "filename": "House Locke.md",
+      "section_appends": [
+        {
+          "header": "## History",
+          "content": "* **[[Entry 39]]:** [[Lavender]] recalled that [[Pellor]] is the deity worshipped by her family."
+        }
+      ]
+    }
+  ],
   "new_entries": [
     {
-      "template": "NPC",
-      "filename": "Test Dummy NPC.md",
+      "template": "Concept",
+      "filename": "Sargonnas.md",
       "data": {
-        "name": "Test Dummy NPC",
-        "role": "Crash Test Dummy",
-        "faction_link": "[[Debuggers]]",
-        "role_tag": "test",
-        "location_link": "[[Test Zone]]",
-        "status": "Active",
-        "race": "Construct",
-        "description_block": "A generic figure used for testing templates.",
-        "personality_block": "Stoic and resilient.",
-        "combat_block": "Does not fight back.",
-        "history_block": "* Created during the Great Refactor."
-      }
-    },
-    {
-      "template": "Item",
-      "filename": "Test Dummy Sword.md",
-      "data": {
-        "name": "Test Dummy Sword",
-        "rarity": "Common",
-        "subtype": "Weapon",
-        "owner_link": "[[Gage]]",
-        "status_tag": "equipped",
-        "attunement": "No",
-        "value": "1 cp",
-        "visual_description": "A sword made of foam.",
-        "mechanics_block": "Deals 0 damage.",
-        "lore_block": "Used for safe sparring.",
-        "entry_link": "[[Entry 00]]",
-        "acquisition_method": "Spawned via script"
-      }
-    },
-    {
-      "template": "Quest",
-      "filename": "Test Dummy Quest.md",
-      "data": {
-        "quest_name": "Test Dummy Quest",
-        "quest_description": "Validate the automation pipeline.",
-        "status": "Active",
-        "completed": "No",
-        "notes": "Debug note.",
-        "quest_steps_list": "- [ ] Run Script\n- [ ] Verify Output",
-        "rewards_list": "- Satisfaction",
-        "npc_list": "- [[Test Dummy NPC]]"
-      }
-    },
-    {
-      "template": "City",
-      "filename": "Test Dummy City.md",
-      "data": {
-        "location_name": "Test Dummy City",
-        "type": "City",
-        "region_link": "[[Debug Region]]",
-        "population": "0",
-        "government": "Algorithm",
-        "description_block": "A city built of code blocks.",
-        "points_of_interest_list": "* **[[The Stack Trace]]:** A tall tower.",
-        "npc_list": "- [[Test Dummy NPC]]",
-        "history_block": "* Founded today."
+        "name": "Sargonnas",
+        "tags": [
+          "concept",
+          "deity"
+        ],
+        "description_block": "**Sargonnas** is a deity associated with vengeance and fire.",
+        "history_block": "* **[[Entry 39]]:** Identified by [[Theren]] as a potential candidate for the \"counterpart\" or adversary to [[Auriel]], fitting the fire/heat motif suspected by [[Anaphel]]. [[Lavender]] noted she had not heard the name before, and Theren felt a reaction from his patron when speaking it."
       }
     }
   ]
