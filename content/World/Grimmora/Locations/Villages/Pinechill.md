@@ -1,10 +1,4 @@
 ---
-type: location
-location: 
-world: 
-campaign:
----
----
 title: Pinechill
 type: village
 region: "[[Avalonean Empire]]"
