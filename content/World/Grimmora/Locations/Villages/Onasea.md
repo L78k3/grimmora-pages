@@ -4,13 +4,13 @@ type: village
 region: "[[Avalonean Empire]]"
 population: 
 tags: ['location/village', 'visited']
- - unvisited
 ---
 
 # Onasea
 
-> [!warning] Unvisited
-> The party has not yet traveled to this location.
+> [!info] Visited
+> **When:** On our journey toward [[Adalens]]
+> **Region:** [[Avalonean Empire]]
 
 ## What We Know
 
