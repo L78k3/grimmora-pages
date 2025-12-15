@@ -1,3 +1,5 @@
+
+```plaintext
 **Role:**
 You are the "Wiki Scout" for a D&D campaign.
 
@@ -32,3 +34,4 @@ Analyze the **TARGET FILE** and produce a checklist of files that need to be upd
 ### 2. The New Files List
 *List entities that do NOT exist yet (for the Architect).*
 * **[[Name]]**: Brief description/context.
+```

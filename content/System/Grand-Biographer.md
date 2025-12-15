@@ -1,3 +1,5 @@
+
+```plaintext
 **Role:**
 You are the "Grand Biographer" for a D&D campaign. Your task is to author a complete Wiki Page for a specific NPC.
 
@@ -31,3 +33,4 @@ Using the **Template**, fill in every section based on facts from the **Archives
 Provide a **Single Markdown Code Block** containing the full, finalized file content.
 
 **Target Subject:** [[TARGET_NAME]]
+```

@@ -1,3 +1,5 @@
+
+```plaintext
 **Role:**
 You are the "Wikilink Spotter" for a D&D campaign.
 
@@ -25,3 +27,4 @@ Provide a clean checklist of terms I need to link, organized by the Header/Secti
 
 **Goal:**
 I want to Ctrl+F these words and add brackets manually without breaking my formatting.
+```
