@@ -122,3 +122,21 @@ git commit -am "Automated update from Entry 38"
 3.  **Action:**
     * The LLM provides a checklist of proper nouns found in your vault (e.g., "Link 'Corbin' in Section 2").
     * You manually bracket `[[Corbin]]` in Obsidian to preserve your specific formatting.
+
+### Workflow G: The "Profile Builder" (NPC Overhaul)
+**Best for:** Generating a full wiki page for a specific NPC (e.g., Anaphel) by analyzing their entire history to determine if they are a "Major" or "Minor" character.
+
+1.  **Preparation:**
+    * Run `contextbomb` (alias for `~/scripts/generate_context.sh`) to ensure the Archives are up to date.
+2.  **The Chat Setup:**
+    * Open a new chat.
+    * **Upload:** `Vault_Context.txt` (The History).
+    * **Upload:** `Templates/NPC.md` (The Structure).
+    * **Upload (Optional):** The existing file (e.g., `Anaphel.md`) if you want to preserve current metadata.
+3.  **The Prompt:**
+    * Paste the **Grand Biographer Prompt** (`System/Prompts/Grand-Biographer.md`).
+    * **Edit the Target:** Change `[[TARGET_NAME]]` to the specific NPC (e.g., `[[Anaphel]]`).
+4.  **The Result:**
+    * The LLM will assess the NPC's importance based on their history.
+    * It produces a single Markdown code block (either the full "Gage Standard" for major NPCs or a summarized version for minor ones).
+    * Copy/Paste this block into the NPC's markdown file.

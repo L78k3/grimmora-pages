@@ -17,7 +17,7 @@ tags:
 
 ## What We Know
 
-Pinechill is a small, isolated village with minimal infrastructure. It's a quiet settlement that sees few visitors, making any travelers passing through a notable event for the locals.
+Pinechill is a small, isolated village with minimal infrastructure. It's a quiet settlement that sees few visitors, making any travellers passing through a notable event for the locals.
 
 ## Character
 
@@ -25,13 +25,13 @@ A humble farming village with basic facilities. The lack of infrastructure means
 
 ## Geography
 
-Located along the route toward [[Midward]], Pinechill serves as a stopping point for travelers heading in that direction.
+Located along the route toward [[Midward]], Pinechill serves as a stopping point for travellers heading in that direction.
 
 ## Points of Interest
 
 The village is small enough that there are no major landmarks, though it likely has:
 - A small common area or square
-- Basic lodging for travelers
+- Basic lodging for travellers
 - Modest homes and farmsteads
 
 ## People
@@ -39,8 +39,8 @@ The village is small enough that there are no major landmarks, though it likely 
 ### Residents
 The villagers are simple folk, likely farmers and craftspeople who welcomed the entertainment [[Temerity]] provided.
 
-### Travelers
-- [[Anaphel]] - A traveler we met here who was also heading toward [[Midward]]; they became our companion
+### Travellers
+- [[Anaphel]] - A traveller we met here who was also heading toward [[Midward]]; they became our companion
 
 ## Services
 

@@ -1,39 +1,43 @@
 ---
-title: {{name}}
-description: "{{role}} of {{faction_link}}"
-aliases:
-  - {{name}}
+title: Name
+type: npc
+race: Race
+class: Class (Optional)
+location: "[[Current Location]]"
+affiliation: "[[Faction]]"
+status: Alive
 tags:
   - npc
-  - {{role_tag}}
-draft: false
-date: 2025-01-01
-type: npc
-location: {{location_link}}
-faction: {{faction_link}}
-status: {{status}}
+  - major-character
 ---
 
-# {{name}}
+![[PlaceHolder.webp]]
 
-> [!info] Quick Info
-> **Race:** {{race}}
-> **Role:** {{role}}
-> **Affiliation:** {{faction_link}}
+# Name
 
-## Description
-{{description_block}}
+> [!info] Character Overview
+> **Race:** Race
+> 
+> **Class:** Class / Archetype
+> 
+> **Affiliation:** [[Faction Name]]
+> 
+> **Location:** [[Current Location]]
+> 
+> **Status:** Alive
 
-## Personality & Traits
-{{personality_block}}
+**Name** is [Brief 1-sentence summary of who they are and their role in the story].
+
+## Biography & Personality
+[1-2 paragraphs on their backstory, appearance, and personality traits. How do they act? What do they want?]
+
+## Campaign History
+* **[[Entry XX]] (Event Name):** [Description of what they did].
+* **[[Entry XY]] (Event Name):** [Description of what they did].
 
 ## Key Relationships
-{{relationships_list}}
-## Combat & Abilities
-{{combat_block}}
+* **[[PC Name]]:** [Description of dynamic].
+* **[[NPC Name]]:** [Description of dynamic].
 
-## History with the Party
-{{history_block}}
-
----
-**Current Location:** {{location_link}}
+## Notable Equipment
+* **[[Item Name]]:** [Description].
