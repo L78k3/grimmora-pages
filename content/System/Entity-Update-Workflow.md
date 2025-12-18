@@ -124,7 +124,7 @@ git commit -am "Automated update from Entry 38"
     * You manually bracket `[[Corbin]]` in Obsidian to preserve your specific formatting.
 
 ### Workflow G: The "Profile Builder" (NPC Overhaul)
-**Best for:** Generating a full wiki page for a specific NPC (e.g., Anaphel) by analyzing their entire history to determine if they are a "Major" or "Minor" character.
+**Best for:** Generating a full wiki page for a specific NPC (e.g., Anaphel) by analysing their entire history to determine if they are a "Major" or "Minor" character.
 
 1.  **Preparation:**
     * Run `contextbomb` (alias for `~/scripts/generate_context.sh`) to ensure the Archives are up to date.
