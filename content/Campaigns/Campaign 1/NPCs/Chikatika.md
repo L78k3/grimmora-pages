@@ -1,53 +1,55 @@
 ---
 title: Chikatika
 type: npc
-subtype: animal-companion
-location: "[[Temerity]]"
+race: Raccoon (Wild Wanderer)
+class: Familiar / Magical Conduit
+location: "[[Tidecaller (Ship)]]"
+affiliation: "[[Temerity]]"
+status: Alive
 tags:
   - npc/animal
   - companion/temerity
-  - visited
+  - major-character
 ---
+
+![[PlaceHolder.webp]]
 
 # Chikatika
 
-> [!info] Quick Reference
-> **Species:** Raccoon
-> **Companion:** [[Temerity]]
-> **Traits:** Maternal, bossy, protective, magically potent
+> [!info] Character Overview
+> **Race:** Raccoon (Wild Wanderer)
+> 
+> **Class:** Familiar / Magical Conduit
+> 
+> **Affiliation:** [[Temerity]]
+> 
+> **Location:** [[Tidecaller (Ship)]]
+> 
+> **Status:** Alive
 
-## Overview
+**Chikatika** is a fat, fluffy, and bossy raccoon who serves as the magical familiar for the bard [[Temerity]]. Summoned via a ritual involving spider blood, she bears a green collar identifying her as a "Wild Wanderer" and acts as a conduit for arcane power, frequently augmenting Temerity's spells while providing firm, often physical, discipline to her master.
 
-Chikatika is a "fat and fluffy" raccoon who serves as [[Temerity]]'s familiar. She was summoned during a ritual in a spider cave and shares a unique, magical bond with the bard. She often acts as the "sensible" member of the menagerie, keeping Temerity in line and protecting the other animals.
+## Biography & Personality
+Chikatika is characterized by a maternal yet "bossy" temperament. Unlike typical familiars, she does not hesitate to reprimand Temerity by smacking him on the head, pulling his hair, or "chuntering" disapprovingly when he behaves foolishly. Despite her prickly exterior toward the bard, she is deeply affectionate toward other animals in the menagerie, often petting [[Korako]] or [[Aurius]] to soothe them.
 
-## Personality & Traits
+She possesses a high degree of intelligence and magical potency. She has demonstrated the ability to understand complex plans, communicate telepathically with [[Theren]], and channel divine or primal energy. Her presence often results in a "green radiance" that enhances the party's magical efforts.
 
-* **Bossy & Maternal:** Chikatika is not afraid to discipline Temerity. She has been known to smack him on the head, pull his hair, and berate him with "disgruntled chuntering" when he behaves foolishly. Conversely, she is very affectionate with [[Korako]] and [[Aurius]], often petting or grooming them.
-* **Intelligent:** She understands complex situations and can follow instructions, such as helping to tie up [[Lavender]] or marshalling the other animals. She even communicated with [[Theren]], thanking him for his help with Temerity.
-* **Magically Potent:** Chikatika is not just a pet; she is a conduit for magic. She has:
-    * Enhanced Temerity's *eldritch blast* by placing a hand on his neck.
-    * Helped summon green fire to burn necromantic corpses.
-    * Scented curses on passengers aboard the paddle steamer.
+## Campaign History
+* **[[Entry 10]] (The Summoning):** Chikatika is summoned in a spider cave after Temerity uses spider blood to create a magic circle. She emerges with a green collar and immediately pats Korako on the head.
+* **[[Entry 11]] (Armour Grafting):** She "helps" Temerity graft spider carapaces onto Theren's armour, though she ends up biting Temerity several times and befriending Theren instead.
+* **[[Entry 15]] (Immolating the Fallen):** Outside [[Arcadia]], Chikatika channels a green radiance that immolates a pile of fallen guards, burning them to ash to prevent necromantic reanimation.
+* **[[Entry 19]] (The Hunger):** In [[Pinechill]], Chikatika begs Theren for food and is later involved in a mishap where [[Gage]] accidentally dumps a meal on her head during a performance.
+* **[[Entry 22]] (A Primal Bond):** While the party rests, a green glow surrounds Chikatika and Temerity, representing a deepening of their magical connection.
+* **[[Entry 32]] (The Warehouse Skirmish):** During the battle in the [[Bridgeport Warehouse]], Chikatika places a hand on Temerity's neck to enhance his *eldritch blast* against the [[Necromantic Idol]].
+* **[[Entry 34]] (The Sickroom Investigation):** Aboard the [[Paddle Steamer]], she marshals the menagerie to locate a quarantined elven courier. She later helps scent the necromantic curse on other passengers.
+* **[[Entry 36]] (The Bandit Ambush):** During a chaotic fight in the fog, Chikatika sits on Temerity's shoulder, allowing him to cast a spell that transforms a bandit brute into a tree.
 
-## History & Origins
+## Key Relationships
+* **[[Temerity]]:** Her master, whom she treats with a mixture of loyalty and exasperation. She frequently hits him to keep him in line.
+* **[[Korako]]:** She is very protective of the rabbit, often stroking his head when he is frightened.
+* **[[Theren]]:** She appears to respect the warlock, having communicated with him to ask him to "keep Temerity in line."
+* **[[Aurius]]:** She is patient with the hyperactive fox cub, often playing or rolling with him.
 
-### The Summoning
-Chikatika appeared during a ritual in a spider cave in [[The Frost]] (Entry 10). Temerity used spider blood to create a magic circle around [[Korako]]. After a green light appeared and Korako's eyes glowed, Chikatika crawled out of the webbing wearing a green collar that read: **"Chikatika – [[Wild Wanderer]]"**.
-
-### Adventures
-She has been a constant presence since her summoning:
-* **Spider Cave:** Immediately after appearing, she tried to help Temerity fix [[Theren]]'s armor, though she eventually got fed up and bit Temerity.
-* **[[Pinechill]]:** She begged for food from Theren and was later involved in a food fight when [[Gage]] accidentally dumped a meal on her head.
-* **[[Arcadia]]:** She helped burn the bodies of the guards killed by Lavender, channeling green radiance.
-* **Paddle Steamer:** She helped track down the cursed passengers and even added her power to Temerity's magic during a fight.
-
-## Relationships
-
-* **[[Temerity]]:** Her master, though she treats him more like a foolish charge. She frequently physically reprimands him but also aids him in battle and magic.
-* **[[Korako]]:** She adores the rabbit, often stroking him to calm him down. Korako thinks she is "very cute and fat."
-* **[[Theren]]:** She seems to respect Theren more than Temerity, having thanked him for dealing with the bard's antics.
-* **[[Aurius]]:** She is patient with the hyperactive fox and allows him to run around her.
-
----
-
-**Related:** [[Temerity]] • [[Korako]] • [[Wild Wanderer]]
+## Notable Equipment
+* **[[Green Collar (Chikatika)|Green Collar]]:** A collar found on her upon summoning that reads: "Chikatika – [[Wild Wanderer]]."
+* **[[Cloak (Chikatika)|Spider Carapace Cloak]]:** A small set of armour plates fashioned from spider carapaces.
