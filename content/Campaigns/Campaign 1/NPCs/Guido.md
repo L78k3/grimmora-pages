@@ -4,7 +4,9 @@ type: npc
 race: Rat
 class: Scout
 location: "[[Tidecaller (Ship)]]"
-affiliation: "[[Temerity]]"
+affiliation: 
+  - "[[Temerity]]"
+  - "[[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)|The Menagerie]]"
 status: Alive
 tags:
   - npc

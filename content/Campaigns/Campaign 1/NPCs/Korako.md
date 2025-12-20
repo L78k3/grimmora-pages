@@ -4,7 +4,9 @@ type: npc
 race: Rabbit (Fey-touched)
 class: Animal Companion
 location: "[[Tidecaller (Ship)]]"
-affiliation: "[[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)|The Menagerie]]"
+affiliation: 
+  - "[[Temerity]]"
+  - "[[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)|The Menagerie]]"
 status: Alive
 tags:
   - npc
