@@ -93,5 +93,5 @@ Currently, she is plagued by guilt over her brother's fall and the burden of car
 
 ## Modules
 * [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Session Dashboard]]
 * [[Inventory|🎒 Inventory]]

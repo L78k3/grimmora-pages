@@ -4,7 +4,7 @@ type: npc
 race: Harengon
 location: "[[Durendal]]"
 tags:
-  - npc
+  - pc
   - fey
   - ally
 ---

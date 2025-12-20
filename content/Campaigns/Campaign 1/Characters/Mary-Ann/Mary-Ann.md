@@ -54,4 +54,4 @@ During the journey to [[Onasea]], the party was ambushed by bandits led by **[[G
 
 ## Modules
 * [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Mary-Ann/index|🛡️ Session Dashboard]]

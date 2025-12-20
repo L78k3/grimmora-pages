@@ -69,4 +69,4 @@ As he aged, the glint of gold faded. He began to see cracks in the system - miss
 
 ## Modules
 * [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Gage/index|🛡️ Session Dashboard]]

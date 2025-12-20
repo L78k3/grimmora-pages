@@ -103,4 +103,4 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 
 ## Modules
 * [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Temerity/index|🛡️ Session Dashboard]]

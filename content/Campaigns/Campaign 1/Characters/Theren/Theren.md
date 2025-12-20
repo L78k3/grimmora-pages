@@ -78,4 +78,4 @@ Through research and meditation, Theren has learned significant details about hi
 
 ## Modules
 * [[Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 1/Characters/Theren/index|🛡️ Session Dashboard]]
