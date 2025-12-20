@@ -30,7 +30,7 @@ tags:
 **Zadhir** is a persistent and powerful antagonist who operates within the criminal and necromantic underbelly of the realm. He is the proprietor of the [[Jade Zephyr Casino]] and oversees high-stakes smuggling operations across the [[Avalonean Empire]].
 
 ## Biography & Personality
-Zadhir is a man of significant wealth and arcane power, often seen wearing a beautiful green velvet cloak. He carries himself with a condescending, arrogant demeanor, particularly toward those of noble birth like [[Lavender]], whom he delights in taunting. He is calculated and transactional, willing to bargain for his own interests even in the heat of combat.
+Zadhir is a man of significant wealth and arcane power, often seen wearing a beautiful green velvet cloak. He carries himself with a condescending, arrogant demeanour, particularly toward those of noble birth like [[Lavender]], whom he delights in taunting. He is calculated and transactional, willing to bargain for his own interests even in the heat of combat.
 
 As a leader, he is feared by his subordinates and well-known in the criminal underworld. He is a formidable spellcaster, capable of high-level magic such as dimensional shifting and heat-based blasts. While his direct connection to the [[Necromancers]] is ambiguous, he frequently operates in their proximity and utilizes their resources for his business dealings.
 
