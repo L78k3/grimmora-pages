@@ -1,30 +1,40 @@
 ---
 title: Frolot
 type: npc
+race: Humanoid
+class: Administrative Contact
 location: "[[Mayor's Mansion (Arcadia)]]"
-affiliation: "[[necromancers]]"
+affiliation: "[[Necromancers]]"
+status: Alive
 tags:
   - npc
   - antagonist
 ---
 
+![[PlaceHolder.webp]]
+
 # Frolot
 
-> [!info] Status: Alive
-> **Encountered:** [[Entry 16]]
-> **Location:** [[Mayor's Mansion (Arcadia)]] (Office/Study)
+> [!info] Character Overview
+> **Race:** Humanoid
+> 
+> **Class:** Administrative Contact
+> 
+> **Affiliation:** [[Necromancers]]
+> 
+> **Location:** [[Mayor's Mansion (Arcadia)]]
+> 
+> **Status:** Alive
 
-**Frolot** is a member of the necromancer organization operating in [[Arcadia]] and served as [[Gage]]'s handler or contact within the city.
+**Frolot** is a member of the necromancer organization currently occupying [[Arcadia]] and served as [[Gage]]'s primary handler or contact within the city.
 
-## Overview
+## Biography & Personality
+Frolot appears to hold a position of administrative authority, as he is stationed in a private office or study within the occupied [[Mayor's Mansion (Arcadia)]]. During the party's infiltration of the manor, [[Gage]] inadvertently crashed through Frolot's door while tackling a suspicious servant. 
 
-He appears to hold a position of administrative authority, stationed in an office or study within the occupied [[Mayor's Mansion (Arcadia)|Mayor's Mansion]].
+Frolot was initially confused by the sudden intrusion but proved to be surprisingly susceptible to deception. Gage was able to bluff him by claiming the magical disturbances and noise caused by [[Temerity]] outside were merely a rowdy bar fight involving his targets. Frolot accepted this report without raising an alarm or calling for guards, which suggests either a significant lack of organizational discipline or an unusual level of trust in his agents.
 
-## Interactions
+## Key Relationships
+* **[[Gage]]:** Gage acted as a mercenary and spy under Frolot's direction while working for the necromancers in Arcadia.
 
-During the infiltration of the mansion, [[Gage]] tackled a suspicious servant through a door, inadvertently landing them in Frolot's office. Gage managed to bluff his way out of the situation, claiming the chaos outside (caused by [[Temerity]]) was merely a rowdy bar fight involving the targets he was tracking.
-
-Frolot appeared confused by the sudden intrusion but accepted Gage's report without raising an alarm, suggesting either a lack of discipline or a high degree of trust in his spies.
-
----
-**Related:** [[Gage]], [[Arcadia]], [[necromancers]], [[Entry 16]]
+## Notable Equipment
+* **None reported.**

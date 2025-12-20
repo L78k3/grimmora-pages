@@ -64,7 +64,6 @@ content
 │       │   ├── Ice Dragon.md
 │       │   ├── Ismay.md
 │       │   ├── Korako.md
-│       │   ├── Lady Arren.md
 │       │   ├── Lady Bromelia.md
 │       │   ├── Lord Requiem.md
 │       │   ├── Mavis.md

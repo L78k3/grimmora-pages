@@ -59,7 +59,6 @@ content
 │       │   ├── Ice Dragon.md
 │       │   ├── Ismay.md
 │       │   ├── Korako.md
-│       │   ├── Lady Arren.md
 │       │   ├── Lady Bromelia.md
 │       │   ├── Lord Requiem.md
 │       │   ├── Mavis.md
@@ -203,7 +202,6 @@ Use this list to check if an entity already has a page.
   - [[Ice Dragon]]
   - [[Ismay]]
   - [[Korako]]
-  - [[Lady Arren]]
   - [[Lady Bromelia]] -s  [[Lord Requiem]]
   - [[Mavis]]
   - [[Millicent]]
