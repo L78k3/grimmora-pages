@@ -10,6 +10,7 @@ status: Alive
 tags:
   - npc
   - major-character
+  - companion
 ---
 
 # Aurius

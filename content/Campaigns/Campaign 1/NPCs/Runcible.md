@@ -18,7 +18,7 @@ tags:
 # Runcible
 
 > [!info] Character Overview
-> **Race:** Pseudodragon
+> **Race:** [Pseudodragon](https://2014.5e.tools/bestiary.html#pseudodragon_mm)
 > 
 > **Class:** Familiar
 > 
@@ -28,7 +28,7 @@ tags:
 > 
 > **Status:** Alive
 
-**Runcible** is the emerald green pseudodragon familiar bonded to [[Theren]]. He serves as the party's primary aerial scout, a telepathic conduit for information, and a frequent—if sometimes reluctant—enforcer of party discipline.
+**Runcible** is the emerald green pseudodragon familiar bonded to [[Theren]]. He serves as the party's primary aerial scout, a telepathic conduit for information, and a frequent - if sometimes reluctant - []()enforcer of party discipline.
 
 ## Biography & Personality
 Runcible is a clever and shimmering green creature with a sting-tipped tail and a sharp mind. He shares a deep telepathic bond with his master, Theren, allowing the warlock to see through his eyes and communicate across distances. While highly competent in his duties, Runcible often displays a distinct personality: he is prone to hissing when annoyed, enjoys perching on Theren’s shoulder, and has a mischievous streak that usually manifests at the expense of [[Temerity]].

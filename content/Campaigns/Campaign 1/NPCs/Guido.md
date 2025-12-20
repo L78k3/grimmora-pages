@@ -12,13 +12,13 @@ tags:
   - npc
   - major-character
   - npc/animal
-  - companion/temerity
+  - companion
 ---
 
 # Guido
 
 > [!info] Character Overview
-> **Race:** Rat
+> **Race:** [Rat](https://2014.5e.tools/bestiary.html#rat_mm)
 > 
 > **Class:** Scout / Animal Companion
 > 

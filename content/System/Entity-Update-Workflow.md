@@ -96,7 +96,7 @@ git commit -am "Automated update from Entry 38"
     grep -C 20 "Ring of Orris" content/Campaigns/Campaign\ 1/Chronicles/*.md > Context.txt
     ```
     
-2.  **Action:** Upload `Context.txt` to the AI to answer specific questions ("When did we last use the Ring?").
+1.  **Action:** Upload `Context.txt` to the LLM to answer specific questions ("When did we last use the Ring?").
 
 ### Method E: The "Context Bomb" (Full Arc Backfill)
 **Best for:** Backfilling a main character with 20+ sessions of history at once.
@@ -109,7 +109,7 @@ git commit -am "Automated update from Entry 38"
     * Copy/Paste the content of [[Context-Bomb-Prompt.md]].
     * *(Optional: Edit the "Target Character" line if backfilling someone else).*
 3.  **Execution:**
-    * Copy the markdown block from the AI response.
+    * Copy the markdown block from the LLM response.
     * Paste it manually into the character's `Biography.md` or `index.md`.
 
 ### Method F: The "Wikilink Spotter" (Formatting Assistant)
@@ -140,3 +140,61 @@ git commit -am "Automated update from Entry 38"
     * The LLM will assess the NPC's importance based on their history.
     * It produces a single Markdown code block (either the full "Gage Standard" for major NPCs or a summarized version for minor ones).
     * Copy/Paste this block into the NPC's markdown file.
+
+### Workflow H: The "Chronicle Transformation" (Post-Session)
+**Best for:** Converting raw narrative logs from Discord into vault-ready entries for Quartz.
+**Concept:** Structural cleanup and wikilink integration for consistency.
+
+1.  **Identify Source:** Download the raw session narrative (e.g., `DnD 39.docx`).
+2.  **Chat Setup:**
+    * Open a new chat.
+    * **Upload:** The raw narrative file.
+3.  **Prompt:** Paste the **Chronicle Architect Prompt** (`System/Prompts/Chronicle-Architect.md`).
+4.  **Execute:**
+    * Copy the resulting Markdown into a new file: `Campaigns/Campaign 1/Chronicles/Entry XX.md`.
+    * **Snapshot Update:** Copy the bullet points from **Phase 4** of the LLM response and paste them into the "SECTION 0" block of your `generate_context.sh` script to keep your "Now" data current.
+
+### Workflow I: The "Lore Forge" (New Entity Creation)
+**Best for:** Creating dedicated wiki pages for new NPCs, Items, or Locations discovered during a session (e.g., Captain Voss, The Tidecaller).
+**Concept:** Maintaining standard schema across all lore pages using your templates.
+
+1.  **Identify Source:** Use a finalized Chronicle Entry (e.g., `Entry 39.md`).
+2.  **Preparation:** Run `contextbomb` to ensure the latest templates from **Section 1.5** are in your export file.
+3.  **Chat Setup:**
+    * Open a new chat.
+    * **Upload:** `Vault_Context.txt` (This provides templates and the manifest).
+    * **Upload:** The specific source **Chronicle Entry** where the entity appears.
+4.  **Prompt:** Paste the **Entity Extractor Prompt** (`System/Prompts/Entity-Extractor.md`).
+5.  **Execute:**
+    * Create the new file (e.g., `NPCs/Captain Voss.md`).
+    * **Verify:** Ensure the LLM matched the YAML and heading structure from your `System/Templates`.
+
+### Workflow J: The "Vault Audit" (Lore Cleanup)
+**Best for:** Ensuring no NPCs or Items from the Chronicles have been "lost" without dedicated files.
+**Concept:** Cross-referencing the Narrative Source against the File Manifest.
+
+1.  **Preparation:** Run `contextbomb` to generate the latest index of all existing files.
+2.  **Chat Setup:** 
+	* Open a new chat.
+    * **Upload:** `Vault_Context.txt`.
+3.  **Prompt:** Paste the **Vault Auditor Prompt** (`System/Prompts/Vault-Auditor.md`).
+4.  **The Result:** 
+	* A list of "Untracked Entities" (People/Items mentioned in Chronicles but missing from the Manifest).
+    * A list of "Dead Links" (Proper nouns that should be wikilinked but aren't).
+5.  **Action:** Use Workflow I to "Forge" the missing pages identified by the Auditor.
+
+
+---
+
+### Grimmora Prompt Index
+
+| Prompt Name             | File Path                               | Primary Trigger                                | Best Workflow                                  |
+| :---------------------- | :-------------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
+| **Chronicle Architect** | `System/Prompts/Chronicle-Architect.md` | New narrative log from Discord.                | **Workflow H**: Raw text to Obsidian Entry.    |
+| **Entity Extractor**    | `System/Prompts/Entity-Extractor.md`    | A new NPC, Item, or Location is mentioned.     | **Workflow I**: Entry to dedicated Lore Page.  |
+| **Architect Prompt**    | `System/Prompts/Architect-Prompt.md`    | Need to append new events to existing files.   | **Workflows A, B, C**: Automated updates.      |
+| **Scout Prompt**        | `System/Prompts/Scout-Prompt.md`        | Preparing to process a session entry.          | **Workflow B**: Identifies what to update.     |
+| **Vault Auditor**       | `System/Prompts/Vault-Auditor.md`       | Vault feels messy or links are missing.        | **Workflow J**: Narrative vs. Manifest audit.  |
+| **Grand Biographer**    | `System/Prompts/Grand-Biographer.md`    | Major character needs a full history overhaul. | **Workflow G**: Comprehensive profile rebuild. |
+| **Context Bomb**        | `System/Prompts/Context-Bomb-Prompt.md` | Need to catch an LLM up on a character's arc.  | **Method E**: Full history backfill.           |
+| **Wikilink Spotter**    | `System/Prompts/Wikilink-Spotter.md`    | Finalizing a manually written Entry.           | **Method F**: Proper noun highlighting.        |
