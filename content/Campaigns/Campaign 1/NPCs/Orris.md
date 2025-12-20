@@ -2,39 +2,55 @@
 title: Orris
 type: npc
 race: Human
-location: "[[Adalens]]"
-affiliation:
-  - "[[House Locke]]"
-  - "[[necromancers]]"
+class: Necromancer / Wizard
+location: "[[Arcadia]]"
+affiliation: "[[Necromancers]]"
+status: Alive
 tags:
   - npc
+  - major-character
   - antagonist
-  - family
-  - mysterious
+  - relative
 ---
+
+![[PlaceHolder.webp]]
 
 # Orris
 
-> [!info] Status: Alive (Active)
-> **Relation:** Brother to [[Lavender]]
-> **Current Location:** [[Adalens]] (Presumed)
+> [!info] Character Overview
+> **Race:** Human
+> 
+> **Class:** Necromancer / Wizard
+> 
+> **Affiliation:** [[Necromancers]]
+> 
+> **Location:** [[Arcadia]]
+> 
+> **Status:** Alive
 
-**Orris** is [[Lavender]]'s brother and a high-ranking wizard within the [[necromancers]]. His true allegiance is currently ambiguous; while he leads necromantic operations, he has secretly acted to protect Lavender.
+**Orris** is the elder brother of [[Lavender]] and a high-ranking wizard within the necromantic order currently occupying [[Arcadia]].
 
-## Campaign Notes
+## Biography & Personality
+Orris is described as having white-blond hair that flops over his face, a distinctive family trait he shares with his sister. Originally a noble of [[House Locke]], he left the family approximately a year and a half ago. It was later revealed that he was contacted by a mysterious tutor and began training in the dark arts, rising rapidly through the ranks to become a gifted and influential figure within the necromancer hierarchy.
 
-### The Double Agent?
-While Orris is a known leader among the necromancers in [[Arcadia]], his actions suggest a conflicting agenda:
-* **The Meeting:** He met with the party in his lair beneath the [[Mayor's Mansion (Arcadia)]]. Under a *Zone of Truth* (which he resisted/was unaware of), he confessed he missed Lavender and provided her with a **sending stone** to contact him safely in [[Adalens]].
-* **The Grey Pearl:** [[Lavender]] experienced a vision of Orris giving the [[Grey Pearl]] to [[Corbin]], instructing him to give it to her so she could escape via [[Captain Voss]] if she was in danger. In the vision, he appeared conflicted.
-* **The Letters:** He sent [[Encoded Letters|encoded warnings]] (signed O.L.) to an unknown recipient (E.M.) regarding "roots withered" and "grasping hands," suggesting he is aware of a greater threat.
+His personality remains complex; while he serves an order known for its cruelty, his interactions with his sister are marked by genuine affection and a protective instinct. He appears to be maintaining a facade of absolute loyalty to the necromancers while secretly working to ensure the safety of his family, though the true extent of his indoctrination and his ultimate goals remain shrouded in mystery.
 
-### The Ring & Auriel
-Orris previously owned the **[[Ring of Orris]]**. [[Anaphel]] believes that the goddess **[[Auriel]]** has been trapped inside this ring by the necromancers to "tip the scales." It is unclear if Orris knows the ring contains the goddess, or if he gave it to Lavender to keep *Auriel* safe from his own masters.
+## Campaign History
+* **[[Entry 02]] (The Adventuring Brother):** Lavender learns from her former handmaiden, Rowan, that Orris has been traveling and training to become a wizard, frequently writing to his family to quell their worries.
+* **[[Entry 11]] (The Scrying Vision):** While in the fey realm, Temerity uses a scrying pool to search for Orris, receiving vague sensations of cold, white surroundings and intense fatigue.
+* **[[Entry 13]] (The Infiltration Lead):** Lady Bromelia reveals that Orris is in [[Arcadia]] training in necromancy. She suggests his rapid rise in rank and the secretive nature of his peers may be the result of memory modification or a powerful mentor's influence.
+* **[[Entry 16]] (Vision of Death):** Lavender meditates on the [[Ring of Orris]] and sees a haunting vision of her brother using the [spirit of death] to strike down enemies and raise them as undead servants.
+* **[[Entry 17]] (Discovery of the Lair):** The party infiltrates the [[Mayor's Mansion (Arcadia)|Mayor's Mansion]] and discovers a secret underground cavern. A skeletal scribe informs Lavender that Orris is the master of the facility, though he is not currently taking visitors.
+* **[[Entry 18]] (The Parley in Arcadia):** Orris meets with the party in his office. He admits to hiring [[Gage]] to track Lavender to keep her safe. He telepathically informs Lavender that they are being watched and cannot speak freely, gifting her a [[sending stone]] to facilitate a later meeting in [[Adalens]].
+* **[[Entry 38]] (The Grey Pearl Vision):** Through a vision granted by a [[Grey Pearl]], the party sees Orris entrusting the artefact to [[Corbin]], urging him to protect Lavender and guide her to safety should she be captured.
 
-## Background
+## Key Relationships
+* **[[Lavender]]:** His younger sister. Orris claims to love her deeply and has gone to great lengths to monitor and protect her from a distance, even while serving her primary adversaries.
+* **[[Gage]]:** Orris previously employed Gage as a mercenary and scout to track Lavender's movements and ensure her safety.
+* **[[Lady Bromelia]]:** A noble acquaintance who is aware of his current position in Arcadia and uses his presence there as a strategic hook for the party.
+* **[[House Locke]]:** His family; Orris maintains correspondence with them, though he has kept the dark nature of his "wizardry" a secret from his parents and younger sisters.
 
-Orris is a member of the noble [[House Locke]]. He left the family about a year ago after being contacted by a tutor.
-
----
-**Related:** [[Lavender]], [[The Displaced]], [[Arcadia]], [[Adalens]], [[Grey Pearl]]
+## Notable Equipment
+* **[[Ring of Orris]]:** A magical silver ring set with three dark gems that grants the ability to cast [spirit of death]. He previously possessed this item, which is currently held by Lavender.
+* **[[Sending Stone]]:** One of a pair used to communicate across great distances; he provided one to Lavender to coordinate their next encounter.
+* **[[Grey Pearl]]:** An item he entrusted to Corbin as a fail-safe to protect Lavender from the necromancers.
