@@ -3,7 +3,7 @@ title: Auriel
 type: deity
 race: Goddess
 domain: Winter / Balance / Beauty
-location: "[[Ring of Orris]] (Theorized)"
+location: "[[Ring of Orris]]"
 affiliation: "[[The Frost]]"
 status: Weakened / Trapped
 tags:

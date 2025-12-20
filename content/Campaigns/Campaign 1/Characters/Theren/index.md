@@ -17,7 +17,7 @@ status: session_active
 
 ## ⚔️ Combat Quick-View
 ![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spells & Pact Magic]]
+![[content/Campaigns/Campaign 1/Characters/Theren/Combat#Spells & Pact Magic]]
 
 ---
 

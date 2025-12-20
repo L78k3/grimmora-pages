@@ -1,52 +1,61 @@
 ---
 title: Korako
 type: npc
-subtype: animal-companion
-location: "[[Temerity]]"
+race: Rabbit (Fey-touched)
+class: Animal Companion
+location: "[[Tidecaller (Ship)]]"
+affiliation: "[[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)|The Menagerie]]"
+status: Alive
 tags:
-  - npc/animal
-  - companion/temerity
-  - visited
+  - npc
+  - major-character
+  - animal
+  - companion
 ---
+
+![[PlaceHolder.webp]]
 
 # Korako
 
-> [!info] Quick Reference
-> **Species:** Rabbit
-> **Companion:** [[Temerity]]
-> **Traits:** Unusually intelligent, telepathic bond with Temerity, beloved by strangers
+> [!info] Character Overview
+> **Race:** Rabbit (Fey-touched)
+> 
+> **Class:** Animal Companion
+> 
+> **Affiliation:** [[Temerity]] / The Menagerie
+> 
+> **Location:** [[Tidecaller (Ship)]]
+> 
+> **Status:** Alive (Immortal)
 
-## Overview
+**Korako** is the unusually intelligent and magical companion of [[Temerity]]. Appearing to be a mundane rabbit at first glance, he shares a telepathic bond with his "father," Temerity, and serves as a vital - and occasionally distracting - member of the party.
 
-Korako is [[Temerity]]'s constant companion, a rabbit who travels with the party, often carried in a backpack or on Temerity's shoulder. While he appears to be a normal rabbit to most, he shares a deep, telepathic bond with Temerity and exhibits intelligence and magical properties that have been noted by [[Theren]].
+## Biography & Personality
+Korako is fiercely devoted to Temerity, whom he identifies as his father. He is known for his extreme loyalty, famously rejecting attempts to find him other "bunny friends" because he is content with their unique bond. Beyond simple companionship, Korako possesses an uncanny "Cute Effect" that borders on the supernatural; strangers, guards, and even hostile creatures are often driven to immediate obsession or distraction upon seeing him.
 
-## Personality & Traits
+He is highly opinionated about his diet and surroundings. While he once suffered from severe colic after being fed [[Dragon Meat]], he has been known to happily consume thistles intended as an insult. Despite his small size, he acts as a stabilizing presence for the party's other animal companions, though he was initially annoyed by the hyperactive nature of the snow fox, [[Aurius]].
 
-* **Devotion:** Korako is fiercely loyal to Temerity, referring to him as "father." When Temerity tried to bond him with others or find him a "bunny friend," Korako rejected the idea, stating he already has Temerity.
-* **Magical Sensitivity:** Korako acts as a magical detector for the party. He has successfully sniffed out:
-    * Magical residue on walls.
-    * The scent of [[Lavender]]'s magic.
-    * The strange "life and death" smell in [[Pinechill]].
-    * A necromantic door on the paddle steamer.
-* **Dietary Quirks:** He happily ate a garnish of thistles that were intended as an insult and suffered severe colic after Temerity fed him [[Dragon Meat]].
-* **The "Cute" Effect:** Korako possesses an uncanny ability to charm strangers instantly. Several NPCs, including an innkeeper in [[Frostpeak Pass]], a guard in [[Avalon]], and the [[Water Genasi Harbourmaster]], have been driven to immediate distraction or obsession upon seeing him, often running off to find their own rabbits or agreeing to favors just to pet him.
+## Campaign History
+* **[[Entry 01]] (Prologue):** Korako used his sensitive nose to sniff out magical residue in a haunted inn room, identifying that the magic "smelled like Lavender."
+* **[[Entry 02]] (The Thistle Garnish):** While in Avalon, Korako showcased his "Cute Effect" on a cynical innkeeper and delighted the party by eating an inedible garnish of thistles.
+* **[[Entry 03]] (The Fey Boon):** During the party's time in the [[fey realm]], [[Summer]] imbued Korako with a blessing that caused him to cease ageing, granting him true immortality.
+* **[[Entry 05]] (Comforting Theren):** In the [[Vampire Mansion]], Korako stayed behind to watch over [[Theren]] while the warlock was distressed, accepting treats and bridging the gap between Theren and Temerity.
+* **[[Entry 08]] (Dragon Meat Colic):** After the battle at the [[Dragon's Nest]], Temerity fed Korako dragon steaks, which caused the rabbit to suffer from severe stomach cramps and shivering.
+* **[[Entry 10]] (The Spider Cave Ritual):** Korako served as a magical conduit for the summoning of [[Chikatika]]. During the ritual, his eyes glowed green as he acted as a vessel for the [[Wild Wanderer]].
+* **[[Entry 11]] (The Flaring Torch):** Korako was temporarily blinded by a magical torch in the spider tunnels, causing him to panic until he was comforted by Temerity and Chikatika.
+* **[[Entry 15]] (The Relaxation Aid):** Temerity used Korako to try and calm [[Lavender]] during a fit of rage in Arcadia, though the rabbit felt unsafe in the proximity of her intense power.
+* **[[Entry 22]] (Emotions of Failure):** Following the party's defeat in the [[Mausoleum (Alpine Forest)]], Korako spoke to Temerity about the sadness he felt from the group and encouraged him to help his companions.
+* **[[Entry 32]] (The Golem Scent):** Korako detected the "bad smell" of necromancy in the [[Bridgeport Warehouse]], successfully alerting the party to the presence of the possessed mason and his statues.
+* **[[Entry 35]] (The Missing Bag):** Using his tracking abilities, Korako located [[Mary-Ann]] Mayfield's missing bag on the paddle steamer by scenting her handkerchief.
 
-## History & Abilities
+## Key Relationships
+* **[[Temerity]]:** His primary bond and "father." They communicate telepathically and are rarely seen apart.
+* **[[Theren]]:** While Korako initially found the warlock "strange," he has grown to enjoy Theren's attention and treats.
+* **[[Chikatika]]:** A maternal figure to Korako; the raccoon frequently pets him to soothe his nerves.
+* **[[Aurius]]:** A snow fox cub whom Korako treats like a hyperactive younger brother.
+* **[[Guido]]:** The party's rat companion, with whom Korako often shares space in Temerity's travel bag.
 
-### Origin
-Temerity claims he simply found Korako in a forest one day. [[Theren]] has examined him and detected magic that is not innate to the rabbit but seems to be a residual effect of [[fey]] influence.
-
-### Fey Blessings
-* **Immortality:** In the [[fey realm]], [[Temerity]] asked [[Summer]] for a boon to turn Korako into a true familiar. While she could not do that, she imbued him with the power to cease aging.
-* **The Menagerie:** Korako is the "leader" of Temerity's small army of animals. He was instrumental in the summoning of [[Chikatika]] during a ritual in the spider cave, where his eyes glowed green and he acted as a conduit for the [[Wild Wanderer]].
-
-### Relationships
-* **[[Temerity]]:** His "father." They are inseparable.
-* **[[Chikatika]]:** The raccoon treats Korako with affection, often stroking him or holding onto him. Korako thinks she is "very cute and fat."
-* **[[Guido]]:** The rat and rabbit are often stored together in Temerity's bag or left to wait outside dangerous locations together.
-* **[[Aurius]]:** The snow fox cub initially annoyed Korako by being hyperactive and calling him "cock-a-doodle-doo," though they play together often.
-* **[[Theren]]:** Korako has expressed that while Theren is "strange," he is a good person, and he enjoyed being petted by him in the [[Vampire Mansion]].
-
----
-
-**Related:** [[Temerity]] • [[Chikatika]] • [[Guido]] • [[Aurius]]
+## Notable Equipment
+* **Magical Senses:** Korako can "scent" magic, allowing him to track magical residues, necromantic signatures, and specific casters.
+* **Fey Blessing:** An immortal boon granted by the Queen of Summer that prevents him from aging.
+* **Custom Winter Coat:** A small coat with a fur ruff crafted by Temerity using offcuts from ice wolf pelts.

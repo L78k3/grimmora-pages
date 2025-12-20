@@ -17,7 +17,7 @@ status: session_active
 
 ## ⚔️ Combat Quick-View
 ![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#The Menagerie (Combat Allies)]]
+![[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)]]
 
 ---
 
