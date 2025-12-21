@@ -22,6 +22,12 @@ cssclasses:
 |    HP     |   AC   |   DC   | Spells (1st) | Inspiration |
 | :-------: | :----: | :----: | :----------: | :---------: |
 | **50/50** | **15** | **13** | [ ] [ ] [ ]  |     [ ]     |
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#ff4d4d', 'pie2': '#cccccc'}}}%%
+pie title HP Remaining (Max 50)
+    "Current HP" : 50
+    "Missing HP" : 0
+```
 
 **Conditions:** None
 **Passive Perception:** 15 | **Investigation:** 14

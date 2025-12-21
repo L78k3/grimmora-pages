@@ -54,9 +54,3 @@ tags:
 | :----------------------------- | :------------ | :-------------------------- |
 | [[Gage's Cloak of the Forest]] | [[Entry 28]]  | Equipped                    |
 | [[Grey Pearl]]                 | [[Entry 38]]  | Key Item (held by Lavender) |
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#ff4d4d', 'pie2': '#cccccc'}}}%%
-pie title HP Remaining (Max 50)
-    "Current HP" : 50
-    "Missing HP" : 0
-```
