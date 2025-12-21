@@ -13,48 +13,50 @@ tags:
 # {{title}}
 
 > [!abstract] Identity Snapshot
-> **Background**: {{background}} | **Identity**: {{pronouns/gender}} 
-> **Current Status**: {{brief_status_from_snapshot}} 
-> **Primary Objective**: {{active_quest_link}}
+> **Background**: {{background}} | **Identity**: {{pronouns}}
+> **Current Status**: {{status_summary}}
+> **Primary Objective**: {{objective}}
 
 ## ⚔️ Tactical Overview
 | HP | AC | Init | Prof | Movement |
 | :--- | :--- | :--- | :--- | :--- |
-| {{hp}} | {{ac}} | {{init}} | {{prof}} | {{speed}} |
+| {{hp_max}} | {{ac}} | {{init}} | {{prof}} | {{speed}} |
 
 ### Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | {{str}} | {{dex}} | {{con}} | {{int}} | {{wis}} | {{cha}} |
 
-### Saving Throws
-| STR | DEX | CON | INT | WIS | CHA |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| {{s_str}} | {{s_dex}} | {{s_con}} | {{s_int}} | {{s_wis}} | {{s_cha}} |
-
 ---
 
 ## 📜 Biography
-{{biography_prose}}
+{{biography_summary}}
 
 ### Notable Exploits (Chronicle Archive)
-* **[[Entry {{last_num}}]]**: {{one_sentence_highlight}}
-* **[[Entry {{prev_num}}]]**: {{one_sentence_highlight}}
+* **[[Entry 38]]**: {{exploit_1}}
+* **[[Entry 33]]**: {{exploit_2}}
 
 ---
 
 ## ✨ Features & Abilities
-| Ability | Source | Description |
-| :--- | :--- | :--- |
-| {{name}} | {{Class/Race/Feat}} | {{mechanical_summary}} |
+> [!multi-column]
+>
+>> [!fortress] Martial Features
+>> * **Assassinate**: Advantage on those who haven't acted.
+>> * **Dread Ambusher**: +Init, +Speed, and extra attack turn 1.
+>
+>> [!magic] Spellcasting
+>> * **Hunter's Mark**: +1d6 damage to target.
+>> * **Disguise Self**: 1 hour appearance change.
 
 ## 🎒 Inventory
-| Item | Acquired From | Status |
-| :--- | :--- | :--- |
-| [[{{item_name}}]] | [[Entry {{num}}]] | {{equipped/stashed}} |
-
----
-
-## 🎭 Relationships
-* **[[NPC Name]]**: {{brief_dynamic_summary}}
-* **[[Party Member]]**: {{brief_dynamic_summary}}
+| Item                           | Acquired From | Status                      |
+| :----------------------------- | :------------ | :-------------------------- |
+| [[Gage's Cloak of the Forest]] | [[Entry 28]]  | Equipped                    |
+| [[Grey Pearl]]                 | [[Entry 38]]  | Key Item (held by Lavender) |
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#ff4d4d', 'pie2': '#cccccc'}}}%%
+pie title HP Remaining (Max 50)
+    "Current HP" : 50
+    "Missing HP" : 0
+```
