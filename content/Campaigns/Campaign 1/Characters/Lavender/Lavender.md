@@ -92,6 +92,6 @@ Currently, she is plagued by guilt over her brother's fall and the burden of car
 * **[[Grey Pearl]]:** A magical communication item delivered by [[Corbin]], containing a warning message from Orris.
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Lavender/Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Session Dashboard]]
 * [[Inventory|🎒 Inventory]]

@@ -1,16 +1,10 @@
 ---
-title: Gage Dashboard
+title: Gage Greengather (Dashboard)
 type: dashboard
 status: active
-tags:
-  - pc
-  - rogue
-  - ranger
-cssclasses:
-  - dashboard
+tags: [pc, rogue, ranger]
+cssclasses: [dashboard]
 ---
-
-
 
 # ⚔️ Gage Greengather
 
@@ -18,40 +12,32 @@ cssclasses:
 > "How did you guys learn to climb these things?!"
 > **Goal:** Sail to [[Adalens]] with the rest of the party.
 
-## 📊 Vitals (Live)
-|    HP     |   AC   |   DC   | Spells (1st) | Inspiration |
-| :-------: | :----: | :----: | :----------: | :---------: |
-| **50/50** | **15** | **13** | [ ] [ ] [ ]  |     [ ]     |
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#ff4d4d', 'pie2': '#cccccc'}}}%%
-pie title HP Remaining (Max 50)
-    "Current HP" : 50
-    "Missing HP" : 0
-```
+> [!info] Vitals & Resources
+> **HP:** 50/50 | **AC:** 15 | **DC:** 13
+> **Speed:** 25 ft | **Init:** `dice: 1d20+4`
+> **Passives:** Perception: 15 | Investigation: 14
+> - [ ] **Inspiration**
+> - **1st Level Slots:**
+> 	- [ ] Slot 1
+> 	- [ ] Slot 2
+> 	- [ ] Slot 3
 
-**Conditions:** None
-**Passive Perception:** 15 | **Investigation:** 14
+---
 
-> [!abstract] Current Status
-> **HP:** 50 / 50
-> **Slots:** 1st: 3/3
-> **Conditions:** None
-> **Location:** [[Onasea]]
+## 📜 Attributes & Skills
+![[Gage Skills]]
 
 ---
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#The "Nova" Turn (First Round)]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Class Features & Feats]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spellcasting (Ranger)]]
+![[Gage Combat]]
 
 ---
-![[Character Sheet Details]]
 
-## 🎒 Inventory & Loot
+## 🎒 Inventory Summary
 * **Potions:** 0
 * **Key Item:** The [[Grey Pearl]] (Currently with [[Lavender]])
+* [[Gage Inventory|📂 View Full Equipment List]]
 
 ---
 ## Roleplay Cues
@@ -61,6 +47,5 @@ pie title HP Remaining (Max 50)
 
 ---
 ## 📂 Modules
-* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Full Combat Sheet]]
+* [[Gage Combat|⚔️ Full Combat Sheet]]
 * [[Gage|📜 Biography & Lore]]
-* [[Journal|📓 Personal Journal]]

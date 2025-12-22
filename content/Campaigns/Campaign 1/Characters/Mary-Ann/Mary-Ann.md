@@ -53,5 +53,5 @@ During the journey to [[Onasea]], the party was ambushed by bandits led by **[[G
 * **Shortbow:** Her primary ranged weapon.
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Mary-Ann/Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Mary-Ann/index|🛡️ Session Dashboard]]

@@ -72,7 +72,7 @@ _Roll `1d20` + modifier to hit. Roll dice + modifier for damage._
 
 ---
 
-[[Character Sheet Details]]
+[[Gage Skills]]
 
 ### Features & Traits
 **Racial (Rock Gnome):** Darkvision 60ft, Gnome Cunning (Adv on Int/Wis/Cha saves vs magic), Artificer's Lore, Tinker.

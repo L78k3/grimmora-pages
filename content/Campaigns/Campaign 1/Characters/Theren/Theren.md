@@ -77,5 +77,5 @@ Through research and meditation, Theren has learned significant details about hi
 * **[[Wand of Strange Glyphs]]:** A non-offensive wand found inside a statue in the [[Bridgeport Warehouse]].
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Theren/Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Theren/index|🛡️ Session Dashboard]]

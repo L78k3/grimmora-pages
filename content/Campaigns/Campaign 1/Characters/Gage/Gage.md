@@ -68,5 +68,5 @@ As he aged, the glint of gold faded. He began to see cracks in the system - miss
 * **Kettle:** Stolen from the [[Bandit Lake House]].
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[Gage Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Gage/index|🛡️ Session Dashboard]]

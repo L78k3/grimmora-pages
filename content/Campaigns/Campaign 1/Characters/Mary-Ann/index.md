@@ -16,8 +16,8 @@ status: session_active
 > **Location:** [[Onasea]]
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
+![[Gage Combat#Vital Statistics]]
+![[Gage Combat#Active Loadout]]
 
 ---
 
@@ -30,4 +30,4 @@ status: session_active
 
 ## Modules
 * [[Mary-Ann|📜 Full Bio Page]]
-* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]
+* [[Gage Combat|⚔️ Combat Profile]]

@@ -16,7 +16,7 @@ status: session_active
 > **Location:** [[Onasea]]
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
+![[Gage Combat#Vital Statistics]]
 ![[content/Campaigns/Campaign 1/Characters/Temerity/Combat#The Menagerie (Combat Allies)]]
 
 ---
@@ -30,4 +30,4 @@ status: session_active
 
 ## Modules
 * [[Temerity|📜 Full Bio Page]]
-* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]
+* [[Gage Combat|⚔️ Combat Profile]]

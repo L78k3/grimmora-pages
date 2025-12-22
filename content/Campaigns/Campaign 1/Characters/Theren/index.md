@@ -16,7 +16,7 @@ status: session_active
 > **Location:** [[Onasea]]
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Vital Statistics]]
+![[Gage Combat#Vital Statistics]]
 ![[content/Campaigns/Campaign 1/Characters/Theren/Combat#Spells & Pact Magic]]
 
 ---
@@ -30,4 +30,4 @@ status: session_active
 
 ## Modules
 * [[Theren|📜 Full Bio Page]]
-* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Combat Profile]]
+* [[Gage Combat|⚔️ Combat Profile]]

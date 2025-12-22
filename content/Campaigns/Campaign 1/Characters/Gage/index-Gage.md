@@ -35,13 +35,13 @@ cssclasses:
 ---
 
 ## ⚔️ Combat Quick-View
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Active Loadout]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#The "Nova" Turn (First Round)]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Class Features & Feats]]
-![[content/Campaigns/Campaign 1/Characters/Gage/Combat#Spellcasting (Ranger)]]
+![[Gage Combat#Active Loadout]]
+![[Gage Combat#The "Nova" Turn (First Round)]]
+![[Gage Combat#Class Features & Feats]]
+![[Gage Combat#Spellcasting (Ranger)]]
 
 ---
-![[Character Sheet Details]]
+![[Gage Skills]]
 
 ## 🎒 Inventory & Loot
 * **Potions:** 0
@@ -55,6 +55,6 @@ cssclasses:
 
 ---
 ## 📂 Modules
-* [[content/Campaigns/Campaign 1/Characters/Gage/Combat|⚔️ Full Combat Sheet]]
+* [[Gage Combat|⚔️ Full Combat Sheet]]
 * [[Gage|📜 Biography & Lore]]
 * [[Journal|📓 Personal Journal]]

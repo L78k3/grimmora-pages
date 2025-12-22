@@ -102,5 +102,5 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 * **[[Pulverised Gem Dust]]:** He carries a small box of gem dust looted from the [[Bridgeport Warehouse]].
 
 ## Modules
-* [[Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 1/Characters/Temerity/Combat|⚔️ Combat Profile]]
 * [[content/Campaigns/Campaign 1/Characters/Temerity/index|🛡️ Session Dashboard]]
