@@ -18,7 +18,7 @@ cssclasses: [dashboard]
 > **Passives:** Perception: 15 | Investigation: 14
 > - [ ] **Inspiration**
 > - **1st Level Slots:**
-> 	- [ ] Slot 1
+> 	- [x] Slot 1
 > 	- [ ] Slot 2
 > 	- [ ] Slot 3
 
