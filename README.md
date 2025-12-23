@@ -25,9 +25,9 @@ This project uses **Quartz 4.0** to transform Obsidian markdown files into a sea
 
 ## 🛠️ Technical Details
 This vault is optimized for **Obsidian** and published via **Quartz**.
-* **Perspective:** Player-facing (specifically from the viewpoint of Gage Greengather).
+* **Perspective:** Player-facing.
 * **Language:** British English.
 * **Automation:** The root directory includes `generatePages.py`, a utility script for processing raw session notes into structured wiki updates using a custom architect pipeline.
 
 ---
-*For setup instructions and contribution guidelines, see the contributing documentation in the system folder.*
+*For setup instructions and contribution guidelines, see the [[CONTRIBUTING|contributing documentation]] in the system folder.*
