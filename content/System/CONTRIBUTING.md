@@ -18,7 +18,7 @@ You need the Git engine and the GitHub CLI (Command Line Interface) to link your
   ```
   winget install --id GitHub.cli
   ```
-* **Restart your PowerShell window** after the installation is complete.
+* **Restart your Terminal window, still as admin** after the installation is complete.
 
 ---
 
