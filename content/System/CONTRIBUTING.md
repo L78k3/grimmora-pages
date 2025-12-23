@@ -24,7 +24,10 @@ You need the Git engine and the GitHub CLI (Command Line Interface) to link your
 ## 2. Authenticate with GitHub
 This connects your PC to your GitHub account so you have permission to edit the files.
 
-1.  **Run this command:** `gh auth login`
+1.  **Run this command:** 
+   ```
+   gh auth login
+   ```
 2.  **Follow the prompts:**
     * **Where?** GitHub.com
     * **Protocol?** SSH
