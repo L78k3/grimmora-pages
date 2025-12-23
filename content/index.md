@@ -13,14 +13,14 @@ date: 2025-01-01
 
 ## 👥 The Party
 
-| Character | Cockpit | Player | Class | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **[[Gage]]** | [[Campaigns/Campaign 1/Characters/Gage/index|🛡️ Open]] | Luke | Rogue / Ranger | *The Greenblade* |
-| **[[Lavender]]** | [[Campaigns/Campaign 1/Characters/Lavender/index|🛡️ Open]] | Kit | Barb / Paladin | Attuned to the Ring |
-| **[[Temerity]]** | [[Campaigns/Campaign 1/Characters/Temerity/index|🛡️ Open]] | Paul | Bard | Cursed by Choker |
-| **[[Theren]]** | [[Campaigns/Campaign 1/Characters/Theren/index|🛡️ Open]] | Tony | Warlock | Haunted by Patron |
-| **[[Mary-Ann]]** | [[Campaigns/Campaign 1/Characters/Mary-Ann/index|🛡️ Open]] | Suzanne | Rogue | Travelling to Adalens |
-| **[[Anaphel]]** | -- | -- | Celestial | Cut off from Auriel |
+| Character        | Cockpit                                          | Player     | Class     | Status              |                       |
+| :--------------- | :----------------------------------------------- | :--------- | :-------- | :------------------ | --------------------- |
+| **[[Gage]]**     | [[Campaigns/Campaign 1/Characters/Gage/index     | 🛡️ Open]] | Luke      | Rogue / Ranger      | *The Greenblade*      |
+| **[[Lavender]]** | [[Campaigns/Campaign 1/Characters/Lavender/index | 🛡️ Open]] | Kit       | Barb / Paladin      | Attuned to the Ring   |
+| **[[Temerity]]** | [[Campaigns/Campaign 1/Characters/Temerity/index | 🛡️ Open]] | Paul      | Bard                | Cursed by Choker      |
+| **[[Theren]]**   | [[Campaigns/Campaign 1/Characters/Theren/index   | 🛡️ Open]] | Tony      | Warlock             | Haunted by Patron     |
+| **[[Mary-Ann]]** | [[Campaigns/Campaign 1/Characters/Mary-Ann/index | 🛡️ Open]] | Suzanne   | Rogue               | Travelling to Adalens |
+| **[[Anaphel]]**  | --                                               | --         | Celestial | Cut off from Auriel |                       |
 
 **Companions & Familiars**
 [[Runcible]] • [[Korako]] • [[Chikatika]] • [[Aurius]] • [[Guido]]
