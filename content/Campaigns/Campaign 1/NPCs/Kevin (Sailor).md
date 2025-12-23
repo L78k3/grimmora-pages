@@ -2,25 +2,39 @@
 title: Kevin (Sailor)
 type: npc
 race: Dwarf
+class: Sailor
 location: "[[Paddle Steamer]]"
+affiliation: "Independent"
+status: Alive
 tags:
   - npc
   - sailor
+  - minor-character
 ---
+
+![[PlaceHolder.webp]]
 
 # Kevin (Sailor)
 
-> [!info] Status: Alive
-> **Encountered:** [[Entry 33]]
-> **Role:** Sailor on the [[Paddle Steamer]]
+> [!info] Quick Info
+> **Race:** Dwarf
+> **Role:** Sailor
+> **Affiliation:** Independent
+> **Location:** [[Paddle Steamer]]
+> **Status:** Alive
 
-**Kevin** is a dwarf sailor on the [[Paddle Steamer]].
+**Kevin** is a dwarven sailor serving aboard the [[Paddle Steamer]]. He is a practical and observant crew member who maintains shipboard order with a no-nonsense attitude. He is notably distinct from the inexperienced guard of the same name encountered in [[Avalon]].
 
-## Interactions
+## Biography & Personality
+Kevin is an experienced mariner with the authority to manage the ship's brig and delegate tasks to larger crew members. While he is initially suspicious of magical disruptions, he demonstrates fair judgment once a situation is clarified. He was responsible for the brief imprisonment of [[Temerity]] after discovering the bard polymorphed into a "massive demonic rabbit," which Kevin deemed a risk to ship safety. After releasing the bard with a stern warning, he remained vigilant, continuing his search for the "demon rabbit" even after the initial misunderstanding was resolved.
 
-He discovered [[Temerity]] in rabbit form and ordered [[Grash]] to take him to the brig. Later, when Temerity revealed his true form, Kevin realized the trick. He released Temerity but warned him never to do it again while on board.
+## Campaign History
+* **[[Entry 33]] (The Demon Rabbit):** Discovered [[Temerity]] in the form of a giant rabbit and ordered [[Grash]] to carry the creature to the brig. After Grash sought permission to release the prisoner, Kevin interviewed the tiefling, eventually releasing him with a stern warning against further magical antics while on board.
+* **[[Entry 34]] (The Continued Search):** Remained on high alert as the ship continued its voyage. His persistent search for the "demon rabbit" forced Temerity to remain hidden in his cabin to avoid being recognized and potentially re-imprisoned.
 
-*(Note: Not to be confused with [[Kevin]], the city guard in [[Avalon]].)*
+## Key Relationships
+* **[[Grash]]:** A hulking orc sailor who follows Kevin's direct orders regarding ship security.
+* **[[Temerity]]:** A source of significant irritation and suspicion; Kevin's continued vigilance kept the bard confined to his quarters during the later half of the voyage.
 
----
-**Related:** [[Paddle Steamer]], [[Grash]], [[Entry 33]]
+## Notable Equipment
+* **Brig Keys:** Used to manage the holding cells in the lower decks of the ship.
