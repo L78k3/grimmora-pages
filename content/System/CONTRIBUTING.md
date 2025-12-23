@@ -1,4 +1,4 @@
-# ⚔️ Grimmora Vault: Friend's Setup Guide
+# ⚔️ Grimmora Vault: Setup Guide
 
 Follow these steps to get access to the shared D&D vault and ensure your notes sync correctly without errors.
 
