@@ -30,4 +30,4 @@ This vault is optimized for **Obsidian** and published via **Quartz**.
 * **Automation:** The root directory includes `generatePages.py`, a utility script for processing raw session notes into structured wiki updates using a custom architect pipeline.
 
 ---
-*For setup instructions and contribution guidelines, see the [[CONTRIBUTING|contributing documentation]] in the system folder.*
+*For setup instructions and contribution guidelines, see the [[content/System/CONTRIBUTING|contributing documentation]] in the system folder.*
