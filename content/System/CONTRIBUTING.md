@@ -52,7 +52,7 @@ git config --global user.email "your-github-email@example.com"
 ## 4. Download (Clone) the Vault
 We need to disable a specific Windows setting to avoid "Ghost File" errors during the download.
 
-### Navigate to your Documents folder
+### Navigate to your Documents folder (or where you want to )
 ```
 cd ~\Documents
 ```
