@@ -31,7 +31,7 @@ Located in the southern portion of the [[Avalonean Empire]], Durvish City serves
 - [[temple]] - The location where [[Lady Bromelia]]'s wedding was taking place when she was kidnapped
 
 ### Magical Facilities
-- [[mage's tower]] - Home to [[Ismay]], who helped us remove a [[confoundment spell]] from a guard
+- [[Mage's Tower (Durvish City)]] - Home to [[Ismay]], who helped us remove a [[confoundment spell]] from a guard
 
 ### Lodging
 - Modest inn - Frequented by travelers, where we likely stayed
@@ -67,12 +67,12 @@ As a major city, Durvish City offers:
 
 This is where it all began. We were in Durvish City when [[Lady Bromelia]] was kidnapped from her wedding at the [[temple]]. This event set us on our journey and has shaped much of what followed.
 
-We returned to the [[mage's tower]] to seek help from [[Ismay]] in removing a [[confoundment spell]] from a guard, showing the city's magical resources.
+We returned to the [[Mage's Tower (Durvish City)]] to seek help from [[Ismay]] in removing a [[confoundment spell]] from a guard, showing the city's magical resources.
 
 ---
 
 **Region:** [[Avalonean Empire]]
 
-**Related Locations:** [[Avalon]] • [[temple]] • [[mage's tower]]
+**Related Locations:** [[Avalon]] • [[temple]] • [[Mage's Tower (Durvish City)]]
 
 **Related Quests:** Search for [[Lady Bromelia]]

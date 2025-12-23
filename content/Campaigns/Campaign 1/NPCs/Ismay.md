@@ -1,1 +1,1 @@
-A short, plump, scatty, and gregarious mage from the [[mage's tower]] who helped the party by removing a [[confoundment spell]] from a guard.
+A short, plump, scatty, and gregarious mage from the [[Mage's Tower (Durvish City)]] who helped the party by removing a [[confoundment spell]] from a guard.
