@@ -8,6 +8,7 @@ Follow these steps to get access to the shared D&D vault and ensure your notes s
 You need the Git engine and the GitHub CLI (Command Line Interface) to link your computer to the vault.
 
 * **Open Terminal (Admin)** by right-clicking the start menu.
+  
   ![[Pasted image 20251223084750.png]]
 * **Run this command:** 
   ```
