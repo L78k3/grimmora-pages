@@ -51,17 +51,17 @@ git config --global user.email "your-github-email@example.com"
 ## 4. Download (Clone) the Vault
 We need to disable a specific Windows setting to avoid "Ghost File" errors during the download.
 
-# Navigate to your Documents folder
+### Navigate to your Documents folder
 ```
 cd ~\Documents
 ```
 
-# Disable NTFS protection to handle Linux-style filenames
+### Disable NTFS protection to handle Linux-style filenames
 ```
 git config --global core.protectNTFS false
 ```
 
-# Download the specific v4 branch of the vault
+### Download the specific v4 branch of the vault
 ```
 gh repo clone L78k3/grimmora-pages -- --branch v4
 ```
