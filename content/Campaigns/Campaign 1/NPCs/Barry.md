@@ -1,4 +1,5 @@
 ---
+status: Alive
 title: Barry
 type: npc
 race: Gnome
@@ -9,6 +10,7 @@ tags:
   - druid
   - ally
 ---
+status: Alive
 
 # Barry
 
@@ -31,4 +33,5 @@ Despite his fluffy appearance as a rabbit, he possesses an incredibly deep voice
 He was impressed by [[Temerity]]'s "fancy" appearance and the magical nature of [[Korako]]. He later informed [[Lavender]] that "any friend of [[Halsen]]'s is a friend of the grove".
 
 ---
+status: Alive
 **Related:** [[Silvanus' Beard]], [[Muriel]], [[Temerity]], [[Entry 31]]

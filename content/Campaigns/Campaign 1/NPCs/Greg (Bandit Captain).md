@@ -1,4 +1,6 @@
 ---
+status: Deceased
+location: "[[Onasea]]"
 title: Greg (Bandit Captain)
 type: npc
 race: Human
@@ -8,6 +10,7 @@ tags:
   - antagonist
   - deceased
 ---
+
 
 # Greg
 
@@ -29,4 +32,6 @@ After being defeated and captured, Greg was interrogated by the party under a *z
 Since [[Mary-Ann]] was the specific target of the assassination attempt, the party allowed her to decide his fate. She stabbed him in the stomach with her knitting needles and left him to bleed to death.
 
 ---
+status: Deceased
+location: "[[Onasea]]"
 **Related:** [[Mary-Ann]], [[Bandit Lake House]], [[Entry 37]]

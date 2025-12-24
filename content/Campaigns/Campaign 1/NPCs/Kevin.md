@@ -1,4 +1,6 @@
 ---
+status: Alive
+location: "[[Avalon]]"
 title: Kevin
 type: npc
 race: Human
@@ -7,6 +9,8 @@ tags:
   - npc
   - guard
 ---
+status: Alive
+location: "[[Avalon]]"
 
 # Kevin
 
@@ -25,4 +29,6 @@ He confessed to [[Lavender]] that when he arrived for his shift, the previous gu
 [[Gage]] offered him life advice, suggesting he ignore his mother and find what he is good at.
 
 ---
+status: Alive
+location: "[[Avalon]]"
 **Related:** [[Avalon]], [[The Slippery Ostrich]], [[Entry 30]]

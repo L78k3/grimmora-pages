@@ -1,4 +1,5 @@
 ---
+affiliation: Independent
 title: Ice Dragon
 type: creature
 race: White Dragon
@@ -9,6 +10,7 @@ tags:
   - boss
   - major-character
 ---
+affiliation: Independent
 
 ![[PlaceHolder.webp]]
 

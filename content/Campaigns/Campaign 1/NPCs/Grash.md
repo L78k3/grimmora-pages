@@ -1,4 +1,6 @@
 ---
+affiliation: Independent
+status: Alive
 title: Grash
 type: npc
 race: Orc
@@ -7,6 +9,8 @@ tags:
   - npc
   - sailor
 ---
+affiliation: Independent
+status: Alive
 
 # Grash
 
@@ -23,4 +27,6 @@ When [[Temerity]] polymorphed into a "massive demonic rabbit," Grash was ordered
 When he later returned to the brig and found the rabbit missing (because Temerity dropped the form), Grash was described as "devastated".
 
 ---
+affiliation: Independent
+status: Alive
 **Related:** [[Paddle Steamer]], [[Kevin (Sailor)]], [[Temerity]], [[Entry 33]]

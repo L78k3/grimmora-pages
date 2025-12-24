@@ -1,4 +1,5 @@
 ---
+status: Alive
 title: Elven Wizard
 type: npc
 race: Elf
@@ -8,6 +9,7 @@ tags:
   - npc
   - ally
 ---
+status: Alive
 
 # Elven Wizard
 
@@ -41,4 +43,5 @@ At [[Lavender]]'s request, the wizard facilitated a combat training session for 
 * **Summoning:** He is capable of summoning and controlling multiple elementals simultaneously.
 
 ---
+status: Alive
 **Related:** [[The Displaced]], [[Theren]], [[Entry 11]], [[Entry 12]]

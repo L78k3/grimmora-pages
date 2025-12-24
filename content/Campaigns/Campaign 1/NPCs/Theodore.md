@@ -1,4 +1,7 @@
 ---
+race: Unknown
+status: Alive
+affiliation: Independent
 title: Theodore
 type: npc
 location: "[[Adalens]]"
@@ -7,6 +10,9 @@ tags:
   - scholar
   - unvisited
 ---
+race: Unknown
+status: Alive
+affiliation: Independent
 
 # Theodore
 
@@ -23,4 +29,7 @@ We learned of Theodore from a severe-looking bookseller in [[Midward]]. When [[T
 He represents a potential lead for Theren in his search for answers regarding his patron.
 
 ---
+race: Unknown
+status: Alive
+affiliation: Independent
 **Related:** [[Adalens]], [[Theren]], [[Entry 22]]

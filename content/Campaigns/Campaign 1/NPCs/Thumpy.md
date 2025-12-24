@@ -1,4 +1,6 @@
 ---
+affiliation: Independent
+status: Alive
 title: Thumpy
 type: npc
 race: Harengon
@@ -8,6 +10,8 @@ tags:
   - fey
   - ally
 ---
+affiliation: Independent
+status: Alive
 
 # Thumpy
 
@@ -24,4 +28,6 @@ We first saw him near the staff seller's stall. He looked at us, shook his head,
 Later, unbeknownst to us at the time, he followed the party through the daisy portal into the [[Fairy Garden (Durendal)]].
 
 ---
+affiliation: Independent
+status: Alive
 **Related:** [[Durendal]], [[Entry 26]]

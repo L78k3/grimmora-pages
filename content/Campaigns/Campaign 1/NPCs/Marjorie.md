@@ -1,4 +1,5 @@
 ---
+status: Alive
 title: Marjorie
 type: npc
 race: Gnome
@@ -8,6 +9,7 @@ tags:
   - npc
   - ally
 ---
+status: Alive
 
 # Marjorie
 
@@ -37,4 +39,5 @@ Marjorie interrupted [[Theren]] while he was reading to clean his room. They dis
 * She reminded him that "no decision is fixed in stone," helping him realize he could change his mind about leaving his companions.
 
 ---
+status: Alive
 **Related:** [[Temerity]], [[Theren]], [[Displaced Camp]], [[Entry 14]]

@@ -1,4 +1,5 @@
 ---
+affiliation: Independent
 title: Merisa
 type: npc
 race: Human
@@ -9,6 +10,7 @@ tags:
   - victim
   - quest-target
 ---
+affiliation: Independent
 
 # Merisa
 
@@ -25,4 +27,5 @@ Her mother was found crying outside a tavern, clutching [[Merisa]]'s cloak. [[Ru
 We have entered the [[Fairy Garden (Durendal)]] to retrieve her.
 
 ---
+affiliation: Independent
 **Related:** [[Durendal]], [[Fairy Garden (Durendal)]], [[Entry 26]]

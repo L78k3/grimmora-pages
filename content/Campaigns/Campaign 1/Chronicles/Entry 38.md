@@ -41,7 +41,7 @@ Their air is starting to run out and they begin to struggle. A massive necrotic 
 
 Meanwhile, back at the tavern, Theren has been supping gin to calm his nerves and is now quite drunk. Most people have left the tavern but a couple of barflies remain. [[Chikatika]] keeps sniffing around and chuntering. Temerity is now serenading his menagerie: [[Aurius]] watches intently with glistening eyes; [[Korako]] leans up against him happily; [[Guido]] is alternately snoring and sipping from his acorn cup.
 
-The barkeep asks if they will be getting rooms. Theren doesn’t notice the barkeep, while Temerity simply ignores him. Temerity tells Aurius to go and speak to the barkeep. Aurius goes and screeches at the barkeep enthusiastically. The barkeep shouts at Temerity to sort his mutt out. Temerity is unimpressed with the barkeep.
+The [[Barkeep (Onasea)|barkeep]] asks if they will be getting rooms. Theren doesn’t notice the barkeep, while Temerity simply ignores him. Temerity tells Aurius to go and speak to the barkeep. Aurius goes and screeches at the barkeep enthusiastically. The barkeep shouts at Temerity to sort his mutt out. Temerity is unimpressed with the barkeep.
 
 The barkeep demands that Temerity and Theren get rooms or leave. Temerity orders a room for Theren and decides to wander off in search of his companions. The barkeep leads a drunk Theren up to his room, as Theren protests that he doesn’t like Temerity.
 

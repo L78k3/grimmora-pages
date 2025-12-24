@@ -1,4 +1,5 @@
 ---
+status: Alive
 title: Drolass
 type: npc
 race: Half-Goliath
@@ -9,6 +10,7 @@ tags:
   - merchant
   - mentioned
 ---
+status: Alive
 
 # Drolass
 
@@ -22,4 +24,5 @@ tags:
 According to [[Mary-Ann]], he is "new money" and enjoys flaunting his wealth, which is reflected in the gold leaf and stained glass décor of his tavern.
 
 ---
+status: Alive
 **Related:** [[The Gilded Swan]], [[Durvish City]], [[Entry 35]]

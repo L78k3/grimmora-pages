@@ -1,4 +1,7 @@
 ---
+race: Unknown
+status: Unknown
+affiliation: Unknown
 title: Elara
 type: npc
 location: "[[Durvish City]]"
@@ -7,6 +10,9 @@ tags:
   - mentioned
   - mysterious
 ---
+race: Unknown
+status: Unknown
+affiliation: Unknown
 
 # Elara
 
@@ -26,4 +32,7 @@ In Loraleia's mind, the name "Elara" was associated with:
 It is currently unclear if Elara is a contact, a target, or a threat.
 
 ---
+race: Unknown
+status: Unknown
+affiliation: Unknown
 **Related:** [[Loraleia]], [[Durvish City]], [[Entry 34]]

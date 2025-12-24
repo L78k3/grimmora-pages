@@ -1,13 +1,17 @@
 ---
+affiliation: Independent
+race: Unknown
 title: Barkeep (Onasea)
 type: npc
-location: [[Onasea]]
+location: "[[Onasea]]"
 faction: Unknown
 status: Alive
 tags:
   - npc
   - merchant
 ---
+affiliation: Independent
+race: Unknown
 
 # Barkeep (Onasea)
 
@@ -32,4 +36,6 @@ Unknown.
 * **[[Entry 38]]:** Encountered by the party while they were regrouping. Demanded they pay for rooms.
 
 ---
+affiliation: Independent
+race: Unknown
 **Current Location:** [[Onasea]]

@@ -1,4 +1,6 @@
 ---
+status: Alive
+race: Human
 title: Priest of Sol (Avalon)
 type: npc
 location: "[[Temple of Sol]]"
@@ -9,6 +11,8 @@ tags:
   - npc
   - ally
 ---
+status: Alive
+race: Human
 
 # Priest of Sol (Avalon)
 
@@ -29,4 +33,6 @@ He allied himself with the party's goal to take down the necromancers and dismis
 * **Healing/Blessing:** He identified that [[Theren]]'s headaches were caused by a "fey enchantment." While he stated only a fey could break it, he was able to offer a blessing that mitigated the effects.
 
 ---
+status: Alive
+race: Human
 **Related:** [[Temple of Sol]], [[necromancers]], [[Entry 28]]
