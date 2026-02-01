@@ -3,9 +3,9 @@ affiliation: Independent
 type: npc
 tags: npc
 status: Alive
-location: Cella's House (Mightrest)
+location: "[[Cella's House (Mightrest)]]"
 title: Cella
-race: Unknown
+race: Humanoid
 ---
 
 ### Cella

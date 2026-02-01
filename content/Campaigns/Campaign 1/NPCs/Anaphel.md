@@ -27,6 +27,8 @@ tags:
 > **Location:** [[Tidecaller (Ship)]]
 > 
 > **Status:** Alive
+> 
+>**Condition:** Connection to Auriel severed (Despondent)
 
 **Anaphel** is a celestial being and offspring of the goddess [[Auriel]], sent to the mortal realm three centuries ago as a missionary, who currently travels with the party to investigate necromantic threats against their mother's domain.
 

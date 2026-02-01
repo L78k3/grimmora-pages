@@ -1,10 +1,10 @@
 ---
-affiliation: Independent
+title: Grand Cleric
 type: npc
 tags: npc
 status: Alive
 location: "[[Durvish City]]"
-title: Grand Cleric
+affiliation: Independent
 race: Unknown
 ---
 

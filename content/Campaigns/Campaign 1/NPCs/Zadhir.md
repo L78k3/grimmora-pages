@@ -3,7 +3,7 @@ title: Zadhir
 type: npc
 race: Human
 class: Shadow Boss / Spellcaster
-location: "[[Adalens]]"
+location: "[[Midward]]"
 affiliation: "[[Jade Zephyr Casino]]"
 status: Alive
 tags:
@@ -23,7 +23,7 @@ tags:
 > 
 > **Affiliation:** [[Jade Zephyr Casino]] / Shady Syndicate
 > 
-> **Location:** [[Adalens]] (Presumed)
+> **Location:** [[Midward]]
 > 
 > **Status:** Alive
 

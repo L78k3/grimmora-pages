@@ -1,0 +1,72 @@
+{
+  "critical_fixes": [
+    {
+      "file_path": "NPCs/Hag.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter. Template requires these for type: npc.",
+      "suggested_fix": "Update frontmatter: race: Fey, status: Alive, location: [[fey realm]], affiliation: Independent"
+    },
+    {
+      "file_path": "NPCs/Gnome Cook.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter tags/keys.",
+      "suggested_fix": "Update frontmatter: type: npc, race: Gnome, status: Alive, location: [[Mightrest]], affiliation: [[The Snoring Jackal]]"
+    },
+    {
+      "file_path": "NPCs/Gorg.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter.",
+      "suggested_fix": "Update frontmatter: type: npc, race: Half-orc, status: Alive, location: [[Mightrest]], affiliation: [[The Snoring Jackal]]"
+    },
+    {
+      "file_path": "NPCs/Grand Cleric.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter.",
+      "suggested_fix": "Update frontmatter: type: npc, race: Humanoid, status: Alive, location: [[Durvish City]], affiliation: [[Durvish City Temple]]"
+    },
+    {
+      "file_path": "NPCs/Winter.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter.",
+      "suggested_fix": "Update frontmatter: type: npc, race: Eladrin, status: Alive, location: [[fey realm]], affiliation: [[Court of Summer and Winter]]"
+    },
+    {
+      "file_path": "NPCs/Summer.md",
+      "issue": "Missing Required Schema Fields",
+      "details": "Missing 'status', 'location', 'affiliation', and 'race' in frontmatter.",
+      "suggested_fix": "Update frontmatter: type: npc, race: Eladrin, status: Alive, location: [[fey realm]], affiliation: [[Court of Summer and Winter]]"
+    }
+  ],
+  "content_gaps": [
+    {
+      "file_path": "NPCs/Anaphel.md",
+      "issue": "Status Inconsistency",
+      "details": "Frontmatter status is 'Alive', but latest chronicle Entry 39 shows they have lost their divine connection and are despondent. Snapshots show a 'Weakened / Trapped' status for their parent deity Auriel.",
+      "suggested_fix": "Update status to 'Alive (Disconnected)' or add condition: Connection to Auriel Severed."
+    },
+    {
+      "file_path": "NPCs/Orris.md",
+      "issue": "Missing History",
+      "details": "Mentioned in Entry 38 (Entrusting the Grey Pearl to Corbin) and Entry 39 (Favor owed by Voss), but these specific exploits are not in the Campaign History section.",
+      "suggested_fix": "Add entries for Entry 38 and 39 regarding the Grey Pearl fail-safe and alliance with Captain Voss."
+    },
+    {
+      "file_path": "Characters/Lavender/Lavender.md",
+      "issue": "Missing History",
+      "details": "Mentioned in Entry 39 (Boarding the Tidecaller and Moon Grace ritual) but missing from Campaign History.",
+      "suggested_fix": "Append Entry 39: Presented Grey Pearl to Captain Voss and boarded the Tidecaller for Adalens."
+    }
+  ],
+  "renames": [
+    {
+      "current_path": "NPCs/bandits.md",
+      "new_path": "NPCs/Bandits.md",
+      "reason": "Quartz Optimization: File name should be Title Case to match system manifest conventions."
+    },
+    {
+      "current_path": "NPCs/Arrogant Mage.md",
+      "new_path": "NPCs/Mage (Durvish City).md",
+      "reason": "Alignment with established naming pattern for location-based generic NPCs (e.g., Barkeep (Durvish City))."
+    }
+  ]
+}

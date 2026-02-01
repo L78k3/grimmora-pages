@@ -19,7 +19,7 @@ tags:
 
 ## Overview
 
-Durvish City is where our adventure began. This southern city in the [[Avalonean Empire]] is a significant settlement with religious institutions, magical facilities, and a thriving community of travelers and merchants.
+Durvish City is where our adventure began. This southern city in the [[Avalonean Empire]] is a significant settlement with religious institutions, magical facilities, and a thriving community of travellers and merchants.
 
 ## Geography
 
@@ -34,7 +34,7 @@ Located in the southern portion of the [[Avalonean Empire]], Durvish City serves
 - [[Mage's Tower (Durvish City)]] - Home to [[Ismay]], who helped us remove a [[confoundment spell]] from a guard
 
 ### Lodging
-- Modest inn - Frequented by travelers, where we likely stayed
+- Modest inn - Frequented by travellers, where we likely stayed
 
 ## Notable NPCs
 
