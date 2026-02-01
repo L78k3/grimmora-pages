@@ -1,6 +1,6 @@
 ---
 affiliation: Independent
-type: cnp
+type: npc
 tags: npc
 status: Alive
 location: "[[fey realm]]"
