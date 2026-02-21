@@ -34,7 +34,7 @@ As the sun sets, the ring is getting colder – rime forms on it. Lavender remov
 
 Temerity flies on as fast as he can. He manages to arrive in Onasea at night time. The moon is cold in the sky and reflecting off a sea like black glass. Magic is prickling in the air. Lavender removes her glove – the moonlight is refracted by the jewel in the ring. She replaces her glove, feeling contentment.
 
-Temerity approaches the harbour. He uses his wings to brake and hovers in midair. He transforms back 300m in the air. [[Anaphel]] immediately begins flying. Temerity grabs the menagerie and casts featherfall on everyone when they’re about 50m from the ground. Lavender slugs Temerity in the face and breaks his nose. Temerity simply grins. 
+Temerity approaches the harbour. He uses his wings to brake and hovers in mid-air. He transforms back 300m in the air. [[Anaphel]] immediately begins flying. Temerity grabs the menagerie and casts [featherfall](https://2014.5e.tools/spells.html#feather%20fall_phb) on everyone when they’re about 50m from the ground. Lavender slugs Temerity in the face and breaks his nose. Temerity simply grins. 
 
 All of the fishing vessels are lined up in the harbour. They are accompanied by a sleeker, darker ship that they haven’t seen before. A figure is near the ship, wearing dark clothes and with hood up. Lavender sees an older woman stood there, face weathered from sailing with a knowing smile. 
 

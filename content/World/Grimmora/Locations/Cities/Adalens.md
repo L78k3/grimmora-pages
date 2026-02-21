@@ -56,7 +56,7 @@ Unknown.
 * **South:** [[Port Adal]] (Sea access)
 * **Skybridge:** [[Adalens Ul-Maht]]
 
-## Our Experience
+## Campaign History
 
 We have not yet visited this city.
 

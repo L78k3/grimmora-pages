@@ -59,7 +59,7 @@ What services are available (if we know):
 
 - **Direction:** [[Connected Location]]
 
-## Our Experience
+## Campaign history
 
 What happened when we visited. Key events, impressions, encounters.
 
