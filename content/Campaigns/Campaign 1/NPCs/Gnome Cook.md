@@ -1,5 +1,5 @@
 ---
-affiliation: Independent
+affiliation: "[[The Snoring Jackal]]"
 type: npc
 tags: npc
 status: Alive

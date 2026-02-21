@@ -33,16 +33,17 @@ tags:
 ## Biography & Personality
 Orris is described as having white-blond hair that flops over his face, a distinctive family trait he shares with his sister. Originally a noble of [[House Locke]], he left the family approximately a year and a half ago. It was later revealed that he was contacted by a mysterious tutor and began training in the dark arts, rising rapidly through the ranks to become a gifted and influential figure within the necromancer hierarchy.
 
-His personality remains complex; while he serves an order known for its cruelty, his interactions with his sister are marked by genuine affection and a protective instinct. He appears to be maintaining a facade of absolute loyalty to the necromancers while secretly working to ensure the safety of his family, though the true extent of his indoctrination and his ultimate goals remain shrouded in mystery.
+His personality remains complex; while he serves an order known for its cruelty, his interactions with his sister are marked by genuine affection and a protective instinct. He appears to be maintaining a façade of absolute loyalty to the necromancers while secretly working to ensure the safety of his family, though the true extent of his indoctrination and his ultimate goals remain shrouded in mystery.
 
 ## Campaign History
 * **[[Entry 02]] (The Adventuring Brother):** Lavender learns from her former handmaiden, Rowan, that Orris has been traveling and training to become a wizard, frequently writing to his family to quell their worries.
 * **[[Entry 11]] (The Scrying Vision):** While in the fey realm, Temerity uses a scrying pool to search for Orris, receiving vague sensations of cold, white surroundings and intense fatigue.
 * **[[Entry 13]] (The Infiltration Lead):** Lady Bromelia reveals that Orris is in [[Arcadia]] training in necromancy. She suggests his rapid rise in rank and the secretive nature of his peers may be the result of memory modification or a powerful mentor's influence.
-* **[[Entry 16]] (Vision of Death):** Lavender meditates on the [[Ring of Orris]] and sees a haunting vision of her brother using the [spirit of death] to strike down enemies and raise them as undead servants.
+* **[[Entry 16]] (Vision of Death):** Lavender meditates on the [[Ring of Orris]] and sees a haunting vision of her brother using the [spirit of death](https://2014.5e.tools/spells.html#spirit%20of%20death_bmt) to strike down enemies and raise them as undead servants.
 * **[[Entry 17]] (Discovery of the Lair):** The party infiltrates the [[Mayor's Mansion (Arcadia)|Mayor's Mansion]] and discovers a secret underground cavern. A skeletal scribe informs Lavender that Orris is the master of the facility, though he is not currently taking visitors.
 * **[[Entry 18]] (The Parley in Arcadia):** Orris meets with the party in his office. He admits to hiring [[Gage]] to track Lavender to keep her safe. He telepathically informs Lavender that they are being watched and cannot speak freely, gifting her a [[sending stone]] to facilitate a later meeting in [[Adalens]].
 * **[[Entry 38]] (The Grey Pearl Vision):** Through a vision granted by a [[Grey Pearl]], the party sees Orris entrusting the artefact to [[Corbin]], urging him to protect Lavender and guide her to safety should she be captured.
+* **[[Entry 39]] (The Voyage to Adalens):** Lavender observes that the [[Ring of Orris]] reacts to the moonlight, glowing and frost-rimed as the party reaches Onasea. It is revealed that Orris is owed a favour by [[Captain Voss]], who facilitates the party's escape on her ship, the [[Tidecaller (Ship)]], to ensure they reach their meeting in [[Adalens]] safely.
 
 ## Key Relationships
 * **[[Lavender]]:** His younger sister. Orris claims to love her deeply and has gone to great lengths to monitor and protect her from a distance, even while serving her primary adversaries.

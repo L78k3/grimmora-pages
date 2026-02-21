@@ -3,7 +3,7 @@ title: Grand Cleric
 type: npc
 tags: npc
 status: Alive
-location: "[[Durvish City]]"
+location: "[[Durvish City Temple]]"
 affiliation: Independent
 race: Unknown
 ---
