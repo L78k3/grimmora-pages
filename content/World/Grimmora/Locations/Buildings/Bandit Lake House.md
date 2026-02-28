@@ -21,7 +21,7 @@ A small, smelly hut located by a lake. It contained a dinghy that [[Lavender]] d
 
 ## Loot
 
-Following Greg's directions, [[Korako]] dug up a stash of **70 gold pieces** here. Inside the hut, the party found a **[[Black Cloak with Red Lining]]** and [[Gage]] stole a kettle.
+Following Greg's directions, [[Korako]] dug up a stash of **70 gold pieces** here. Inside the hut, the party found a **[[Cloak of Billowing]]** and [[Gage]] stole a kettle.
 
 ---
 **Related:** [[Greg (Bandit Captain)|Greg]], [[Entry 37]]

@@ -99,7 +99,7 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 
 ## Notable Equipment & Conditions
 * **[[Temerity's Choker]]:** A vine-like accessory that manifested after a vision of a "gnome-tree" in a dark forest. The item appears to feed on his blood (thorns stabbed him during intimacy).
-* **[[Black Cloak with Red Lining]]:** A magical cloak found in the [[Bandit Lake House]]. Temerity wears it despite thinking it makes him look odd.
+* **[[Cloak of Billowing]]:** A magical cloak found in the [[Bandit Lake House]]. Temerity wears it despite thinking it makes him look odd.
 * **[[Pulverised Gem Dust]]:** He carries a small box of gem dust looted from the [[Bridgeport Warehouse]].
 
 ## Modules
