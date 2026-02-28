@@ -57,6 +57,7 @@ As he aged, the glint of gold faded. He began to see cracks in the system - miss
 * **[[Entry 37]] (Interrogation):** Intimidates the bandit captain [[Greg (Bandit Captain)|Greg]] to reveal the location of the [[Bandit Lake House]] and its buried loot.
 * **[[Entry 38]] (The Sea Cave):** Disarms a firebomb trap at the entrance of the [[Onasea Sea Cave]], meets [[Corbin]], and later rescues an inebriated [[Theren]] from a tavern window in [[Onasea]].
 * **[[Entry 39]] (Voyage to Adalens)**: Piloted [[Temerity]] (in crocodile form) to the lakehouse, offered his mercenary services to [[Captain Voss]] aboard the [[Tidecaller (Ship)]], and unwittingly became the canvas for a lewd drawing competition between Temerity and the crew while he slept.
+* **[[Entry 40]] (The Frozen Wraith):** Gage provided ranged support during the battle against the *Frozen Wraith*, using [hunter's mark](https://2014.5e.tools/spells.html#hunter's%20mark_phb) and his [bow](https://2014.5e.tools/items.html#shortbow_phb) against the enemy captain. After exhausting himself demanding nautical training from the crew, he proved his worth by successfully helping Captain Voss navigate the *[[Tidecaller (Ship)|Tidecaller]]* through a treacherous, magically-induced storm.
 
 ## Key Relationships
 * **[[Halsen]]:** Gage bonded deeply with the druid leader over nature and sustainability.

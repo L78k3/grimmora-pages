@@ -44,6 +44,7 @@ She utilizes a shortbow and sneak attacks, often hiding behind the taller party 
 * **[[Entry 38]] (Tracking Corbin):** Spotted suspicious crates with feather symbols at the [[Onasea]] docks and tracked footprints to discover the entrance to the [[Onasea Sea Cave]].
 * **[[Entry 38]] (The Sea Cave Escape):** Negotiated entry into the cave with [[Corbin]] using a code phrase, then escaped a necromancer attack by being carried by [[Anaphel]] through a submerged tunnel.
 * **[[Entry 38]] (Aid to the Displaced):** Provided [[Corbin]] with a bag of gold to help him restart his life after he refused further assistance from the party.
+* **[[Entry 40]] (The Frozen Wraith):** After a bout of seasickness, Mary-Ann helped defend the *[[Tidecaller (Ship)|Tidecaller]]* by [sneak-attacking](https://2014.5e.tools/classes.html#rogue_phb,state:feature=s0-1) the undead captain from behind the gunwale. Following the battle, she meddled in the galley before proving vital during a supernatural storm, successfully repairing the ship and remaining on her feet when massive waves knocked the others down.
 
 ## The Adalens Hit
 During the journey to [[Onasea]], the party was ambushed by bandits led by **[[Greg (Bandit Captain)|Greg]]**. Under interrogation, Greg revealed that Mary-Ann was the specific target of this hit, ordered by the Thieves' Guild in [[Adalens]].

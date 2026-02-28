@@ -35,7 +35,8 @@ Captain Voss is an older woman whose face is deeply weathered from years spent s
 
 ## Campaign History
 * **[[Entry 38]] (The Arrangement):** Voss was identified by Corbin as his most reliable contact for extracting the party from **[[Onasea]]**. Corbin revealed a vision where Orris entrusted him with a **[[Grey Pearl]]** to be given to Voss, ensuring **[[Lavender]]** would be taken to safety with no questions asked.
-* **[[Entry 39]] (The Extraction):** Voss met the party at the Onasea harbour under the cover of night. She accepted the pearl from Lavender and warned the group that half the village was currently searching for them. She immediately ordered the *Tidecaller* to set sail, estimating a three-day voyage to **[[Adalens]]**. During the journey, she accepted **[[Gage]]'s** offer of mercenary services, noting she would put them to use if the need arose.
+* **[[Entry 39]] (The Extraction):** Voss met the party at the Onasea harbour under the cover of night. She accepted the pearl from Lavender and warned the group that half the village was currently searching for them. She immediately ordered the *[[Tidecaller (Ship)|Tidecaller]]* to set sail, estimating a three-day voyage to **[[Adalens]]**. During the journey, she accepted **[[Gage]]'s** offer of mercenary services, noting she would put them to use if the need arose.
+* **[[Entry 40]] (The Frozen Wraith):** Voss identified the attacking ship as the *Frozen Wraith*, a sunken pirate vessel. Despite taking damage, she bellowed inspiring orders that rallied the entire party. Later, she warned [[Lavender]] of the unnatural threats pursuing them and expertly navigated the *[[Tidecaller (Ship)|Tidecaller]]* through a devastating magical storm to keep the ship afloat.
 
 ## Key Relationships
 * **[[Lavender]]:** Voss acts as a guardian for Lavender, fulfilling a secret agreement with Lavender's brother to ensure she reaches safety.

@@ -89,6 +89,7 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 * **[[Entry 36]] (Bandit Ambush):** Uses *eldritch blast* and *hellish rebuke* against bandits on the road to [[Onasea]], transforming one into a shrub.
 * **[[Entry 37]] (Interrogation):** Uses *zone of truth* and *detect thoughts* to interrogate the bandit captain [[Greg (Bandit Captain)|Greg]] and learns about the thieves' guild.
 * **[[Entry 38]] (Crocodile Rescue):** Polymorphs into a giant crocodile to rescue the party from necromancers at the [[Onasea Sea Cave]] and carries them to safety.
+* **[[Entry 40]] (The Frozen Wraith):** Temerity bolstered the crew with rousing speeches and destroyed the undead captain using a [[Chikatika]]-enhanced guiding bolt. He then polymorphed into an orca to tow the *[[Tidecaller (Ship)|Tidecaller]]*. During a magical storm, he dramatically activated his [Cloak of Billowing](https://2014.5e.tools/items.html#cloak%20of%20billowing_xge) to inspire the crew and stabilized an unconscious Theren.
 
 ## The Menagerie
 * **[[Korako]]:** Remains his primary companion.

@@ -63,6 +63,7 @@ Theren was a vagabond for quite some time, causing him to be guarded and difficu
 * **[[Entry 28]] (Divine Healing):** Receives a blessing from the [[Priest of Sol (Avalon)]] that eases his fey-induced headaches.
 * **[[Entry 36]] (Bandit Ambush):** Casts *Hunger of Hadar* and *psychic lance* during the bandit ambush near [[Onasea]].
 * **[[Entry 38]] (Phobia):** Suffers a panic attack at the [[Onasea]] docks due to his fear of water and is forced to retreat to the tavern.
+* **[[Entry 40]] (The Frozen Wraith):** Suffering from seasickness, Theren defended against boarding zombies and successfully incapacitated the enemy captain with a [psychic lance](https://2014.5e.tools/spells.html#raulothim's%20psychic%20lance_ftd). After struggling with [[Temerity]]'s aquatic shapeshifting, he valiantly shielded the *[[Tidecaller (Ship)|Tidecaller]]* with magic during a supernatural, ash-filled storm before collapsing unconscious onto the deck, requiring stabilization.
 
 ## The Patron: The Great Old One
 Through research and meditation, Theren has learned significant details about his warlock patron:

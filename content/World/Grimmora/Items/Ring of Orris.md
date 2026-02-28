@@ -1,53 +1,48 @@
 ---
 title: Ring of Orris
-type: item
+description: "legendary ring owned by [[Lavender]]"
+aliases:
+  - Ring of Orris
 tags:
+  - item
   - item/magical
   - necromancy
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: ring
+rarity: legendary
+owner: "[[Lavender]]"
 ---
 
 # Ring of Orris
 
-> [!info] Obtained
-> **When:** [[Entry 16]]
-> **Where:** Found by [[Guido]] in a mead bottle at an inn in [[Arcadia]].
-> **Current Owner:** [[Lavender]]
+> [!abstract] Properties
+> **Type:** ring
+> **Attunement:** Requires Attunement (Currently attuned to [[Lavender]])
+> **Value:** Unknown
 
-The **Ring of Orris** is a powerful magical object radiating necromantic energy, formerly belonging to [[Lavender]]'s brother, [[Orris]]. It serves as both a tool of power and a source of tension within the party.
+## Visual Description
+The ring is made of silver and set with three dark, occluded jewels. When attuned or active, the smoke within the gems pulses in time with the bearer's heartbeat. It frequently forms rime and frosts the air around it, and it has been known to actively refract moonlight. 
 
-## Description
+## Mechanics & Effects
+* **Necromantic Aura:** The ring glows with a faint blue light and radiates dense necromantic energy.
+* **Unnatural Cold:** It does not just feel cold, but actively radiates an "intense absence of heat."
+* **Binding Magic:** Identified by [[Halsen]] to contain immensely powerful binding magic.
+* **Spells:** It grants the attuned wearer the ability to cast [spirit of death](https://2014.5e.tools/spells/spirit-of-death-bmt.html).
 
-The ring is made of silver and set with three dark, occluded jewels. When attuned or active, the smoke within the gems pulses in time with the bearer's heartbeat. [[Halsen]] later observed that the gems appear to contain powerful binding magic.
+## Lore & History
+Formerly belonging to [[Orris]], the ring serves as a tool of immense power and a deep source of tension within the party.
 
-## Properties
+* **The Initial Attunement:** Upon finding the ring in [[Arcadia]], [[Theren]] identified its necromantic nature and deduced it belonged to [[Orris]]. [[Lavender]] attuned to it and experienced a harrowing vision of her brother using the ring to strike down enemies and raise them as spirits. The spirits took the faces of their own family, including Lavender herself.
+* **Infiltration of Arcadia:** [[Lavender]] used the ring to intimidate a zombie guard while infiltrating [[Orris' Secret Lair]]. By displaying it, she successfully invoked [[Orris]]'s authority, causing the undead to bow and grant access.
+* **The Void Vision:** During a battle in the [[Mausoleum (Alpine Forest)]], [[Lavender]] was banished to a cold void. The ring's icy blue light filled the darkness, providing her a strange reassurance as a voice questioned her loyalty to her companions versus her goddess.
+* **The Temple Gem Connection:** In the [[Temple of Sol]] in [[Avalon]], [[Gage]] discovered a [[Cloudy Gem (Sol)]] that [[Lavender]] noted looked remarkably similar to the stones set in her ring. [[Halsen]] confirmed the temple gem contained "powerful binding magic," deepening the mystery of what the Ring of Orris actually contains.
+* **Friction with Anaphel:** Learning [[Lavender]] possessed the ring caused significant friction with [[Anaphel]]. The aasimar reacted with terror, believing that "someone" was trapped inside the ring, and expressed a deep fear of being contained within a jewel. They eventually reconciled when Lavender promised she only kept it to keep it safe from [[Orris]].
+* **The Moon's Grace:** In **[[Entry 39]]**, the ring grew intensely cold and refracted the moonlight at [[Onasea]]. [[Anaphel]] refused to hold it, sensing the entity inside might be the trapped counterpart to [[Auriel]].
+* **[[Entry 40]] (The Master's Demand):** The ring was explicitly targeted by the Master of Ash, who commanded the party to hand over "the ring containing the Winter's Core." Following the battle, Lavender retreated below deck to ponder this terrifying revelation and the ring's true nature.
 
-* **Necromantic Aura:** The ring glows with a faint blue light and radiates necromantic energy.
-* **Unnatural Cold:** It does not just feel cold, but radiates an "intense absence of heat".
-* **Spells:** It grants the attuned wearer the ability to cast **[spirit of death](https://2014.5e.tools/spells/spirit-of-death-bmt.html)**.
-
-## Visions & Connection
-
-### The Initial Attunement
-Upon finding the ring in [[Arcadia]], [[Theren]] identified its necromantic nature and deduced it belonged to [[Orris]]. [[Lavender]] attuned to it and experienced a harrowing vision of her brother using the ring to strike down enemies and raise them as spirits. The spirits took the faces of their own family, including Lavender herself.
-
-### The Void Vision
-During the battle in the mausoleum, [[Lavender]] was banished to a void. While there, the ring's icy blue light filled the darkness, providing her a strange reassurance. A voice in the void questioned her loyalty, admiring her devotion but forcing her to choose between her companions and her goddess.
-
-## History & Usage
-### The Moon's Grace
-In **[[Entry 39]]**, as the appointed time for their departure neared, the ring grew intensely cold, forming rime and frosting the air around it. Under the moonlight at [[Onasea]], the jewel refracted the light, and [[Lavender]] felt a sense of contentment rather than fear. [[Anaphel]] refused to hold it, sensing that the entity inside might be the counterpart to [[Auriel]].
-
-### Infiltration of Arcadia
-[[Lavender]] used the ring as a tool of intimidation while infiltrating [[Orris' Secret Lair]]. By displaying the ring to a zombie guard, she successfully invoked [[Orris]]'s authority, causing the undead creature to bow and grant them access.
-
-### The Temple Gem Connection
-In the [[Temple of Sol]] in [[Bridgeport]], [[Gage]] discovered a dark, cloudy gem that [[Lavender]] noted looked remarkably similar to the stones set in her ring. [[Halsen]] later identified the temple gem as containing "powerful binding magic" and recommended finding a specialist wizard, deepening the mystery of what the Ring of Orris actually contains.
-
-### Friction with Anaphel
-The ring caused significant friction between [[Lavender]] and [[Anaphel]]. Upon learning Lavender possessed the ring, [[Anaphel]] - an aasimar - reacted with fear and refused to look at her. [[Anaphel]] believed that "someone" was trapped inside the ring.
-
-They eventually reconciled in [[Durvish City]]. [[Anaphel]] expressed a fear of being contained within a jewel like that. [[Lavender]] promised she had never used the ring's power and only kept it to keep it safe from [[Orris]]. [[Anaphel]] suggested the entity inside might have been trying to communicate with [[Lavender]] during her visions.
-
----
-**Related:** [[Lavender]], [[Orris]], [[Anaphel]], [[Halsen]]
+## Acquisition
+* **Obtained In:** [[Entry 16]]
+* **Method:** Found by [[Guido]] hidden at the bottom of a mead bottle at an inn in [[Arcadia]].

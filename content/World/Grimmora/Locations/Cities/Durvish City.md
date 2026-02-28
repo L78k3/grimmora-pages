@@ -19,7 +19,7 @@ tags:
 
 ## What We Know
 
-Durvish City is where our adventure originally began. It is a major southern hub within the Avalonean Empire, characterized by prominent religious institutions, magical facilities, and a thriving community of travelers and merchants. 
+Durvish City is where our adventure originally began. It is a major southern hub within the Avalonean Empire, characterized by prominent religious institutions, magical facilities, and a thriving community of travellers and merchants. 
 
 ## Geography
 
