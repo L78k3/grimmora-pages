@@ -23,6 +23,10 @@ It appears to serve as the primary port for Adalens.
 
 While planning the journey to Adalens, [[Theren]] and [[Lavender]] determined that taking a boat from [[Onasea]] across the water to Port Adal would be a viable (albeit longer) route to reach their destination, avoiding the difficult overland trek from [[Crystalmine Village]].
 
+## Campaign History
+
+* **[[Entry 41]] (Arrival):** The party arrived at [[Port Adal]] after surviving a harrowing naval battle. [[Captain Voss|Voss]] docked the [[Tidecaller (Ship)|Tidecaller]] at the village and issued a stark warning to [[Lavender]] about the city's watchful eyes. The stop concluded when Voss unceremoniously threw their prisoner, Lyra, overboard.
+
 ---
 **Region:** [[Nethis]]
 
