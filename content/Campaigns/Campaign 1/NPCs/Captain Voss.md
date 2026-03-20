@@ -5,7 +5,7 @@ race: Human
 class: Ship Captain / Smuggler
 location: "[[Tidecaller (Ship)]]"
 affiliation: "[[Tidecaller (Ship)]]"
-status: Alive
+status: Met
 tags:
   - npc
   - major-character
@@ -47,3 +47,4 @@ Captain Voss is an older woman whose face is deeply weathered from years spent s
 ## Notable Equipment
 * **[[Tidecaller (Ship)]]:** A sleek, dark, and well-maintained vessel optimized for speed and avoiding detection.
 * **[[Grey Pearl]]:** The specific token used by the party to verify their identity and secure Voss's services.
+

@@ -47,3 +47,4 @@ Formerly belonging to [[Orris]], the ring serves as a tool of immense power and 
 ## Acquisition
 * **Obtained In:** [[Entry 16]]
 * **Method:** Found by [[Guido]] hidden at the bottom of a mead bottle at an inn in [[Arcadia]].
+

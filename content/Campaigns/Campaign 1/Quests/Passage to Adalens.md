@@ -29,6 +29,10 @@ Initiated by information provided by [[Corbin]] and the vision from the [[Grey P
 - [x] Wait for Moon's Grace (2 days).
 - [x] Present the [[Grey Pearl]] to [[Captain Voss]].
 - [x] Board the [[Tidecaller (Ship)]].
+- [ ] Travel to [[Adalens]].
+- [x] Wait for Moon's Grace (2 days).
+- [x] Present the [[Grey Pearl]] to [[Captain Voss]].
+- [x] Board the [[Tidecaller (Ship)]].
 - [x] Travel to [[Adalens]].
 
 ## Rewards

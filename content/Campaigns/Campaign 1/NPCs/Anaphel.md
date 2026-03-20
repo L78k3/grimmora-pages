@@ -69,4 +69,3 @@ Despite their divine origin, Anaphel suffers from a deep homesickness for the im
 ## Notable Equipment
 * **[[Ring of Orris]] (Related):** While not worn by Anaphel, this item is central to their current arc, as they believe it imprisons [[Auriel]].
 * **Spiritual Weapon:** Manifests as a floating weapon with snowflake motifs.
-
