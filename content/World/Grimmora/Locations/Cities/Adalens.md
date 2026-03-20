@@ -58,7 +58,7 @@ Unknown.
 
 ## Campaign History
 
-We have not yet visited this city.
+* **[[Entry 41]] (Arrival in Sight):** The city of Adalens came into view as morning broke, revealing a stunning skyline of white stone buildings, docks, houses, palaces, and a floating wizard tower. The party concluded their perilous sea voyage by successfully docking at the nearby village of Port Adal.
 
 ---
 

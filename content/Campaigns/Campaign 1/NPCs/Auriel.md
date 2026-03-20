@@ -41,6 +41,7 @@ Recently, her presence in [[grimmora-index|Grimmora]] has waned. Her temples hav
 * **[[Entry 19]] (Divine Lineage):** [[Anaphel]] revealed themselves as an [aasimar] and the direct offspring of Auriel, sent to the mortal realm 300 years ago as a missionary.
 * **[[Entry 37]] (The Fading):** While examining the [[Ring of Orris]], Lavender and Anaphel sensed an intense "anti-heat" and a void where Auriel's presence should be. They hypothesized that the goddess has been trapped within the ring by the necromancers to tip the balance of power.
 * **[[Entry 39]] (Severed Connection):** Anaphel confessed that they can no longer feel their connection to their mother, stating they "don't have something anymore."
+* **[[Entry 41]] (The Master's Target):** The high priestess Lyra revealed that the Master of Ash seeks to destroy Auriel, who is trapped within Lavender's ring, to eliminate his competition for balance. Temerity discovered through mind-reading that releasing the goddess from her prison requires a highly complex and dangerous procedure.
 
 ## Key Relationships
 * **[[Lavender]]:** Her champion and devoted follower. Auriel has taken a direct interest in Lavender's growth, testing her resolve and granting her divine power.
