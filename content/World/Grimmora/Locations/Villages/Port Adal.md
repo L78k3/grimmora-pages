@@ -5,29 +5,40 @@ region: "[[Nethis]]"
 tags:
   - location/village
   - location/port
-  - unvisited
+  - visited
 ---
 
 # Port Adal
 
-> [!warning] Unvisited
-> The party has not yet traveled to this location.
+> [!info] Visited
+> **When:** [[Entry 41]] 
+> **Region:** [[Nethis]]
 
 ## What We Know
 
-**Port Adal** is a coastal settlement located in the [[Nethis]] region, situated directly south of the major city of [[Adalens]].
+**Port Adal** is a coastal settlement located in the [[Nethis]] region, situated directly south of the major city of [[Adalens]]. It serves as the primary port for the city of [[Adalens]].
 
-It appears to serve as the primary port for Adalens.
+## Character
 
-## Travel Plans
+The village serves as the maritime gateway to the island city of [[Adalens]]. It features docks capable of receiving sleeker, darker vessels like the [[Tidecaller (Ship)|Tidecaller]]. [[Captain Voss|Voss]] cautioned the party that the nearby city "has eyes," suggesting a high level of surveillance or political danger in the area.
 
-While planning the journey to Adalens, [[Theren]] and [[Lavender]] determined that taking a boat from [[Onasea]] across the water to Port Adal would be a viable (albeit longer) route to reach their destination, avoiding the difficult overland trek from [[Crystalmine Village]].
+## Points of Interest
 
-## Campaign History
+- **The Docks:** The location where the [[Tidecaller (Ship)|Tidecaller]] eventually moored after outrunning the [[Master of Ash|Master of Ash's]] high priestess.
 
-* **[[Entry 41]] (Arrival):** The party arrived at [[Port Adal]] after surviving a harrowing naval battle. [[Captain Voss|Voss]] docked the [[Tidecaller (Ship)|Tidecaller]] at the village and issued a stark warning to [[Lavender]] about the city's watchful eyes. The stop concluded when Voss unceremoniously threw their prisoner, Lyra, overboard.
+## Notable NPCs
+
+- [[Captain Voss|Voss]] - Command of the [[Tidecaller (Ship)|Tidecaller]] who successfully navigated the party to this destination.
+
+## Getting Here
+
+The party reached Port Adal by sailing from [[Onasea]] across the water. This route was chosen as a viable alternative to the overland trek from [[Crystalmine Village]].
+
+## Our Experience
+
+The party arrived at Port Adal following a dangerous naval confrontation with [[Lyra Valstrath]], high priestess of the [[Master of Ash]]. Upon docking, [[Captain Voss|Voss]] warned [[Lavender]] to move fast and carefully within the region due to local threats. The arrival concluded with Voss disposing of their prisoner, [[Lyra Valstrath|Lyra]], by throwing her overboard into the harbor.
 
 ---
 **Region:** [[Nethis]]
 
-**Related:** [[Adalens]], [[Onasea]]
+**Related:** [[Adalens]] • [[Onasea]] • [[Tidecaller (Ship)]]

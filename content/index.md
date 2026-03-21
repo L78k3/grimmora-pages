@@ -118,21 +118,31 @@ date: 2025-01-01
 > * [[Entry 02]] - Bandits
 > * [[Entry 01]] - The Wedding
 
-## 🎲 Session Archive
-*Play-by-play notes from Gage's perspective.*
-* [[Session 20250215]]
-* [[Session 20241228]]
-* [[Session 20241026]]
-* [[Session 20240831]]
-* [[Session 20240803]]
-* [[Session 20240727]]
-* [[Session 20240720]]
-* [[Session 20240629]]
-* [[Session 20240608]]
-* [[Session 20240527]]
-* [[Session 20240406]]
-* [[Session 20240330]]
-* [[Session 20240323]]
-* [[Session 20240210]]
-* [[Session 20240104]]
-* [[Session 20231228]]
+# 🎒 Master Inventory
+
+This static inventory table has been compiled for Quartz export, utilizing the canonical lore from the campaign chronicles to fill in missing metadata for your item pages.
+
+| Item | Held By | Type | Rarity | Summary / Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Ring of Orris]] | [[Lavender]] | Ring | Legendary | Silver ring with three gems; radiates intense cold and grants *Spirit of Death*. |
+| [[Winter's Core]] | [[Lavender]] | Wondrous | Legendary | Confirmed to be the entity of balance trapped inside the [[Ring of Orris]]. |
+| [[Gage's Cloak of the Forest]] | [[Gage]] | Cloak | Magical | Dark green embroidered cloak; grants +1 to Nature and Survival skills. |
+| [[Cloudy Gem (Sol)]] | [[Lavender]] | Gem | Dangerous | Jewel with powerful binding magic; kept inside the [[Rune Box]] to hide its signature. |
+| [[Wand of Strange Glyphs]] | [[Theren]] | Wand | Magical | Found in the [[Bridgeport Warehouse]]; shifts appearance and casts non-offensive magic. |
+| [[Temerity's Choker]] | [[Temerity]] | Mysterious | Cursed | A vine-like root that feeds on blood; manifested after a vision of a gnome-tree. |
+| [[Cloak of Billowing]] | [[Temerity]] | Cloak | Common | A black cloak with red lining that billows dramatically on command. |
+| [[Grey Pearl]] | [[Lavender]] | Key Item | Unknown | A token of safe passage provided by [[Corbin]] on behalf of [[Orris]]. |
+| [[Corrupted Censer]] | [[Gage]] | Censer | Dangerous | Black and gold vessel found in [[Bridgeport]]; perverted to cause sickness. |
+| [[Chronometer Pocket Watch]] | Party | Watch | Magical | Gold watch with black hands; identified as an object of chronomancy. |
+| [[Imperial Courier Bag]] | [[Gage]] | Container | Obtained | Looted from [[Loraleia]]; contains the cipher keys and copied [[Encoded Letters]]. |
+| [[Rune Box]] | [[Lavender]] | Container | Magical | Dark wood box carved with runes; used to shield magical items from detection. |
+| [[Whispering Orb]] | Party | Orb | Magical | A small black orb that emits faint whispers when held close to the ear. |
+| [[Pulverised Gem Dust]] | Party | Material | Obtained | Crushed gems taken from the [[Bridgeport Warehouse]] for transport. |
+| [[Necromantic Idol]] | [[Gage]] | Material | Dangerous | Remains of the ritual focal point; currently a bag of sand held for [[Halsen]]. |
+| [[Encoded Letters]] | [[Gage]] | Documents | Obtained | Copied correspondence involving "Operation Green Spill" and the hunt for the Core. |
+| [[gloomberries]] | Party | Consumable | Common | Magical fruit used by druid children to create bursts of magical darkness. |
+
+## 🛠️ Item Status Trackers
+* **Destroyed:** The [[Withered Rose]] (immolated by [[Temerity]] to break a curse).
+* **Missing/Transformed:** The [[Necromantic Idol]] is no longer an active item, having been reduced to sand by [[Theren]]'s *Shatter*.
+* **Active Quest Items:** The [[Grey Pearl]] must be presented to [[Captain Voss]] to maintain the party's safe passage.
