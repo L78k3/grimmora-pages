@@ -31,7 +31,7 @@ tags:
 **Corbin** is a highly respected former ship captain and informant who operated a covert smuggling network for those needing to disappear. He became a critical link for the party after revealing he had been tracking necromantic shipments involving "Winter's Core."
 
 ## Biography & Personality
-Corbin was known in **[[Onasea]]** as the town's best ship captain before his sudden disappearance. He is a cautious, capable man with a background in smuggling and information brokering. His expertise lies in "the net"—a secret network dedicated to helping individuals evade authority. 
+Corbin was known in **[[Onasea]]** as the town's best ship captain before his sudden disappearance. He is a cautious, capable man with a background in smuggling and information brokering. His expertise lies in "the net" - a secret network dedicated to helping individuals evade authority. 
 
 Though he spent a month in isolation within a trapped sea cave, he remains a dedicated ally to those opposing the necromancers. He values his independence and the safety of his kin above all else, eventually choosing to flee into the wilderness to "begin again" rather than remain under the party's protection or return to his former life.
 

@@ -1,6 +1,6 @@
 ## Scene Overview
 
-The recruits begin their day at the Uwendale military outpost, a remote Demacian settlement nestled in the Stonespine Peaks. The morning routine is interrupted by urgent news—either a nearby farm is under attack, or several villagers have gone missing. Lieutenant Magnus Crownguard gathers the squad for immediate action, setting the tone for a day of high alert and frontier justice.
+The recruits begin their day at the Uwendale military outpost, a remote Demacian settlement nestled in the Stonespine Peaks. The morning routine is interrupted by urgent news - either a nearby farm is under attack, or several villagers have gone missing. Lieutenant Magnus Crownguard gathers the squad for immediate action, setting the tone for a day of high alert and frontier justice.
 
 ## Objectives
 
@@ -24,7 +24,7 @@ The recruits begin their day at the Uwendale military outpost, a remote Demacian
 
 - Skill challenge: Rapidly donning gear, organizing squads, and making sense of conflicting reports.
 - Social challenge: Navigating suspicion or rivalry among recruits; calming frightened villagers.
-- Decision point: Which threat to address first—attack at the farm or missing villagers?
+- Decision point: Which threat to address first - attack at the farm or missing villagers?
 
 ## Clues & Rewards
 
@@ -40,4 +40,4 @@ The recruits begin their day at the Uwendale military outpost, a remote Demacian
 
 ## Transition
 
-The party is deployed—either to defend the farm, pursue kidnappers into the mountains, or split up. Their choices here set the stage for the branching middle of the adventure, leading to the next encounter in the diamond structure.
+The party is deployed - either to defend the farm, pursue kidnappers into the mountains, or split up. Their choices here set the stage for the branching middle of the adventure, leading to the next encounter in the diamond structure.

@@ -22,7 +22,7 @@ The **Onasea Sea Cave** is a hidden cavern located at the northern end of the [[
 
 ## Defenses
 
-The entrance was rigged with a trap: a tripwire connected to a sprinkler system smelling of petroleum—a firebomb trap. [[Gage]] successfully disarmed it before the party entered.
+The entrance was rigged with a trap: a tripwire connected to a sprinkler system smelling of petroleum - a firebomb trap. [[Gage]] successfully disarmed it before the party entered.
 
 ---
 **Related:** [[Onasea]], [[Corbin]], [[Entry 37]]

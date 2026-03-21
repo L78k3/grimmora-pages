@@ -21,7 +21,7 @@ status: Alive
 
 ## Overview
 
-We encountered Marjorie while staying in the Displaced Camp. She appears as a tiny, elderly gnome—standing only as high as [[Temerity]]'s crotch—often seen dragging a huge broom behind her. She lives in a small, cosy house within the cavern, decorated with window boxes and bunting.
+We encountered Marjorie while staying in the Displaced Camp. She appears as a tiny, elderly gnome - standing only as high as [[Temerity]]'s crotch - often seen dragging a huge broom behind her. She lives in a small, cosy house within the cavern, decorated with window boxes and bunting.
 
 She is strict but motherly, refusing to clean [[Temerity]]'s room until he put on underwear and forcing him to help scrub the walls.
 

@@ -33,7 +33,7 @@ tags:
 Lord Requiem is a member of the Avalonian royalty. Despite his high social standing and imperial connections, he is described as being generally disliked by those around him. His personality and the nature of his reputation were primary factors in Lady Bromelia's decision to orchestrate her own "abduction" to avoid their union.
 
 ## Campaign History
-* **[[Entry 01]] (The Spurned Wedding):** Lord Requiem was set to marry Lady Bromelia in a grand ceremony in [[Durvish City]]. The event was interrupted when a man in black, riding a griffin, appeared to kidnap the bride, leaving the wedding—and the groom—in disarray.
+* **[[Entry 01]] (The Spurned Wedding):** Lord Requiem was set to marry Lady Bromelia in a grand ceremony in [[Durvish City]]. The event was interrupted when a man in black, riding a griffin, appeared to kidnap the bride, leaving the wedding - and the groom - in disarray.
 * **[[Entry 11]] (The Truth Revealed):** While in the fey realm, the party learns more about the circumstances of the wedding. It is suggested that the "kidnapping" was actually a coordinated escape by Bromelia to flee from the marriage to the disliked royal.
 
 ## Key Relationships

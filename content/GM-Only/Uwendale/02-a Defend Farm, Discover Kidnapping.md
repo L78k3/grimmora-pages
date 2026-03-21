@@ -1,6 +1,6 @@
 ## Scene Overview
 
-The party arrives at a farm on the outskirts of Uwendale, which is under attack by a wyvern or drake. Amidst the chaos—burning hay, fleeing livestock, and terrified villagers—the party must drive off the beast and secure the area. In the aftermath, they discover signs that several villagers have been abducted and taken toward the mountains, revealing the attack was a diversion for a kidnapping.
+The party arrives at a farm on the outskirts of Uwendale, which is under attack by a wyvern or drake. Amidst the chaos - burning hay, fleeing livestock, and terrified villagers - the party must drive off the beast and secure the area. In the aftermath, they discover signs that several villagers have been abducted and taken toward the mountains, revealing the attack was a diversion for a kidnapping.
 
 ## Objectives
 
@@ -33,9 +33,9 @@ The party arrives at a farm on the outskirts of Uwendale, which is under attack 
 ## Complications & Twists
 
 - The wyvern/drake may retreat into the mountains if not slain, potentially reappearing later.
-- Some villagers are missing—taken alive, suggesting a coordinated enemy plot.
+- Some villagers are missing - taken alive, suggesting a coordinated enemy plot.
 - The attack was clearly a diversion; evidence points toward a cave in the mountains as the kidnappers’ destination.
 
 ## Transition
 
-With the farm secured and clues in hand, the party must decide whether to immediately pursue the kidnappers into the mountains or regroup at the outpost. Their actions here set up the next phase: a rescue mission and cave exploration, with the fate of the villagers—and perhaps the whole outpost—at stake.
+With the farm secured and clues in hand, the party must decide whether to immediately pursue the kidnappers into the mountains or regroup at the outpost. Their actions here set up the next phase: a rescue mission and cave exploration, with the fate of the villagers - and perhaps the whole outpost - at stake.

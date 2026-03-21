@@ -27,7 +27,7 @@ It was guarded by two guards, **Martin** and **Roy**, whom the party shoved into
 The interior is dark and maze-like, filled with shelves of crates and boxes bearing various insignias. Scattered throughout the stacks are statues, some covered in cloth.
 
 * **The Workshop:** Located in the back-left corner of the warehouse. It contains a workspace for a stone mason.
-* **Necromantic Presence:** [[Theren]] sensed necromantic energy emanating from the statues—not enough to give full life initially, but enough to cause audible "whispers".
+* **Necromantic Presence:** [[Theren]] sensed necromantic energy emanating from the statues - not enough to give full life initially, but enough to cause audible "whispers".
 
 ## Inhabitants
 

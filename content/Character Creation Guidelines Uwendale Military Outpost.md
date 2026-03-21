@@ -93,7 +93,7 @@ I've left some questions below - feel free to answer as many or as few as you'd 
 
 6. How do you know at least one other PC? Did you train together, grow up in the same region, or meet during the journey to Uwendale?
 7. What's your initial impression of Lieutenant Magnus Crownguard, and how do you hope to impress (or avoid attention from) him?
-8. Do you have any connections to the Uwendale region—perhaps family, friends, or previous visits?
+8. Do you have any connections to the Uwendale region - perhaps family, friends, or previous visits?
 9. Who was your mentor during training, and what's the most important lesson they taught you?
 
 ## Views on Magic
@@ -108,7 +108,7 @@ I've left some questions below - feel free to answer as many or as few as you'd 
 14. What is your preferred role in combat formations? Frontline, support, ranged, or something else?
 15. What non-combat skill do you contribute to your unit that makes you valuable?
 16. What weapon or fighting technique are you still mastering?
-17. How do you typically react in a crisis—with careful planning, immediate action, or looking to others for direction?
+17. How do you typically react in a crisis - with careful planning, immediate action, or looking to others for direction?
 
 ## Personal Details
 

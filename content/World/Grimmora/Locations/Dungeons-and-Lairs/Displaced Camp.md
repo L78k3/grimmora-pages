@@ -37,7 +37,7 @@ The cavern is divided into several functional areas:
 
 ## Inhabitants
 
-The camp hosts a diverse population of races including orcs, half-orcs, dragonborn, humans, halflings, gnomes, and elves. The demographic is strikingly young—mostly young adults and some babies, with a complete absence of elderly people.
+The camp hosts a diverse population of races including orcs, half-orcs, dragonborn, humans, halflings, gnomes, and elves. The demographic is strikingly young - mostly young adults and some babies, with a complete absence of elderly people.
 
 ## Notable NPCs
 

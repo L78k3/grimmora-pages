@@ -33,7 +33,7 @@ tags:
 ## Biography & Personality
 Orion is an "incongruous" figure whose body is almost entirely covered in cloth wraps scribed with various languages and story phrases. As a member of his Order, he adheres to the mantra that "those who forget history are doomed to repeat it." He is a focused, serious, and often quiet individual who frequently spends his downtime meditating.
 
-Though his introduction to the party was violent—culminating in him punching [[Temerity]] in the stomach—Orion eventually developed a deep bond with the group. He is a lethal combatant who utilizes "fists of fury" and stunning energy to incapacitate his foes, often acting as a front-line defender alongside [[Lavender]].
+Though his introduction to the party was violent - culminating in him punching [[Temerity]] in the stomach - Orion eventually developed a deep bond with the group. He is a lethal combatant who utilizes "fists of fury" and stunning energy to incapacitate his foes, often acting as a front-line defender alongside [[Lavender]].
 
 ## Campaign History
 * **[[Entry 03]] (The Incongruous Monk):** Discovered in [[Mightrest]] investigating the disappearance of his fellow monks. After a brief confrontation with the party, he was captured and eventually agreed to join them when their goals aligned.

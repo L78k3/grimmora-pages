@@ -16,7 +16,7 @@ tags:
 **Unicorn Hill** is a landmark located near [[Phoenix Hill]] in [[Avalon]].
 
 ## Overview
-During [[Theren]]'s visit to the area, this hill was occupied by various animals—including a raven, a jackalope, and a weasel—playing together.
+During [[Theren]]'s visit to the area, this hill was occupied by various animals - including a raven, a jackalope, and a weasel - playing together.
 
 ---
 **Related:** [[Avalon]], [[Phoenix Hill]], [[Entry 27]]

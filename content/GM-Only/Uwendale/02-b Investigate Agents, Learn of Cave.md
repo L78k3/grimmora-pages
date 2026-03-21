@@ -1,6 +1,6 @@
 ## Scene Overview
 
-The party follows up on reports of suspicious activity near the border—Noxian or Freljordian agents have been spotted in the vicinity. Through stealth, investigation, or confrontation, the party uncovers a plot: enemy operatives have captured villagers (or soldiers) and are holding them in a hidden cave in the mountains, likely as leverage or to destabilize Uwendale.
+The party follows up on reports of suspicious activity near the border - Noxian or Freljordian agents have been spotted in the vicinity. Through stealth, investigation, or confrontation, the party uncovers a plot: enemy operatives have captured villagers (or soldiers) and are holding them in a hidden cave in the mountains, likely as leverage or to destabilize Uwendale.
 
 ## Objectives
 
@@ -11,12 +11,12 @@ The party follows up on reports of suspicious activity near the border—Noxian 
 
 - Noxian or Freljordian agents: Skilled, disciplined, and possibly ruthless operatives, acting under orders to undermine Demacia’s border security.
 - Captured villagers or scouts: May be glimpsed or referenced, their location hinted at through dialogue or evidence.
-- Possible informant or double agent: An NPC who may provide information—willingly or under duress.
+- Possible informant or double agent: An NPC who may provide information - willingly or under duress.
 
 ## Setting & Atmosphere
 
 - The borderlands: rugged, windswept, with sparse cover and a sense of constant surveillance.
-- Tension hangs in the air—every movement could spark an international incident.
+- Tension hangs in the air - every movement could spark an international incident.
 - Signs of recent passage: trampled grass, discarded rations, and coded markings on rocks or trees.
 
 ## Challenges & Obstacles
@@ -34,7 +34,7 @@ The party follows up on reports of suspicious activity near the border—Noxian 
 
 - The agents may attempt to frame Demacia for aggression, complicating the party’s mission.
 - Evidence suggests the cave is not just a prison, but also a staging ground for further attacks or sabotage.
-- The party might spot signs that the agents are not acting alone—hinting at a larger conspiracy or magical involvement.
+- The party might spot signs that the agents are not acting alone - hinting at a larger conspiracy or magical involvement.
 
 ## Transition
 

@@ -17,7 +17,7 @@ The party sets out from the farm or borderlands, following the trail of kidnappe
 
 - The Stonespine Peaks: steep, rocky, and cold, with narrow trails, sudden drop-offs, and the ever-present risk of rockslides.
 - Sparse vegetation, howling winds, and distant animal cries create a sense of isolation and urgency.
-- Occasional signs of passage—broken branches, discarded items, or hurried footprints in the mud or snow.
+- Occasional signs of passage - broken branches, discarded items, or hurried footprints in the mud or snow.
 
 ## Challenges & Obstacles
 

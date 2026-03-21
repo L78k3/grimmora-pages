@@ -17,7 +17,7 @@ The **Imperial Courier Bag** is a satchel belonging to [[Loraleia]], found durin
 
 ## Description
 
-The bag bears a specific insignia which [[Theren]] identified as that of an **Imperial Courier**—an official service carrying correspondence for the wealthy and important.
+The bag bears a specific insignia which [[Theren]] identified as that of an **Imperial Courier** - an official service carrying correspondence for the wealthy and important.
 
 ## Contents
 
