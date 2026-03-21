@@ -21,7 +21,7 @@ The whole party awakens looking a little green. [[Lavender]] is the only one who
 
 Much of the day passes. Later in the afternoon, as the sun is lowering, most of the party have recovered. [[Theren]] stands on deck taking in the sea air. [[Mary-Ann]] and [[Gage]] and are interfering in the galley. [[Lavender]] is running drills for the sailors. [[Temerity]] is climbing up the mast but his hooves make it difficult – he doesn’t manage to get up there. 
 
-A shout from the crow’s nest tells them that a ship is approaching on the starboard side. [[Captain Voss|Voss]] looks through her telescope – the colour drains from her face. The Frozen Wraith, a sunken ship, has been raised – it sank 3 weeks ago. The ship pulls alongside – it is dark wood covered in ice with torn sails, but filled with an unnatural wind. Twelve undead figures, plus the captain, are moving jerkily around on deck.
+A shout from the crow’s nest tells them that a ship is approaching on the starboard side. [[Captain Voss|Voss]] looks through her telescope – the colour drains from her face. The [[Frozen Wraith]], a sunken ship, has been raised – it sank 3 weeks ago. The ship pulls alongside – it is dark wood covered in ice with torn sails, but filled with an unnatural wind. Twelve undead figures, plus the captain, are moving jerkily around on deck.
 
 A voice colder than the grave calls out – the Master of Ash orders them to hand over the [[Ring of Orris|ring]] containing the [[Winter's Core]]. 
 
