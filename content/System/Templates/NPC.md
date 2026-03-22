@@ -1,43 +1,29 @@
 ---
-title: Name
-type: npc
-race: Race
-class: Class (Optional)
-location: "[[Current Location]]"
-affiliation: "[[Faction]]"
-status: Alive
-tags:
-  - npc
-  - major-character
+role: {{role}}  
+completed: {{completed}}  
+affiliation: {{affiliation}}  
+noteworthy: {{noteworthy}}  
+notes: {{notes}}  
 ---
 
-![[PlaceHolder.webp]]
+# {{npc_name}} – NPC Profile
 
-# Name
+## Background  
+{{background}}
 
-> [!info] Character Overview
-> **Race:** Race
-> 
-> **Class:** Class / Archetype
-> 
-> **Affiliation:** [[Faction Name]]
-> 
-> **Location:** [[Current Location]]
-> 
-> **Status:** Alive
+## Attributes  
+- **Role:** {{role}}  
+- **Affiliation:** {{affiliation}}  
+- **Status:** {{completed}}  
+- **Noteworthy:** {{noteworthy}}  
+- **Notes:** {{notes}}  
 
-**Name** is [Brief 1-sentence summary of who they are and their role in the story].
+---
 
-## Biography & Personality
-[1-2 paragraphs on their backstory, appearance, and personality traits. How do they act? What do they want?]
+## Key Interactions
+- **First meeting:** {{first_meeting}}
+- **Important moments:** {{important_moments}}
 
-## Campaign History
-* **[[Entry XX]] (Event Name):** [Description of what they did].
-* **[[Entry XY]] (Event Name):** [Description of what they did].
-
-## Key Relationships
-* **[[PC Name]]:** [Description of dynamic].
-* **[[NPC Name]]:** [Description of dynamic].
-
-## Notable Equipment
-* **[[Item Name]]:** [Description].
+## Relationships
+- **Allies:** {{allies}}
+- **Rivals:** {{rivals}}

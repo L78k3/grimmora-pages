@@ -1,3 +1,0 @@
-### Auriel's Wall
-
-A magical snow-covered wall embedded with moving snowflake patterns that served as a divine communication point and gateway. The wall responded to [[Temerity]]'s artistic supplications and [[Lavender]]'s offerings, ultimately revealing a hidden passageway when its elements (trees, snowflake, mountains, wind) were arranged in proper order. [[Auriel]] spoke through this wall to guide the party, with [[Aurius]] serving as the primary interpreter of her messages which often came as single words like "adventure," "journey," and "trial."

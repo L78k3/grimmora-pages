@@ -33,7 +33,7 @@ The church displays distinctive religious architecture:
 
 ## The Goddess Auril
 
-The church is dedicated to [[Auriel]], a goddess associated with:
+The church is dedicated to [[Auril]], a goddess associated with:
 - **Duality** - Balance between opposing forces
 - **Balance** - Equilibrium in all things
 - **Chaos** - Unpredictable change
@@ -94,6 +94,6 @@ A temple to a goddess of duality, balance, chaos, and beauty hidden in the harsh
 
 **Location:** [[The Frost]]
 
-**Related:** [[Auriel]] • [[Ice Troll]] • [[The Frost]]
+**Related:** [[Auril]] • [[Ice Troll]] • [[The Frost]]
 
 **Status:** Abandoned but mysteriously maintained and heavily defended

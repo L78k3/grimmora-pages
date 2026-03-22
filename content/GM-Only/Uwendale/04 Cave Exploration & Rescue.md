@@ -1,6 +1,6 @@
 ## Scene Overview
 
-The party enters the kidnappers’ mountain cave lair - a twisting, shadowy network of tunnels and chambers. Inside, they must navigate hazards, outwit or confront enemy guards, and locate the captured villagers before time runs out. The cave is both a physical and tactical challenge, with enemy agents, possible wild threats, and environmental dangers at every turn.
+The party enters the kidnappers’ mountain cave lair—a twisting, shadowy network of tunnels and chambers. Inside, they must navigate hazards, outwit or confront enemy guards, and locate the captured villagers before time runs out. The cave is both a physical and tactical challenge, with enemy agents, possible wild threats, and environmental dangers at every turn.
 
 ## Objectives
 
@@ -15,7 +15,7 @@ The party enters the kidnappers’ mountain cave lair - a twisting, shadowy netw
 
 ## Setting & Atmosphere
 
-- The cave is cold, damp, and echoing - light flickers from torches or phosphorescent fungi.
+- The cave is cold, damp, and echoing—light flickers from torches or phosphorescent fungi.
 - Narrow tunnels open into larger chambers; some areas are unstable, with loose rocks or sudden drops.
 - The air is tense, filled with the muffled sounds of captives and the distant roar of something large deeper within.
 
@@ -36,8 +36,8 @@ The party enters the kidnappers’ mountain cave lair - a twisting, shadowy netw
 
 - A dangerous beast (wyvern hatchling or similar) may break loose during the chaos, threatening both sides.
 - Enemy reinforcements could arrive, forcing a fighting retreat or a desperate stand.
-- Evidence suggests the cave is only one part of a larger operation - hints at more threats to come.
+- Evidence suggests the cave is only one part of a larger operation—hints at more threats to come.
 
 ## Transition
 
-With the captives freed and the immediate threat dealt with, the party must escape the cave - possibly pursued by enemies or a wild beast. As they emerge into the mountain air, they spot new signs of danger heading for Uwendale, setting up the urgent race back and the climactic defence of the outpost.
+With the captives freed and the immediate threat dealt with, the party must escape the cave—possibly pursued by enemies or a wild beast. As they emerge into the mountain air, they spot new signs of danger heading for Uwendale, setting up the urgent race back and the climactic defence of the outpost.

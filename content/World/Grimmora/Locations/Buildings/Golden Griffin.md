@@ -60,7 +60,7 @@ Located at the threshold between civilized lands and the harsh northern territor
 
 ## Our Experience
 
-We stayed at the Golden Griffin Inn on [[Entry 03#Day 3 (continued)|Day 3]] during our journey north. The innkeeper provided valuable information about the [[griffin|griffins]] in the nearby mountains, which proved useful for our travels.
+We stayed at the Golden Griffin Inn on [[Entry 3#Day 3 (continued)|Day 3]] during our journey north. The innkeeper provided valuable information about the [[griffin|griffins]] in the nearby mountains, which proved useful for our travels.
 
 The inn lived up to its reputation as a comfortable waystation, and the 1 gold piece rate was reasonable for the quality and location.
 

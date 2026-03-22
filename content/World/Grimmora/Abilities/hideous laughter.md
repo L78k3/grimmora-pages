@@ -1,1 +1,1 @@
-A spell cast by [[Theren]] that incapacitates targets by forcing them into fits of uncontrollable laughter. Used against both [[Lavender]] (when she was charmed) and the [[hag]].
+A spell cast by [[Theren]] that incapacitates targets by forcing them into fits of uncontrollable laughter. Used against both [[content/Campaigns/Campaign 1/Characters/Lavender/Lavender]] (when she was charmed) and the [[hag]].
