@@ -10,7 +10,7 @@ tags:
   - party-member
 ---
 
-![[gageIcon.webp]]
+![[gage.png]]
 
 > [!info] Character Overview
 > **Race:** Gnome (Rock)

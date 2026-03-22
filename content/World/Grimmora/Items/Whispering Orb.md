@@ -1,29 +1,39 @@
 ---
 title: Whispering Orb
-type: item
+description: "Magical Orb owned by [[The Party]]"
+aliases:
+  - Whispering Orb
 tags:
-  - item/magical
-  - mysterious
+  - item
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: Orb
+rarity: Magical
+owner: "[[The Party]]"
 ---
 
 # Whispering Orb
 
-> [!info] Obtained
-> **When:** [[Entry 32]]
-> **Where:** Found inside a statue in the [[Bridgeport Warehouse]]
-> **Current Owner:** Party
+> [!abstract] Properties
+> **Type:** Orb
+> **Attunement:** Unknown
+> **Value:** Unknown
 
-The **Whispering Orb** is a small, mysterious sphere found hidden within a statue in the [[Bridgeport Warehouse]].
+## Visual Description
+The Whispering Orb is a small, black, and mysterious sphere. Its surface appears opaque and non-reflective.
 
-## Description
+## Mechanics & Effects
+* **Auditory Effect:** When held close to the ear, the orb emits faint, indecipherable whispers.
+* **Mysterious Aura:** The item possesses a strange magical signature. [[Lavender]] sensed a particular "strangeness" from the object that she felt compelled to hide from the druid [[Halsen]].
 
-It is a small, black orb.
+## Lore & History
+The orb was found alongside other artifacts like the [[Wand of Strange Glyphs]] and the [[Chronometer Pocket Watch]] during the investigation of the [[Bridgeport Warehouse]]. It had been hidden within the hollow back of a stone statue produced by the [[Bridgeport Mason]]. Due to [[Lavender]]'s reaction, there is speculation that the orb may be connected to necromantic forces or her own divine patron.
 
-## Properties
-
-* **Auditory Effect:** When held close to the ear, it emits faint whispers.
-* **Aura:** [[Lavender]] sensed something "strange" from the orb but chose not to speak of it in front of [[Halsen]], suggesting it may have a connection to her own patron or the necromantic forces she is attuned to.
+## Acquisition
+* **Obtained In:** [[Entry 32]]
+* **Method:** Found hidden inside a stone statue during the raid on the [[Bridgeport Warehouse]].
 
 ---
-**Related:** [[Lavender]], [[Bridgeport Warehouse]], [[Entry 32]]
+**Related:** [[Lavender]] • [[Bridgeport Warehouse]] • [[Halsen]]

@@ -1,28 +1,39 @@
 ---
 title: Chronometer Pocket Watch
-type: item
+description: "A magical Watch owned by the Party"
+aliases:
+  - Chronometer Pocket Watch
 tags:
   - item/magical
   - chronomancy
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: Watch
+rarity: Magical
+owner: "[[The Party|Party]]"
 ---
 
 # Chronometer Pocket Watch
 
-> [!info] Obtained
-> **When:** [[Entry 32]]
-> **Where:** Found inside a statue in the [[Bridgeport Warehouse]]
-> **Current Owner:** Party
+> [!abstract] Properties
+> **Type:** Watch
+> **Attunement:** Unknown
+> **Value:** Unknown
 
-The **Chronometer Pocket Watch** is a magical timepiece found hidden within a statue in the [[Bridgeport Warehouse]].
+## Visual Description
+The Chronometer Pocket Watch is a timepiece made of gold with black hands.
 
-## Description
+## Mechanics & Effects
+The watch is confirmed to be related to chronomancy (time magic). Its specific mechanical abilities have not yet been tested.
 
-It is made of gold with black hands.
+## Lore & History
+The watch was identified by the druid [[Halsen]] as a magical item involved with time magic.
 
-## Properties
-
-[[Halsen]] identified the object as being involved with **chronomancy** (time magic), though its specific abilities have not yet been tested.
+## Acquisition
+* **Obtained In:** [[Entry 32]]
+* **Method:** Found hidden inside a stone statue within the [[Bridgeport Warehouse]].
 
 ---
-**Related:** [[Halsen]], [[Bridgeport Warehouse]], [[Entry 32]]
+**Related Entities:** [[Halsen]] • [[Bridgeport Warehouse]]

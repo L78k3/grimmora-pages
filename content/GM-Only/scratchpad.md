@@ -12,6 +12,6 @@ TABLE
     description AS "Summary"
 FROM "content/World/Grimmora/Items"
 WHERE type = "item"
-SORT owner ASC
+SORT owner,file ASC
 ```
 

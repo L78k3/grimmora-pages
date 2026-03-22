@@ -1,28 +1,35 @@
 ---
 title: Rune Box
-type: item
+description: "Magical container owned by [[Lavender]]"
+aliases:
+  - Rune Box
 tags:
-  - item/magical
-  - container
+  - item
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: container
+rarity: Magical
+owner: "[[Lavender]]"
 ---
 
 # Rune Box
 
-> [!info] Obtained
-> **When:** [[Entry 29]]
-> **Where:** [[Silvanus' Beard]]
-> **Current Owner:** [[Lavender]]
+> [!abstract] Properties
+> **Type:** container
+> **Attunement:** None
+> **Value:** Unknown
 
-The **Rune Box** is a magical container gifted to the party by [[Halsen]].
+## Visual Description
+A small box crafted from dark wood, intricately carved with protective runes.
 
-## Description
+## Mechanics & Effects
+The box is designed to shield and suppress magical signatures. It is currently being used to contain the [[Cloudy Gem (Sol)]] to prevent its powerful binding magic from being detected by the [[necromancers]] or other pursuers.
 
-It is a small box made of dark wood, intricately carved with runes.
+## Lore & History
+The box was gifted to the party by [[Halsen]] during their visit to [[Silvanus' Beard]]. Its purpose is to provide a portable means of concealing high-signature arcane items from magical tracking.
 
-## Properties
-
-The box is designed to shield magical signatures. It is currently being used to contain the [[Cloudy Gem (Sol)]] to prevent its powerful magic from being detected by the [[necromancers]] or other pursuers.
-
----
-**Related:** [[Halsen]], [[Cloudy Gem (Sol)]], [[Entry 29]]
+## Acquisition
+* **Obtained In:** [[Entry 29]]
+* **Method:** Gifted by [[Halsen]] at [[Silvanus' Beard]].

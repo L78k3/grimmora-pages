@@ -1,33 +1,38 @@
 ---
 title: Cloudy Gem (Sol)
-type: item
+description: "Dangerous Gem owned by [[Lavender]]"
+aliases:
+  - Cloudy Gem (Sol)
 tags:
+  - item
+  - obtained
   - item/magical
   - dangerous
-  - obtained
+draft: false
+date: 2026-03-21
+type: item
+subtype: Gem
+rarity: Dangerous
+owner: "[[Lavender]]"
 ---
 
 # Cloudy Gem (Sol)
 
-> [!info] Obtained
-> **When:** [[Entry 28]]
-> **Where:** Stolen by [[Gage]] from a desk drawer in the [[Temple of Sol]] study.
-> **Current Location:** Inside the [[Rune Box]] carried by [[Lavender]].
+> [!abstract] Properties
+> **Type:** Gem
+> **Attunement:** Unknown
+> **Value:** Unknown
 
-The **Cloudy Gem** is a mysterious, dark jewel retrieved from the [[Temple of Sol]] in [[Avalon]].
+## Visual Description
+The Cloudy Gem appears as a dark jewel that reveals a cloudy interior when held up to the light. [[Lavender]] noted that the stone bears a striking physical resemblance to the dark jewels set within the [[Ring of Orris]].
 
-## Description
+## Mechanics & Effects
+* **Binding Magic:** Both [[Theren]] and [[Halsen]] identified the gem as being surrounded by immensely powerful binding magic.
+* **Magical Signature:** The item radiates a potent magical aura that is easily detectable. It currently requires containment within the [[Rune Box]] to shield its signature from pursuers.
 
-It appears as a dark gem that is cloudy when held up to the light. [[Lavender]] noted that it looks similar to the stone set in the [[Ring of Orris]].
+## Lore & History
+Upon examining the stone at [[Silvanus' Beard]], the druid leader [[Halsen]] became deeply concerned by its power. He determined that the party requires the assistance of a specialist wizard or the reclusive druid located in [[Crystalmine Village]] to safely deal with the object. 
 
-## Properties
-
-* **Binding Magic:** [[Theren]] and [[Halsen]] identified powerful binding magic surrounding the gem.
-* **Magical Signature:** It radiates a strong magical aura that requires shielding to prevent detection.
-
-## History
-
-[[Gage]] stole this gem from a study in the [[Temple of Sol]] while investigating necromantic activity. Upon showing it to [[Halsen]] at [[Silvanus' Beard]], the druid became deeply concerned by its power and advised the party to find a specialist wizard or the reclusive druid in [[Crystalmine Village]] to deal with it.
-
----
-**Related:** [[Temple of Sol]], [[Rune Box]], [[Ring of Orris]], [[Entry 28]], [[Entry 29]]
+## Acquisition
+* **Obtained In:** [[Entry 28]]
+* **Method:** Stolen by [[Gage]] from a desk drawer within the staff study of the [[Temple of Sol]] in [[Avalon]].

@@ -1,28 +1,37 @@
 ---
 title: Corrupted Censer
-type: item
+description: "[[Gage|Dangerous censer owned by Gage]]"
+aliases:
+  - Corrupted Censer
 tags:
-  - item/magical
+  - item
   - dangerous
   - obtained
+  - item/magical
+draft: false
+date: 2025-01-01
+type: item
+subtype: censer
+rarity: Dangerous
+owner: "[[Gage]]"
 ---
 
 # Corrupted Censer
 
-> [!info] Obtained
-> **When:** [[Entry 32]]
-> **Where:** Found inside a statue in the [[Bridgeport Warehouse]]
-> **Current Owner:** [[Gage]] / Party
+> [!abstract] Properties
+> **Type:** censer
+> **Attunement:** Unknown
+> **Value:** Unknown
 
-The **Corrupted Censer** is a magical vessel found hidden within a statue in the [[Bridgeport Warehouse]].
+## Visual Description
+The censer is a magical vessel constructed from black metal with intricate gold filigree. At the time of its discovery, it was noted to be emitting a small amount of smoke.
 
-## Description
+## Mechanics & Effects
+Initially recognized by [[Gage]] as having an incense scent associated with cleansing, the item has been determined to be fundamentally perverted. According to [[Halsen]], the censer no longer cures ailments as intended but likely does the opposite, inflicting sickness or necrosis upon those exposed to it.
 
-It is a censer made of black metal with gold filigree. When found, it was emitting a small amount of smoke.
+## Lore & History
+The censer was one of several artifacts discovered within the [[Bridgeport Warehouse]] during a party raid. It was found concealed inside a stone statue. Following the battle, the item was transported to [[Silvanus' Beard]], where [[Halsen]] performed an inspection and identified its malicious corruption.
 
-## Properties
-
-* **Corruption:** [[Gage]] initially recognized the incense scent as something that *should* be cleansing. However, upon inspection, [[Halsen]] determined that the item had been perverted; instead of curing ailments as intended, it likely does the opposite (inflicting sickness or necrosis).
-
----
-**Related:** [[Halsen]], [[Bridgeport Warehouse]], [[Entry 32]]
+## Acquisition
+* **Obtained In:** [[Entry 32]]
+* **Method:** Found hidden within a hollow cavity inside a statue in the [[Bridgeport Warehouse]].

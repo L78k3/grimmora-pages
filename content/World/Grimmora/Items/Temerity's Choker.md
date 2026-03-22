@@ -1,37 +1,43 @@
 ---
 title: Temerity's Choker
-type: item
+description: "Cursed Mysterious owned by [[Temerity]]"
+aliases:
+  - Temerity's Choker
 tags:
-  - item/magical
+  - item
   - mysterious
+  - magical
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: Mysterious
+rarity: Unknown
+owner: "[[Temerity]]"
 ---
 
 # Temerity's Choker
 
-> [!info] Obtained
-> **When:** [[Entry 23]]
-> **Where:** [[The Snoring Jackal]] (manifested after a vision)
-> **Current Owner:** [[Temerity]]
+> [!abstract] Properties
+> **Type:** Mysterious
+> **Attunement:** Unknown
+> **Value:** Unknown
 
-**Temerity's Choker** is a mysterious accessory that manifested around [[Temerity]]'s neck following a harrowing vision.
+## Visual Description
+The choker appears as a physical manifestation of a root from a vision, featuring a distinct pattern of vines and roots. It has been noted by [[Gage]] as appearing "not natural". The item possesses thorns that have been observed to draw blood from the wearer.
 
-## Description
+## Mechanics & Effects
+* **Blood Feeding:** The choker appears to feed on the blood of [[Temerity]]; thorns have stabbed him during intimate moments.
+* **Planar Anchor:** The item acts as an anchor to reality; when the druid [[Muriel]] used ancient magic that attempted to pull [[Temerity]] away, the band tightened to keep him anchored in his current plane.
+* **Physical Constraint:** In its original vision, the root prevented the victim from speaking or breathing.
 
-The choker features a pattern of vines and roots. [[Gage]] observed it closely and noted that it appeared "not natural".
+## Lore & History
+The choker manifested around [[Temerity]]'s neck following a harrowing nightmare while he was unconscious at [[The Snoring Jackal]]. In the vision, he travelled through a deep, silent forest where a gnome-shaped tree entangled him. A freezing voice, sounding like splitting wood, accused him of lying and asked, "Why do you show lies?" before a root strangled him.
 
-## Origin & The Vision
+* **[[Entry 23]]:** The item first appeared upon [[Temerity]]'s neck after he collapsed from exhaustion.
+* **[[Entry 31]]:** The choker's anchoring properties were revealed when it resisted the magical pull of [[Muriel]] at [[Silvanus' Beard]].
+* **[[Entry 41]]:** During the interrogation of [[Lyra Valstrath]], it was noted that the procedure to release [[Auriel]] from the [[Ring of Orris]] is complex and fraught with danger, though the specific relationship between the [[Winter's Core]] and the choker's origin remains an active mystery.
 
-[[Temerity]] awoke wearing the choker after passing out at [[The Snoring Jackal]]. While unconscious, he experienced a vivid vision:
-
-* He walked through a deep, silent forest where light could not reach the canopy.
-* He encountered a distinctive tree shaped like a gnome with a bulbous head and branch-arms.
-* When he approached, the tree's arms grabbed him and twisted him to the ground.
-* A freezing voice, sounding like splitting wood, accused him of lying.
-* A root sprang up and strangled him, preventing him from speaking or breathing.
-* Just before he passed out in the dream, the voice asked, "Why do you show lies?".
-
-Upon waking, the root from the dream had manifested physically as this choker.
-
----
-**Related:** [[Temerity]], [[Entry 23]]
+## Acquisition
+* **Obtained In:** [[Entry 23]]
+* **Method:** Spontaneous physical manifestation following a supernatural vision.

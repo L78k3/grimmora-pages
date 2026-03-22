@@ -1,46 +1,44 @@
 ---
 title: Encoded Letters
-type: item
+description: "[[Gage|Unique documents owned by Gage]]"
+aliases:
+  - Encoded Letters
+  - Imperial Courier Letters
 tags:
-  - item/intel
-  - documents
+  - item
   - obtained
+draft: false
+date: 2025-01-01
+type: item
+subtype: documents
+rarity: Unique
+owner: "[[Gage]]"
 ---
 
 # Encoded Letters
 
-> [!info] Obtained
-> **When:** [[Entry 34]]
-> **Where:** [[Loraleia]]'s messenger bag aboard the [[Paddle Steamer]].
+> [!abstract] Properties
+> **Type:** documents
+> **Attunement:** None
+> **Value:** High (Intelligence)
 
-A collection of five letters found in the possession of the courier [[Loraleia]]. [[Gage]] and [[Theren]] successfully deciphered the codes.
+## Visual Description
+A collection of five sealed letters found within an [[Imperial Courier Bag]]. The letters were sealed with wax, some bearing monograms like "O.L." (identified as [[Orris Locke|Orris's]] handwriting) and "A.L.".
 
-## The Letters
+## Mechanics & Effects
+The letters contain sensitive intelligence written in a code that was successfully broken by [[Gage]] and [[Theren]]. The contents reveal several interconnected plots:
+* **The Mountain's Breath**: Intelligence regarding withered roots and a mountain choking.
+* **The Scar Grows**: Mention of a dirge, the light, and a search for "the core".
+* **The Black Feather**: Alerts regarding a missing ship and a torn "net".
+* **Walls Weep Shadow**: Notes on redrawing lines and trembling arches in cities.
+* **Operation Green Spill**: Details an active infiltration involving "silent invaders" and a "wet squad" near [[The Gilded Swan]].
 
-### 1. The Mountain's Breath
-* **Text:** "Roots withered. Veins clogged, the mountain’s breath chokes. Blood runs thin. Seek the alchemist. He saw the cracks."
-* **Sender:** O.L. ([[Orris|Orris Locke]])
-* **Recipient:** E.M.
+## Lore & History
+These letters were being transported by [[Loraleia]], an Imperial courier, intended for delivery to [[Durvish City]] and then [[Adalens]]. 
+* **[[Entry 34]] (The Deciphering):** While [[Loraleia]] was incapacitated by a curse, [[Gage]] and [[Theren]] infiltrated her cabin and transcribed the contents. [[Lavender]] identified [[Orris|Orris's]] handwriting on two of the monograms.
+* **[[Entry 35]] (The Gilded Swan Lead):** The party followed the "Operation Green Spill" clue to [[The Gilded Swan]] in [[Durvish City]], discovering it was a prank involving children and magical vines.
+* **[[Entry 38]] (Corbin and the Net):** The "torn net" mentioned in the letters was confirmed by [[Corbin]], referring to his smuggling and information network.
 
-### 2. The Scar Grows
-* **Text:** "The scar grows. Ice cries out. Not of winter’s truth but grasping hands. The stone hums a dirge. Seek the light. They seek the core."
-* **Sender:** O.L. ([[Orris|Orris Locke]])
-* **Recipient:** E.M.
-
-### 3. The Black Feather
-* **Text:** "Black feather is plucked. Coins are missing. No ship from the west until moon’s grace. There is still a pearl. Tell Corbin the net is torn."
-* **Sender:** A.L.
-* **Recipient:** G.L.
-
-### 4. Walls Weep Shadow
-* **Text:** "Walls weep shadow. Stones remember pain. They are redrawing the lines. The old arches tremble. No trust in the cities sleep."
-* **Sender:** C.M.
-* **Recipient:** A.R.
-
-### 5. Operation Green Spill
-* **Text:** "Operation green spill is active. The silent invaders advance. It’s tendrils grasp the sun. The gentle giant is unprepared. Deploy the wet squad. Location the third bush. East of the gilded swan’s nest. The ducks know nothing."
-* **Sender:** B.B.
-* **Recipient:** A.A.
-
----
-**Related:** [[Loraleia]], [[Orris]], [[Entry 34]]
+## Acquisition
+* **Obtained In:** [[Entry 34]]
+* **Method:** Transcribed and copied from [[Loraleia|Loraleia's]] messenger bag aboard the [[Paddle Steamer]].
