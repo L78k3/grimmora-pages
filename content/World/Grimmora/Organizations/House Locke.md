@@ -25,3 +25,4 @@
 
 ## History
 * **[[Entry 39]]:** [[Lavender]] recalled that [[Pellor]] is the deity worshipped by her family.
+* **[[Entry 39]]:** [[Lavender]] recalled that [[Pellor]] is the deity worshipped by her family.

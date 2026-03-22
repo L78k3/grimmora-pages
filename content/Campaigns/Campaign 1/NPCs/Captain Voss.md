@@ -3,7 +3,7 @@ title: Captain Voss
 type: npc
 race: Human
 class: Ship Captain / Smuggler
-location: "[[Tidecaller (Ship)]]"
+location: [[Tidecaller (Ship)]]
 affiliation: "[[Tidecaller (Ship)]]"
 status: Met
 tags:
@@ -49,3 +49,7 @@ Captain Voss is an older woman whose face is deeply weathered from years spent s
 * **[[Tidecaller (Ship)]]:** A sleek, dark, and well-maintained vessel optimized for speed and avoiding detection.
 * **[[Grey Pearl]]:** The specific token used by the party to verify their identity and secure Voss's services.
 
+
+
+## History
+* **[[Entry 39]]:** Met [[Lavender]] and the party at the [[Onasea]] harbour. Accepted the [[Grey Pearl]] as payment/signal and ushered them onto the [[Tidecaller (Ship)|Tidecaller]], noting that half the village was searching for them. She confirmed the journey to [[Adalens]] would take three days.

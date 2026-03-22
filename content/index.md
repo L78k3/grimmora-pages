@@ -1,26 +1,26 @@
 ---
 title: Grimmora Campaign
 layout: home
-date: 2025-01-01
+date: 2026-03-22
 ---
 
 # Grimmora Campaign
 
 > [!info] State of the Campaign
-> **Current Location:** [[Bandit Lake House]] (Hiding near [[Onasea]])
-> **Immediate Goal:** Secure passage on the *[[Tidecaller (Ship)|Tidecaller]]* to escape the region.
-> **Day:** 25
+> **Current Location:** [[Port Adal]] (Maritime gateway to [[Adalens]])
+> **Immediate Goal:** Navigate the city of [[Adalens]] cautiously while avoiding local eyes.
+> **Day:** 30
 
 ## 👥 The Party
 
-| Character        | Cockpit                                          | Player     | Class     | Status              |                       |
-| :--------------- | :----------------------------------------------- | :--------- | :-------- | :------------------ | --------------------- |
-| **[[Gage]]**     | [[Campaigns/Campaign 1/Characters/Gage/index     | 🛡️ Open]] | Luke      | Rogue / Ranger      | *The Greenblade*      |
-| **[[Lavender]]** | [[Campaigns/Campaign 1/Characters/Lavender/index | 🛡️ Open]] | Kit       | Barb / Paladin      | Attuned to the Ring   |
-| **[[Temerity]]** | [[Campaigns/Campaign 1/Characters/Temerity/index | 🛡️ Open]] | Paul      | Bard                | Cursed by Choker      |
-| **[[Theren]]**   | [[Campaigns/Campaign 1/Characters/Theren/index   | 🛡️ Open]] | Tony      | Warlock             | Haunted by Patron     |
-| **[[Mary-Ann]]** | [[Campaigns/Campaign 1/Characters/Mary-Ann/index | 🛡️ Open]] | Suzanne   | Rogue               | Travelling to Adalens |
-| **[[Anaphel]]**  | --                                               | --         | Celestial | Cut off from Auriel |                       |
+| Character | Cockpit | Player | Class | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[Gage]]** | [[Campaigns/Campaign 1/Characters/Gage/index \| 🛡️ Open]] | Luke | Rogue / Ranger | Skilled Marksman / Recon Expert |
+| **[[Lavender]]** | [[Campaigns/Campaign 1/Characters/Lavender/index \| 🛡️ Open]] | Kit | Barb / Paladin | Champion of [[Auriel]]; Attuned to the [[Ring of Orris]] |
+| **[[Temerity]]** | [[Campaigns/Campaign 1/Characters/Temerity/index \| 🛡️ Open]] | Paul | Bard / Warlock | Interrogator; currently wielding magical darkness |
+| **[[Theren]]** | [[Campaigns/Campaign 1/Characters/Theren/index \| 🛡️ Open]] | Tony | Warlock | Recovered from magical exhaustion; investigating [[Sargonnas]] |
+| **[[Mary-Ann]]** | [[Campaigns/Campaign 1/Characters/Mary-Ann/index \| 🛡️ Open]] | Suzanne | Rogue | Strategic Advisor; expert with knitting needle justice |
+| **[[Anaphel]]** | -- | -- | Celestial | Offspring of [[Auriel]]; currently severed from her light |
 
 **Companions & Familiars**
 [[Runcible]] • [[Korako]] • [[Chikatika]] • [[Aurius]] • [[Guido]]
@@ -30,7 +30,8 @@ date: 2025-01-01
 ## 📜 Quest Log
 
 **[[Ongoing Threads]]**
-*Check here for active mysteries, current objectives, and unsolved puzzles.*
+* **[[Passage to Adalens]]**: Escaping the reach of the [[Necromancers]] and the [[Master of Ash]].
+* **The Trapped Goddess**: Investigating the complex procedure required to free [[Auriel]] from the [[Ring of Orris]].
 
 ---
 
@@ -44,13 +45,13 @@ date: 2025-01-01
 
 ### [[The Frost]]
 *The northern reaches. Dangerous and cold.*
-* **Settlements:** [[Pinechill]] • [[Mightrest]]
+* **Settlements:** [[Pinechill]] • [[Mightrest]] • [[Arcadia]]
 * **Dungeons:** [[Vampire Mansion]] • [[Mausoleum (Alpine Forest)]] • [[Displaced Camp]]
 
 ### [[Nethis]]
 *The destination. A land of magic and mystery.*
 * **Cities:** [[Adalens]] • [[Adalens Ul-Maht]]
-* **Villages:** [[Port Adal]] • [[Crystalmine Village]]
+* **Villages:** [[Port Adal]] (Visited) • [[Crystalmine Village]]
 
 ---
 
@@ -58,27 +59,26 @@ date: 2025-01-01
 
 ### Key Allies
 * **[[Halsen]]:** Druid leader of [[Silvanus' Beard]].
-* **[[Corbin]]:** Missing ship captain and informant (On the run).
-* **[[Captain Voss]]:** Smuggler captain of the *Tidecaller*.
+* **[[Captain Voss]]:** Smuggler captain of the [[Tidecaller (Ship)|Tidecaller]].
 * **[[Lady Bromelia]]:** Leader of [[The Displaced]].
+* **[[Corbin]]:** Missing ship captain and informant (On the run).
 
 ### The Antagonists
+* **[[Master of Ash]]:** A powerful entity seeking to destroy his competition for balance.
+* **[[Lyra Valstrath]]:** High Priestess of Ash; captured and thrown overboard at [[Port Adal]].
 * **[[Zadhir]]:** Necromancer lord and merchant.
-* **[[Orris]]:** Lavender's brother. High-ranking necromancer (allegiance unclear).
-* **[[Soliana]]:** Zadhir's lieutenant and caravan master.
-
-### Notable Figures
-* **[[Azuul]]:** Dragonborn innkeeper of [[The Snoring Jackal]].
-* **[[Kevin (Sailor)]] & [[Grash]]:** Crew of the [[Paddle Steamer]].
-* **[[Loraleia]]:** Cured elven courier.
+* **[[Orris]]:** Lavender's brother; high-ranking necromancer.
 
 ---
 
 ## 📚 The Chronicles
 
-**Latest Entry:** [[Entry 38]]
+**Latest Entry:** [[Entry 41]]
 
 > [!example]- Full Chronicle Archive
+> * [[Entry 41]] - The High Priestess of Ash
+> * [[Entry 40]] - The Frozen Wraith
+> * [[Entry 39]] - The Voyage to Adalens
 > * [[Entry 38]] - Escape from the Sea Cave
 > * [[Entry 37]] - The Bandit Ambush & Corbin
 > * [[Entry 36]] - Battle in the Fog
@@ -118,29 +118,33 @@ date: 2025-01-01
 > * [[Entry 02]] - Bandits
 > * [[Entry 01]] - The Wedding
 
-# 🎒 Master Inventory
+---
 
-| Item                           | Held By      | Type       | Rarity    | Summary / Notes                                                                         |
-| :----------------------------- | :----------- | :--------- | :-------- | :-------------------------------------------------------------------------------------- |
-| [[Ring of Orris]]              | [[Lavender]] | Ring       | Legendary | Silver ring with three gems; radiates intense cold and grants *Spirit of Death*.        |
-| [[Winter's Core]]              | [[Lavender]] | Wondrous   | Legendary | Confirmed to be the entity of balance trapped inside the [[Ring of Orris]].             |
-| [[Gage's Cloak of the Forest]] | [[Gage]]     | Cloak      | Magical   | Dark green embroidered cloak; grants +1 to Nature and Survival skills.                  |
-| [[Cloudy Gem (Sol)]]           | [[Lavender]] | Gem        | Dangerous | Jewel with powerful binding magic; kept inside the [[Rune Box]] to hide its signature.  |
-| [[Wand of Strange Glyphs]]     | [[Theren]]   | Wand       | Magical   | Found in the [[Bridgeport Warehouse]]; shifts appearance and casts non-offensive magic. |
-| [[Temerity's Choker]]          | [[Temerity]] | Mysterious | Cursed    | A vine-like root that feeds on blood; manifested after a vision of a gnome-tree.        |
-| [[Cloak of Billowing]]         | [[Temerity]] | Cloak      | Common    | A black cloak with red lining that billows dramatically on command.                     |
-| [[Grey Pearl]]                 | [[Lavender]] | Key Item   | Unknown   | A token of safe passage provided by [[Corbin]] on behalf of [[Orris]].                  |
-| [[Corrupted Censer]]           | [[Gage]]     | Censer     | Dangerous | Black and gold vessel found in [[Bridgeport]]; perverted to cause sickness.             |
-| [[Chronometer Pocket Watch]]   | Party        | Watch      | Magical   | Gold watch with black hands; identified as an object of chronomancy.                    |
-| [[Imperial Courier Bag]]       | [[Gage]]     | Container  | Obtained  | Looted from [[Loraleia]]; contains the cipher keys and copied [[Encoded Letters]].      |
-| [[Rune Box]]                   | [[Lavender]] | Container  | Magical   | Dark wood box carved with runes; used to shield magical items from detection.           |
-| [[Whispering Orb]]             | Party        | Orb        | Magical   | A small black orb that emits faint whispers when held close to the ear.                 |
-| [[Pulverised Gem Dust]]        | Party        | Material   | Obtained  | Crushed gems taken from the [[Bridgeport Warehouse]] for transport.                     |
-| [[Necromantic Idol]]           | [[Gage]]     | Material   | Dangerous | Remains of the ritual focal point; currently a bag of sand held for [[Halsen]].         |
-| [[Encoded Letters]]            | [[Gage]]     | Documents  | Obtained  | Copied correspondence involving "Operation Green Spill" and the hunt for the Core.      |
-| [[gloomberries]]               | Party        | Consumable | Common    | Magical fruit used by druid children to create bursts of magical darkness.              |
+## 🎒 Master Inventory
 
-## 🛠️ Item Status Trackers
-* **Destroyed:** The [[Withered Rose]] (immolated by [[Temerity]] to break a curse).
-* **Missing/Transformed:** The [[Necromantic Idol]] is no longer an active item, having been reduced to sand by [[Theren]]'s *Shatter*.
-* **Active Quest Items:** The [[Grey Pearl]] must be presented to [[Captain Voss]] to maintain the party's safe passage.
+| Item | Held By | Type | Rarity | Summary / Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Ring of Orris]] | [[Lavender]] | Ring | Legendary | Radiates intense cold; contains the [[Winter's Core]]. |
+| [[Winter's Core]] | [[Lavender]] | Wondrous | Legendary | Confirmed entity of balance trapped within the [[Ring of Orris]]. |
+| [[Gage's Cloak of the Forest]] | [[Gage]] | Cloak | Magical | Grants +1 to Nature and Survival skills. |
+| [[Cloudy Gem (Sol)]] | [[Lavender]] | Gem | Dangerous | Kept inside the [[Rune Box]] to hide its binding magic. |
+| [[Wand of Strange Glyphs]] | [[Theren]] | Wand | Magical | Casts non-offensive magic; has shifting glyphs. |
+| [[Temerity's Choker]] | [[Temerity]] | Mysterious | Cursed | Manifested from a vision; feeds on blood. |
+| [[Cloak of Billowing]] | [[Temerity]] | Cloak | Common | Billows dramatically on command. |
+| [[Grey Pearl]] | [[Lavender]] | Key Item | Unknown | Token for [[Captain Voss]] to secure safe passage. |
+| [[Corrupted Censer]] | [[Gage]] | Censer | Dangerous | Perverted to cause sickness. |
+| [[Chronometer Pocket Watch]] | Party | Watch | Magical | Object of chronomancy with black hands. |
+| [[Imperial Courier Bag]] | [[Gage]] | Container | Obtained | Contains cipher keys and copied [[Encoded Letters]]. |
+| [[Rune Box]] | [[Lavender]] | Container | Magical | Shields magical items from detection. |
+| [[Whispering Orb]] | Party | Orb | Magical | Emits faint whispers when held close to the ear. |
+| [[Pulverised Gem Dust]] | Party | Material | Obtained | Valuable material from the [[Bridgeport Warehouse]]. |
+| [[Necromantic Idol]] | [[Gage]] | Material | Dangerous | Now a bag of sand used as the ritual focal point. |
+| [[Encoded Letters]] | [[Gage]] | Documents | Obtained | Correspondence involving "Operation Green Spill". |
+| [[gloomberries]] | Party | Consumable | Common | Creates bursts of magical darkness. |
+
+---
+
+### 🛠️ Item Status Trackers
+* **Destroyed**: The [[Withered Rose]] (immolated by [[Temerity]]).
+* **Transformed**: The [[Necromantic Idol]] is currently sand.
+* **Active Quest Items**: The [[Grey Pearl]] was presented to [[Captain Voss]].

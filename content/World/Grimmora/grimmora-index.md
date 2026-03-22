@@ -4,7 +4,7 @@ title: Grimmora
 
 # The World of Grimmora
 
-![[assets/GRIMMORA_UPDATED.jpg]]
+![[GRIMMORA_UPDATED 1.jpg]]
 
 Welcome to Grimmora. This is our journey through the world, documented as we explore.
 

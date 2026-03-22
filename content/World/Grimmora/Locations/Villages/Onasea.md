@@ -35,6 +35,7 @@ Our current plan is to find a caravan in [[Midward]] that is travelling south to
 ## Our Experience
 * **[[Entry 39]]:** The party arrived at night, flown in by [[Temerity]] in dragon form. They landed at the harbour, where they met [[Captain Voss]] and boarded the [[Tidecaller (Ship)|Tidecaller]] to depart for [[Adalens]].
 * **[[Entry 39]]:** The party arrived at night, flown in by [[Temerity]] in dragon form. They landed at the harbour, where they met [[Captain Voss]] and boarded the [[Tidecaller (Ship)|Tidecaller]] to depart for [[Adalens]].
+* **[[Entry 39]]:** The party arrived at night, flown in by [[Temerity]] in dragon form. They landed at the harbour, where they met [[Captain Voss]] and boarded the [[Tidecaller (Ship)|Tidecaller]] to depart for [[Adalens]].
 
 ---
 

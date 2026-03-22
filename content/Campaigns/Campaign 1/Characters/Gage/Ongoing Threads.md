@@ -6,53 +6,56 @@ status: active
 
 # Current Objectives
 
-## 🏃 IMMEDIATE: Escape Onasea
-**Status:** Urgent
-**Location:** [[Onasea]]
+## 🏃 IMMEDIATE: Safe Passage through Adalens
+**Status:** Urgent 
+**Location:** [[Port Adal]] / [[Adalens]] 
 
-We are currently in hiding after being ambushed by necromancers in the [[Onasea Sea Cave]]. We need to flee the region before [[Zadhir]] or his agents find us.
+The party has successfully arrived at [[Port Adal]] via the [[Tidecaller (Ship)|Tidecaller]]. However, [[Captain Voss|Voss]] has issued a stern warning that the city of [[Adalens]] "has eyes" and the party must move fast and carefully.
 
-* **The Contact:** We must find **[[Captain Voss]]** and her ship, the **[[Tidecaller (Ship)|Tidecaller]]**.
-* **The Key:** [[Lavender]] must present the **[[Grey Pearl]]** (given by [[Corbin]]) to Voss. This signal should secure us passage to [[Adalens]] with "no questions asked."
-* **The Obstacle:** The town is crawling with threats, and we are currently recovering in the [[Bandit Lake House]] hideout.
+* **The Contact:** Find the alchemist mentioned in the [[Encoded Letters]] who "saw the cracks".
+* **The Goal:** Safely enter the main city and navigate toward the rendezvous with [[Orris]].
+* **The Obstacle:** The [[Master of Ash]] is actively hunting the party across the sea, and his agents may already be within the city.
 
 ---
 
 ## 🟣 MAIN QUEST: The Goddess & The Ring
-**Status:** Critical
-**Key Item:** [[Ring of Orris]]
+**Status:** Critical 
+**Key Item:** [[Ring of Orris]] 
 
-[[Anaphel]] believes that the goddess **[[Auriel]]** has been trapped inside [[Lavender]]'s ring by the necromancers to "tip the scales." Lavender has sworn to free her.
+High Priestess [[Lyra Valstrath]] has confirmed that the [[Ring of Orris]] contains the [[Winter's Core]] - an entity described as "she who strives for balance". The [[Master of Ash]] seeks to destroy this competition to tip the scales of power in his favour.
 
-* **Next Step:** Travel to [[Adalens]].
-* **The Contact:** Use the **Sending Stone** to contact [[Orris]] once we arrive.
-* **The Mystery:** Is Orris a traitor who trapped the goddess, or a double agent trying to keep her safe from his own masters?
+* **Confirmed Identity:** The ring contains a powerful entity of balance, likely the goddess [[Auriel]].
+* **The Release:** Interrogating Lyra revealed that there is a "very complex procedure" to release the entity, which is fraught with danger.
+* **Next Step:** Meet with [[Orris]] in [[Adalens]] to determine his true allegiance and find the means to free the goddess.
 
 ---
 
 ## 🟢 SIDE QUEST: Temerity's Cursed Choker
-**Status:** Concerning
-**Key Item:** [[Temerity's Choker]]
+**Status:** Concerning 
+**Key Item:** [[Temerity's Choker]] 
 
-[[Temerity]] is wearing a vine-like choker that manifested after a vision of a "gnome-tree" in a dark forest.
-* **Symptoms:** It has thorns that draw blood.
-* **The Vision:** A voice asked him, *"Why do you show lies?"*
-* **Leads:** None currently. [[Halsen]] might have known, but we have left [[Avalon]]. We need to find a powerful druid or curse-breaker.
+[[Temerity]] continues to wear the vine-like choker that feeds on his blood. While its grip remains, Temerity has recently demonstrated an unnatural resistance to fire damage, even while being physically sat upon by a glowing High Priestess.
+
+* **Symptoms:** Thorns that draw blood.
+* **Recent Developments:** Grants resistance to fire-based attacks.
+* **Leads:** None currently. The party must seek a powerful druid, such as the one in [[Crystalmine Village]], or a curse-breaker in [[Adalens]].
 
 ---
 
-## 🟡 MYSTERY: "Winter's Core"
-**Status:** Investigating
+## 🟡 MYSTERY: The Master of Ash
+**Status:** Threat Identified 
 
-[[Corbin]] revealed he was being hunted because he tracked shipments involving "Winter's Core."
-* **Clues:** The [[Encoded Letters]] mentioned "The stone hums a dirge" and "Seek the core."
-* **Theory:** This may be related to the [[Cloudy Gem (Sol)]] we stole from the Temple, or the trapped goddess herself.
+The [[Master of Ash]] is more than a ghost captain; he is the head of a powerful cult that has been sinking and raising ships for years. His High Priestess, [[Lyra Valstrath]], claims he is "more powerful than they can ever imagine" and controls all.
+
+* **Connection:** Lyra showed recognition at the name [[Sargonnas]], hinting at the cult's divine patron.
+* **History:** Linked to the destruction of various vessels and the recruitment of "Magnus" as a predecessor.
+* **Status:** His high priestess was defeated and thrown overboard at [[Port Adal]], but the Master's pursuit of the ring will likely continue.
 
 ---
 
 ## 📜 Active Puzzles & Items to Identify
 
-* **[[Wand of Strange Glyphs]]:** Found in the [[Bridgeport Warehouse]]. Non-offensive spell charges.
-* **[[Chronometer Pocket Watch]]:** Found in the Warehouse. Related to Chronomancy.
-* **[[Whispering Orb]]:** Found in the Warehouse. Emits faint whispers.
-* **[[Cloudy Gem (Sol)]]:** Kept in the **[[Rune Box]]**. Powerful binding magic. Needs a specialist (possibly the reclusive druid in [[Crystalmine Village]]).
+* **[[Wand of Strange Glyphs]]:** Found in the [[Bridgeport Warehouse]]. Casts a non-offensive spell, though the specific glyphs shift.
+* **[[Chronometer Pocket Watch]]:** Found in the Warehouse. Confirmed by [[Halsen]] to be related to chronomancy.
+* **[[Whispering Orb]]:** Found in the Warehouse. Continues to emit faint whispers.
+* **[[Cloudy Gem (Sol)]]:** Kept in the **[[Rune Box]]** to shield its powerful binding magic.

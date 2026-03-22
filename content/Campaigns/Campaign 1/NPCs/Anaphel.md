@@ -70,3 +70,11 @@ Despite their divine origin, Anaphel suffers from a deep homesickness for the im
 ## Notable Equipment
 * **[[Ring of Orris]] (Related):** While not worn by Anaphel, this item is central to their current arc, as they believe it imprisons [[Auriel]].
 * **Spiritual Weapon:** Manifests as a floating weapon with snowflake motifs.
+
+
+## Campaign Notes
+### Loss of Connection
+In **[[Entry 39]]**, while traveling to [[Onasea]], Anaphel confessed to [[Lavender]] that they no longer felt their connection to [[Auriel]], stating they "don't have something any more."
+
+### Theological Research
+Anaphel began researching the possibility of an adversary to Auriel—specifically relating to fire or heat. Working with [[Theren]] and [[Lavender]], they discussed deities like [[Sol]], [[Pellor]], and [[Sargonnas]]. Anaphel hopes to find answers in [[Adalens]].

@@ -48,3 +48,8 @@ Formerly belonging to [[Orris]], the ring serves as a tool of immense power and 
 * **Obtained In:** [[Entry 16]]
 * **Method:** Found by [[Guido]] hidden at the bottom of a mead bottle at an inn in [[Arcadia]].
 
+
+
+## History & Usage
+### The Moon's Grace
+In **[[Entry 39]]**, as the appointed time for their departure neared, the ring grew intensely cold, forming rime and frosting the air around it. Under the moonlight at [[Onasea]], the jewel refracted the light, and [[Lavender]] felt a sense of contentment rather than fear. [[Anaphel]] refused to hold it, sensing that the entity inside might be the counterpart to [[Auriel]].
