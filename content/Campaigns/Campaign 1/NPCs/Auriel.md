@@ -46,5 +46,5 @@ Recently, her presence in [[grimmora-index|Grimmora]] has waned. Her temples hav
 ## Key Relationships
 * **[[Lavender]]:** Her champion and devoted follower. Auriel has taken a direct interest in Lavender's growth, testing her resolve and granting her divine power.
 * **[[Anaphel]]:** Her offspring. Anaphel was sent by Auriel to the mortal realm but is currently distressed by the silence from their mother.
-* **[[Orris]]:** Lavender's brother. His ring, the [[Ring of Orris]], is suspected to be the prison holding Auriel.
+* **[[Orris Locke]]:** Lavender's brother. His ring, the [[Ring of Orris]], is suspected to be the prison holding Auriel.
 * **[[The Wild Wanderer]]:** An entity mentioned by Anaphel in relation to Auriel and the immortal planes.

@@ -25,7 +25,7 @@ Lavender asks for more context on the net. Corbin says he is part of an informat
 
 Mary-Ann asks which people are being sought by the necromancers for smuggling. Corbin thinks they’re after something specific, as they’re taking anyone who might have a connection to it. Lavender asks what the message means and Corbin says that someone in his network has been captured. A man came through a while back – a noble-looking man who seemed conflicted. The man said a woman with a noble background and military bearing would come through and that she must get to safety, that she was in danger but wouldn’t know it and that she must be given something. He holds up a [[Grey Pearl|grey pearl]]. She reaches to take the pearl and a vision hits her in the face.
 
-A dimly lit room – [[Orris]], hooded, presses the pearl into Corbin’s hands – [[Captain Voss]] knows what to do – if they capture her, she’ll need a way out – she doesn’t know what she has – keep her safe.
+A dimly lit room – [[Orris Locke]], hooded, presses the pearl into Corbin’s hands – [[Captain Voss]] knows what to do – if they capture her, she’ll need a way out – she doesn’t know what she has – keep her safe.
 
 Lavender returns to reality and relates her vision to the others. Mary-Ann asks Corbin if he knows Voss. Corbin replies that he does know her – she’s the [[Tidecaller (Ship)|Tidecaller]]’s captain. She runs passengers the authorities don’t ask about. Gage asks if she is Corbin’s network. Corbin says that he can vouch for her. Lavender asks who Corbin was expecting the message from. Corbin doesn’t know but he hoped he’d never get the message. He tells them to show the pearl to Voss and she was take them to [[Adalens]] with no questions asked.
 

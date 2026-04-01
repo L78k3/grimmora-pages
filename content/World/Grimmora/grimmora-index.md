@@ -48,7 +48,7 @@ Cities and towns we've visited and documented:
 
 ### Heard About
 Places mentioned but not yet visited:
-- [[Adalens]] - Major island city; meeting point with [[Orris]]
+- [[Adalens]] - Major island city; meeting point with [[Orris Locke]]
 - [[Adalens Ul-Maht]] - The floating city connected to Adalens
 - [[Port Adal]] - The main port for Adalens
 - [[Crystalmine Village]] - Home to a reclusive druid

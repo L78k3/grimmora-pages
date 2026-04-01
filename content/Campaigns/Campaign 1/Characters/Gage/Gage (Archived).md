@@ -30,7 +30,7 @@ Gage officially trained with the **[[Ranger Guild Recruiter]]** aboard the [[Pad
 
 ### Key Relationships
 * **[[Halsen]]:** Gage bonded deeply with the druid leader over nature and sustainability.
-* **[[Orris]]:** Gage revealed to the party that he was originally hired by Orris to track [[Lavender]].
+* **[[Orris Locke]]:** Gage revealed to the party that he was originally hired by Orris to track [[Lavender]].
 
 ### Notable Equipment Obtained
 * **[[Gage's Cloak of the Forest]]:** A magical cloak gifted by the druid [[Halsen]] at [[Silvanus' Beard]].

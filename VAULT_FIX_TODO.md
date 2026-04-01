@@ -24,7 +24,7 @@
 ## 🟡 Content Gaps
 - [x] [[Anaphel.md]]
     - **Details:** Frontmatter status is 'Alive', but latest chronicle Entry 39 shows they have lost their divine connection and are despondent. Snapshots show a 'Weakened / Trapped' status for their parent deity Auriel.
-- [x] [[Orris.md]]
+- [x] [[Orris Locke]]
     - **Details:** Mentioned in Entry 38 (Entrusting the Grey Pearl to Corbin) and Entry 39 (Favor owed by Voss), but these specific exploits are not in the Campaign History section.
 - [x] [[Lavender.md]]
     - **Details:** Mentioned in Entry 39 (Boarding the Tidecaller and Moon Grace ritual) but missing from Campaign History.

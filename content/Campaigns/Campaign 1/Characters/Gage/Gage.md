@@ -39,7 +39,7 @@ As he aged, the glint of gold faded. He began to see cracks in the system - miss
 * **[[Entry 15]] (Infiltration of Arcadia):** Leads the group into [[Arcadia]] through a secret gap in the wall and negotiates safe passage with a bartender using a rare flower.
 * **[[Entry 15]] (Mansion Reconnaissance):** Scales the [[Mayor's Mansion (Arcadia)|mayor's mansion]] to a balcony, infiltrates the servants' quarters, and physically neutralizes a servant to maintain his cover before reporting to his contact, [[Frolot]].
 * **[[Entry 17]] (The Clockwork Door):** Helps bypass a secret door in the mansion by analysing the ticking mechanism of a grandfather clock.
-* **[[Entry 18]] (A Private Audience):** Accompanies [[Lavender]] into the office of [[Orris]] and receives a telepathic request to keep her safe.
+* **[[Entry 18]] (A Private Audience):** Accompanies [[Lavender]] into the office of [[Orris Locke]] and receives a telepathic request to keep her safe.
 * **[[Entry 20]] (The Skull in the Woods):** Follows a trail of [will o' the wisps](https://2014.5e.tools/bestiary.html#will-o'-wisp_mm) in the [[Alpine Forest]] to a ritual site containing a diamond-eyed skull, where he is mentally subdued and captured.
 * **[[Entry 21]] (The Mausoleum Escape):** Escapes a cell within the [[Mausoleum (Alpine Forest)|mausoleum]], retrieves his gear, and engages in combat against guards and a [[stone golem]] to facilitate the party's escape.
 * **[[Entry 23]] (Intel Gathering):** Utilizes [thieves' cant](https://2014.5e.tools/languages.html#thieves'%20cant_phb) at the [[Jade Zephyr Casino]] in [[Midward]] to gather information on [[Zadhir]] and the local criminal element.
@@ -62,7 +62,7 @@ As he aged, the glint of gold faded. He began to see cracks in the system - miss
 
 ## Key Relationships
 * **[[Halsen]]:** Gage bonded deeply with the druid leader over nature and sustainability.
-* **[[Orris]]:** Gage revealed to the party that he was originally hired by Orris to track [[Lavender]].
+* **[[Orris Locke]]:** Gage revealed to the party that he was originally hired by Orris to track [[Lavender]].
 
 ## Notable Equipment
 * **[[Gage's Cloak of the Forest]]:** A magical cloak gifted by the druid [[Halsen]] at [[Silvanus' Beard]].

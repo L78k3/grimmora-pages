@@ -18,7 +18,7 @@ characters:
 
 The party agrees to return to the inn to rest. Gage notices necromantic energy around the inn but it is not out of ordinary, given where they are. They enter and Temerity summons the innkeeper to the bar. The innkeeper isn’t happy to see him again. [[Lavender]] and [[Theren]] promise that they will leave with Temerity after they have eaten, in an attempt to appease the innkeeper. They all take a moment to sit and rest.
 
-Lavender is concerned that [[Orris]] set them up for the fight and mulls this issue to herself. Temerity pets his animals. Innkeeper brings a cold breakfast out – cheeses, bread, meats. Gage asks him about the child that they acquired herbs for. The innkeeper replies that they’re doing better but are not out of danger yet.
+Lavender is concerned that [[Orris Locke]] set them up for the fight and mulls this issue to herself. Temerity pets his animals. Innkeeper brings a cold breakfast out – cheeses, bread, meats. Gage asks him about the child that they acquired herbs for. The innkeeper replies that they’re doing better but are not out of danger yet.
 
 The party discusses options for the journey to [[Adalens]]. They decide that the best course of action is to head through [[Pinechill]] village to the town of [[Midward]] to try and get a caravan down to [[Onasea]] village, which has a quay.
 

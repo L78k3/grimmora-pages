@@ -42,7 +42,7 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 * **[[Entry 03]] (Inn Heist):** Steals gold and beer from the [[Golden Griffin]] inn while the innkeeper is distracted by [[Korako]].
 * **[[Entry 03]] (Fey Realm Kidnapping):** Kidnapped to the [[fey realm]], where he meets [[Summer]] and [[Winter]] and secures a boon of immortality for [[Korako]].
 * **[[Entry 03]] (Dimensional Sucker):** Fights a [[dimensional sucker]] alongside the party, suffering mortal wounds while protecting [[Lavender]].
-* **[[Entry 03]] (Scrying):** Jumps into a [[scrying pool]] to locate [[Orris]], antagonizing [[Lavender]] in the process.
+* **[[Entry 03]] (Scrying):** Jumps into a [[scrying pool]] to locate [[Orris Locke]], antagonizing [[Lavender]] in the process.
 * **[[Entry 04]] (Kitchen Brawl):** Engages in a fistfight with a [[Gnome Cook]] over [[Lavender]]'s honour, ending with both of them concussed and drinking with [[Gorg]].
 * **[[Entry 05]] (Vampire Concert):** Plays the [[Pipe Organ (Vampire Mansion)|pipe organ]] to distract a [[Vampire Lord]] before reading its mind and engaging in combat.
 * **[[Entry 05]] (Innkeeper Bond):** Bonds with [[Gorg]] over magic and learns about the [[Wild Wanderer]].
@@ -69,7 +69,7 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 * **[[Entry 16]] (Mansion Distraction):** Sings a song about a zombie donkey paladin to distract guards at the [[Mayor's Mansion (Arcadia)|Mayor's Mansion]].
 * **[[Entry 17]] (The Kiss):** Breaks [[Lavender]]'s paralysis enchantment with a kiss at the mansion entrance.
 * **[[Entry 17]] (Lair Entry):** Tricks the zombie receptionist in [[Orris' Secret Lair]] by claiming to look for a pet shop.
-* **[[Entry 18]] (Waiting Room):** Defaces magazines into origami gnomes and intimidates guards while waiting for [[Lavender]]'s meeting with [[Orris]].
+* **[[Entry 18]] (Waiting Room):** Defaces magazines into origami gnomes and intimidates guards while waiting for [[Lavender]]'s meeting with [[Orris Locke]].
 * **[[Entry 18]] (Square Battle):** Uses *sacred flame* and healing magic to support the party against [[necromancers]] in the town square.
 * **[[Entry 19]] (Starstruck):** Mistakes the aasimar [[Anaphel]] for a fallen star upon their first meeting in [[Pinechill]].
 * **[[Entry 20]] (Bunny Deity):** Convinces [[Anaphel]] to bow before [[Korako]] as a "rabbit deity."

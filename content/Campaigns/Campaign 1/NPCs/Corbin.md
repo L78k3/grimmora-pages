@@ -37,12 +37,12 @@ Though he spent a month in isolation within a trapped sea cave, he remains a ded
 
 ## Campaign History
 * **[[Entry 37]] (The Missing Captain):** The party arrives in Onasea and learns that Corbin has been missing for a month. Villagers reveal he was asking "too many questions" about unusual shipments before vanishing, leaving his ship, the ***[[Albany Castle (Ship)|Albany Castle]]***, abandoned at the docks.
-* **[[Entry 38]] (The Sea Cave Meeting):** The party tracks Corbin to a trapped sea cave north of the docks. He reveals he was forced into hiding after tracking shipments of necromantic artifacts and mentions of "Winter's Core." He fulfills a request from **[[Orris]]** by handing **[[Lavender]]** the **[[Grey Pearl]]** and instructing her to find **[[Captain Voss]]**.
+* **[[Entry 38]] (The Sea Cave Meeting):** The party tracks Corbin to a trapped sea cave north of the docks. He reveals he was forced into hiding after tracking shipments of necromantic artifacts and mentions of "Winter's Core." He fulfills a request from **[[Orris Locke]]** by handing **[[Lavender]]** the **[[Grey Pearl]]** and instructing her to find **[[Captain Voss]]**.
 * **[[Entry 38]] (The Underwater Escape):** During their meeting, the cave is ambushed by necromancers. Corbin leads the party through a secret, partially submerged tunnel to safety. Once in the forest, he declines further assistance from the party, accepts a bag of gold from **[[Mary-Ann]]**, and disappears into the trees to start his life over.
 
 ## Key Relationships
 * **[[Lavender]]:** Corbin acted as a crucial intermediary for her, delivering a message and an artifact from her brother, Orris.
-* **[[Orris]]:** An associate who trusted Corbin with a **[[Grey Pearl]]** intended for Lavender's protection.
+* **[[Orris Locke]]:** An associate who trusted Corbin with a **[[Grey Pearl]]** intended for Lavender's protection.
 * **[[Captain Voss]]:** A fellow captain and member of his smuggling network whom Corbin vouched for as a reliable means of reaching **[[Adalens]]**.
 * **[[Mary-Ann]]:** A brief benefactor who provided him with gold to aid his relocation.
 

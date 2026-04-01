@@ -64,7 +64,7 @@ date: 2025-01-01
 
 ### The Antagonists
 * **[[Zadhir]]:** Necromancer lord and merchant.
-* **[[Orris]]:** Lavender's brother. High-ranking necromancer (allegiance unclear).
+* **[[Orris Locke]]:** Lavender's brother. High-ranking necromancer (allegiance unclear).
 * **[[Soliana]]:** Zadhir's lieutenant and caravan master.
 
 ### Notable Figures
@@ -129,7 +129,7 @@ date: 2025-01-01
 | [[Wand of Strange Glyphs]]     | [[Theren]]   | Wand       | Magical   | Found in the [[Bridgeport Warehouse]]; shifts appearance and casts non-offensive magic. |
 | [[Temerity's Choker]]          | [[Temerity]] | Mysterious | Cursed    | A vine-like root that feeds on blood; manifested after a vision of a gnome-tree.        |
 | [[Cloak of Billowing]]         | [[Temerity]] | Cloak      | Common    | A black cloak with red lining that billows dramatically on command.                     |
-| [[Grey Pearl]]                 | [[Lavender]] | Key Item   | Unknown   | A token of safe passage provided by [[Corbin]] on behalf of [[Orris]].                  |
+| [[Grey Pearl]]                 | [[Lavender]] | Key Item   | Unknown   | A token of safe passage provided by [[Corbin]] on behalf of [[Orris Locke]].                  |
 | [[Corrupted Censer]]           | [[Gage]]     | Censer     | Dangerous | Black and gold vessel found in [[Bridgeport]]; perverted to cause sickness.             |
 | [[Chronometer Pocket Watch]]   | Party        | Watch      | Magical   | Gold watch with black hands; identified as an object of chronomancy.                    |
 | [[Imperial Courier Bag]]       | [[Gage]]     | Container  | Obtained  | Looted from [[Loraleia]]; contains the cipher keys and copied [[Encoded Letters]].      |

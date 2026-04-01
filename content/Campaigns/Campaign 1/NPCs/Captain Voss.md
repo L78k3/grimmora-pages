@@ -31,7 +31,7 @@ tags:
 **Captain Voss** is a seasoned sailor and professional smuggler who commands the **[[Tidecaller (Ship)]]**. She is known for moving passengers and cargo that "the authorities don't ask about."
 
 ## Biography & Personality
-Captain Voss is an older woman whose face is deeply weathered from years spent sailing the open seas. She possesses a knowing smile and a pragmatic, no-nonsense attitude toward her work. As a key member of **[[Corbin]]'s** information and smuggling network, she operates with high discretion and efficiency. Voss is particularly loyal to her personal debts, notably stating that she "owes **[[Orris]]** a favour," which served as the primary motivation for her assisting the party.
+Captain Voss is an older woman whose face is deeply weathered from years spent sailing the open seas. She possesses a knowing smile and a pragmatic, no-nonsense attitude toward her work. As a key member of **[[Corbin]]'s** information and smuggling network, she operates with high discretion and efficiency. Voss is particularly loyal to her personal debts, notably stating that she "owes **[[Orris Locke]]** a favour," which served as the primary motivation for her assisting the party.
 
 ## Campaign History
 * **[[Entry 38]] (The Arrangement):** Voss was identified by Corbin as his most reliable contact for extracting the party from **[[Onasea]]**. Corbin revealed a vision where Orris entrusted him with a **[[Grey Pearl]]** to be given to Voss, ensuring **[[Lavender]]** would be taken to safety with no questions asked.
@@ -41,7 +41,7 @@ Captain Voss is an older woman whose face is deeply weathered from years spent s
 
 ## Key Relationships
 * **[[Lavender]]:** Voss acts as a guardian for Lavender, fulfilling a secret agreement with Lavender's brother to ensure she reaches safety.
-* **[[Orris]]:** An old acquaintance to whom Voss feels a significant debt of gratitude or professional obligation.
+* **[[Orris Locke]]:** An old acquaintance to whom Voss feels a significant debt of gratitude or professional obligation.
 * **[[Corbin]]:** A trusted partner in a clandestine smuggling and information-sharing network.
 * **[[Gage]]:** Recognizes his military background and has agreed to potentially employ him as additional security for the ship.
 

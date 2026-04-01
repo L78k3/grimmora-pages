@@ -31,7 +31,7 @@ Florian is a specialized arcane practitioner who facilitates powerful divination
 ## Key Relationships
 * **[[Summer]] and [[Winter]]:** His royal patrons within the Court.
 * **[[Lavender]]:** Provided her with access to a vision of her family through her grandmother's eyes.
-* **[[Temerity]]:** Assisted him in a scrying attempt directed toward [[Orris]].
+* **[[Temerity]]:** Assisted him in a scrying attempt directed toward [[Orris Locke]].
 
 ## Notable Equipment
 * **[[scrying pool]]:** A white marble basin with an eye sculpture used for viewing distant places and people.

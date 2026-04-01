@@ -8,7 +8,7 @@ characters:
   - "[[Gage]]"
   - "[[Theren]]"
   - "[[Temerity]]"
-  - "[[Orris]]"
+  - "[[Orris Locke]]"
 ---
 # Day 12 (continued)
 
@@ -20,7 +20,7 @@ Temerity speaks to the fallen guard, referring to Lavender as his prospective br
 
 Lavender chooses to ignore the commotion outside. She, Gage and Theren move into the office with Orris. One wall is a massive bookcase, green curtains hang across other walls and a massive desk with a quill and a half-written letter dominate the middle of the room. Orris asks about Temerity and Lavender says it is best if he stays outside. Orris asks Theren to close the door. Theren is nervous but acquiesces.
 
-[[Orris]] asks Lavender how she is. She is taken aback and does not know what to do or say. Orris’s manner is genial and friendly. He compliments Lavender. Outside, Temerity casts zone of truth. Lavender and Gage detect the spell and now must tell the truth, whereas Theren and Orris are still able to lie and do not know that the spell has been cast.
+[[Orris Locke]] asks Lavender how she is. She is taken aback and does not know what to do or say. Orris’s manner is genial and friendly. He compliments Lavender. Outside, Temerity casts zone of truth. Lavender and Gage detect the spell and now must tell the truth, whereas Theren and Orris are still able to lie and do not know that the spell has been cast.
 
 Orris understands why Lavender has sought him out and tells her that there is much that each must explain to the other. He confesses that he has missed her. This news hits her hard and she confesses the same. Orris looks at Gage, whom he had hired to track Lavender. He explains to her why he did it, that he wanted to keep an eye to keep her safe. He stops and cannot continue; he tells her that there are too many others around. He wants to meet in another city instead.
 

@@ -206,7 +206,7 @@ Use this list to check if an entity already has a page.
   - [[Mavis]]
   - [[Millicent]]
   - [[Orion]]
-  - [[Orris]]
+  - [[Orris Locke]]
   - [[Rowan]]
   - [[Runcible]]
   - [[Summer]]

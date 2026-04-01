@@ -28,7 +28,7 @@ The Imperial Courier Bag is a professional satchel belonging to the elven courie
 The bag is designed to securely transport sensitive documents. While in the party's possession, [[Gage]] successfully used his specialized tools to carefully pry off the seals of the letters within to copy their contents. He was then able to restore the seals to their original state to avoid detection by the courier or other authorities.
 
 ## Lore & History
-The bag was identified by [[Theren]] as a mark of the Imperial Courier service. When discovered, it contained five **[[Encoded Letters]]**, two of which were written by [[Lavender]]'s brother, [[Orris]]. These letters contained critical intelligence regarding "Operation Green Spill" and the hunt for "[[Winter's Core]]".
+The bag was identified by [[Theren]] as a mark of the Imperial Courier service. When discovered, it contained five **[[Encoded Letters]]**, two of which were written by [[Lavender]]'s brother, [[Orris Locke]]. These letters contained critical intelligence regarding "Operation Green Spill" and the hunt for "[[Winter's Core]]".
 
 ## Acquisition
 * **Obtained In:** [[Entry 34]]

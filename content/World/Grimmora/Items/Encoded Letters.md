@@ -35,7 +35,7 @@ The letters contain sensitive intelligence written in a code that was successful
 
 ## Lore & History
 These letters were being transported by [[Loraleia]], an Imperial courier, intended for delivery to [[Durvish City]] and then [[Adalens]]. 
-* **[[Entry 34]] (The Deciphering):** While [[Loraleia]] was incapacitated by a curse, [[Gage]] and [[Theren]] infiltrated her cabin and transcribed the contents. [[Lavender]] identified [[Orris|Orris's]] handwriting on two of the monograms.
+* **[[Entry 34]] (The Deciphering):** While [[Loraleia]] was incapacitated by a curse, [[Gage]] and [[Theren]] infiltrated her cabin and transcribed the contents. [[Lavender]] identified [[Orris Locke|Orris's]] handwriting on two of the monograms.
 * **[[Entry 35]] (The Gilded Swan Lead):** The party followed the "Operation Green Spill" clue to [[The Gilded Swan]] in [[Durvish City]], discovering it was a prank involving children and magical vines.
 * **[[Entry 38]] (Corbin and the Net):** The "torn net" mentioned in the letters was confirmed by [[Corbin]], referring to his smuggling and information network.
 

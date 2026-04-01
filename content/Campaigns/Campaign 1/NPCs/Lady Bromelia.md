@@ -37,13 +37,13 @@ As the leader of the Displaced, she is focused on revenge and securing a home fo
 ## Campaign History
 * **[[Entry 01]] (The Wedding Abduction):** Bromelia appeared at her wedding ceremony in Durvish City, clearly distraught and unwilling to wed Lord Requiem. The ceremony was interrupted by a man in black who seized her and escaped on a griffin, heading north.
 * **[[Entry 11]] (The Rebel Revelation):** The party tracks the griffin to a hidden cavern in the northern mountains, where they are shocked to find Bromelia leading a massive underground community of outcasts. She reveals her kidnapping was a ruse and explains her goal to seize [[Arcadia]] from the necromancers to provide a safe haven for her people.
-* **[[Entry 13]] (The Infiltration Plan):** Bromelia meets with Lavender to discuss the necromancer hierarchy. She reveals that Lavender's brother, [[Orris]], is training in necromancy in Arcadia and proposes an alliance, acknowledging that Lavender’s noble background makes her the perfect candidate for infiltration.
+* **[[Entry 13]] (The Infiltration Plan):** Bromelia meets with Lavender to discuss the necromancer hierarchy. She reveals that Lavender's brother, [[Orris Locke]], is training in necromancy in Arcadia and proposes an alliance, acknowledging that Lavender’s noble background makes her the perfect candidate for infiltration.
 * **[[Entry 14]] (Counselling Theren):** Sensing Theren's desire for belonging, Bromelia discusses his potential future with the Displaced but ultimately encourages him not to abandon his companions, noting that his answers likely lie elsewhere.
 
 ## Key Relationships
 * **[[Lavender]]:** An old acquaintance from their time in noble circles; Bromelia respects her strength and trusts her with sensitive intelligence regarding the necromancers.
 * **[[Lord Requiem]]:** Her former betrothed; she holds him in high contempt and risked everything to avoid their union.
-* **[[Orris]]:** She is aware of his high rank within the necromancer faction in Arcadia and his relationship with a powerful mentor.
+* **[[Orris Locke]]:** She is aware of his high rank within the necromancer faction in Arcadia and his relationship with a powerful mentor.
 * **[[Theren]]:** She recognized his feelings of displacement and offered him a place in her community, though she encouraged him to stay with the party.
 
 ## Notable Equipment

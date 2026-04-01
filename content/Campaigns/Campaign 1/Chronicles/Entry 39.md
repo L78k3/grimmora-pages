@@ -38,7 +38,7 @@ Temerity approaches the harbour. He uses his wings to brake and hovers in mid-ai
 
 All of the fishing vessels are lined up in the harbour. They are accompanied by a sleeker, darker ship that they haven’t seen before. A figure is near the ship, wearing dark clothes and with hood up. Lavender sees an older woman stood there, face weathered from sailing with a knowing smile. 
 
-Lavender approaches and addresses [[Captain Voss]]. She shows the pearl. Weathered hands take it from her. Voss says that she owes [[Orris]] a favour, but also that half of Onasea are currently searching for them. Voss advises that they move swiftly. Lavender agrees.
+Lavender approaches and addresses [[Captain Voss]]. She shows the pearl. Weathered hands take it from her. Voss says that she owes [[Orris Locke]] a favour, but also that half of Onasea are currently searching for them. Voss advises that they move swiftly. Lavender agrees.
 
 Voss leads them onto the ship and shouts her orders to the crew to set sail. The [[Tidecaller (Ship)|Tidecaller]] moves away from the village. The ship rocks gently. Theren feels the bond with his patron calm him and his fear dissipates. 
 

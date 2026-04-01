@@ -36,7 +36,7 @@ The region is centered on a large island or peninsula. It appears temperate and 
 
 ## What We Know
 
-[[Orris]] has instructed [[Lavender]] to meet him in [[Adalens]], implying it may be a safe or neutral location away from the [[necromancers]] in [[Arcadia]].
+[[Orris Locke]] has instructed [[Lavender]] to meet him in [[Adalens]], implying it may be a safe or neutral location away from the [[necromancers]] in [[Arcadia]].
 
 ## People & Culture
 

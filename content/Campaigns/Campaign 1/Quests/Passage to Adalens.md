@@ -9,7 +9,7 @@ tags:
 # Passage to Adalens – Ongoing Thread
 
 ## Description
-The party must secure passage to [[Adalens]] to escape the [[Necromancers]] and move [[Lavender]] to safety, as orchestrated by [[Orris]].
+The party must secure passage to [[Adalens]] to escape the [[Necromancers]] and move [[Lavender]] to safety, as orchestrated by [[Orris Locke]].
 
 ## Status
 - **Current Status:** active
@@ -33,4 +33,4 @@ Initiated by information provided by [[Corbin]] and the vision from the [[Grey P
 ## Relevant NPCs
 - [[Corbin]]
 - [[Captain Voss]]
-- [[Orris]]
+- [[Orris Locke]]

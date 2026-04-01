@@ -35,9 +35,9 @@ After [[Temerity]] destroyed the rose and [[Anaphel]] cast *greater restoration*
 
 She works as an **Imperial Courier**, carrying letters for wealthy or important clients.
 * **Route:** She intended to deliver her current letters to [[Durvish City]], pick up more, and then travel to [[Adalens]].
-* **The Letters:** Her bag contained five [[Encoded Letters]], including two written by [[Orris]].
+* **The Letters:** Her bag contained five [[Encoded Letters]], including two written by [[Orris Locke]].
 * **Thoughts:** When scanned by [[Gage]], her surface thoughts revealed the name **[[Elara]]** and connections to the guards or ruling class of [[Durvish City]].
 
 ---
 status: Alive
-**Related:** [[Paddle Steamer]], [[Withered Rose]], [[Encoded Letters]], [[Orris]], [[Elara]], [[Entry 34]]
+**Related:** [[Paddle Steamer]], [[Withered Rose]], [[Encoded Letters]], [[Orris Locke]], [[Elara]], [[Entry 34]]

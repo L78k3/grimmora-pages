@@ -42,7 +42,7 @@ As a leader, he is feared by his subordinates and well-known in the criminal und
 
 ## Key Relationships
 * **[[Lavender]]:** Zadhir holds a specific fascination and disdain for Lavender, recognizing her noble background and frequently challenging her etiquette and resolve.
-* **[[Orris]]:** It is hinted that Zadhir’s business dealings in Arcadia and Adalens intersect with the high-level necromancy Orris is involved in.
+* **[[Orris Locke]]:** It is hinted that Zadhir’s business dealings in Arcadia and Adalens intersect with the high-level necromancy Orris is involved in.
 * **[[Soliana]]:** One of Zadhir's primary managers, responsible for overseeing his cross-continental caravans.
 * **[[Gage]]:** As a former mercenary for the necromancers, Gage is acutely aware of Zadhir's dangerous reputation within criminal networks.
 

@@ -14,7 +14,7 @@ tags:
 
 ## What We Know
 
-Based on the map, this is a massive floating structure connected to the city of [[Adalens]]. [[Orris]] mentioned [[Adalens]] as a meeting place, but did not specifically name this structure.
+Based on the map, this is a massive floating structure connected to the city of [[Adalens]]. [[Orris Locke]] mentioned [[Adalens]] as a meeting place, but did not specifically name this structure.
 
 ## Description
 

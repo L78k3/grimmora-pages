@@ -22,7 +22,7 @@ Gage asks that he keep the information to himself, especially about [[Temerity]]
 
 Gage offers Halsen the [[Cloudy Gem (Sol)|dark, cloudy gem]] that he took from the [[Temple of Sol]]. Halsen takes it and frowns. Lavender notices that it is similar to the stone in her [[Ring of Orris|ring]] – she wraps her hand around the ring on her finger that is hidden beneath the glove. Theren notices that there is powerful magic around this gem – powerful binding magic. Halsen is deeply concerned about the gem – he recommends finding a specialist wizard.
 
-Gage looks at Lavender and thinks of [[Orris]] – her face does not flicker. Theren mentions that they know a wizard in [[Durvish City]]. Lavender cuts him off and asserts that it won’t be necessary. Theren feels slighted by her – he continues eating stew.
+Gage looks at Lavender and thinks of [[Orris Locke]] – her face does not flicker. Theren mentions that they know a wizard in [[Durvish City]]. Lavender cuts him off and asserts that it won’t be necessary. Theren feels slighted by her – he continues eating stew.
 
 Gage asks if Halsen knows anyone along their journey who could assist them. Halsen apologises that druids in [[Adalens]] are not as lucky as those here in [[Avalon]], but there are some in the forests near the sea. He knows of a druid who lives in [[Crystalmine Village]] – she is extremely powerful but extremely reclusive. Lavender asks if Halsen can conceal the powerful of the gemstone during the journey. He offers to speak to one of the druids. Halsen offers them the full hospitality of the enclave.
 

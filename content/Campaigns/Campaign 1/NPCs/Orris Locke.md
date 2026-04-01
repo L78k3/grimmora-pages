@@ -28,7 +28,7 @@ tags:
 > 
 > **Status:** Alive
 
-**Orris** is the elder brother of [[Lavender]] and a high-ranking wizard within the necromantic order currently occupying [[Arcadia]].
+**Orris** is the younger brother of [[Lavender]] and a high-ranking wizard within the necromantic order currently occupying [[Arcadia]].
 
 ## Biography & Personality
 Orris is described as having white-blond hair that flops over his face, a distinctive family trait he shares with his sister. Originally a noble of [[House Locke]], he left the family approximately a year and a half ago. It was later revealed that he was contacted by a mysterious tutor and began training in the dark arts, rising rapidly through the ranks to become a gifted and influential figure within the necromancer hierarchy.
@@ -46,7 +46,7 @@ His personality remains complex; while he serves an order known for its cruelty,
 * **[[Entry 39]] (The Voyage to Adalens):** Lavender observes that the [[Ring of Orris]] reacts to the moonlight, glowing and frost-rimed as the party reaches Onasea. It is revealed that Orris is owed a favour by [[Captain Voss]], who facilitates the party's escape on her ship, the [[Tidecaller (Ship)]], to ensure they reach their meeting in [[Adalens]] safely.
 
 ## Key Relationships
-* **[[Lavender]]:** His younger sister. Orris claims to love her deeply and has gone to great lengths to monitor and protect her from a distance, even while serving her primary adversaries.
+* **[[Lavender]]:** His eldest sister. Orris claims to love her deeply and has gone to great lengths to monitor and protect her from a distance, even while serving her primary adversaries.
 * **[[Gage]]:** Orris previously employed Gage as a mercenary and scout to track Lavender's movements and ensure her safety.
 * **[[Lady Bromelia]]:** A noble acquaintance who is aware of his current position in Arcadia and uses his presence there as a strategic hook for the party.
 * **[[House Locke]]:** His family; Orris maintains correspondence with them, though he has kept the dark nature of his "wizardry" a secret from his parents and younger sisters.

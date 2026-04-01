@@ -25,7 +25,7 @@ She asks Theren about an inn. Taken aback, Theren explains that they all met ori
 
 The party discusses this. Lavender speaks to the old lady, who asks after her grandmother. Lavender is caught off guard but has no idea who this lady is. She explains that she was married to the old governor of [[Avalon]] – Clarence Mayfield – this is [[Mary-Ann]] Mayfield.
 
-Lavender explains that she has not seen them for a while but they are well. Mary-Ann mentions [[Orris]] – the party looks sharply at her. She explains that she is going to collect her goddaughter’s child in [[Adalens]] to go on a tour with them. Lavender asks if they can escort her to Adalens. Mary-Ann expresses her wishes to head to the inn.
+Lavender explains that she has not seen them for a while but they are well. Mary-Ann mentions [[Orris Locke]] – the party looks sharply at her. She explains that she is going to collect her goddaughter’s child in [[Adalens]] to go on a tour with them. Lavender asks if they can escort her to Adalens. Mary-Ann expresses her wishes to head to the inn.
 
 They all disembark and head to an inn called [[The Blushing Manatee]] – it is better than the inn that they stayed in last time. Th is disappointed that it’s a different place. It is a large, well-used inn. Everything in the inn is muted grey and beige. There is generic art on the wall.
 

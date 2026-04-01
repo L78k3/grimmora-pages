@@ -27,7 +27,7 @@ The party faces the trials of [[The Frost]], discovering that the "plague" in [[
 * **Key Milestone:** [[Lavender]] becomes the champion of Auriel after a sacrificial trial in the amphitheatre.
 
 ### Movement III: The Architect of Shadows
-The party discovers [[The Displaced]], a rebel group led by the "kidnapped" Bromelia. They learn that Lavender’s brother, [[Orris]], is a high-ranking member of the [[Necromancers]] in [[Arcadia]].
+The party discovers [[The Displaced]], a rebel group led by the "kidnapped" Bromelia. They learn that Lavender’s brother, [[Orris Locke]], is a high-ranking member of the [[Necromancers]] in [[Arcadia]].
 * **Key Milestone:** A tense parley with Orris followed by an undead ambush in the Arcadia town square.
 
 ### Movement IV: The Imperial Thread (Current)
@@ -42,7 +42,7 @@ While escorting [[Mary-Ann]] and rescuing a cursed courier, the party intercepts
 A complete chronological record of the party's journey, from the first meeting in Durvish City to the current voyage on the Tidecaller.
 
 ### 👥 [[NPCs/index|Key Figures]]
-Biographies of major allies like [[Anaphel]] and [[Halsen]], and primary antagonists like [[Zadhir]] and [[Orris]].
+Biographies of major allies like [[Anaphel]] and [[Halsen]], and primary antagonists like [[Zadhir]] and [[Orris Locke]].
 
 ### ⚔️ [[Events/index|Major Confrontations]]
 Detailed records of tactical peaks, including the [[Battle at the Big House]], the [[Dragon Battle]], and the [[The Trial of the Gladiator|Trial of the Gladiator]].

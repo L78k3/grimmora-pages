@@ -48,9 +48,9 @@ Theren was a vagabond for quite some time, causing him to be guarded and difficu
 * **[[Entry 09]] (Griffin Negotiation):** Uses *Beast Speech* to convince the invisible griffin [[Mathilda]] to reveal herself.
 * **[[Entry 10]] (Spider Cave):** Casts *Hunger of Hadar* in the [[Spider Cave (The Frost)]], manifesting it as an [[Orb of Iridescent Gold]].
 * **[[Entry 12]] (Patron Revelation):** Learns from the [[Elven Wizard]] that his patron is a Great Old One associated with gold.
-* **[[Entry 16]] (Ring Discovery):** Identifies the [[Ring of Orris]] found in a mead bottle as a necromantic object belonging to [[Orris]].
+* **[[Entry 16]] (Ring Discovery):** Identifies the [[Ring of Orris]] found in a mead bottle as a necromantic object belonging to [[Orris Locke]].
 * **[[Entry 17]] (Secret Passage):** Solves the clock puzzle to open the secret door in the [[Mayor's Mansion (Arcadia)]].
-* **[[Entry 18]] (Necromancer Meeting):** Meets [[Orris]] in the [[Orris' Secret Lair|secret lair]] and receives a telepathic request to protect [[Lavender]].
+* **[[Entry 18]] (Necromancer Meeting):** Meets [[Orris Locke]] in the [[Orris' Secret Lair|secret lair]] and receives a telepathic request to protect [[Lavender]].
 * **[[Entry 19]] (Town Square Battle):** Battles [[necromancers]] in [[Arcadia]], destroying skeletons with *agonising blast* and *cloak of flies*.
 * **[[Entry 20]] (Fire Messages):** Receives cryptic messages from the campfire and casts *comprehend languages* to decipher them.
 * **[[Entry 21]] (Mausoleum Infiltration):** Incapacitates a [drow] in the [[Mausoleum (Alpine Forest)]] with *psychic lance*.

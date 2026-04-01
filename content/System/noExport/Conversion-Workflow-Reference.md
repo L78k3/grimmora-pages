@@ -499,7 +499,7 @@ To resume this workflow in a new chat session:
   - [[Ice Wolves]] - Threat in Alpine Forest
   - [[Auriel]] - Goddess of Winter
   - [[Zadhir]] - Met at Jade Zephyr
-  - [[Orris]] - Lavender's brother
+  - [[Orris Locke]] - Lavender's brother
   - [[Ismay]] - Mage in Durvish City
   - [[Gorg]] - Innkeeper in Mightrest
   - [[Korako]] - Temerity's rabbit

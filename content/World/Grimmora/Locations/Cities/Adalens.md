@@ -16,7 +16,7 @@ tags:
 
 Adalens is a major city located on a large island. It is visually dominated by a massive bridge connecting it to the floating structure of [[Adalens Ul-Maht]].
 
-[[Orris]] instructed [[Lavender]] to travel here for a safe, private conversation, providing her with a [[sending stone]] to make contact upon her arrival.
+[[Orris Locke]] instructed [[Lavender]] to travel here for a safe, private conversation, providing her with a [[sending stone]] to make contact upon her arrival.
 
 ## Geography
 
@@ -34,7 +34,7 @@ The city is surrounded by three smaller villages:
 
 ## Notable NPCs
 
-* [[Orris]] - Plans to meet [[Lavender]] here for a safe, private conversation.
+* [[Orris Locke]] - Plans to meet [[Lavender]] here for a safe, private conversation.
 
 ## History
 

@@ -25,7 +25,7 @@ We are currently in hiding after being ambushed by necromancers in the [[Onasea 
 [[Anaphel]] believes that the goddess **[[Auriel]]** has been trapped inside [[Lavender]]'s ring by the necromancers to "tip the scales." Lavender has sworn to free her.
 
 * **Next Step:** Travel to [[Adalens]].
-* **The Contact:** Use the **Sending Stone** to contact [[Orris]] once we arrive.
+* **The Contact:** Use the **Sending Stone** to contact [[Orris Locke]] once we arrive.
 * **The Mystery:** Is Orris a traitor who trapped the goddess, or a double agent trying to keep her safe from his own masters?
 
 ---

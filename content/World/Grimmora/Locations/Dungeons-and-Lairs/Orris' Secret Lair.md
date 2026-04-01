@@ -18,7 +18,7 @@ tags:
 
 ## Overview
 
-A secret lair and base of operations for [[Orris]] and his necromantic followers, located deep beneath the Mayoral Manor in [[Arcadia]]. The halls are carved from dark basalt rock.
+A secret lair and base of operations for [[Orris Locke]] and his necromantic followers, located deep beneath the Mayoral Manor in [[Arcadia]]. The halls are carved from dark basalt rock.
 
 ## Layout & Features
 
@@ -28,16 +28,16 @@ A secret lair and base of operations for [[Orris]] and his necromantic followers
 -   **Main Cavern:** Beyond the antechamber is a vast, dark cavern filled with various dark activities and inhabitants. It serves as the antithesis to the [[Displaced Camp]].
 -   **Makeshift Building:** At the far end of the cavern is a large, makeshift building.
 -   **Waiting Room:** Inside the building is a small seating area where visitors are made to wait.
--   **Inner Office:** This is where [[Orris]] conducts his business and holds audiences.
+-   **Inner Office:** This is where [[Orris Locke]] conducts his business and holds audiences.
 
 ## Our Experience
 
 We infiltrated the Mayoral Manor on Day 12, believing it to be the center of the necromancers' power. [[Theren]] discovered the hidden entrance to the lair in the cellar.
 
-After proceeding through, we were met by a zombie assistant and, after a tense exchange, were granted an audience. A bugbear led us through the bustling, dark cavern to a building. After a significant wait, we were finally brought in to meet [[Orris|Or-" "-ris]] himself, who was revealed to be [[Lavender]]'s brother.
+After proceeding through, we were met by a zombie assistant and, after a tense exchange, were granted an audience. A bugbear led us through the bustling, dark cavern to a building. After a significant wait, we were finally brought in to meet [[Orris Locke|Or-" "-ris]] himself, who was revealed to be [[Lavender]]'s brother.
 
 ---
 
 **Parent Location:** [[Arcadia]]
 
-**Related NPCs:** [[Orris]]
+**Related NPCs:** [[Orris Locke]]

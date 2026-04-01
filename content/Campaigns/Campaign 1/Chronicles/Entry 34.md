@@ -80,7 +80,7 @@ Temerity examines the gems but finds nothing. He keeps them in his bag.
 
 Lavender shows Anaphel her [[Ring of Orris|ring]], which she has kept concealed until now. Anaphel takes a step back and refuses to look in her eyes. She explains that it was Orris’s ring. Anaphel is conflicted. Lavender can see fear, betrayal and conflict on their face. Anaphel says that there is someone in there. Lavender puts her glove back on. She promises Anaphel that they will sort it later. A tear runs down Anaphel’s cheek. Lavender is disturbed by Anaphel’s reaction. Lavender takes the withered rose from the crate also.
 
-The party reconvenes in the elf’s bedroom. The elf is stirring but is not yet awake. Anaphel warns them all not to talk to her too much when she first wakes. The tension between Anaphel and Lavender is palpable. Theren shows Lavender the letters that they were deciphering. She recognises the handwriting of the two monogrammed letters – this is [[Orris]]’s handwriting.
+The party reconvenes in the elf’s bedroom. The elf is stirring but is not yet awake. Anaphel warns them all not to talk to her too much when she first wakes. The tension between Anaphel and Lavender is palpable. Theren shows Lavender the letters that they were deciphering. She recognises the handwriting of the two monogrammed letters – this is [[Orris Locke]]’s handwriting.
 
 For the third letter, Lavender says that she has twin younger siblings – [[Lady Anise Locke|Anise]] and [[Lady Angelica Locke|Angelica]]. She stumbles over her words and says that she cannot think of a G. L.
 
