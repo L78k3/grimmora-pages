@@ -43,7 +43,7 @@ Thrust into Drev's isolated tower, Gwilym was forced to adapt to the life of a '
 * **[[Brick]] (Owl Familiar):** An ancient, grumpy fey spirit taking the form of a scruffy Great Horned Owl. He supports Gwilym's double life through exhausted compliance and heavy sighs.
 
 ## Known Locations
-* **Master Drev's Tower:** An isolated tower in a forest a few hours north of Daggatt.
+* **[[Master Drev's Tower]]:** An isolated tower in a forest a few hours north of Daggatt.
 * **[[Hjemmen]]:** Gwilym's hometown, currently under the fanatic rule of Bishop Greggan. 
 * **[[Alitrestan]] & [[Daggatt]]:** Nearby towns Gwilym scouts for Drev.
 
