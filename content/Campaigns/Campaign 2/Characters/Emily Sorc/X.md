@@ -1,9 +1,9 @@
 ---
-title: Gwilym Lackmount
+title: Firstname Lastname
 type: pc
-race: Human (Illuskan Variant)
-class: Wizard (Abjuration) 1
-location: Master Drev's Tower (North of Daggatt)
+race: Hexblood
+class: Sorcerer (Wild Magic) 1
+location: A Place
 campaign: Campaign 1
 tags:
   - pc

@@ -1,5 +1,5 @@
 ---
-title: Gwilym Inventory
+title: Firstname Inventory
 type: module
 status: active
 tags:
@@ -18,7 +18,7 @@ tags:
 * Add
 * More
 * As
-* Approptriate
+* Appropriate
 
 ## 💰 Currency
 * **GP:** 0 | **SP:** 0 | **CP:** 0

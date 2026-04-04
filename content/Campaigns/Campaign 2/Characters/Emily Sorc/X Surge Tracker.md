@@ -1,5 +1,4 @@
 > [!danger] 💥 Wild Magic Surge Tracker (D20 Rule)
-> **Current Surge DC: 1**
 > *Roll a d20 after casting a Sorcerer spell of 1st level or higher.*
 > 
 > - [ ] **DC 2**
