@@ -8,16 +8,6 @@ tags:
   - faction
   - antagonists
 ---
----
-title: Cult of the Master of Ash
-type: organization
-location: Unknown
-leader: "[[Master of Ash]]"
-tags:
-  - organization
-  - faction
-  - antagonists
----
 
 # Cult of the Master of Ash
 
