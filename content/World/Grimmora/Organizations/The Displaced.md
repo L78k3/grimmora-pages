@@ -25,7 +25,7 @@ The organisation describes themselves not as revolutionaries, but as **rebels**.
 
 ## Composition
 
-The group is a "hodge-podge" settlement representing a vast array of races, including orcs, half-orcs, dragonborn, humans, halflings, gnomes, and elves.
+The group is a "hodgepodge" settlement representing a vast array of races, including orcs, half-orcs, dragonborn, humans, halflings, gnomes, and elves.
 
 * **Demographics:** The population consists almost entirely of young adults, with some babies and children. Notably, there are no elderly members present.
 * **Culture:** They appear to function as a mobile city or army. We observed blacksmiths sharpening weapons (twin blades, claymores, halberds), mages practising spells, and cooks preparing food in a communal canteen.
