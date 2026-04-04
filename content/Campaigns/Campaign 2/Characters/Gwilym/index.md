@@ -32,6 +32,11 @@ cssclasses: [dashboard]
 
 ---
 
+## 🦉 Familiar
+![[Gwilym Brick]]
+
+---
+
 ## 🎒 Inventory Summary
 * **Equipment Focus:** Taped-together spellbook and gritty spell components.
 * **Key Item:** Master Drev's library access/apprentice badge (Cloistered Scholar).
@@ -47,3 +52,4 @@ cssclasses: [dashboard]
 ## 📂 Modules
 * [[Gwilym Combat|⚔️ Full Combat Sheet]]
 * [[Gwilym|📜 Biography & Lore]]
+* [[Gwilym Brick|🦉 Familiar Sheet]]
