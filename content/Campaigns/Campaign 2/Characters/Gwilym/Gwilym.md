@@ -21,16 +21,16 @@ tags:
 > 
 > **Location:** Master Drev's Tower
 
-**Gwilym Lackmount** is an Illuskan Abjuration Wizard. Born on the streets, his life changed when an Inquisitor sweep—and a poorly timed scrying spell—forced him into the 'care' of a cantankerous wizard. In a totalitarian society where dissidents disappear, Gwilym maintains the flawless outward appearance of a dutiful scholar. Secretly, he is a "protest medic," using his access to restricted magical lore to forge papers and protect the marginalised people he was forced to leave behind.
+**Gwilym Lackmount** is an Illuskan Abjuration Wizard. Born on the streets, his life changed when an Inquisitor sweep - and a poorly timed scrying spell - forced him into the 'care' of a cantankerous wizard. In a totalitarian society where dissidents disappear, Gwilym maintains the flawless outward appearance of a dutiful scholar. Secretly, he is a "protest medic," using his access to restricted magical lore to forge papers and protect the marginalised people he was forced to leave behind.
 
 ## Biography & Personality
-Gwilym stands 6'1" with the naturally tall, lanky build of a student who skips meals to study. He has fair skin, raven black hair, and steel gray eyes. His hair is usually a mess from running his hands through it in moments of caffeinated stress. 
+Gwilym stands 6'1" with the naturally tall, lanky build of a student who skips meals to study. He has fair skin, raven black hair, and steel grey eyes. His hair is usually a mess from running his hands through it in moments of caffeinated stress. 
 
 **Origins & The Sweeps**
 Born in [[Hjemmen]], Gwilym began life as a street urchin, surviving in a found family protected by an older mentor. The streets were dangerous; Inquisitors constantly swept the alleys, rounding up kids for state institutions to be trained as clerics. Many of Gwilym's friends simply disappeared. 
 
 **The Capture & "Rescue"**
-During a brutal sweep, Gwilym was running for his life when a strange, sudden rush of magic surged through his mind—a scrying spell cast by [[Master Drev]], who was searching for a suitable apprentice. The distraction caused Gwilym to stumble, leading directly to his capture. However, before he could be hauled off to a Triumvirate institution, Drev intervened, pulling rank to claim the boy as his apprentice. 
+During a brutal sweep, Gwilym was running for his life when a strange, sudden rush of magic surged through his mind - a scrying spell cast by [[Master Drev]], who was searching for a suitable apprentice. The distraction caused Gwilym to stumble, leading directly to his capture. However, before he could be hauled off to a Triumvirate institution, Drev intervened, pulling rank to claim the boy as his apprentice. 
 
 **The Apprenticeship**
 Thrust into Drev's isolated tower, Gwilym was forced to adapt to the life of a 'Cloistered Scholar'. He spent the last year buried in Drev's restricted library, learning to hide his street-level pragmatism and anarchist ideals behind the mask of a compliant apprentice. Drev views him as a poor replacement for a beloved, deceased former apprentice. Gwilym happily leans into this assumption. He uses his excursions to nearby towns to watch for the secret symbols of hidden worshippers, acting as a solitary mole, warning people of Inquisitor sweeps, and forging safe-passage documents.
