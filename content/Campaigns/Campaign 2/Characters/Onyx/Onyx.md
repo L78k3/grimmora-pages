@@ -10,6 +10,8 @@ tags:
   - party-member
 ---
 
+![[Pasted image 20260405230046.png]]
+
 > [!info] Character Overview
 > **Race:** Hexblood
 > 
