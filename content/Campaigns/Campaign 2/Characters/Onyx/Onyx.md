@@ -1,5 +1,5 @@
 ---
-title: Firstname Lastname
+title: Oynx
 type: pc
 race: Hexblood
 class: Sorcerer (Wild Magic) 1
@@ -21,7 +21,7 @@ tags:
 > 
 > **Location:** 
 
-**Firstname Lastname** is a Hexblood Wild Magic Sorcerer. <Insert character background, 60-90 words>.
+**Onyx** is a Hexblood Wild Magic Sorcerer. <Insert character background, 60-90 words>.
 
 ## Biography & Personality
 
@@ -40,5 +40,5 @@ tags:
 * **Alitrestan & Daggatt:** Nearby towns Gwilym scouts for Drev.
 
 ## Modules
-* [[X Combat|⚔️ Combat Profile]]
-* [[content/Campaigns/Campaign 2/Characters/Emily Sorc/index|🛡️ Session Dashboard]]
+* [[Onyx Combat|⚔️ Combat Profile]]
+* [[content/Campaigns/Campaign 2/Characters/Onyx/index|🛡️ Session Dashboard]]

@@ -51,4 +51,4 @@ Thrust into Drev's isolated tower, Gwilym was forced to adapt to the life of a '
 
 ## Modules
 * [[Gwilym Combat|⚔️ Combat Profile]]
-* [[index|🛡️ Session Dashboard]]
+* [[content/Campaigns/Campaign 2/Characters/Gwilym/index|🛡️ Session Dashboard]]

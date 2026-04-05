@@ -9,16 +9,16 @@ tags:
 cssclasses: [dashboard]
 ---
 
-# 💥 Character Name
+# 💥 Onyx
 
 > [!quote] Current Motivation
 > ""
 > **Goal:** 
 
 > [!info] Vitals & Resources
-> **HP:** X/X | **AC:** X  | **Spell Save DC:** X | **Sorcery Points:** X/X
-> **Speed:** 30 ft | **Init:** +X
-> **Passives:** Perception: X | Investigation: X
+> **HP:** 6/6 | **AC:** 12  | **Spell Save DC:** 13 | **Sorcery Points:** 0/0
+> **Speed:** 30 ft | **Init:** +2
+> **Passives:** Perception: 11 | Investigation: 12
 > - [ ] **Inspiration**
 > - [ ] **1st Level Slot 1**
 > - [ ] **1st Level Slot 2**
@@ -26,23 +26,23 @@ cssclasses: [dashboard]
 ---
 
 ## 📜 Attributes & Skills
-![[X Skills]]
+![[Onyx Skills]]
 
 ---
 
 ## ⚔️ Combat Quick-View
-![[X Combat]]
+![[Onyx Combat]]
 
 ---
 
-![[X Surge Tracker]]
+![[Onyx Surge Tracker]]
 
 ---
 
 ## 🎒 Inventory Summary
 * **Equipment Focus:** 
 * **Key Item:** 
-* [[X Inventory|📂 View Full Equipment List]]
+* [[Onyx Inventory|📂 View Full Equipment List]]
 
 ---
 ## Roleplay Cues
@@ -52,5 +52,5 @@ cssclasses: [dashboard]
 
 ---
 ## 📂 Modules
-* [[X Combat|⚔️ Full Combat Sheet]]
-* [[X|📜 Biography & Lore]]
+* [[Onyx Combat|⚔️ Full Combat Sheet]]
+* [[Onyx|📜 Biography & Lore]]
