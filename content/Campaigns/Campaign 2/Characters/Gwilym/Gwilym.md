@@ -10,6 +10,8 @@ tags:
   - party-member
 ---
 
+![[Pasted image 20260405012438.png]]
+
 > [!info] Character Overview
 > **Race:** Human (Illuskan Variant)
 > 
