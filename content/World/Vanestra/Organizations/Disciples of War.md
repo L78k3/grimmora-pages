@@ -1,8 +1,8 @@
 ---
 title: Disciples of War
 type: organization
-location: "[[Hjemmen]]" (Local Branch)
-leader: "[[Bishop Greggan]]" (Locally)
+location: "[[Hjemmen]]"
+leader: "[[Bishop Greggan]]"
 tags:
   - organization
   - faction
