@@ -23,7 +23,7 @@ tags:
 > 
 > **Location:** [[Onasea]]
 
-**Gage Greengather**, known among his clan as "The Greenblade," is a Rock Gnome Ranger and former spy for the Greengather Blades. Originally hired by [[Necromancers]] to monitor the party, he defected to their cause after witnessing the corruption of his employers.
+**Gage Greengather**, known among his clan as "The Greenblade," is a Rock Gnome Ranger and former spy for the [[Greengather Blades]]. Originally hired by [[Necromancers]] to monitor the party, he defected to their cause after witnessing the corruption of his employers.
 
 ## Biography & Personality
 Gage is small even for a gnome, standing 3'3" and weighing only 39 lbs. He has slate-grey skin and hair, allowing him to blend seamlessly into shadows and rocky terrain. His marble-coloured eyes are constantly scanning his surroundings, a habit from years of scouting.
