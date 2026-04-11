@@ -13,32 +13,25 @@ tags:
 > Magical location / Floating City
 
 ## What We Know
-
-Based on the map, this is a massive floating structure connected to the city of [[Adalens]]. [[Orris Locke]] mentioned [[Adalens]] as a meeting place, but did not specifically name this structure.
+Adalens Ul-Maht is a massive floating structure that dominates the cityscape of [[Adalens]]. While its presence is unmistakable, its internal operations remain a mystery to those on the ground.
 
 ## Description
-
-A very large, city-like structure that floats high in the air, seemingly held aloft by magic. It is connected to the mainland city of [[Adalens]] by a single, massive, ornate skybridge.
+This huge floating island features a colossal mage’s tower that reaches into the sky, penetrating the clouds. It is connected to the mainland city of [[Adalens]] by a single, massive, ornate skybridge. The structure is part of the constructed metropolis of the capital rather than an organic growth.
 
 ## Significance
-
-Its purpose is unknown, but its immense scale and magical nature suggest it is a place of great power or importance, likely central to the [[Nethis]] region.
+As a prominent landmark of the [[Nethis]] region, the island serves as a visual testament to the power of the [[Mages' Guild]]. It houses a "wizard tower" visible from a distance, though it is unknown exactly what transpires within its heights.
 
 ## Location
-
-It floats in the sky near [[Adalens]], accessible via a skybridge from the city.
+The island floats directly over or adjacent to the city of [[Adalens]], accessible via the skybridge.
 
 ## Dangers
-
 Unknown.
 
 ## History & Lore
-
-Unknown.
+Unlike many settlements in [[grimmora-index|Grimmora]], Adalens and its floating counterpart are part of a pre-planned metropolis rather than a settlement that grew organically over time.
 
 ## Our Experience
-
-We have not yet visited this location.
+The party first sighted Adalens Ul-Maht as they approached the capital on the *[[Tidecaller (Ship)|Tidecaller]]*. From the water, the floating tower was one of the first visible features of the city skyline. As of [[Entry 42]], the party has not yet travelled onto the island itself.
 
 ---
 

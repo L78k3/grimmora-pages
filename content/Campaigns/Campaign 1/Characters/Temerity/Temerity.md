@@ -91,6 +91,7 @@ Temerity is flamboyant, irreverent, and deeply devoted to his animals. He often 
 * **[[Entry 38]] (Crocodile Rescue):** Polymorphs into a giant crocodile to rescue the party from necromancers at the [[Onasea Sea Cave]] and carries them to safety.
 * **[[Entry 40]] (The Frozen Wraith):** Temerity bolstered the crew with rousing speeches and destroyed the undead captain using a [[Chikatika]]-enhanced guiding bolt. He then polymorphed into an orca to tow the *[[Tidecaller (Ship)|Tidecaller]]*. During a magical storm, he dramatically activated his [Cloak of Billowing](https://2014.5e.tools/items.html#cloak%20of%20billowing_xge) to inspire the crew and stabilized an unconscious Theren.
 * **[[Entry 41]] (The Priestess Pursuit):** During the naval ambush, Temerity unsuccessfully attempted to charm the enemy priestess, Lyra, despite harbouring a massive crush on her. He shrouded the [[Tidecaller (Ship)|Tidecaller]] in magical darkness and inspired the crew. After her capture, he sat on Lyra, relentlessly goading her and using *detect thoughts* to uncover the complex dangers of releasing [[Auriel]].
+* **[[Entry 42]] (The Diffident Alias):** Using the alias Diffidence, Temerity suffered as his choker tightened during registration. In the capital, he identified several suspicious figures tailing the party near a florist. He subsequently provided outside surveillance during the meeting at House Mythin, where the group learned of Orris Locke’s flight and the search for the Alchemist.
 
 ## The Menagerie
 * **[[Korako]]:** Remains his primary companion.
