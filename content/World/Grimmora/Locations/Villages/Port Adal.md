@@ -36,8 +36,8 @@ The party reached Port Adal by sailing from [[Onasea]] across the water. This ro
 
 ## Our Experience
 
-The party arrived at Port Adal following a dangerous naval confrontation with [[Lyra Valstrath]], high priestess of the [[Master of Ash]]. Upon docking, [[Captain Voss|Voss]] warned [[Lavender]] to move fast and carefully within the region due to local threats. The arrival concluded with Voss disposing of their prisoner, [[Lyra Valstrath|Lyra]], by throwing her overboard into the harbor.
-
+* **[[Entry 41]] (Arrival):** The party arrived at Port Adal following a dangerous naval confrontation with [[Lyra Valstrath]], high priestess of the [[Master of Ash]]. Upon docking, [[Captain Voss|Voss]] warned [[Lavender]] to move fast and carefully within the region due to local threats. The arrival concluded with Voss disposing of their prisoner, [[Lyra Valstrath|Lyra]], by throwing her overboard into the harbour.
+* **[[Entry 42]] (Registration and Transit):** The party was accosted by city watchmen demanding registration at the harbourmaster’s office. Following Lavender’s warning, the group registered under aliases - including "Eloise Rosewood" and "Swampy" - to avoid detection, which caused Temerity’s choker to tighten painfully. Lavender then secured a carriage to transport them directly to Adalens.
 ---
 **Region:** [[Nethis]]
 
