@@ -58,7 +58,7 @@ tags:
 * **[[Entry 16]] (The Ring):** Retrieves the [[Ring of Orris]] from a bottle of mead found by [[Guido]].
 * **[[Entry 17]] (Mansion Infiltration):** Enters the [[Mayor's Mansion (Arcadia)|mayor's mansion]], overcoming paralysis with a kiss from [[Temerity]], and locates a secret passage.
 * **[[Entry 17]] (Intimidation):** Uses the [[Ring of Orris]] to intimidate a [zombie](https://2014.5e.tools/bestiary.html#zombie_mm) clerk into granting them access to [[Orris Locke]].
-* **[[Entry 18]] (Reunion):** Confronts [[Orris Locke]] in his lair, sharing an emotional embrace before he gives her a [[sending stone]] and sends them away.
+* **[[Entry 18]] (Reunion):** Confronts [[Orris Locke]] in his lair, sharing an emotional embrace before he gives her a [[Sending Stone]] and sends them away.
 * **[[Entry 19]] (Square Battle):** Leads the charge against undead in [[Arcadia]], killing a zombie and a [[Corpse-Raisers|corpse-raiser]] with a frost-rimed blade.
 * **[[Entry 19]] (The Aasimar):** Meets [[Anaphel]] at an inn in [[Pinechill]] and learns they are the child of [[Auriel]].
 * **[[Entry 20]] (Mausoleum):** Breaks the lock of a [[Mausoleum (Alpine Forest)|mausoleum]] with her sword pommel to rescue [[Gage]].

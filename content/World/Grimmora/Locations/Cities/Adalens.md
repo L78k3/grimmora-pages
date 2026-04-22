@@ -17,7 +17,7 @@ tags:
 
 ## What We Know
 
-Adalens is a major constructed metropolis that did not grow organically. It is governed by a council of powerful guilds—including Mages, Merchants, Artisans, Scholars, Navigators, and Hospitallers—overseen by an elected Arch-mage. The city is characterized by its 30-foot white walls and a colossal floating island, [[Adalens Ul-Maht]], which dominates the skyline. While the city allows freedom of religion, most citizens view it as a frivolous pursuit. 
+Adalens is a major constructed metropolis that did not grow organically. It is governed by a council of powerful guilds - including Mages, Merchants, Artisans, Scholars, Navigators, and Hospitallers - overseen by an elected Arch-mage. The city is characterized by its 30-foot white walls and a colossal floating island, [[Adalens Ul-Maht]], which dominates the skyline. While the city allows freedom of religion, most citizens view it as a frivolous pursuit. 
 
 The city’s power is balanced between five ruling families who have "eyes everywhere": [[House Nightbrook]] (Information), [[House Silverwind]] (Artisans), [[House Crestwood]] (Merchants), [[House Mythin]] (Scholars), and [[House Kinver]] (Military).
 

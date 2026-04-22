@@ -24,7 +24,7 @@ Lavender chooses to ignore the commotion outside. She, Gage and Theren move into
 
 Orris understands why Lavender has sought him out and tells her that there is much that each must explain to the other. He confesses that he has missed her. This news hits her hard and she confesses the same. Orris looks at Gage, whom he had hired to track Lavender. He explains to her why he did it, that he wanted to keep an eye to keep her safe. He stops and cannot continue; he tells her that there are too many others around. He wants to meet in another city instead.
 
-He sends a telepathic message to Lavender, telling her that they cannot speak here and that there are too many things going on that even the two of them are not aware of. She sends back the questions of when and where. In response, he pulls a [[sending stone]] from a desk drawer and sends back to use it when they reach [[Adalens]]. She takes the stone and packs it away safely. She tries to hug him and he envelopes her with his embrace for an extended moment.
+He sends a telepathic message to Lavender, telling her that they cannot speak here and that there are too many things going on that even the two of them are not aware of. She sends back the questions of when and where. In response, he pulls a [[Sending Stone]] from a desk drawer and sends back to use it when they reach [[Adalens]]. She takes the stone and packs it away safely. She tries to hug him and he envelopes her with his embrace for an extended moment.
 
 Theren watches all this feeling quite uncomfortable. Gage is being stone-faced, like a guard. They both receive a message asking them to keep Lavender safe. Gage simply acknowledges the message, but Theren is taken aback and does not know how to react.
 
