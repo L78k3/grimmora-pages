@@ -87,7 +87,7 @@ tags:
 ## Key Relationships
 * **[[Orris Locke]]:** Lavender's brother, now a high-ranking necromancer. She is torn between saving him and stopping him.
 * **[[Auriel]]:** The Goddess of Cold. Lavender is her chosen Champion and receives visions and power directly from her.
-* **[[Lady Myrtle Locke]]:** Her grandmother and matriarch of House Locke, who bestowed her blessing upon Lavender's quest.
+* **[[Myrtle Locke]]:** Her grandmother and matriarch of House Locke, who bestowed her blessing upon Lavender's quest.
 
 ## Notable Equipment
 * **[[Ring of Orris]]:** A family heirloom retrieved from a mead bottle. Lavender is now attuned to it; it radiates freezing mist and seems to hold a celestial presence.

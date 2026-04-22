@@ -25,7 +25,7 @@ While the internal structure, leadership, and exact demographics of the guild ar
 
 ## Objectives
 
-The guild seeks profit through robbery, coordinated crime, and targeted assassinations. Recently, they issued a specific contract to acquire gold by targeting the affluent noblewoman and party member, [[Mary-Ann Mayfield|Mary-Ann]].
+The guild seeks profit through robbery, coordinated crime, and targeted assassinations. Recently, they issued a specific contract to acquire gold by targeting the affluent noblewoman and party member, [[Mary-Ann]].
 
 ## Notable Members
 
