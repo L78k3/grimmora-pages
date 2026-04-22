@@ -13,7 +13,7 @@ cssclasses: [dashboard]
 > **Goal:** Sail to [[Adalens]] with the rest of the party.
 
 > [!info] Vitals & Resources
-> **HP:** 49/50 | **AC:** 15 | **DC:** 13
+> **HP:** 59/60 | **AC:** 15 | **DC:** 13
 > **Speed:** 25 ft | **Init:** `dice: 1d20+4`
 > **Passives:** Perception: 15 | Investigation: 14
 > - [ ] **Inspiration**
