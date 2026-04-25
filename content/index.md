@@ -1,14 +1,14 @@
 ---
 title: Grimmora Campaign
 layout: home
-date: 2026-04-24
+date: 2026-04-25
 ---
 
 # Grimmora Campaign
 
 > [!info] State of the Campaign
-> **Current Location:** [[Adalens]] (Registered at [[Port Adal]])
-> **Immediate Goal:** Meet [[Elara Mythin]] at the [[Mages' Guild]] sanctum to find "The Alchemist" and locate [[Orris Locke]].
+> **Current Location:** [[Adalens]]
+> **Immediate Goal:** Meet [[Elara Mythin]] at the [[Mages' Guild]] sanctum to find "The Alchemist" and investigate [[Vex Silks]] regarding the recent kidnapping.
 > **Day:** 31
 
 ## 👥 The Party
@@ -66,20 +66,23 @@ date: 2026-04-24
 * **[[Corbin]]:** Former ship captain and informant (On the run).
 * **[[Captain Voss]]:** Smuggler captain of the *[[Tidecaller (Ship)|Tidecaller]]*.
 * **[[Elara Mythin]]:** Mistress of [[House Mythin]] and correspondent of Orris Locke.
+* **[[Petra Greenfield]]:** Rescued clerk, assisting the party with decoding and figures.
 
 ### The Antagonists
 * **[[Master of Ash]] / [[Sargonnas]]:** Ancient entity/god of vengeance and fire seeking to tip the cosmic scales.
 * **[[Lyra Valstrath]]:** High Priestess of the Master of Ash (Defeated/Overboard).
 * **[[Zadhir]]:** Shadow boss and spellcaster operating the [[Jade Zephyr Casino]].
 * **[[Orris Locke]]:** Lavender's brother and high-ranking member of the [[Mages' Guild]]/[[Necromancers]] (Current loyalties ambiguous; in hiding).
+* **[[Theron Vex]]:** Owner of [[Vex Silks]], orchestrator of the recent kidnapping.
 
 ---
 
 ## 📚 The Chronicles
 
-**Latest Entry:** [[Entry 42]]
+**Latest Entry:** [[Entry 43]]
 
 > [!example]- Recent Chronicle Archive
+> * [[Entry 43]] - The Kidnapped Clerk
 > * [[Entry 42]] - Arrival in Adalens & House Mythin
 > * [[Entry 41]] - The Master of Ash's Pursuit
 > * [[Entry 40]] - The Frozen Wraith

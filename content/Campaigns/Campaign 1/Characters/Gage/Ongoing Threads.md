@@ -14,6 +14,7 @@ The party has safely arrived in [[Adalens]] and met with Lady [[Elara Mythin]]. 
 * **The Contact:** We are to meet Elara Mythin at the [[Arch-mage's Sanctum]] tomorrow morning at 8:00 AM.
 * **The Goal:** Identify and locate "The Alchemist" within the Mages' Guild to uncover the next steps of Orris's plan.
 * **The Threat:** The five ruling families (including [[House Mythin]]) have "eyes everywhere," and the [[Cult of the Master of Ash]] may still have agents in the city.
+* **Infiltration Prep:** Following the successful rescue of [[Petra Greenfield]], [[Gage]] requested clothing that will make him look like he belongs to the Mages' Guild.
 
 ---
 
@@ -43,6 +44,14 @@ The party has safely arrived in [[Adalens]] and met with Lady [[Elara Mythin]]. 
 The party continues to unravel the conspiracy detailed in the [[Encoded Letters]] carried by the cursed courier [[Loraleia]].
 * **Clues:** We successfully tracked the recipient "E. M." to [[Elara Mythin]].
 * **Unresolved:** We still do not fully understand the scope of "Operation Green Spill," the identity of the "silent invaders," or the ultimate goal of the shipments originally tracked by [[Corbin]]. 
+
+---
+
+## ⚪ MINOR THREAD: Vex Silks Retribution
+**Status:** Pending
+**Location:** [[Adalens]]
+
+After the party rescued [[Petra Greenfield]] and paid off [[Captain Holloway]], [[Theren]] suggested confronting [[Theron Vex]] of [[Vex Silks]] regarding the kidnapping attempt. However, [[Lavender]] opted to retire for the night before any immediate action was taken.
 
 ---
 
