@@ -37,6 +37,7 @@ The choker manifested around [[Temerity]]'s neck following a harrowing nightmare
 * **[[Entry 23]]:** The item first appeared upon [[Temerity]]'s neck after he collapsed from exhaustion.
 * **[[Entry 31]]:** The choker's anchoring properties were revealed when it resisted the magical pull of [[Muriel]] at [[Silvanus' Beard]].
 * **[[Entry 41]]:** During the interrogation of [[Lyra Valstrath]], it was noted that the procedure to release [[Auriel]] from the [[Ring of Orris]] is complex and fraught with danger, though the specific relationship between the [[Winter's Core]] and the choker's origin remains an active mystery.
+* **[[Entry 44]] (The Choker's Toll):** While inquiring about the guild's history as a temple, the cursed artifact reacted violently, causing significant injury to Temerity. The bard managed to successfully conceal the damage from the alchemist Miriam to maintain his composure. This event highlights the choker's continued sensitivity to the disclosure of specific historical or divine truths.
 
 ## Acquisition
 * **Obtained In:** [[Entry 23]]

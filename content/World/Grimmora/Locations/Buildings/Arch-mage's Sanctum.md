@@ -45,6 +45,7 @@ Unknown.
 ## Events
 
 * **[[Ongoing Threads]] (The Rendezvous):** Following the rescue of [[Petra Greenfield]], the party arranged a meeting with Lady [[Elara Mythin]] at the Sanctum for 8:00 AM to uncover the identity of "The Alchemist" and investigate the next steps of [[Orris Locke]]'s plans. To prepare for this infiltration, [[Gage]] requested specific clothing that would allow him to blend in as a member of the guild.
+* **[[Entry 44]] (Battle in the Lab):** The Mages' Guild headquarters, a converted ancient temple, houses the high-security sixth-floor Sanctum. The location is protected by powerful psychic wards and serves as the research hub for alchemists Miriam, Thomas, and the treacherous Felix. It is where Orris Locke was last seen meeting with the Arch-Mage.
 
 ---
 

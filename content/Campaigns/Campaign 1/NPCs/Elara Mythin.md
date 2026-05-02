@@ -35,6 +35,7 @@ She was revealed to be the secret recipient ("E.M.") of the [[Encoded Letters]] 
 
 ## Campaign History
 * **[[Entry 42]] (The Mythin Audience):** Received [[Lavender]], [[Mary-Ann]], and [[Anaphel]] in a beautiful sitting room within her estate while the rest of the party stood watch outside. She revealed that she had intercepted the party's [[sending stone]] message and informed them that [[Orris Locke]] had been forced to flee. Pledging her allegiance, she narrowed down the identity of "The Alchemist" to three individuals and agreed to escort the party into the [[Mages' Guild]] sanctum to find them.
+* **[[Entry 44]] (Sanctum Escort):** Elara guided the party to the sixth-floor Sanctum and assisted Lavender in bypassing the guild’s defensive wards. When the alchemist Felix attacked, she fled the room to seek additional help for the party. She remains a critical ally in the party's efforts to navigate the internal politics of the Adalens Mages' Guild.
 
 ## Key Relationships
 * **[[Orris Locke]]:** Her secret correspondent and ally within the [[Mages' Guild]]. She is actively working to cover his tracks and fulfil his instructions after he was forced to lay low.

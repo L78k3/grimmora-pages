@@ -47,6 +47,7 @@ The Master of Ash is fundamentally opposed to the concepts of balance and those 
 ## History with the Party
 * **[[Entry 40]] (The Frozen Wraith):** The Master of Ash was first named by the undead captain of the *Frozen Wraith*, who demanded the [[Ring of Orris]] in his name.
 * **[[Entry 41]] (The High Priestess's Ambush):** [[Lyra Valstrath]] led a pristine, dark-wood vessel to intercept the *[[Tidecaller (Ship)|Tidecaller]]*. During the confrontation, Lyra confirmed that her Master seeks to destroy the one inside the ring who "strives for balance".
+* **[[Entry 44]] (The Sanctum Spy):** The alchemist Felix was unmasked via *detect thoughts* as a secret operative in service to the Master of Ash. Felix asserted that his master possesses absolute vision, seeing everything that transpires within the city. This confrontation led Lavender to issue a direct challenge to the entity, vowing that he would know she is coming.
 
 ---
 **Current Location:** [[Unknown]]

@@ -65,6 +65,7 @@ These letters were being transported by [[Loraleia]], an Imperial courier, inten
 * **[[Entry 34]] (The Deciphering):** While [[Loraleia]] was incapacitated by a curse, [[Gage]] and [[Theren]] infiltrated her cabin and transcribed the contents. [[Lavender]] identified [[Orris Locke|Orris's]] handwriting on two of the monograms.
 * **[[Entry 35]] (The Gilded Swan Lead):** The party followed the "Operation Green Spill" clue to [[The Gilded Swan]] in [[Durvish City]], discovering it was a prank involving children and magical vines.
 * **[[Entry 38]] (Corbin and the Net):** The "torn net" mentioned in the letters was confirmed by [[Corbin]], referring to his smuggling and information network.
+* **[[Entry 44]] (Alchemical Alarm):** Lavender utilised information from the recovered correspondence during her tense confrontation with the flame alchemist Felix. Referencing the letters' specific contents proved highly alarming to the researcher. This confirmed that the coded phrases, such as the "mountain’s breath," directly relate to the conspiracy operating within the guild's Inner Sanctum.
 
 ## Acquisition
 * **Obtained In:** [[Entry 34]]

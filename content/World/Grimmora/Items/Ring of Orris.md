@@ -43,6 +43,7 @@ Formerly belonging to [[Orris Locke]], the ring serves as a tool of immense powe
 * **[[Entry 37]] (The Goddess Trapped):** The ring began to emit a freezing mist and an intense absence of heat. Upon investigating its chilling aura, [[Anaphel]] and [[Lavender]] hypothesized that the goddess [[Auriel]] herself had been imprisoned within the ring by the [[necromancers]] to tip the cosmic scales.
 * **The Moon's Grace:** In **[[Entry 39]]**, the ring grew intensely cold and refracted the moonlight at [[Onasea]]. [[Anaphel]] refused to hold it, sensing the entity inside might be the trapped counterpart to [[Auriel]].
 * **[[Entry 40]] (The Master's Demand):** The ring was explicitly targeted by the Master of Ash, who commanded the party to hand over "the ring containing the [[Winter's Core]]." Following the battle, Lavender retreated below deck to ponder this terrifying revelation and the ring's true nature.
+* **[[Entry 44]] (The Sanctum Pulse):** The ring reacts to the presence of the flame alchemist Felix, growing notably colder as Lavender approaches him in the lab. Following the violent confrontation, the artifact pulses again, sending a debilitating wave of supernatural cold through Lavender’s body as Felix reveals Orris Locke’s recent meeting with the Arch-Mage in the Inner Sanctum.
 
 ## Acquisition
 * **Obtained In:** [[Entry 16]]
