@@ -1,0 +1,5482 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Character Creation Guidelines Uwendale Military Outpost",
+      "filename": "Character Creation Guidelines Uwendale Military Outpost.md",
+      "relative_path": "content/Character Creation Guidelines Uwendale Military Outpost.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "content-README",
+      "filename": "content-README.md",
+      "relative_path": "content/content-README.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Grimmora Campaign",
+      "filename": "index.md",
+      "relative_path": "content/index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Rime of the Soul-Stolen",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/index.md",
+      "type": "campaign_index",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Greengather (Archived20251207)",
+      "filename": "Gage (Archived).md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage (Archived).md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Combat",
+      "filename": "Gage Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Inventory",
+      "filename": "Gage Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Skills",
+      "filename": "Gage Skills.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Greengather",
+      "filename": "Gage.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gage Greengather (Dashboard)",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Ongoing Threads",
+      "filename": "Ongoing Threads.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Ongoing Threads.md",
+      "type": "tracker",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lavender Inventory",
+      "filename": "b. Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/b. Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Combat Profile (Lavender)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lavender Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lavender Locke",
+      "filename": "Lavender.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Lavender.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Combat Profile (Mary-Ann)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mary-Ann Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mary-Ann Mayfield",
+      "filename": "Mary-Ann.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/Mary-Ann.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Combat Profile (Temerity)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Temerity Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Temerity",
+      "filename": "Temerity.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/Temerity.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Combat Profile (Theren)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Theren Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Theren",
+      "filename": "Theren.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/Theren.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 01",
+      "filename": "Entry 01.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 01.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 02",
+      "filename": "Entry 02.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 02.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 03",
+      "filename": "Entry 03.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 03.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 04",
+      "filename": "Entry 04.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 04.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 05",
+      "filename": "Entry 05.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 05.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 06",
+      "filename": "Entry 06.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 06.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 07",
+      "filename": "Entry 07.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 07.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 08",
+      "filename": "Entry 08.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 08.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 09",
+      "filename": "Entry 09.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 09.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 10",
+      "filename": "Entry 10.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 10.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 11",
+      "filename": "Entry 11.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 11.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 12",
+      "filename": "Entry 12.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 12.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 13",
+      "filename": "Entry 13.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 13.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 14",
+      "filename": "Entry 14.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 14.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 15",
+      "filename": "Entry 15.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 15.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 16",
+      "filename": "Entry 16.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 16.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 17",
+      "filename": "Entry 17.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 17.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 18",
+      "filename": "Entry 18.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 18.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 19",
+      "filename": "Entry 19.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 19.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 20",
+      "filename": "Entry 20.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 20.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 21",
+      "filename": "Entry 21.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 21.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 22",
+      "filename": "Entry 22.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 22.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 23",
+      "filename": "Entry 23.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 23.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 24",
+      "filename": "Entry 24.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 24.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 25",
+      "filename": "Entry 25.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 25.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 26",
+      "filename": "Entry 26.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 26.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 27",
+      "filename": "Entry 27.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 27.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 28",
+      "filename": "Entry 28.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 28.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 29",
+      "filename": "Entry 29.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 29.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 30",
+      "filename": "Entry 30.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 30.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 31",
+      "filename": "Entry 31.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 31.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 32",
+      "filename": "Entry 32.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 32.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 33",
+      "filename": "Entry 33.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 33.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 34",
+      "filename": "Entry 34.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 34.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 35",
+      "filename": "Entry 35.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 35.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 36",
+      "filename": "Entry 36.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 36.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 37",
+      "filename": "Entry 37.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 37.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 38",
+      "filename": "Entry 38.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 38.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 39",
+      "filename": "Entry 39.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 39.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 40",
+      "filename": "Entry 40.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 40.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 41",
+      "filename": "Entry 41.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 41.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 42",
+      "filename": "Entry 42.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 42.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 43",
+      "filename": "Entry 43.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 43.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 44",
+      "filename": "Entry 44.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 44.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Entry 45",
+      "filename": "Entry 45.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 45.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Battle at the Big House",
+      "filename": "Battle at the Big House.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Battle at the Big House.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Dragon Battle",
+      "filename": "Dragon Battle.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Dragon Battle.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gnome Confrontation",
+      "filename": "Gnome Confrontation.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Gnome Confrontation.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Magical Plague",
+      "filename": "Magical Plague.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Magical Plague.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Plague Investigation",
+      "filename": "Plague Investigation.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Plague Investigation.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Trial of the Gladiator",
+      "filename": "The Trial of the Gladiator.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/The Trial of the Gladiator.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Vampire Defeat",
+      "filename": "Vampire Defeat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Vampire Defeat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Alaric",
+      "filename": "Alaric.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alaric.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Alder Locke (\u2020)",
+      "filename": "Alder Locke (\u2020).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alder Locke (\u2020).md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Alfred de Bessoc",
+      "filename": "Alfred de Bessoc.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alfred de Bessoc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Anaphel",
+      "filename": "Anaphel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Anaphel.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Angelica Locke",
+      "filename": "Angelica Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Angelica Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Anise Locke",
+      "filename": "Anise Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Anise Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Arch-mage",
+      "filename": "Arch-mage.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Arch-mage.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Auriel",
+      "filename": "Auriel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Auriel.md",
+      "type": "deity",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Aurius",
+      "filename": "Aurius.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Aurius.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Azuul",
+      "filename": "Azuul.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Azuul.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Dave",
+      "filename": "Bandit Captain (Dave).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bandit Captain (Dave).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bandits",
+      "filename": "bandits.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/bandits.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Barge Captain (Avalon)",
+      "filename": "Barge Captain (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barge Captain (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Barkeep (Durvish City)",
+      "filename": "Barkeep (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Barkeep (Onasea)",
+      "filename": "Barkeep (Onasea).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep (Onasea).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Barkeep's Wife (Durvish City)",
+      "filename": "Barkeep's Wife (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep's Wife (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Barry",
+      "filename": "Barry.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barry.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Basil Locke",
+      "filename": "Basil Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Basil Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bracken",
+      "filename": "Bracken.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bracken.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Brian",
+      "filename": "Brian.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Brian.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bridgeport Mason",
+      "filename": "Bridgeport Mason.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bridgeport Mason.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bridgeport Warehouse Guards (Martin & Roy)",
+      "filename": "Bridgeport Warehouse Guards.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bridgeport Warehouse Guards.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Captain Arran",
+      "filename": "Captain Arran.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Arran.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Captain Holloway",
+      "filename": "Captain Holloway.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Holloway.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Captain Voss",
+      "filename": "Captain Voss.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Voss.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Cella",
+      "filename": "Cella.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Cella.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Chikatika",
+      "filename": "Chikatika.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Chikatika.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Corbin",
+      "filename": "Corbin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Corbin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Cornelius",
+      "filename": "Cornelius.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Cornelius.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Corvus",
+      "filename": "Corvus.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Corvus.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Dave",
+      "filename": "Dave.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Dave.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Drolass",
+      "filename": "Drolass.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Drolass.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Edith de Bessoc",
+      "filename": "Edith de Bessoc.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Edith de Bessoc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Elara Mythin",
+      "filename": "Elara Mythin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elara Mythin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Elara",
+      "filename": "Elara.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elara.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Elven Wizard",
+      "filename": "Elven Wizard.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elven Wizard.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Felix",
+      "filename": "Felix.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Felix.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "First Fist",
+      "filename": "First Fist.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/First Fist.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "First Mate (Avalon)",
+      "filename": "First Mate (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/First Mate (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Florian",
+      "filename": "Florian.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Florian.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Frolot",
+      "filename": "Frolot.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Frolot.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gnome Cook",
+      "filename": "Gnome Cook.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gnome Cook.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gorg",
+      "filename": "Gorg.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gorg.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Grand Cleric",
+      "filename": "grand cleric.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/grand cleric.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Grash",
+      "filename": "Grash.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Grash.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Greg (Bandit Captain)",
+      "filename": "Greg (Bandit Captain).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Greg (Bandit Captain).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gregor Withwhile",
+      "filename": "Gregor Withwhile.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gregor Withwhile.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Guardsman Floyd",
+      "filename": "Guardsman Floyd.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Guardsman Floyd.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Guido",
+      "filename": "Guido.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Guido.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Hag",
+      "filename": "hag.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/hag.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Halsen",
+      "filename": "Halsen.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Halsen.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Hodrel Heavybrew",
+      "filename": "Hodrel Heavybrew.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Hodrel Heavybrew.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Ice Dragon",
+      "filename": "Ice Dragon.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ice Dragon.md",
+      "type": "creature",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Ismay",
+      "filename": "Ismay.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ismay.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Jimmy",
+      "filename": "Jimmy.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Jimmy.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Kevin (Sailor)",
+      "filename": "Kevin (Sailor).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Kevin (Sailor).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Kevin",
+      "filename": "Kevin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Kevin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Korako",
+      "filename": "Korako.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Korako.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lady Bromelia",
+      "filename": "Lady Bromelia.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lady Bromelia.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Loraleia",
+      "filename": "Loraleia.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Loraleia.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lord Requiem",
+      "filename": "Lord Requiem.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lord Requiem.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lyra Valstrath",
+      "filename": "Lyra Valstrath.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lyra Valstrath.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Arrogant Mage",
+      "filename": "Mage (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Mage (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Magnus",
+      "filename": "Magnus.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Magnus.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "March Sterling (\u2020)",
+      "filename": "March Sterling (\u2020).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/March Sterling (\u2020).md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Marjorie",
+      "filename": "Marjorie.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Marjorie.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Marvis Colton",
+      "filename": "Marvis Colton.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Marvis Colton.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Master of Ash",
+      "filename": "Master of Ash.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Master of Ash.md",
+      "type": "npc",
+      "aliases": [
+        "Sargonis",
+        "Sargonnas"
+      ]
+    },
+    {
+      "canonical_name": "Mavis",
+      "filename": "Mavis.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Mavis.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Merisa",
+      "filename": "Merisa.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Merisa.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Millicent",
+      "filename": "Millicent.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Millicent.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Miriam",
+      "filename": "Miriam.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Miriam.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Muriel",
+      "filename": "Muriel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Muriel.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Myrtle Locke",
+      "filename": "Myrtle Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Myrtle Locke.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Oliver",
+      "filename": "Oliver.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Oliver.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Orion",
+      "filename": "Orion.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Orion.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Orris",
+      "filename": "Orris Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Orris Locke.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Petra Greenfield",
+      "filename": "Petra Greenfield.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Petra Greenfield.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Priest of Sol (Avalon)",
+      "filename": "Priest of Sol (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Priest of Sol (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Ranger Guild Recruiter",
+      "filename": "Ranger Guild Recruiter.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ranger Guild Recruiter.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Requiem la Rouge",
+      "filename": "Requiem la Rouge.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Requiem la Rouge.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Rosemary Locke",
+      "filename": "Rosemary Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rosemary Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Rowan Smith",
+      "filename": "Rowan Smith.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rowan Smith.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Rowan",
+      "filename": "Rowan.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rowan.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Runcible",
+      "filename": "Runcible.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Runcible.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Soliana",
+      "filename": "Soliana.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Soliana.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Sorrel Locke",
+      "filename": "Sorrel Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Sorrel Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Summer",
+      "filename": "Summer.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Summer.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Alchemist",
+      "filename": "The Alchemist.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/The Alchemist.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Clothier",
+      "filename": "The Clothier.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/The Clothier.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Theodore",
+      "filename": "Theodore.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Theodore.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Theron Vex",
+      "filename": "Theron Vex.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Theron Vex.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Thomas",
+      "filename": "Thomas.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Thomas.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Thumpy",
+      "filename": "Thumpy.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Thumpy.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Tiefling Merchant (Avalon Road)",
+      "filename": "Tiefling Merchant (Avalon Road).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Tiefling Merchant (Avalon Road).md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Vampire Lord",
+      "filename": "Vampire Lord.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Vampire Lord.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Water Genasi Harbourmaster",
+      "filename": "Water Genasi Harbourmaster.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Water Genasi Harbourmaster.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Wild Wanderer",
+      "filename": "Wild Wanderer.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Wild Wanderer.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Winter",
+      "filename": "Winter.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Winter.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Zadhir",
+      "filename": "Zadhir.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Zadhir.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Passage to Adalens",
+      "filename": "Passage to Adalens.md",
+      "relative_path": "content/Campaigns/Campaign 1/Quests/Passage to Adalens.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session Debrief - 2026-04-25",
+      "filename": "20260425.md",
+      "relative_path": "content/Campaigns/Campaign 1/Session debrief/20260425.md",
+      "type": "debrief",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20231228",
+      "filename": "Session 20231228.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20231228.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240104",
+      "filename": "Session 20240104.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240104.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240210",
+      "filename": "Session 20240210.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240210.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240323",
+      "filename": "Session 20240323.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240323.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240330",
+      "filename": "Session 20240330.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240330.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240406",
+      "filename": "Session 20240406.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240406.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240527",
+      "filename": "Session 20240527.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240527.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240608",
+      "filename": "Session 20240608.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240608.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240629",
+      "filename": "Session 20240629.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240629.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240720",
+      "filename": "Session 20240720.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240720.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240727",
+      "filename": "Session 20240727.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240727.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240803",
+      "filename": "Session 20240803.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240803.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20240831",
+      "filename": "Session 20240831.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240831.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20241026",
+      "filename": "Session 20241026.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20241026.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20241228",
+      "filename": "Session 20241228.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20241228.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session 20250215",
+      "filename": "Session 20250215.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20250215.md",
+      "type": "session",
+      "aliases": []
+    },
+    {
+      "canonical_name": "index",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Brick",
+      "filename": "Gwilym Brick.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Brick.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Combat",
+      "filename": "Gwilym Combat.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Inventory",
+      "filename": "Gwilym Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Skills",
+      "filename": "Gwilym Skills.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Lackmount",
+      "filename": "Gwilym.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Lackmount (Dashboard)",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bishop Greggan",
+      "filename": "Bishop Greggan.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Bishop Greggan.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Brick",
+      "filename": "Brick.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Brick.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Master Drev",
+      "filename": "Master Drev.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Master Drev.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Mentor",
+      "filename": "The Mentor.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/The Mentor.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Predecessor",
+      "filename": "The Predecessor.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/The Predecessor.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gwilym Lackmount (Dashboard)",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Onyx Combat",
+      "filename": "Onyx Combat.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Firstname Inventory",
+      "filename": "Onyx Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Onyx Skills",
+      "filename": "Onyx Skills.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Onyx Surge Tracker",
+      "filename": "Onyx Surge Tracker.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Surge Tracker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Oynx",
+      "filename": "Onyx.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx.md",
+      "type": "pc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "scratchpad",
+      "filename": "scratchpad.md",
+      "relative_path": "content/GM-Only/scratchpad.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Session Prep for Uwendale Oneshot",
+      "filename": "Session Prep for Uwendale Oneshot.md",
+      "relative_path": "content/GM-Only/Session Prep/Session Prep for Uwendale Oneshot.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "00 Morning at Uwendale",
+      "filename": "00 Morning at Uwendale.md",
+      "relative_path": "content/GM-Only/Uwendale/00 Morning at Uwendale.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "01 Farm Assault or Border Intrigue",
+      "filename": "01 Farm Assault or Border Intrigue.md",
+      "relative_path": "content/GM-Only/Uwendale/01 Farm Assault or Border Intrigue.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "02-a Defend Farm, Discover Kidnapping",
+      "filename": "02-a Defend Farm, Discover Kidnapping.md",
+      "relative_path": "content/GM-Only/Uwendale/02-a Defend Farm, Discover Kidnapping.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "02-b Investigate Agents, Learn of Cave",
+      "filename": "02-b Investigate Agents, Learn of Cave.md",
+      "relative_path": "content/GM-Only/Uwendale/02-b Investigate Agents, Learn of Cave.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "03 Track to mountain cave",
+      "filename": "03 Track to mountain cave.md",
+      "relative_path": "content/GM-Only/Uwendale/03 Track to mountain cave.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "04 Cave Exploration & Rescue",
+      "filename": "04 Cave Exploration & Rescue.md",
+      "relative_path": "content/GM-Only/Uwendale/04 Cave Exploration & Rescue.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Assassin",
+      "filename": "Assassin.md",
+      "relative_path": "content/Reference/Assassin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Gloom Stalker",
+      "filename": "Gloom Stalker.md",
+      "relative_path": "content/Reference/Gloom Stalker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Quick Reference",
+      "filename": "Quick Reference.md",
+      "relative_path": "content/Reference/Quick Reference.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Some content idk",
+      "filename": "Some content idk.md",
+      "relative_path": "content/Uwendale/Some content idk.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Grimmora",
+      "filename": "grimmora-index.md",
+      "relative_path": "content/World/Grimmora/grimmora-index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "confoundment spell",
+      "filename": "confoundment spell.md",
+      "relative_path": "content/World/Grimmora/Abilities/confoundment spell.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "hideous laughter",
+      "filename": "hideous laughter.md",
+      "relative_path": "content/World/Grimmora/Abilities/hideous laughter.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Crystal Elemental",
+      "filename": "Crystal Elemental.md",
+      "relative_path": "content/World/Grimmora/Concepts/Crystal Elemental.md",
+      "type": "concept",
+      "aliases": []
+    },
+    {
+      "canonical_name": "dimensional sucker",
+      "filename": "dimensional sucker.md",
+      "relative_path": "content/World/Grimmora/Concepts/dimensional sucker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "dryads",
+      "filename": "dryads.md",
+      "relative_path": "content/World/Grimmora/Concepts/dryads.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "eladrin",
+      "filename": "eladrin.md",
+      "relative_path": "content/World/Grimmora/Concepts/eladrin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "griffin",
+      "filename": "griffin.md",
+      "relative_path": "content/World/Grimmora/Concepts/griffin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "half-orc",
+      "filename": "half-orc.md",
+      "relative_path": "content/World/Grimmora/Concepts/half-orc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Ice Wolves",
+      "filename": "Ice Wolves.md",
+      "relative_path": "content/World/Grimmora/Concepts/Ice Wolves.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lady Rose",
+      "filename": "Lady Rose.md",
+      "relative_path": "content/World/Grimmora/Concepts/Lady Rose.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "moon elf",
+      "filename": "moon elf.md",
+      "relative_path": "content/World/Grimmora/Concepts/moon elf.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Necromancer Symbol (Diamond Eyes)",
+      "filename": "Necromancer Symbol (Diamond Eyes).md",
+      "relative_path": "content/World/Grimmora/Concepts/Necromancer Symbol (Diamond Eyes).md",
+      "type": "concept",
+      "aliases": []
+    },
+    {
+      "canonical_name": "necromancers",
+      "filename": "necromancers.md",
+      "relative_path": "content/World/Grimmora/Concepts/necromancers.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Pellor",
+      "filename": "Pellor.md",
+      "relative_path": "content/World/Grimmora/Concepts/Pellor.md",
+      "type": "concept",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Pseudodragon",
+      "filename": "Pseudodragon.md",
+      "relative_path": "content/World/Grimmora/Concepts/Pseudodragon.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Sargonnas",
+      "filename": "Sargonnas.md",
+      "relative_path": "content/World/Grimmora/Concepts/Sargonnas.md",
+      "type": "deity",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Smoke",
+      "filename": "Smoke.md",
+      "relative_path": "content/World/Grimmora/Concepts/Smoke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Snow-Blindness",
+      "filename": "Snow-Blindness.md",
+      "relative_path": "content/World/Grimmora/Concepts/Snow-Blindness.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Sol",
+      "filename": "Sol.md",
+      "relative_path": "content/World/Grimmora/Concepts/Sol.md",
+      "type": "concept",
+      "aliases": []
+    },
+    {
+      "canonical_name": "spectres",
+      "filename": "spectres.md",
+      "relative_path": "content/World/Grimmora/Concepts/spectres.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Curse",
+      "filename": "The Curse.md",
+      "relative_path": "content/World/Grimmora/Concepts/The Curse.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Gladiator Wight",
+      "filename": "The Gladiator Wight.md",
+      "relative_path": "content/World/Grimmora/Concepts/The Gladiator Wight.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "tiefling",
+      "filename": "tiefling.md",
+      "relative_path": "content/World/Grimmora/Concepts/tiefling.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Auriel's Wall",
+      "filename": "Auriel's Wall.md",
+      "relative_path": "content/World/Grimmora/Items/Auriel's Wall.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Blue Communication Stone",
+      "filename": "Blue Communication Stone.md",
+      "relative_path": "content/World/Grimmora/Items/Blue Communication Stone.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Chronometer Pocket Watch",
+      "filename": "Chronometer Pocket Watch.md",
+      "relative_path": "content/World/Grimmora/Items/Chronometer Pocket Watch.md",
+      "type": "item",
+      "aliases": [
+        "Chronometer Pocket Watch"
+      ]
+    },
+    {
+      "canonical_name": "Cloak of Billowing",
+      "filename": "Cloak of Billowing.md",
+      "relative_path": "content/World/Grimmora/Items/Cloak of Billowing.md",
+      "type": "item",
+      "aliases": [
+        "Cloak of Billowing",
+        "Black Cloak with Red Lining"
+      ]
+    },
+    {
+      "canonical_name": "Cloudy Gem (Sol)",
+      "filename": "Cloudy Gem (Sol).md",
+      "relative_path": "content/World/Grimmora/Items/Cloudy Gem (Sol).md",
+      "type": "item",
+      "aliases": [
+        "Cloudy Gem (Sol)"
+      ]
+    },
+    {
+      "canonical_name": "Corrupted Censer",
+      "filename": "Corrupted Censer.md",
+      "relative_path": "content/World/Grimmora/Items/Corrupted Censer.md",
+      "type": "item",
+      "aliases": [
+        "Corrupted Censer"
+      ]
+    },
+    {
+      "canonical_name": "crossbow",
+      "filename": "crossbow.md",
+      "relative_path": "content/World/Grimmora/Items/crossbow.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Crystal Orbs",
+      "filename": "Crystal Orbs.md",
+      "relative_path": "content/World/Grimmora/Items/Crystal Orbs.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Dragon Meat",
+      "filename": "Dragon Meat.md",
+      "relative_path": "content/World/Grimmora/Items/Dragon Meat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Encoded Letters",
+      "filename": "Encoded Letters.md",
+      "relative_path": "content/World/Grimmora/Items/Encoded Letters.md",
+      "type": "item",
+      "aliases": [
+        "Encoded Letters",
+        "Imperial Courier Letters"
+      ]
+    },
+    {
+      "canonical_name": "Gage's Cloak of the Forest",
+      "filename": "Gage's Cloak of the Forest.md",
+      "relative_path": "content/World/Grimmora/Items/Gage's Cloak of the Forest.md",
+      "type": "item",
+      "aliases": [
+        "Gage's Cloak of the Forest"
+      ]
+    },
+    {
+      "canonical_name": "Gloomberries",
+      "filename": "gloomberries.md",
+      "relative_path": "content/World/Grimmora/Items/gloomberries.md",
+      "type": "item",
+      "aliases": [
+        "Gloomberries"
+      ]
+    },
+    {
+      "canonical_name": "Grey Pearl",
+      "filename": "Grey Pearl.md",
+      "relative_path": "content/World/Grimmora/Items/Grey Pearl.md",
+      "type": "item",
+      "aliases": [
+        "Grey Pearl"
+      ]
+    },
+    {
+      "canonical_name": "health potions",
+      "filename": "health potions.md",
+      "relative_path": "content/World/Grimmora/Items/health potions.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Imperial Courier Bag",
+      "filename": "Imperial Courier Bag.md",
+      "relative_path": "content/World/Grimmora/Items/Imperial Courier Bag.md",
+      "type": "item",
+      "aliases": [
+        "Imperial Courier Bag"
+      ]
+    },
+    {
+      "canonical_name": "Necromantic Idol",
+      "filename": "Necromantic Idol.md",
+      "relative_path": "content/World/Grimmora/Items/Necromantic Idol.md",
+      "type": "item",
+      "aliases": [
+        "Necromantic Idol"
+      ]
+    },
+    {
+      "canonical_name": "Potion of Fire Breathing",
+      "filename": "Potion of Fire Breathing.md",
+      "relative_path": "content/World/Grimmora/Items/Potion of Fire Breathing.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Pulverised Gem Dust",
+      "filename": "Pulverised Gem Dust.md",
+      "relative_path": "content/World/Grimmora/Items/Pulverised Gem Dust.md",
+      "type": "item",
+      "aliases": [
+        "Pulverised Gem Dust"
+      ]
+    },
+    {
+      "canonical_name": "Ring of Orris",
+      "filename": "Ring of Orris.md",
+      "relative_path": "content/World/Grimmora/Items/Ring of Orris.md",
+      "type": "item",
+      "aliases": [
+        "Ring of Orris"
+      ]
+    },
+    {
+      "canonical_name": "Rune Box",
+      "filename": "Rune Box.md",
+      "relative_path": "content/World/Grimmora/Items/Rune Box.md",
+      "type": "item",
+      "aliases": [
+        "Rune Box"
+      ]
+    },
+    {
+      "canonical_name": "scrying pool",
+      "filename": "scrying pool.md",
+      "relative_path": "content/World/Grimmora/Items/scrying pool.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Sending Stone",
+      "filename": "Sending Stone.md",
+      "relative_path": "content/World/Grimmora/Items/Sending Stone.md",
+      "type": "item",
+      "aliases": [
+        "Sending Stone"
+      ]
+    },
+    {
+      "canonical_name": "teleportation rune",
+      "filename": "teleportation rune.md",
+      "relative_path": "content/World/Grimmora/Items/teleportation rune.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Temerity's Choker",
+      "filename": "Temerity's Choker.md",
+      "relative_path": "content/World/Grimmora/Items/Temerity's Choker.md",
+      "type": "item",
+      "aliases": [
+        "Temerity's Choker"
+      ]
+    },
+    {
+      "canonical_name": "Wand of Strange Glyphs",
+      "filename": "Wand of Strange Glyphs.md",
+      "relative_path": "content/World/Grimmora/Items/Wand of Strange Glyphs.md",
+      "type": "item",
+      "aliases": [
+        "Wand of Strange Glyphs"
+      ]
+    },
+    {
+      "canonical_name": "Whispering Orb",
+      "filename": "Whispering Orb.md",
+      "relative_path": "content/World/Grimmora/Items/Whispering Orb.md",
+      "type": "item",
+      "aliases": [
+        "Whispering Orb"
+      ]
+    },
+    {
+      "canonical_name": "Winter's Core",
+      "filename": "Winter's Core.md",
+      "relative_path": "content/World/Grimmora/Items/Winter's Core.md",
+      "type": "item",
+      "aliases": [
+        "Winter's Core",
+        "She who strives for balance"
+      ]
+    },
+    {
+      "canonical_name": "Withered Rose",
+      "filename": "Withered Rose.md",
+      "relative_path": "content/World/Grimmora/Items/Withered Rose.md",
+      "type": "item",
+      "aliases": [
+        "Withered Rose"
+      ]
+    },
+    {
+      "canonical_name": "Albany Castle (Ship)",
+      "filename": "Albany Castle (Ship).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Albany Castle (Ship).md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Arch-mage's Sanctum",
+      "filename": "Arch-mage's Sanctum.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Arch-mage's Sanctum.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Auriel's Church",
+      "filename": "Auriel's Church.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Auriel's Church.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Auril's Church",
+      "filename": "Auril's Church.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Auril's Church.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bandit Lake House",
+      "filename": "Bandit Lake House.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Bandit Lake House.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Blooming Lovely",
+      "filename": "Blooming Lovely.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Blooming Lovely.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bridgeport Warehouse",
+      "filename": "Bridgeport Warehouse.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Bridgeport Warehouse.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Docks (Avalon)",
+      "filename": "Docks (Avalon).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Docks (Avalon).md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Durvish City Temple",
+      "filename": "Durvish City Temple.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Durvish City Temple.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Frozen Wraith",
+      "filename": "Frozen Wraith.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Frozen Wraith.md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Golden Griffin Inn",
+      "filename": "Golden Griffin.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Golden Griffin.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Guild's Rest",
+      "filename": "Guild\u2019s Rest.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Guild\u2019s Rest.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Harbourmaster's Office (Avalon)",
+      "filename": "Harbourmaster's Office (Avalon).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Harbourmaster's Office (Avalon).md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Jade Zephyr Casino",
+      "filename": "Jade Zephyr Casino.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Jade Zephyr Casino.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mage's Tower",
+      "filename": "Mage's Tower (Durvish City).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Mage's Tower (Durvish City).md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mayor's Mansion (Arcadia)",
+      "filename": "Mayor's Mansion (Arcadia).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Mayor's Mansion (Arcadia).md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Monastery",
+      "filename": "monastery.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/monastery.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "North City Gate",
+      "filename": "North City Gate.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/North City Gate.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Old Mill",
+      "filename": "Old Mill.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Old Mill.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Paddle Steamer",
+      "filename": "Paddle Steamer.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Paddle Steamer.md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Rotunda",
+      "filename": "Rotunda.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Rotunda.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Silken and Spindle",
+      "filename": "Silken and Spindle.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Silken and Spindle.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "south gate",
+      "filename": "south gate.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/south gate.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Sweet and Sour Skunk",
+      "filename": "Sweet and Sour Skunk.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Sweet and Sour Skunk.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Temple of Sol",
+      "filename": "Temple of Sol.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Temple of Sol.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Blushing Manatee",
+      "filename": "The Blushing Manatee.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Blushing Manatee.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Gilded Swan",
+      "filename": "The Gilded Swan.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Gilded Swan.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Slippery Eel",
+      "filename": "The Slippery Eel.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Slippery Eel.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Slippery Ostrich",
+      "filename": "The Slippery Ostrich.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Slippery Ostrich.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Snoring Jackal",
+      "filename": "The Snoring Jackal.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Snoring Jackal.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Tavern",
+      "filename": "The Tavern.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Tavern.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Tidecaller (Ship)",
+      "filename": "Tidecaller (Ship).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Tidecaller (Ship).md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Theron Vex",
+      "filename": "Vex Silks.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Vex Silks.md",
+      "type": "npc",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Adalens",
+      "filename": "Adalens.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Adalens.md",
+      "type": "city",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Arcadia",
+      "filename": "Arcadia.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Arcadia.md",
+      "type": "city",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Avalon",
+      "filename": "Avalon.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Avalon.md",
+      "type": "city",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bridgeport",
+      "filename": "Bridgeport.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Bridgeport.md",
+      "type": "city",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Durvish City",
+      "filename": "Durvish City.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Durvish City.md",
+      "type": "city",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Elvish Quarter",
+      "filename": "elvish quarter.md",
+      "relative_path": "content/World/Grimmora/Locations/Districts/elvish quarter.md",
+      "type": "district",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Bazaar",
+      "filename": "The Bazaar.md",
+      "relative_path": "content/World/Grimmora/Locations/Districts/The Bazaar.md",
+      "type": "district",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Displaced Camp",
+      "filename": "Displaced Camp.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Displaced Camp.md",
+      "type": "lair",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Dragon's Nest",
+      "filename": "Dragon's Nest.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Dragon's Nest.md",
+      "type": "lair",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mausoleum (Alpine Forest)",
+      "filename": "Mausoleum (Alpine Forest).md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Mausoleum (Alpine Forest).md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Orris' Secret Lair",
+      "filename": "Orris' Secret Lair.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Orris' Secret Lair.md",
+      "type": "lair",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Gladiator's Amphitheatre",
+      "filename": "The Gladiator's Amphitheatre.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/The Gladiator's Amphitheatre.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Trial Chamber",
+      "filename": "The Trial Chamber.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/The Trial Chamber.md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Vampire Mansion",
+      "filename": "Vampire Mansion.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Vampire Mansion.md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Adalens Ul-Maht",
+      "filename": "Adalens Ul-Maht.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Adalens Ul-Maht.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Alpine Forest",
+      "filename": "Alpine Forest.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Alpine Forest.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Court of Flowers",
+      "filename": "Court of Flowers.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Court of Flowers.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Court of Summer and Winter",
+      "filename": "Court of Summer and Winter.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Court of Summer and Winter.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Fairy Garden (Durendal)",
+      "filename": "Fairy Garden (Durendal).md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Fairy Garden (Durendal).md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Fey Realm",
+      "filename": "fey realm.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/fey realm.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Lake Sido",
+      "filename": "Lake Sido.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Lake Sido.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Onasea Sea Cave",
+      "filename": "Onasea Sea Cave.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Onasea Sea Cave.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Phoenix Hill",
+      "filename": "Phoenix Hill.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Phoenix Hill.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Silvanus' Beard",
+      "filename": "Silvanus' Beard.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Silvanus' Beard.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Unicorn Hill",
+      "filename": "Unicorn Hill.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Unicorn Hill.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Bremen",
+      "filename": "Bremen.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Bremen.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Durendal",
+      "filename": "Durendal.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Durendal.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Frostpeak Pass",
+      "filename": "Frostpeak Pass.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Frostpeak Pass.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mightrest",
+      "filename": "Mightrest.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Mightrest.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Crystalmine Village",
+      "filename": "Crystalmine Village.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Crystalmine Village.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Hesse",
+      "filename": "Hesse.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Hesse.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Midward",
+      "filename": "Midward.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Midward.md",
+      "type": "location",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Onasea",
+      "filename": "Onasea.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Onasea.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Pinechill",
+      "filename": "Pinechill.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Pinechill.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Port Adal",
+      "filename": "Port Adal.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Port Adal.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Adalens Thieves' Guild",
+      "filename": "Adalens Thieves' Guild.md",
+      "relative_path": "content/World/Grimmora/Organizations/Adalens Thieves' Guild.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Cult of the Master of Ash",
+      "filename": "Cult of the Master of Ash.md",
+      "relative_path": "content/World/Grimmora/Organizations/Cult of the Master of Ash.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Greengather Blades",
+      "filename": "Greengather Blades.md",
+      "relative_path": "content/World/Grimmora/Organizations/Greengather Blades.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Crestwood",
+      "filename": "House Crestwood.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Crestwood.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Kinver",
+      "filename": "House Kinver.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Kinver.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Locke",
+      "filename": "House Locke.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Mythin",
+      "filename": "House Mythin.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Mythin.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Nightbrook",
+      "filename": "House Nightbrook.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Nightbrook.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "House Silverwind",
+      "filename": "House Silverwind.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Silverwind.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Mages' Guild",
+      "filename": "Mages' Guild.md",
+      "relative_path": "content/World/Grimmora/Organizations/Mages' Guild.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Necromancers",
+      "filename": "Necromancers.md",
+      "relative_path": "content/World/Grimmora/Organizations/Necromancers.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Displaced",
+      "filename": "The Displaced.md",
+      "relative_path": "content/World/Grimmora/Organizations/The Displaced.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Order of the Ancient Fable",
+      "filename": "The Order of the Ancient Fable.md",
+      "relative_path": "content/World/Grimmora/Organizations/The Order of the Ancient Fable.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Avalonean Empire",
+      "filename": "Avalonean Empire.md",
+      "relative_path": "content/World/Grimmora/Regions/Avalonean Empire.md",
+      "type": "region",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Nethis",
+      "filename": "Nethis.md",
+      "relative_path": "content/World/Grimmora/Regions/Nethis.md",
+      "type": "region",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Frost",
+      "filename": "The Frost.md",
+      "relative_path": "content/World/Grimmora/Regions/The Frost.md",
+      "type": "region",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Spell Scar",
+      "filename": "The Spell Scar.md",
+      "relative_path": "content/World/Grimmora/Regions/The Spell Scar.md",
+      "type": "region",
+      "aliases": []
+    },
+    {
+      "canonical_name": "petricite",
+      "filename": "petricite.md",
+      "relative_path": "content/World/Valoran/Items/petricite.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Demacia",
+      "filename": "Demacia.md",
+      "relative_path": "content/World/Valoran/Locations/Demacia.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Demacian Capital",
+      "filename": "Demacian Capital.md",
+      "relative_path": "content/World/Valoran/Locations/Demacian Capital.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Noxus",
+      "filename": "Noxus.md",
+      "relative_path": "content/World/Valoran/Locations/Noxus.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Freljord",
+      "filename": "The Freljord.md",
+      "relative_path": "content/World/Valoran/Locations/The Freljord.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Uwendale",
+      "filename": "Uwendale.md",
+      "relative_path": "content/World/Valoran/Locations/Uwendale.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Grimmora",
+      "filename": "grimmora-index.md",
+      "relative_path": "content/World/Vanestra/grimmora-index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Master Drev's Tower",
+      "filename": "Master Drev's Tower.md",
+      "relative_path": "content/World/Vanestra/Locations/Buildings/Master Drev's Tower.md",
+      "type": "building",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Alitrestan",
+      "filename": "Alitrestan.md",
+      "relative_path": "content/World/Vanestra/Locations/Towns/Alitrestan.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Daggatt",
+      "filename": "Daggatt.md",
+      "relative_path": "content/World/Vanestra/Locations/Towns/Daggatt.md",
+      "type": "town",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Hjemmen",
+      "filename": "Hjemmen.md",
+      "relative_path": "content/World/Vanestra/Locations/Villages/Hjemmen.md",
+      "type": "village",
+      "aliases": []
+    },
+    {
+      "canonical_name": "Disciples of War",
+      "filename": "Disciples of War.md",
+      "relative_path": "content/World/Vanestra/Organizations/Disciples of War.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Triumvirate",
+      "filename": "The Triumvirate.md",
+      "relative_path": "content/World/Vanestra/Organizations/The Triumvirate.md",
+      "type": "organization",
+      "aliases": []
+    },
+    {
+      "canonical_name": "The Northern Forest",
+      "filename": "The Northern Forest.md",
+      "relative_path": "content/World/Vanestra/Regions/The Northern Forest.md",
+      "type": "region",
+      "aliases": []
+    }
+  ],
+  "by_name": {
+    "character creation guidelines uwendale military outpost": {
+      "canonical_name": "Character Creation Guidelines Uwendale Military Outpost",
+      "filename": "Character Creation Guidelines Uwendale Military Outpost.md",
+      "relative_path": "content/Character Creation Guidelines Uwendale Military Outpost.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "content-readme": {
+      "canonical_name": "content-README",
+      "filename": "content-README.md",
+      "relative_path": "content/content-README.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "grimmora campaign": {
+      "canonical_name": "Grimmora Campaign",
+      "filename": "index.md",
+      "relative_path": "content/index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "index": {
+      "canonical_name": "index",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "rime of the soul-stolen": {
+      "canonical_name": "Rime of the Soul-Stolen",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/index.md",
+      "type": "campaign_index",
+      "aliases": []
+    },
+    "gage greengather (archived20251207)": {
+      "canonical_name": "Gage Greengather (Archived20251207)",
+      "filename": "Gage (Archived).md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage (Archived).md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gage (archived)": {
+      "canonical_name": "Gage Greengather (Archived20251207)",
+      "filename": "Gage (Archived).md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage (Archived).md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gage combat": {
+      "canonical_name": "Gage Combat",
+      "filename": "Gage Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gage inventory": {
+      "canonical_name": "Gage Inventory",
+      "filename": "Gage Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "gage skills": {
+      "canonical_name": "Gage Skills",
+      "filename": "Gage Skills.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gage greengather": {
+      "canonical_name": "Gage Greengather",
+      "filename": "Gage.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gage": {
+      "canonical_name": "Gage Greengather",
+      "filename": "Gage.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Gage.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gage greengather (dashboard)": {
+      "canonical_name": "Gage Greengather (Dashboard)",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "ongoing threads": {
+      "canonical_name": "Ongoing Threads",
+      "filename": "Ongoing Threads.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Gage/Ongoing Threads.md",
+      "type": "tracker",
+      "aliases": []
+    },
+    "lavender inventory": {
+      "canonical_name": "Lavender Inventory",
+      "filename": "b. Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/b. Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "b. inventory": {
+      "canonical_name": "Lavender Inventory",
+      "filename": "b. Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/b. Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "combat profile (lavender)": {
+      "canonical_name": "Combat Profile (Lavender)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    "combat": {
+      "canonical_name": "Combat Profile (Lavender)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    "lavender dashboard": {
+      "canonical_name": "Lavender Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "lavender locke": {
+      "canonical_name": "Lavender Locke",
+      "filename": "Lavender.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Lavender.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "lavender": {
+      "canonical_name": "Lavender Locke",
+      "filename": "Lavender.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Lavender/Lavender.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "combat profile (mary-ann)": {
+      "canonical_name": "Combat Profile (Mary-Ann)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    "mary-ann dashboard": {
+      "canonical_name": "Mary-Ann Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "mary-ann mayfield": {
+      "canonical_name": "Mary-Ann Mayfield",
+      "filename": "Mary-Ann.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/Mary-Ann.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "mary-ann": {
+      "canonical_name": "Mary-Ann Mayfield",
+      "filename": "Mary-Ann.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Mary-Ann/Mary-Ann.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "combat profile (temerity)": {
+      "canonical_name": "Combat Profile (Temerity)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    "temerity dashboard": {
+      "canonical_name": "Temerity Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "temerity": {
+      "canonical_name": "Temerity",
+      "filename": "Temerity.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Temerity/Temerity.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "combat profile (theren)": {
+      "canonical_name": "Combat Profile (Theren)",
+      "filename": "Combat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/Combat.md",
+      "type": "module",
+      "aliases": []
+    },
+    "theren dashboard": {
+      "canonical_name": "Theren Dashboard",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "theren": {
+      "canonical_name": "Theren",
+      "filename": "Theren.md",
+      "relative_path": "content/Campaigns/Campaign 1/Characters/Theren/Theren.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "entry 01": {
+      "canonical_name": "Entry 01",
+      "filename": "Entry 01.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 01.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 02": {
+      "canonical_name": "Entry 02",
+      "filename": "Entry 02.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 02.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 03": {
+      "canonical_name": "Entry 03",
+      "filename": "Entry 03.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 03.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 04": {
+      "canonical_name": "Entry 04",
+      "filename": "Entry 04.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 04.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 05": {
+      "canonical_name": "Entry 05",
+      "filename": "Entry 05.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 05.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 06": {
+      "canonical_name": "Entry 06",
+      "filename": "Entry 06.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 06.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 07": {
+      "canonical_name": "Entry 07",
+      "filename": "Entry 07.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 07.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 08": {
+      "canonical_name": "Entry 08",
+      "filename": "Entry 08.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 08.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 09": {
+      "canonical_name": "Entry 09",
+      "filename": "Entry 09.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 09.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 10": {
+      "canonical_name": "Entry 10",
+      "filename": "Entry 10.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 10.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 11": {
+      "canonical_name": "Entry 11",
+      "filename": "Entry 11.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 11.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 12": {
+      "canonical_name": "Entry 12",
+      "filename": "Entry 12.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 12.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 13": {
+      "canonical_name": "Entry 13",
+      "filename": "Entry 13.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 13.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 14": {
+      "canonical_name": "Entry 14",
+      "filename": "Entry 14.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 14.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 15": {
+      "canonical_name": "Entry 15",
+      "filename": "Entry 15.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 15.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 16": {
+      "canonical_name": "Entry 16",
+      "filename": "Entry 16.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 16.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 17": {
+      "canonical_name": "Entry 17",
+      "filename": "Entry 17.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 17.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 18": {
+      "canonical_name": "Entry 18",
+      "filename": "Entry 18.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 18.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 19": {
+      "canonical_name": "Entry 19",
+      "filename": "Entry 19.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 19.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 20": {
+      "canonical_name": "Entry 20",
+      "filename": "Entry 20.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 20.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 21": {
+      "canonical_name": "Entry 21",
+      "filename": "Entry 21.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 21.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 22": {
+      "canonical_name": "Entry 22",
+      "filename": "Entry 22.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 22.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 23": {
+      "canonical_name": "Entry 23",
+      "filename": "Entry 23.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 23.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 24": {
+      "canonical_name": "Entry 24",
+      "filename": "Entry 24.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 24.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 25": {
+      "canonical_name": "Entry 25",
+      "filename": "Entry 25.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 25.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 26": {
+      "canonical_name": "Entry 26",
+      "filename": "Entry 26.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 26.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 27": {
+      "canonical_name": "Entry 27",
+      "filename": "Entry 27.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 27.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 28": {
+      "canonical_name": "Entry 28",
+      "filename": "Entry 28.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 28.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 29": {
+      "canonical_name": "Entry 29",
+      "filename": "Entry 29.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 29.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 30": {
+      "canonical_name": "Entry 30",
+      "filename": "Entry 30.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 30.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 31": {
+      "canonical_name": "Entry 31",
+      "filename": "Entry 31.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 31.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 32": {
+      "canonical_name": "Entry 32",
+      "filename": "Entry 32.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 32.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 33": {
+      "canonical_name": "Entry 33",
+      "filename": "Entry 33.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 33.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 34": {
+      "canonical_name": "Entry 34",
+      "filename": "Entry 34.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 34.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 35": {
+      "canonical_name": "Entry 35",
+      "filename": "Entry 35.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 35.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 36": {
+      "canonical_name": "Entry 36",
+      "filename": "Entry 36.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 36.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 37": {
+      "canonical_name": "Entry 37",
+      "filename": "Entry 37.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 37.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 38": {
+      "canonical_name": "Entry 38",
+      "filename": "Entry 38.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 38.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 39": {
+      "canonical_name": "Entry 39",
+      "filename": "Entry 39.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 39.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 40": {
+      "canonical_name": "Entry 40",
+      "filename": "Entry 40.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 40.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 41": {
+      "canonical_name": "Entry 41",
+      "filename": "Entry 41.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 41.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 42": {
+      "canonical_name": "Entry 42",
+      "filename": "Entry 42.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 42.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 43": {
+      "canonical_name": "Entry 43",
+      "filename": "Entry 43.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 43.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 44": {
+      "canonical_name": "Entry 44",
+      "filename": "Entry 44.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 44.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "entry 45": {
+      "canonical_name": "Entry 45",
+      "filename": "Entry 45.md",
+      "relative_path": "content/Campaigns/Campaign 1/Chronicles/Entry 45.md",
+      "type": "chronicle",
+      "aliases": []
+    },
+    "battle at the big house": {
+      "canonical_name": "Battle at the Big House",
+      "filename": "Battle at the Big House.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Battle at the Big House.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "dragon battle": {
+      "canonical_name": "Dragon Battle",
+      "filename": "Dragon Battle.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Dragon Battle.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gnome confrontation": {
+      "canonical_name": "Gnome Confrontation",
+      "filename": "Gnome Confrontation.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Gnome Confrontation.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "magical plague": {
+      "canonical_name": "Magical Plague",
+      "filename": "Magical Plague.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Magical Plague.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "plague investigation": {
+      "canonical_name": "Plague Investigation",
+      "filename": "Plague Investigation.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Plague Investigation.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "the trial of the gladiator": {
+      "canonical_name": "The Trial of the Gladiator",
+      "filename": "The Trial of the Gladiator.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/The Trial of the Gladiator.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "vampire defeat": {
+      "canonical_name": "Vampire Defeat",
+      "filename": "Vampire Defeat.md",
+      "relative_path": "content/Campaigns/Campaign 1/Events/Vampire Defeat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "alaric": {
+      "canonical_name": "Alaric",
+      "filename": "Alaric.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alaric.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "alder locke (\u2020)": {
+      "canonical_name": "Alder Locke (\u2020)",
+      "filename": "Alder Locke (\u2020).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alder Locke (\u2020).md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "alfred de bessoc": {
+      "canonical_name": "Alfred de Bessoc",
+      "filename": "Alfred de Bessoc.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Alfred de Bessoc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "anaphel": {
+      "canonical_name": "Anaphel",
+      "filename": "Anaphel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Anaphel.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "angelica locke": {
+      "canonical_name": "Angelica Locke",
+      "filename": "Angelica Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Angelica Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "anise locke": {
+      "canonical_name": "Anise Locke",
+      "filename": "Anise Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Anise Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "arch-mage": {
+      "canonical_name": "Arch-mage",
+      "filename": "Arch-mage.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Arch-mage.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "auriel": {
+      "canonical_name": "Auriel",
+      "filename": "Auriel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Auriel.md",
+      "type": "deity",
+      "aliases": []
+    },
+    "aurius": {
+      "canonical_name": "Aurius",
+      "filename": "Aurius.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Aurius.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "azuul": {
+      "canonical_name": "Azuul",
+      "filename": "Azuul.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Azuul.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "dave": {
+      "canonical_name": "Dave",
+      "filename": "Dave.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Dave.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "bandit captain (dave)": {
+      "canonical_name": "Dave",
+      "filename": "Bandit Captain (Dave).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bandit Captain (Dave).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "bandits": {
+      "canonical_name": "Bandits",
+      "filename": "bandits.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/bandits.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "barge captain (avalon)": {
+      "canonical_name": "Barge Captain (Avalon)",
+      "filename": "Barge Captain (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barge Captain (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "barkeep (durvish city)": {
+      "canonical_name": "Barkeep (Durvish City)",
+      "filename": "Barkeep (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "barkeep (onasea)": {
+      "canonical_name": "Barkeep (Onasea)",
+      "filename": "Barkeep (Onasea).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep (Onasea).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "barkeep's wife (durvish city)": {
+      "canonical_name": "Barkeep's Wife (Durvish City)",
+      "filename": "Barkeep's Wife (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barkeep's Wife (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "barry": {
+      "canonical_name": "Barry",
+      "filename": "Barry.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Barry.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "basil locke": {
+      "canonical_name": "Basil Locke",
+      "filename": "Basil Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Basil Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "bracken": {
+      "canonical_name": "Bracken",
+      "filename": "Bracken.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bracken.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "brian": {
+      "canonical_name": "Brian",
+      "filename": "Brian.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Brian.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "bridgeport mason": {
+      "canonical_name": "Bridgeport Mason",
+      "filename": "Bridgeport Mason.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bridgeport Mason.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "bridgeport warehouse guards (martin & roy)": {
+      "canonical_name": "Bridgeport Warehouse Guards (Martin & Roy)",
+      "filename": "Bridgeport Warehouse Guards.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bridgeport Warehouse Guards.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "bridgeport warehouse guards": {
+      "canonical_name": "Bridgeport Warehouse Guards (Martin & Roy)",
+      "filename": "Bridgeport Warehouse Guards.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Bridgeport Warehouse Guards.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "captain arran": {
+      "canonical_name": "Captain Arran",
+      "filename": "Captain Arran.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Arran.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "captain holloway": {
+      "canonical_name": "Captain Holloway",
+      "filename": "Captain Holloway.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Holloway.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "captain voss": {
+      "canonical_name": "Captain Voss",
+      "filename": "Captain Voss.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Captain Voss.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "cella": {
+      "canonical_name": "Cella",
+      "filename": "Cella.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Cella.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "chikatika": {
+      "canonical_name": "Chikatika",
+      "filename": "Chikatika.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Chikatika.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "corbin": {
+      "canonical_name": "Corbin",
+      "filename": "Corbin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Corbin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "cornelius": {
+      "canonical_name": "Cornelius",
+      "filename": "Cornelius.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Cornelius.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "corvus": {
+      "canonical_name": "Corvus",
+      "filename": "Corvus.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Corvus.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "drolass": {
+      "canonical_name": "Drolass",
+      "filename": "Drolass.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Drolass.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "edith de bessoc": {
+      "canonical_name": "Edith de Bessoc",
+      "filename": "Edith de Bessoc.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Edith de Bessoc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "elara mythin": {
+      "canonical_name": "Elara Mythin",
+      "filename": "Elara Mythin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elara Mythin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "elara": {
+      "canonical_name": "Elara",
+      "filename": "Elara.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elara.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "elven wizard": {
+      "canonical_name": "Elven Wizard",
+      "filename": "Elven Wizard.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Elven Wizard.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "felix": {
+      "canonical_name": "Felix",
+      "filename": "Felix.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Felix.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "first fist": {
+      "canonical_name": "First Fist",
+      "filename": "First Fist.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/First Fist.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "first mate (avalon)": {
+      "canonical_name": "First Mate (Avalon)",
+      "filename": "First Mate (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/First Mate (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "florian": {
+      "canonical_name": "Florian",
+      "filename": "Florian.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Florian.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "frolot": {
+      "canonical_name": "Frolot",
+      "filename": "Frolot.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Frolot.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "gnome cook": {
+      "canonical_name": "Gnome Cook",
+      "filename": "Gnome Cook.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gnome Cook.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "gorg": {
+      "canonical_name": "Gorg",
+      "filename": "Gorg.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gorg.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "grand cleric": {
+      "canonical_name": "Grand Cleric",
+      "filename": "grand cleric.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/grand cleric.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "grash": {
+      "canonical_name": "Grash",
+      "filename": "Grash.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Grash.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "greg (bandit captain)": {
+      "canonical_name": "Greg (Bandit Captain)",
+      "filename": "Greg (Bandit Captain).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Greg (Bandit Captain).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "gregor withwhile": {
+      "canonical_name": "Gregor Withwhile",
+      "filename": "Gregor Withwhile.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Gregor Withwhile.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "guardsman floyd": {
+      "canonical_name": "Guardsman Floyd",
+      "filename": "Guardsman Floyd.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Guardsman Floyd.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "guido": {
+      "canonical_name": "Guido",
+      "filename": "Guido.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Guido.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "hag": {
+      "canonical_name": "Hag",
+      "filename": "hag.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/hag.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "halsen": {
+      "canonical_name": "Halsen",
+      "filename": "Halsen.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Halsen.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "hodrel heavybrew": {
+      "canonical_name": "Hodrel Heavybrew",
+      "filename": "Hodrel Heavybrew.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Hodrel Heavybrew.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "ice dragon": {
+      "canonical_name": "Ice Dragon",
+      "filename": "Ice Dragon.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ice Dragon.md",
+      "type": "creature",
+      "aliases": []
+    },
+    "ismay": {
+      "canonical_name": "Ismay",
+      "filename": "Ismay.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ismay.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "jimmy": {
+      "canonical_name": "Jimmy",
+      "filename": "Jimmy.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Jimmy.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "kevin (sailor)": {
+      "canonical_name": "Kevin (Sailor)",
+      "filename": "Kevin (Sailor).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Kevin (Sailor).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "kevin": {
+      "canonical_name": "Kevin",
+      "filename": "Kevin.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Kevin.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "korako": {
+      "canonical_name": "Korako",
+      "filename": "Korako.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Korako.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "lady bromelia": {
+      "canonical_name": "Lady Bromelia",
+      "filename": "Lady Bromelia.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lady Bromelia.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "loraleia": {
+      "canonical_name": "Loraleia",
+      "filename": "Loraleia.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Loraleia.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "lord requiem": {
+      "canonical_name": "Lord Requiem",
+      "filename": "Lord Requiem.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lord Requiem.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "lyra valstrath": {
+      "canonical_name": "Lyra Valstrath",
+      "filename": "Lyra Valstrath.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Lyra Valstrath.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "arrogant mage": {
+      "canonical_name": "Arrogant Mage",
+      "filename": "Mage (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Mage (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "mage (durvish city)": {
+      "canonical_name": "Arrogant Mage",
+      "filename": "Mage (Durvish City).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Mage (Durvish City).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "magnus": {
+      "canonical_name": "Magnus",
+      "filename": "Magnus.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Magnus.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "march sterling (\u2020)": {
+      "canonical_name": "March Sterling (\u2020)",
+      "filename": "March Sterling (\u2020).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/March Sterling (\u2020).md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "marjorie": {
+      "canonical_name": "Marjorie",
+      "filename": "Marjorie.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Marjorie.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "marvis colton": {
+      "canonical_name": "Marvis Colton",
+      "filename": "Marvis Colton.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Marvis Colton.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "master of ash": {
+      "canonical_name": "Master of Ash",
+      "filename": "Master of Ash.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Master of Ash.md",
+      "type": "npc",
+      "aliases": [
+        "Sargonis",
+        "Sargonnas"
+      ]
+    },
+    "mavis": {
+      "canonical_name": "Mavis",
+      "filename": "Mavis.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Mavis.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "merisa": {
+      "canonical_name": "Merisa",
+      "filename": "Merisa.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Merisa.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "millicent": {
+      "canonical_name": "Millicent",
+      "filename": "Millicent.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Millicent.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "miriam": {
+      "canonical_name": "Miriam",
+      "filename": "Miriam.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Miriam.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "muriel": {
+      "canonical_name": "Muriel",
+      "filename": "Muriel.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Muriel.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "myrtle locke": {
+      "canonical_name": "Myrtle Locke",
+      "filename": "Myrtle Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Myrtle Locke.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "oliver": {
+      "canonical_name": "Oliver",
+      "filename": "Oliver.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Oliver.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "orion": {
+      "canonical_name": "Orion",
+      "filename": "Orion.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Orion.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "orris": {
+      "canonical_name": "Orris",
+      "filename": "Orris Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Orris Locke.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "orris locke": {
+      "canonical_name": "Orris",
+      "filename": "Orris Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Orris Locke.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "petra greenfield": {
+      "canonical_name": "Petra Greenfield",
+      "filename": "Petra Greenfield.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Petra Greenfield.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "priest of sol (avalon)": {
+      "canonical_name": "Priest of Sol (Avalon)",
+      "filename": "Priest of Sol (Avalon).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Priest of Sol (Avalon).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "ranger guild recruiter": {
+      "canonical_name": "Ranger Guild Recruiter",
+      "filename": "Ranger Guild Recruiter.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Ranger Guild Recruiter.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "requiem la rouge": {
+      "canonical_name": "Requiem la Rouge",
+      "filename": "Requiem la Rouge.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Requiem la Rouge.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "rosemary locke": {
+      "canonical_name": "Rosemary Locke",
+      "filename": "Rosemary Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rosemary Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "rowan smith": {
+      "canonical_name": "Rowan Smith",
+      "filename": "Rowan Smith.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rowan Smith.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "rowan": {
+      "canonical_name": "Rowan",
+      "filename": "Rowan.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Rowan.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "runcible": {
+      "canonical_name": "Runcible",
+      "filename": "Runcible.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Runcible.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "soliana": {
+      "canonical_name": "Soliana",
+      "filename": "Soliana.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Soliana.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "sorrel locke": {
+      "canonical_name": "Sorrel Locke",
+      "filename": "Sorrel Locke.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Sorrel Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "summer": {
+      "canonical_name": "Summer",
+      "filename": "Summer.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Summer.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "the alchemist": {
+      "canonical_name": "The Alchemist",
+      "filename": "The Alchemist.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/The Alchemist.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "the clothier": {
+      "canonical_name": "The Clothier",
+      "filename": "The Clothier.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/The Clothier.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "theodore": {
+      "canonical_name": "Theodore",
+      "filename": "Theodore.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Theodore.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "theron vex": {
+      "canonical_name": "Theron Vex",
+      "filename": "Vex Silks.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Vex Silks.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "thomas": {
+      "canonical_name": "Thomas",
+      "filename": "Thomas.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Thomas.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "thumpy": {
+      "canonical_name": "Thumpy",
+      "filename": "Thumpy.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Thumpy.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "tiefling merchant (avalon road)": {
+      "canonical_name": "Tiefling Merchant (Avalon Road)",
+      "filename": "Tiefling Merchant (Avalon Road).md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Tiefling Merchant (Avalon Road).md",
+      "type": "npc",
+      "aliases": []
+    },
+    "vampire lord": {
+      "canonical_name": "Vampire Lord",
+      "filename": "Vampire Lord.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Vampire Lord.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "water genasi harbourmaster": {
+      "canonical_name": "Water Genasi Harbourmaster",
+      "filename": "Water Genasi Harbourmaster.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Water Genasi Harbourmaster.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "wild wanderer": {
+      "canonical_name": "Wild Wanderer",
+      "filename": "Wild Wanderer.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Wild Wanderer.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "winter": {
+      "canonical_name": "Winter",
+      "filename": "Winter.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Winter.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "zadhir": {
+      "canonical_name": "Zadhir",
+      "filename": "Zadhir.md",
+      "relative_path": "content/Campaigns/Campaign 1/NPCs/Zadhir.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "passage to adalens": {
+      "canonical_name": "Passage to Adalens",
+      "filename": "Passage to Adalens.md",
+      "relative_path": "content/Campaigns/Campaign 1/Quests/Passage to Adalens.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "session debrief - 2026-04-25": {
+      "canonical_name": "Session Debrief - 2026-04-25",
+      "filename": "20260425.md",
+      "relative_path": "content/Campaigns/Campaign 1/Session debrief/20260425.md",
+      "type": "debrief",
+      "aliases": []
+    },
+    "20260425": {
+      "canonical_name": "Session Debrief - 2026-04-25",
+      "filename": "20260425.md",
+      "relative_path": "content/Campaigns/Campaign 1/Session debrief/20260425.md",
+      "type": "debrief",
+      "aliases": []
+    },
+    "session 20231228": {
+      "canonical_name": "Session 20231228",
+      "filename": "Session 20231228.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20231228.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240104": {
+      "canonical_name": "Session 20240104",
+      "filename": "Session 20240104.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240104.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240210": {
+      "canonical_name": "Session 20240210",
+      "filename": "Session 20240210.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240210.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240323": {
+      "canonical_name": "Session 20240323",
+      "filename": "Session 20240323.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240323.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240330": {
+      "canonical_name": "Session 20240330",
+      "filename": "Session 20240330.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240330.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240406": {
+      "canonical_name": "Session 20240406",
+      "filename": "Session 20240406.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240406.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240527": {
+      "canonical_name": "Session 20240527",
+      "filename": "Session 20240527.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240527.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240608": {
+      "canonical_name": "Session 20240608",
+      "filename": "Session 20240608.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240608.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240629": {
+      "canonical_name": "Session 20240629",
+      "filename": "Session 20240629.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240629.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240720": {
+      "canonical_name": "Session 20240720",
+      "filename": "Session 20240720.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240720.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240727": {
+      "canonical_name": "Session 20240727",
+      "filename": "Session 20240727.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240727.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240803": {
+      "canonical_name": "Session 20240803",
+      "filename": "Session 20240803.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240803.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20240831": {
+      "canonical_name": "Session 20240831",
+      "filename": "Session 20240831.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20240831.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20241026": {
+      "canonical_name": "Session 20241026",
+      "filename": "Session 20241026.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20241026.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20241228": {
+      "canonical_name": "Session 20241228",
+      "filename": "Session 20241228.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20241228.md",
+      "type": "session",
+      "aliases": []
+    },
+    "session 20250215": {
+      "canonical_name": "Session 20250215",
+      "filename": "Session 20250215.md",
+      "relative_path": "content/Campaigns/Campaign 1/Sessions/Session 20250215.md",
+      "type": "session",
+      "aliases": []
+    },
+    "gwilym brick": {
+      "canonical_name": "Gwilym Brick",
+      "filename": "Gwilym Brick.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Brick.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gwilym combat": {
+      "canonical_name": "Gwilym Combat",
+      "filename": "Gwilym Combat.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gwilym inventory": {
+      "canonical_name": "Gwilym Inventory",
+      "filename": "Gwilym Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "gwilym skills": {
+      "canonical_name": "Gwilym Skills",
+      "filename": "Gwilym Skills.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gwilym lackmount": {
+      "canonical_name": "Gwilym Lackmount",
+      "filename": "Gwilym.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gwilym": {
+      "canonical_name": "Gwilym Lackmount",
+      "filename": "Gwilym.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Gwilym/Gwilym.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "gwilym lackmount (dashboard)": {
+      "canonical_name": "Gwilym Lackmount (Dashboard)",
+      "filename": "index.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/index.md",
+      "type": "dashboard",
+      "aliases": []
+    },
+    "bishop greggan": {
+      "canonical_name": "Bishop Greggan",
+      "filename": "Bishop Greggan.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Bishop Greggan.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "brick": {
+      "canonical_name": "Brick",
+      "filename": "Brick.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Brick.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "master drev": {
+      "canonical_name": "Master Drev",
+      "filename": "Master Drev.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/Master Drev.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "the mentor": {
+      "canonical_name": "The Mentor",
+      "filename": "The Mentor.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/The Mentor.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "the predecessor": {
+      "canonical_name": "The Predecessor",
+      "filename": "The Predecessor.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/NPCs/The Predecessor.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "onyx combat": {
+      "canonical_name": "Onyx Combat",
+      "filename": "Onyx Combat.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Combat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "firstname inventory": {
+      "canonical_name": "Firstname Inventory",
+      "filename": "Onyx Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "onyx inventory": {
+      "canonical_name": "Firstname Inventory",
+      "filename": "Onyx Inventory.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Inventory.md",
+      "type": "module",
+      "aliases": []
+    },
+    "onyx skills": {
+      "canonical_name": "Onyx Skills",
+      "filename": "Onyx Skills.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Skills.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "onyx surge tracker": {
+      "canonical_name": "Onyx Surge Tracker",
+      "filename": "Onyx Surge Tracker.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx Surge Tracker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "oynx": {
+      "canonical_name": "Oynx",
+      "filename": "Onyx.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "onyx": {
+      "canonical_name": "Oynx",
+      "filename": "Onyx.md",
+      "relative_path": "content/Campaigns/Campaign 2/Characters/Onyx/Onyx.md",
+      "type": "pc",
+      "aliases": []
+    },
+    "scratchpad": {
+      "canonical_name": "scratchpad",
+      "filename": "scratchpad.md",
+      "relative_path": "content/GM-Only/scratchpad.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "session prep for uwendale oneshot": {
+      "canonical_name": "Session Prep for Uwendale Oneshot",
+      "filename": "Session Prep for Uwendale Oneshot.md",
+      "relative_path": "content/GM-Only/Session Prep/Session Prep for Uwendale Oneshot.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "00 morning at uwendale": {
+      "canonical_name": "00 Morning at Uwendale",
+      "filename": "00 Morning at Uwendale.md",
+      "relative_path": "content/GM-Only/Uwendale/00 Morning at Uwendale.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "01 farm assault or border intrigue": {
+      "canonical_name": "01 Farm Assault or Border Intrigue",
+      "filename": "01 Farm Assault or Border Intrigue.md",
+      "relative_path": "content/GM-Only/Uwendale/01 Farm Assault or Border Intrigue.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "02-a defend farm, discover kidnapping": {
+      "canonical_name": "02-a Defend Farm, Discover Kidnapping",
+      "filename": "02-a Defend Farm, Discover Kidnapping.md",
+      "relative_path": "content/GM-Only/Uwendale/02-a Defend Farm, Discover Kidnapping.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "02-b investigate agents, learn of cave": {
+      "canonical_name": "02-b Investigate Agents, Learn of Cave",
+      "filename": "02-b Investigate Agents, Learn of Cave.md",
+      "relative_path": "content/GM-Only/Uwendale/02-b Investigate Agents, Learn of Cave.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "03 track to mountain cave": {
+      "canonical_name": "03 Track to mountain cave",
+      "filename": "03 Track to mountain cave.md",
+      "relative_path": "content/GM-Only/Uwendale/03 Track to mountain cave.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "04 cave exploration & rescue": {
+      "canonical_name": "04 Cave Exploration & Rescue",
+      "filename": "04 Cave Exploration & Rescue.md",
+      "relative_path": "content/GM-Only/Uwendale/04 Cave Exploration & Rescue.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "assassin": {
+      "canonical_name": "Assassin",
+      "filename": "Assassin.md",
+      "relative_path": "content/Reference/Assassin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "gloom stalker": {
+      "canonical_name": "Gloom Stalker",
+      "filename": "Gloom Stalker.md",
+      "relative_path": "content/Reference/Gloom Stalker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "quick reference": {
+      "canonical_name": "Quick Reference",
+      "filename": "Quick Reference.md",
+      "relative_path": "content/Reference/Quick Reference.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "some content idk": {
+      "canonical_name": "Some content idk",
+      "filename": "Some content idk.md",
+      "relative_path": "content/Uwendale/Some content idk.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "grimmora": {
+      "canonical_name": "Grimmora",
+      "filename": "grimmora-index.md",
+      "relative_path": "content/World/Vanestra/grimmora-index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "grimmora-index": {
+      "canonical_name": "Grimmora",
+      "filename": "grimmora-index.md",
+      "relative_path": "content/World/Grimmora/grimmora-index.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "confoundment spell": {
+      "canonical_name": "confoundment spell",
+      "filename": "confoundment spell.md",
+      "relative_path": "content/World/Grimmora/Abilities/confoundment spell.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "hideous laughter": {
+      "canonical_name": "hideous laughter",
+      "filename": "hideous laughter.md",
+      "relative_path": "content/World/Grimmora/Abilities/hideous laughter.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "crystal elemental": {
+      "canonical_name": "Crystal Elemental",
+      "filename": "Crystal Elemental.md",
+      "relative_path": "content/World/Grimmora/Concepts/Crystal Elemental.md",
+      "type": "concept",
+      "aliases": []
+    },
+    "dimensional sucker": {
+      "canonical_name": "dimensional sucker",
+      "filename": "dimensional sucker.md",
+      "relative_path": "content/World/Grimmora/Concepts/dimensional sucker.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "dryads": {
+      "canonical_name": "dryads",
+      "filename": "dryads.md",
+      "relative_path": "content/World/Grimmora/Concepts/dryads.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "eladrin": {
+      "canonical_name": "eladrin",
+      "filename": "eladrin.md",
+      "relative_path": "content/World/Grimmora/Concepts/eladrin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "griffin": {
+      "canonical_name": "griffin",
+      "filename": "griffin.md",
+      "relative_path": "content/World/Grimmora/Concepts/griffin.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "half-orc": {
+      "canonical_name": "half-orc",
+      "filename": "half-orc.md",
+      "relative_path": "content/World/Grimmora/Concepts/half-orc.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "ice wolves": {
+      "canonical_name": "Ice Wolves",
+      "filename": "Ice Wolves.md",
+      "relative_path": "content/World/Grimmora/Concepts/Ice Wolves.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "lady rose": {
+      "canonical_name": "Lady Rose",
+      "filename": "Lady Rose.md",
+      "relative_path": "content/World/Grimmora/Concepts/Lady Rose.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "moon elf": {
+      "canonical_name": "moon elf",
+      "filename": "moon elf.md",
+      "relative_path": "content/World/Grimmora/Concepts/moon elf.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "necromancer symbol (diamond eyes)": {
+      "canonical_name": "Necromancer Symbol (Diamond Eyes)",
+      "filename": "Necromancer Symbol (Diamond Eyes).md",
+      "relative_path": "content/World/Grimmora/Concepts/Necromancer Symbol (Diamond Eyes).md",
+      "type": "concept",
+      "aliases": []
+    },
+    "necromancers": {
+      "canonical_name": "Necromancers",
+      "filename": "Necromancers.md",
+      "relative_path": "content/World/Grimmora/Organizations/Necromancers.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "pellor": {
+      "canonical_name": "Pellor",
+      "filename": "Pellor.md",
+      "relative_path": "content/World/Grimmora/Concepts/Pellor.md",
+      "type": "concept",
+      "aliases": []
+    },
+    "pseudodragon": {
+      "canonical_name": "Pseudodragon",
+      "filename": "Pseudodragon.md",
+      "relative_path": "content/World/Grimmora/Concepts/Pseudodragon.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "sargonnas": {
+      "canonical_name": "Sargonnas",
+      "filename": "Sargonnas.md",
+      "relative_path": "content/World/Grimmora/Concepts/Sargonnas.md",
+      "type": "deity",
+      "aliases": []
+    },
+    "smoke": {
+      "canonical_name": "Smoke",
+      "filename": "Smoke.md",
+      "relative_path": "content/World/Grimmora/Concepts/Smoke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "snow-blindness": {
+      "canonical_name": "Snow-Blindness",
+      "filename": "Snow-Blindness.md",
+      "relative_path": "content/World/Grimmora/Concepts/Snow-Blindness.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "sol": {
+      "canonical_name": "Sol",
+      "filename": "Sol.md",
+      "relative_path": "content/World/Grimmora/Concepts/Sol.md",
+      "type": "concept",
+      "aliases": []
+    },
+    "spectres": {
+      "canonical_name": "spectres",
+      "filename": "spectres.md",
+      "relative_path": "content/World/Grimmora/Concepts/spectres.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "the curse": {
+      "canonical_name": "The Curse",
+      "filename": "The Curse.md",
+      "relative_path": "content/World/Grimmora/Concepts/The Curse.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "the gladiator wight": {
+      "canonical_name": "The Gladiator Wight",
+      "filename": "The Gladiator Wight.md",
+      "relative_path": "content/World/Grimmora/Concepts/The Gladiator Wight.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "tiefling": {
+      "canonical_name": "tiefling",
+      "filename": "tiefling.md",
+      "relative_path": "content/World/Grimmora/Concepts/tiefling.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "auriel's wall": {
+      "canonical_name": "Auriel's Wall",
+      "filename": "Auriel's Wall.md",
+      "relative_path": "content/World/Grimmora/Items/Auriel's Wall.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "blue communication stone": {
+      "canonical_name": "Blue Communication Stone",
+      "filename": "Blue Communication Stone.md",
+      "relative_path": "content/World/Grimmora/Items/Blue Communication Stone.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "chronometer pocket watch": {
+      "canonical_name": "Chronometer Pocket Watch",
+      "filename": "Chronometer Pocket Watch.md",
+      "relative_path": "content/World/Grimmora/Items/Chronometer Pocket Watch.md",
+      "type": "item",
+      "aliases": [
+        "Chronometer Pocket Watch"
+      ]
+    },
+    "cloak of billowing": {
+      "canonical_name": "Cloak of Billowing",
+      "filename": "Cloak of Billowing.md",
+      "relative_path": "content/World/Grimmora/Items/Cloak of Billowing.md",
+      "type": "item",
+      "aliases": [
+        "Cloak of Billowing",
+        "Black Cloak with Red Lining"
+      ]
+    },
+    "cloudy gem (sol)": {
+      "canonical_name": "Cloudy Gem (Sol)",
+      "filename": "Cloudy Gem (Sol).md",
+      "relative_path": "content/World/Grimmora/Items/Cloudy Gem (Sol).md",
+      "type": "item",
+      "aliases": [
+        "Cloudy Gem (Sol)"
+      ]
+    },
+    "corrupted censer": {
+      "canonical_name": "Corrupted Censer",
+      "filename": "Corrupted Censer.md",
+      "relative_path": "content/World/Grimmora/Items/Corrupted Censer.md",
+      "type": "item",
+      "aliases": [
+        "Corrupted Censer"
+      ]
+    },
+    "crossbow": {
+      "canonical_name": "crossbow",
+      "filename": "crossbow.md",
+      "relative_path": "content/World/Grimmora/Items/crossbow.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "crystal orbs": {
+      "canonical_name": "Crystal Orbs",
+      "filename": "Crystal Orbs.md",
+      "relative_path": "content/World/Grimmora/Items/Crystal Orbs.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "dragon meat": {
+      "canonical_name": "Dragon Meat",
+      "filename": "Dragon Meat.md",
+      "relative_path": "content/World/Grimmora/Items/Dragon Meat.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "encoded letters": {
+      "canonical_name": "Encoded Letters",
+      "filename": "Encoded Letters.md",
+      "relative_path": "content/World/Grimmora/Items/Encoded Letters.md",
+      "type": "item",
+      "aliases": [
+        "Encoded Letters",
+        "Imperial Courier Letters"
+      ]
+    },
+    "gage's cloak of the forest": {
+      "canonical_name": "Gage's Cloak of the Forest",
+      "filename": "Gage's Cloak of the Forest.md",
+      "relative_path": "content/World/Grimmora/Items/Gage's Cloak of the Forest.md",
+      "type": "item",
+      "aliases": [
+        "Gage's Cloak of the Forest"
+      ]
+    },
+    "gloomberries": {
+      "canonical_name": "Gloomberries",
+      "filename": "gloomberries.md",
+      "relative_path": "content/World/Grimmora/Items/gloomberries.md",
+      "type": "item",
+      "aliases": [
+        "Gloomberries"
+      ]
+    },
+    "grey pearl": {
+      "canonical_name": "Grey Pearl",
+      "filename": "Grey Pearl.md",
+      "relative_path": "content/World/Grimmora/Items/Grey Pearl.md",
+      "type": "item",
+      "aliases": [
+        "Grey Pearl"
+      ]
+    },
+    "health potions": {
+      "canonical_name": "health potions",
+      "filename": "health potions.md",
+      "relative_path": "content/World/Grimmora/Items/health potions.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "imperial courier bag": {
+      "canonical_name": "Imperial Courier Bag",
+      "filename": "Imperial Courier Bag.md",
+      "relative_path": "content/World/Grimmora/Items/Imperial Courier Bag.md",
+      "type": "item",
+      "aliases": [
+        "Imperial Courier Bag"
+      ]
+    },
+    "necromantic idol": {
+      "canonical_name": "Necromantic Idol",
+      "filename": "Necromantic Idol.md",
+      "relative_path": "content/World/Grimmora/Items/Necromantic Idol.md",
+      "type": "item",
+      "aliases": [
+        "Necromantic Idol"
+      ]
+    },
+    "potion of fire breathing": {
+      "canonical_name": "Potion of Fire Breathing",
+      "filename": "Potion of Fire Breathing.md",
+      "relative_path": "content/World/Grimmora/Items/Potion of Fire Breathing.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "pulverised gem dust": {
+      "canonical_name": "Pulverised Gem Dust",
+      "filename": "Pulverised Gem Dust.md",
+      "relative_path": "content/World/Grimmora/Items/Pulverised Gem Dust.md",
+      "type": "item",
+      "aliases": [
+        "Pulverised Gem Dust"
+      ]
+    },
+    "ring of orris": {
+      "canonical_name": "Ring of Orris",
+      "filename": "Ring of Orris.md",
+      "relative_path": "content/World/Grimmora/Items/Ring of Orris.md",
+      "type": "item",
+      "aliases": [
+        "Ring of Orris"
+      ]
+    },
+    "rune box": {
+      "canonical_name": "Rune Box",
+      "filename": "Rune Box.md",
+      "relative_path": "content/World/Grimmora/Items/Rune Box.md",
+      "type": "item",
+      "aliases": [
+        "Rune Box"
+      ]
+    },
+    "scrying pool": {
+      "canonical_name": "scrying pool",
+      "filename": "scrying pool.md",
+      "relative_path": "content/World/Grimmora/Items/scrying pool.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "sending stone": {
+      "canonical_name": "Sending Stone",
+      "filename": "Sending Stone.md",
+      "relative_path": "content/World/Grimmora/Items/Sending Stone.md",
+      "type": "item",
+      "aliases": [
+        "Sending Stone"
+      ]
+    },
+    "teleportation rune": {
+      "canonical_name": "teleportation rune",
+      "filename": "teleportation rune.md",
+      "relative_path": "content/World/Grimmora/Items/teleportation rune.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "temerity's choker": {
+      "canonical_name": "Temerity's Choker",
+      "filename": "Temerity's Choker.md",
+      "relative_path": "content/World/Grimmora/Items/Temerity's Choker.md",
+      "type": "item",
+      "aliases": [
+        "Temerity's Choker"
+      ]
+    },
+    "wand of strange glyphs": {
+      "canonical_name": "Wand of Strange Glyphs",
+      "filename": "Wand of Strange Glyphs.md",
+      "relative_path": "content/World/Grimmora/Items/Wand of Strange Glyphs.md",
+      "type": "item",
+      "aliases": [
+        "Wand of Strange Glyphs"
+      ]
+    },
+    "whispering orb": {
+      "canonical_name": "Whispering Orb",
+      "filename": "Whispering Orb.md",
+      "relative_path": "content/World/Grimmora/Items/Whispering Orb.md",
+      "type": "item",
+      "aliases": [
+        "Whispering Orb"
+      ]
+    },
+    "winter's core": {
+      "canonical_name": "Winter's Core",
+      "filename": "Winter's Core.md",
+      "relative_path": "content/World/Grimmora/Items/Winter's Core.md",
+      "type": "item",
+      "aliases": [
+        "Winter's Core",
+        "She who strives for balance"
+      ]
+    },
+    "withered rose": {
+      "canonical_name": "Withered Rose",
+      "filename": "Withered Rose.md",
+      "relative_path": "content/World/Grimmora/Items/Withered Rose.md",
+      "type": "item",
+      "aliases": [
+        "Withered Rose"
+      ]
+    },
+    "albany castle (ship)": {
+      "canonical_name": "Albany Castle (Ship)",
+      "filename": "Albany Castle (Ship).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Albany Castle (Ship).md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    "arch-mage's sanctum": {
+      "canonical_name": "Arch-mage's Sanctum",
+      "filename": "Arch-mage's Sanctum.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Arch-mage's Sanctum.md",
+      "type": "building",
+      "aliases": []
+    },
+    "auriel's church": {
+      "canonical_name": "Auriel's Church",
+      "filename": "Auriel's Church.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Auriel's Church.md",
+      "type": "building",
+      "aliases": []
+    },
+    "auril's church": {
+      "canonical_name": "Auril's Church",
+      "filename": "Auril's Church.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Auril's Church.md",
+      "type": "building",
+      "aliases": []
+    },
+    "bandit lake house": {
+      "canonical_name": "Bandit Lake House",
+      "filename": "Bandit Lake House.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Bandit Lake House.md",
+      "type": "building",
+      "aliases": []
+    },
+    "blooming lovely": {
+      "canonical_name": "Blooming Lovely",
+      "filename": "Blooming Lovely.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Blooming Lovely.md",
+      "type": "building",
+      "aliases": []
+    },
+    "bridgeport warehouse": {
+      "canonical_name": "Bridgeport Warehouse",
+      "filename": "Bridgeport Warehouse.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Bridgeport Warehouse.md",
+      "type": "building",
+      "aliases": []
+    },
+    "docks (avalon)": {
+      "canonical_name": "Docks (Avalon)",
+      "filename": "Docks (Avalon).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Docks (Avalon).md",
+      "type": "building",
+      "aliases": []
+    },
+    "durvish city temple": {
+      "canonical_name": "Durvish City Temple",
+      "filename": "Durvish City Temple.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Durvish City Temple.md",
+      "type": "building",
+      "aliases": []
+    },
+    "frozen wraith": {
+      "canonical_name": "Frozen Wraith",
+      "filename": "Frozen Wraith.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Frozen Wraith.md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    "golden griffin inn": {
+      "canonical_name": "Golden Griffin Inn",
+      "filename": "Golden Griffin.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Golden Griffin.md",
+      "type": "building",
+      "aliases": []
+    },
+    "golden griffin": {
+      "canonical_name": "Golden Griffin Inn",
+      "filename": "Golden Griffin.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Golden Griffin.md",
+      "type": "building",
+      "aliases": []
+    },
+    "guild's rest": {
+      "canonical_name": "Guild's Rest",
+      "filename": "Guild\u2019s Rest.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Guild\u2019s Rest.md",
+      "type": "building",
+      "aliases": []
+    },
+    "guild\u2019s rest": {
+      "canonical_name": "Guild's Rest",
+      "filename": "Guild\u2019s Rest.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Guild\u2019s Rest.md",
+      "type": "building",
+      "aliases": []
+    },
+    "harbourmaster's office (avalon)": {
+      "canonical_name": "Harbourmaster's Office (Avalon)",
+      "filename": "Harbourmaster's Office (Avalon).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Harbourmaster's Office (Avalon).md",
+      "type": "building",
+      "aliases": []
+    },
+    "jade zephyr casino": {
+      "canonical_name": "Jade Zephyr Casino",
+      "filename": "Jade Zephyr Casino.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Jade Zephyr Casino.md",
+      "type": "building",
+      "aliases": []
+    },
+    "mage's tower": {
+      "canonical_name": "Mage's Tower",
+      "filename": "Mage's Tower (Durvish City).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Mage's Tower (Durvish City).md",
+      "type": "building",
+      "aliases": []
+    },
+    "mage's tower (durvish city)": {
+      "canonical_name": "Mage's Tower",
+      "filename": "Mage's Tower (Durvish City).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Mage's Tower (Durvish City).md",
+      "type": "building",
+      "aliases": []
+    },
+    "mayor's mansion (arcadia)": {
+      "canonical_name": "Mayor's Mansion (Arcadia)",
+      "filename": "Mayor's Mansion (Arcadia).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Mayor's Mansion (Arcadia).md",
+      "type": "building",
+      "aliases": []
+    },
+    "the monastery": {
+      "canonical_name": "The Monastery",
+      "filename": "monastery.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/monastery.md",
+      "type": "building",
+      "aliases": []
+    },
+    "monastery": {
+      "canonical_name": "The Monastery",
+      "filename": "monastery.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/monastery.md",
+      "type": "building",
+      "aliases": []
+    },
+    "north city gate": {
+      "canonical_name": "North City Gate",
+      "filename": "North City Gate.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/North City Gate.md",
+      "type": "building",
+      "aliases": []
+    },
+    "old mill": {
+      "canonical_name": "Old Mill",
+      "filename": "Old Mill.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Old Mill.md",
+      "type": "building",
+      "aliases": []
+    },
+    "paddle steamer": {
+      "canonical_name": "Paddle Steamer",
+      "filename": "Paddle Steamer.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Paddle Steamer.md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    "rotunda": {
+      "canonical_name": "Rotunda",
+      "filename": "Rotunda.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Rotunda.md",
+      "type": "building",
+      "aliases": []
+    },
+    "silken and spindle": {
+      "canonical_name": "Silken and Spindle",
+      "filename": "Silken and Spindle.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Silken and Spindle.md",
+      "type": "building",
+      "aliases": []
+    },
+    "south gate": {
+      "canonical_name": "south gate",
+      "filename": "south gate.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/south gate.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the sweet and sour skunk": {
+      "canonical_name": "The Sweet and Sour Skunk",
+      "filename": "Sweet and Sour Skunk.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Sweet and Sour Skunk.md",
+      "type": "building",
+      "aliases": []
+    },
+    "sweet and sour skunk": {
+      "canonical_name": "The Sweet and Sour Skunk",
+      "filename": "Sweet and Sour Skunk.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Sweet and Sour Skunk.md",
+      "type": "building",
+      "aliases": []
+    },
+    "temple of sol": {
+      "canonical_name": "Temple of Sol",
+      "filename": "Temple of Sol.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Temple of Sol.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the blushing manatee": {
+      "canonical_name": "The Blushing Manatee",
+      "filename": "The Blushing Manatee.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Blushing Manatee.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the gilded swan": {
+      "canonical_name": "The Gilded Swan",
+      "filename": "The Gilded Swan.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Gilded Swan.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the slippery eel": {
+      "canonical_name": "The Slippery Eel",
+      "filename": "The Slippery Eel.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Slippery Eel.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the slippery ostrich": {
+      "canonical_name": "The Slippery Ostrich",
+      "filename": "The Slippery Ostrich.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Slippery Ostrich.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the snoring jackal": {
+      "canonical_name": "The Snoring Jackal",
+      "filename": "The Snoring Jackal.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Snoring Jackal.md",
+      "type": "building",
+      "aliases": []
+    },
+    "the tavern": {
+      "canonical_name": "The Tavern",
+      "filename": "The Tavern.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/The Tavern.md",
+      "type": "building",
+      "aliases": []
+    },
+    "tidecaller (ship)": {
+      "canonical_name": "Tidecaller (Ship)",
+      "filename": "Tidecaller (Ship).md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Tidecaller (Ship).md",
+      "type": "vehicle",
+      "aliases": []
+    },
+    "vex silks": {
+      "canonical_name": "Theron Vex",
+      "filename": "Vex Silks.md",
+      "relative_path": "content/World/Grimmora/Locations/Buildings/Vex Silks.md",
+      "type": "npc",
+      "aliases": []
+    },
+    "adalens": {
+      "canonical_name": "Adalens",
+      "filename": "Adalens.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Adalens.md",
+      "type": "city",
+      "aliases": []
+    },
+    "arcadia": {
+      "canonical_name": "Arcadia",
+      "filename": "Arcadia.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Arcadia.md",
+      "type": "city",
+      "aliases": []
+    },
+    "avalon": {
+      "canonical_name": "Avalon",
+      "filename": "Avalon.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Avalon.md",
+      "type": "city",
+      "aliases": []
+    },
+    "bridgeport": {
+      "canonical_name": "Bridgeport",
+      "filename": "Bridgeport.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Bridgeport.md",
+      "type": "city",
+      "aliases": []
+    },
+    "durvish city": {
+      "canonical_name": "Durvish City",
+      "filename": "Durvish City.md",
+      "relative_path": "content/World/Grimmora/Locations/Cities/Durvish City.md",
+      "type": "city",
+      "aliases": []
+    },
+    "elvish quarter": {
+      "canonical_name": "Elvish Quarter",
+      "filename": "elvish quarter.md",
+      "relative_path": "content/World/Grimmora/Locations/Districts/elvish quarter.md",
+      "type": "district",
+      "aliases": []
+    },
+    "the bazaar": {
+      "canonical_name": "The Bazaar",
+      "filename": "The Bazaar.md",
+      "relative_path": "content/World/Grimmora/Locations/Districts/The Bazaar.md",
+      "type": "district",
+      "aliases": []
+    },
+    "displaced camp": {
+      "canonical_name": "Displaced Camp",
+      "filename": "Displaced Camp.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Displaced Camp.md",
+      "type": "lair",
+      "aliases": []
+    },
+    "dragon's nest": {
+      "canonical_name": "Dragon's Nest",
+      "filename": "Dragon's Nest.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Dragon's Nest.md",
+      "type": "lair",
+      "aliases": []
+    },
+    "mausoleum (alpine forest)": {
+      "canonical_name": "Mausoleum (Alpine Forest)",
+      "filename": "Mausoleum (Alpine Forest).md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Mausoleum (Alpine Forest).md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    "orris' secret lair": {
+      "canonical_name": "Orris' Secret Lair",
+      "filename": "Orris' Secret Lair.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Orris' Secret Lair.md",
+      "type": "lair",
+      "aliases": []
+    },
+    "the gladiator's amphitheatre": {
+      "canonical_name": "The Gladiator's Amphitheatre",
+      "filename": "The Gladiator's Amphitheatre.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/The Gladiator's Amphitheatre.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "the trial chamber": {
+      "canonical_name": "The Trial Chamber",
+      "filename": "The Trial Chamber.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/The Trial Chamber.md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    "vampire mansion": {
+      "canonical_name": "Vampire Mansion",
+      "filename": "Vampire Mansion.md",
+      "relative_path": "content/World/Grimmora/Locations/Dungeons-and-Lairs/Vampire Mansion.md",
+      "type": "dungeon",
+      "aliases": []
+    },
+    "adalens ul-maht": {
+      "canonical_name": "Adalens Ul-Maht",
+      "filename": "Adalens Ul-Maht.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Adalens Ul-Maht.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "alpine forest": {
+      "canonical_name": "Alpine Forest",
+      "filename": "Alpine Forest.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Alpine Forest.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "court of flowers": {
+      "canonical_name": "Court of Flowers",
+      "filename": "Court of Flowers.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Court of Flowers.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "court of summer and winter": {
+      "canonical_name": "Court of Summer and Winter",
+      "filename": "Court of Summer and Winter.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Court of Summer and Winter.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "fairy garden (durendal)": {
+      "canonical_name": "Fairy Garden (Durendal)",
+      "filename": "Fairy Garden (Durendal).md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Fairy Garden (Durendal).md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "fey realm": {
+      "canonical_name": "Fey Realm",
+      "filename": "fey realm.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/fey realm.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "lake sido": {
+      "canonical_name": "Lake Sido",
+      "filename": "Lake Sido.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Lake Sido.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "onasea sea cave": {
+      "canonical_name": "Onasea Sea Cave",
+      "filename": "Onasea Sea Cave.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Onasea Sea Cave.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "phoenix hill": {
+      "canonical_name": "Phoenix Hill",
+      "filename": "Phoenix Hill.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Phoenix Hill.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "silvanus' beard": {
+      "canonical_name": "Silvanus' Beard",
+      "filename": "Silvanus' Beard.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Silvanus' Beard.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "unicorn hill": {
+      "canonical_name": "Unicorn Hill",
+      "filename": "Unicorn Hill.md",
+      "relative_path": "content/World/Grimmora/Locations/Landmarks/Unicorn Hill.md",
+      "type": "landmark",
+      "aliases": []
+    },
+    "bremen": {
+      "canonical_name": "Bremen",
+      "filename": "Bremen.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Bremen.md",
+      "type": "town",
+      "aliases": []
+    },
+    "durendal": {
+      "canonical_name": "Durendal",
+      "filename": "Durendal.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Durendal.md",
+      "type": "town",
+      "aliases": []
+    },
+    "frostpeak pass": {
+      "canonical_name": "Frostpeak Pass",
+      "filename": "Frostpeak Pass.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Frostpeak Pass.md",
+      "type": "town",
+      "aliases": []
+    },
+    "mightrest": {
+      "canonical_name": "Mightrest",
+      "filename": "Mightrest.md",
+      "relative_path": "content/World/Grimmora/Locations/Towns/Mightrest.md",
+      "type": "town",
+      "aliases": []
+    },
+    "crystalmine village": {
+      "canonical_name": "Crystalmine Village",
+      "filename": "Crystalmine Village.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Crystalmine Village.md",
+      "type": "village",
+      "aliases": []
+    },
+    "hesse": {
+      "canonical_name": "Hesse",
+      "filename": "Hesse.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Hesse.md",
+      "type": "village",
+      "aliases": []
+    },
+    "midward": {
+      "canonical_name": "Midward",
+      "filename": "Midward.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Midward.md",
+      "type": "location",
+      "aliases": []
+    },
+    "onasea": {
+      "canonical_name": "Onasea",
+      "filename": "Onasea.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Onasea.md",
+      "type": "village",
+      "aliases": []
+    },
+    "pinechill": {
+      "canonical_name": "Pinechill",
+      "filename": "Pinechill.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Pinechill.md",
+      "type": "village",
+      "aliases": []
+    },
+    "port adal": {
+      "canonical_name": "Port Adal",
+      "filename": "Port Adal.md",
+      "relative_path": "content/World/Grimmora/Locations/Villages/Port Adal.md",
+      "type": "village",
+      "aliases": []
+    },
+    "adalens thieves' guild": {
+      "canonical_name": "Adalens Thieves' Guild",
+      "filename": "Adalens Thieves' Guild.md",
+      "relative_path": "content/World/Grimmora/Organizations/Adalens Thieves' Guild.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "cult of the master of ash": {
+      "canonical_name": "Cult of the Master of Ash",
+      "filename": "Cult of the Master of Ash.md",
+      "relative_path": "content/World/Grimmora/Organizations/Cult of the Master of Ash.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "greengather blades": {
+      "canonical_name": "Greengather Blades",
+      "filename": "Greengather Blades.md",
+      "relative_path": "content/World/Grimmora/Organizations/Greengather Blades.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "house crestwood": {
+      "canonical_name": "House Crestwood",
+      "filename": "House Crestwood.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Crestwood.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "house kinver": {
+      "canonical_name": "House Kinver",
+      "filename": "House Kinver.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Kinver.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "house locke": {
+      "canonical_name": "House Locke",
+      "filename": "House Locke.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Locke.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "house mythin": {
+      "canonical_name": "House Mythin",
+      "filename": "House Mythin.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Mythin.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "house nightbrook": {
+      "canonical_name": "House Nightbrook",
+      "filename": "House Nightbrook.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Nightbrook.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "house silverwind": {
+      "canonical_name": "House Silverwind",
+      "filename": "House Silverwind.md",
+      "relative_path": "content/World/Grimmora/Organizations/House Silverwind.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "mages' guild": {
+      "canonical_name": "Mages' Guild",
+      "filename": "Mages' Guild.md",
+      "relative_path": "content/World/Grimmora/Organizations/Mages' Guild.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "the displaced": {
+      "canonical_name": "The Displaced",
+      "filename": "The Displaced.md",
+      "relative_path": "content/World/Grimmora/Organizations/The Displaced.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "the order of the ancient fable": {
+      "canonical_name": "The Order of the Ancient Fable",
+      "filename": "The Order of the Ancient Fable.md",
+      "relative_path": "content/World/Grimmora/Organizations/The Order of the Ancient Fable.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "avalonean empire": {
+      "canonical_name": "Avalonean Empire",
+      "filename": "Avalonean Empire.md",
+      "relative_path": "content/World/Grimmora/Regions/Avalonean Empire.md",
+      "type": "region",
+      "aliases": []
+    },
+    "nethis": {
+      "canonical_name": "Nethis",
+      "filename": "Nethis.md",
+      "relative_path": "content/World/Grimmora/Regions/Nethis.md",
+      "type": "region",
+      "aliases": []
+    },
+    "the frost": {
+      "canonical_name": "The Frost",
+      "filename": "The Frost.md",
+      "relative_path": "content/World/Grimmora/Regions/The Frost.md",
+      "type": "region",
+      "aliases": []
+    },
+    "the spell scar": {
+      "canonical_name": "The Spell Scar",
+      "filename": "The Spell Scar.md",
+      "relative_path": "content/World/Grimmora/Regions/The Spell Scar.md",
+      "type": "region",
+      "aliases": []
+    },
+    "petricite": {
+      "canonical_name": "petricite",
+      "filename": "petricite.md",
+      "relative_path": "content/World/Valoran/Items/petricite.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "demacia": {
+      "canonical_name": "Demacia",
+      "filename": "Demacia.md",
+      "relative_path": "content/World/Valoran/Locations/Demacia.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "demacian capital": {
+      "canonical_name": "Demacian Capital",
+      "filename": "Demacian Capital.md",
+      "relative_path": "content/World/Valoran/Locations/Demacian Capital.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "noxus": {
+      "canonical_name": "Noxus",
+      "filename": "Noxus.md",
+      "relative_path": "content/World/Valoran/Locations/Noxus.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "the freljord": {
+      "canonical_name": "The Freljord",
+      "filename": "The Freljord.md",
+      "relative_path": "content/World/Valoran/Locations/The Freljord.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "uwendale": {
+      "canonical_name": "Uwendale",
+      "filename": "Uwendale.md",
+      "relative_path": "content/World/Valoran/Locations/Uwendale.md",
+      "type": "unknown",
+      "aliases": []
+    },
+    "master drev's tower": {
+      "canonical_name": "Master Drev's Tower",
+      "filename": "Master Drev's Tower.md",
+      "relative_path": "content/World/Vanestra/Locations/Buildings/Master Drev's Tower.md",
+      "type": "building",
+      "aliases": []
+    },
+    "alitrestan": {
+      "canonical_name": "Alitrestan",
+      "filename": "Alitrestan.md",
+      "relative_path": "content/World/Vanestra/Locations/Towns/Alitrestan.md",
+      "type": "town",
+      "aliases": []
+    },
+    "daggatt": {
+      "canonical_name": "Daggatt",
+      "filename": "Daggatt.md",
+      "relative_path": "content/World/Vanestra/Locations/Towns/Daggatt.md",
+      "type": "town",
+      "aliases": []
+    },
+    "hjemmen": {
+      "canonical_name": "Hjemmen",
+      "filename": "Hjemmen.md",
+      "relative_path": "content/World/Vanestra/Locations/Villages/Hjemmen.md",
+      "type": "village",
+      "aliases": []
+    },
+    "disciples of war": {
+      "canonical_name": "Disciples of War",
+      "filename": "Disciples of War.md",
+      "relative_path": "content/World/Vanestra/Organizations/Disciples of War.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "the triumvirate": {
+      "canonical_name": "The Triumvirate",
+      "filename": "The Triumvirate.md",
+      "relative_path": "content/World/Vanestra/Organizations/The Triumvirate.md",
+      "type": "organization",
+      "aliases": []
+    },
+    "the northern forest": {
+      "canonical_name": "The Northern Forest",
+      "filename": "The Northern Forest.md",
+      "relative_path": "content/World/Vanestra/Regions/The Northern Forest.md",
+      "type": "region",
+      "aliases": []
+    }
+  },
+  "by_alias": {
+    "sargonis": "Master of Ash",
+    "sargonnas": "Master of Ash",
+    "chronometer pocket watch": "Chronometer Pocket Watch",
+    "cloak of billowing": "Cloak of Billowing",
+    "black cloak with red lining": "Cloak of Billowing",
+    "cloudy gem (sol)": "Cloudy Gem (Sol)",
+    "corrupted censer": "Corrupted Censer",
+    "encoded letters": "Encoded Letters",
+    "imperial courier letters": "Encoded Letters",
+    "gage's cloak of the forest": "Gage's Cloak of the Forest",
+    "gloomberries": "Gloomberries",
+    "grey pearl": "Grey Pearl",
+    "imperial courier bag": "Imperial Courier Bag",
+    "necromantic idol": "Necromantic Idol",
+    "pulverised gem dust": "Pulverised Gem Dust",
+    "ring of orris": "Ring of Orris",
+    "rune box": "Rune Box",
+    "sending stone": "Sending Stone",
+    "temerity's choker": "Temerity's Choker",
+    "wand of strange glyphs": "Wand of Strange Glyphs",
+    "whispering orb": "Whispering Orb",
+    "winter's core": "Winter's Core",
+    "she who strives for balance": "Winter's Core",
+    "withered rose": "Withered Rose"
+  }
+}

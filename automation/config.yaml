@@ -1,0 +1,39 @@
+# automation/config.yaml
+
+ollama:
+  host: "http://100.70.195.82:11434"  # Tailscale IP for desktop PC
+  model: "llama3.1:8b-instruct-q4_K_M"
+  fallback_model: "qwen2.5:14b-instruct-q4_K_M"
+  timeout_seconds: 120
+
+paths:
+  content_dir: "content"
+  inbox_dir: "_inbox"
+  processed_dir: "_inbox/processed"
+  dictionary_file: "automation/dictionary/mechanics.json"
+  manifest_file: "automation/manifest.json"
+
+target_headers:
+  npc:
+    primary: "## History"
+    alternates: ["## Campaign History", "## History with the Party", "## Biography"]
+  location:
+    primary: "## History"
+    alternates: ["## Campaign history", "## Our Experience", "## Events"]
+  item:
+    primary: "## Lore & History"
+    alternates: ["## Lore", "## History"]
+  pc:
+    primary: "## Biography"
+    alternates: ["## Notable Exploits (Chronicle Archive)"]
+  organization:
+    primary: "## Our Interactions"
+    alternates: ["## History", "## Overview"]
+  quest:
+    primary: "## Quest Steps"
+    alternates: ["## Notes"]
+
+git:
+  safe_branch_prefix: "auto/entry-"
+  review_branch_prefix: "auto/entry-"
+  review_branch_suffix: "-review"
