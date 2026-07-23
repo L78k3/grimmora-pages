@@ -1,7 +1,7 @@
 ollama:
-  host: "http://100.85.13.99:11434"
-  model: "llama3.1:8b-instruct-q4_K_M"
-  fallback_model: "qwen2.5:14b-instruct-q4_K_M"
+  host: "http://localhost:11434"
+  model: "llama3.1"
+  fallback_model: "qwen2.5:14b"
   timeout_seconds: 120
 
 home_assistant:
