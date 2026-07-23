@@ -1,10 +1,11 @@
-# automation/config.yaml
-
 ollama:
-  host: "http://100.70.195.82:11434"  # Tailscale IP for desktop PC
+  host: "http://100.85.13.99:11434"
   model: "llama3.1:8b-instruct-q4_K_M"
   fallback_model: "qwen2.5:14b-instruct-q4_K_M"
   timeout_seconds: 120
+
+home_assistant:
+  webhook_url: "https://ha.l78k3.uk/api/webhook/ollama_job_waiting"
 
 paths:
   content_dir: "content"
