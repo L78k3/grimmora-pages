@@ -9,8 +9,8 @@ cssclasses: [dashboard]
 # ⚔️ Gage Greengather
 
 > [!quote] Current Motivation
-> "How did you guys learn to climb these things?!"
-> **Goal:** Sail to [[Adalens]] with the rest of the party.
+>
+>
 
 > [!info] Vitals & Resources
 > **HP:** 59/60 | **AC:** 15 | **DC:** 13
