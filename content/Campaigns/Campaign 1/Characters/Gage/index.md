@@ -14,7 +14,7 @@ cssclasses: [dashboard]
 
 > [!info] Vitals & Resources
 > **HP:** 59/60 | **AC:** 15 | **DC:** 13
-> **Speed:** 25 ft | **Init:** `dice: 1d20+4`
+> **Speed:** 25 ft | **Init:** `dice: 1d20+6`
 > **Passives:** Perception: 15 | Investigation: 14
 > - [ ] **Inspiration**
 > - **1st Level Slots:**
