@@ -13,7 +13,7 @@ cssclasses: [dashboard]
 >
 
 > [!info] Vitals & Resources
-> **HP:** 46/60 | **AC:** 15 | **DC:** 13
+> **HP:** 49/60 | **AC:** 15 | **DC:** 13
 > **Speed:** 25 ft | **Init:** `dice: 1d20+6`
 > **Passives:** Perception: 15 | Investigation: 14
 > - [ ] **Inspiration**
