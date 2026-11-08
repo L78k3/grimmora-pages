@@ -13,12 +13,12 @@ cssclasses: [dashboard]
 > **Goal:** Quietly protect decentralised networks of hidden worshippers, find my lost found-family, and dismantle the Triumvirate's Inquisition from the shadows.
 
 > [!info] Vitals & Resources
-> **HP:** 8/8 | **AC:** 12 (15 with Mage Armor) | **Spell Save DC:** 13
+> **HP:** 4/14 | **AC:** 12 (15 with Mage Armor) | **Spell Save DC:** 13
 > **Speed:** 30 ft | **Init:** +2
 > **Passives:** Perception: 10 | Investigation: 15
 > - [ ] **Inspiration**
-> - [ ] **1st Level Slot 1**
-> - [ ] **1st Level Slot 2**
+> - [x] **1st Level Slot 1**
+> - [x] **1st Level Slot 2**
 
 ---
 
