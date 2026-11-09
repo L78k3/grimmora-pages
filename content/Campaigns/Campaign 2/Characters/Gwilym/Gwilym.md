@@ -2,7 +2,7 @@
 title: Gwilym Lackmount
 type: pc
 race: Human (Illuskan Variant)
-class: Wizard (Abjuration) 1
+class: Wizard (Abjuration) 2
 location: Master Drev's Tower (North of Daggatt)
 campaign: Campaign 1
 tags:
