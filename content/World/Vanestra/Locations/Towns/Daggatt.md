@@ -2,53 +2,38 @@
 title: Daggatt
 type: town
 region: Unknown
-population: Unknown
+population: Severely Depleted (Massacred)
 tags:
   - location/town
-  - unvisited
+  - visited
 ---
 
 # Daggatt
 
-> [!warning] Unvisited
-> The party has not yet traveled to this location. Remove this callout when visited.
-
 ## What We Know
-
-Daggatt is a nearby town that Gwilym frequently visits under the guise of running errands and scouting for his master. It serves as one of his primary locations for acting as a solitary mole and protest medic.
+Daggatt is a nearby coastal town that Gwilym previously visited under the guise of running errands. It has recently been the site of a brutal massacre by an unknown force. 
 
 ## Geography
-
-Located several hours south of [[Master Drev's Tower]] and the edge of the dense northern forests. 
+Located several hours south of Master Drev's Tower and the edge of the dense northern forests. Sits on the coast with a prominent lighthouse.
 
 ## Points of Interest
-
-- None specifically known yet.
+* **The Governor's Mansion (Jail):** The underground cells are currently being used as a fortified safe room by a small group of survivors.
+* **The Daggatt Lighthouse:** The beacon has been extinguished, leaving coastal ships in severe danger.
 
 ## Notable NPCs
-
-- None specifically known yet.
+* **Daggatt Jail Survivor:** A mother of two who was hiding in the jail, actively praying to the Tempest Gods for her sailor husband's return. 
 
 ## Services & Supplies
-
-What's available here:
-- General supplies and provisions suitable for an isolated wizard's tower.
-- Given Gwilym's errands, there are likely bookshops or merchants where esoteric texts or spell components can be sourced.
+* Currently defunct. The town is filled with ruins and scavengers.
 
 ## Current Situation
-
-Like all settlements under the Triumvirate, it is subject to the presence of the Disciples of War and the overarching threat of Inquisitor sweeps, forcing local dissidents and worshippers into deep hiding.
+The town was recently slaughtered. The only known survivors were hidden in the jail beneath the governor's mansion. Hyenas and vultures have moved in to scavenge.
 
 ## Travel Connections
-
-- **North:** [[Master Drev's Tower]]
+* North: Master Drev's Tower
 
 ## Our Experience
-
-*Not yet visited in-game.*
-
----
+**Session 20261108:** The party arrived to find the town slaughtered. After clearing out beast scavengers, we discovered survivors in the governor's jail. We sent a mother and her two children toward the next town, one day away, before heading toward the darkened lighthouse.
 
 **Region:** Unknown
-
-**Related Locations:** [[Master Drev's Tower]] • [[Alitrestan]]
+**Related Locations:** Master Drev's Tower • Alitrestan

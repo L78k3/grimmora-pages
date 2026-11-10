@@ -5,13 +5,10 @@ region: "[[The Kingdom of Venestra]]"
 population: Unknown
 tags:
   - location/village
-  - unvisited
+  - visited
 ---
 
 # Hjemmen
-
-> [!warning] Unvisited
-> The party has not yet traveled to this location. Remove this callout when visited.
 
 ## What We Know
 Hjemmen is a town located to the northwest of Master Drev's tower. It is Gwilym's birthplace and the site of the brutal Inquisitor sweeps that defined his childhood.
@@ -24,14 +21,13 @@ The general feel is oppressive and paranoid. Due to the presence of Bishop Gregg
 * **The Bishop's Seat:** The local headquarters for the Disciples of War.
 
 ## People
-* [[Bishop Greggan]] - The fanatical ruler of the town.
-* [[The Mentor]] - Last seen here before the sweeps.
+* **Bishop Greggan:** The fanatical ruler of the town.
+* **The Mentor:** Last seen here before the sweeps.
 
 ## Getting Here
 Travel northwest from Master Drev's Tower for several hours.
 
 ## Our Experience
-*Not yet visited in-game.*
+**Session 20261108:** The party departed from Hjemmen. On the road south toward Daggatt, the party was ambushed by and defeated a squad of goblins.
 
----
-**Region:** [[The Kingdom of Venestra]]
+**Region:** The Kingdom of Venestra
