@@ -1,11 +1,8 @@
 ---
-title: Gwilym Lackmount (Dashboard)
+title: Onyx (Dashboard)
 type: dashboard
 status: active
-tags: 
-        - pc
-        - sorcerer
-        - wild-magic
+tags: [pc]
 cssclasses: [dashboard]
 ---
 
